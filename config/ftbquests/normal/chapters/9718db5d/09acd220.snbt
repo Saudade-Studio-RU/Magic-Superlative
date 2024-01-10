@@ -1,0 +1,22 @@
+{
+	title: "Создайте Реагент связи",
+	x: -14.0d,
+	y: -2.0d,
+	description: "Кровавая связь",
+	dependencies: [
+		"3f1f8a74"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5c400b30",
+		type: "item",
+		items: [{
+			item: "bloodmagic:component 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "fa61a742",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

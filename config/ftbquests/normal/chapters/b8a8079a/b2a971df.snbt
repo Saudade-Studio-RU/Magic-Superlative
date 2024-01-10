@@ -1,0 +1,25 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	description: "Держать всегда с собой",
+	dependencies: [
+		"e0da27f2"
+	],
+	tasks: [{
+		uid: "b1bc3105",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumometer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a0db2f52",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

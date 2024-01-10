@@ -1,0 +1,102 @@
+{
+	title: "Соберите все заметки о небесах",
+	x: 3.0d,
+	y: -5.0d,
+	description: "Полная коллекция!",
+	dependencies: [
+		"1b8f8e18"
+	],
+	tasks: [{
+		uid: "b802b858",
+		type: "item",
+		title: "Северный квадрант",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 1"
+		}]
+	},
+	{
+		uid: "487d82c5",
+		type: "item",
+		title: "Южный квадрант",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 2"
+		}]
+	},
+	{
+		uid: "2e632f23",
+		type: "item",
+		title: "Западный квадрант",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 3"
+		}]
+	},
+	{
+		uid: "9628d156",
+		type: "item",
+		title: "Восточный квадрант",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 4"
+		}]
+	},
+	{
+		uid: "a5c4150a",
+		type: "item",
+		title: "Полная",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 5"
+		}]
+	},
+	{
+		uid: "c34ea4ab",
+		type: "item",
+		title: "Убывающая",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 6"
+		}]
+	},
+	{
+		uid: "67404796",
+		type: "item",
+		title: "Новая",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 9"
+		}]
+	},
+	{
+		uid: "48f9d48a",
+		type: "item",
+		title: "Третья четверть",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 7"
+		}]
+	},
+	{
+		uid: "3ae02abc",
+		type: "item",
+		title: "Старая",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 8"
+		}]
+	},
+	{
+		uid: "c66b0eb8",
+		type: "item",
+		title: "Первая четверть",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 11"
+		}]
+	},
+	{
+		uid: "96ac0411",
+		type: "item",
+		title: "Убывающая",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 12"
+		}]
+	}],
+	rewards: [{
+		uid: "d4e14daa",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

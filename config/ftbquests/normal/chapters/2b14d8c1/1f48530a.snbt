@@ -1,0 +1,113 @@
+{
+	title: "Создайте Любую кафедру",
+	x: 6.0d,
+	y: -8.5d,
+	description: "Распознование знаний",
+	dependencies: [
+		"b4f5ed67"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "21aba936",
+		type: "item",
+		items: [{
+			item: "ebwizardry:oak_lectern"
+		}]
+	},
+	{
+		uid: "cb56937f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:spruce_lectern"
+		}]
+	},
+	{
+		uid: "1a522be6",
+		type: "item",
+		items: [{
+			item: "ebwizardry:birch_lectern"
+		}]
+	},
+	{
+		uid: "b0f0c123",
+		type: "item",
+		items: [{
+			item: "ebwizardry:jungle_lectern"
+		}]
+	},
+	{
+		uid: "6436a0a3",
+		type: "item",
+		items: [{
+			item: "ebwizardry:acacia_lectern"
+		}]
+	},
+	{
+		uid: "b9c88c54",
+		type: "item",
+		items: [{
+			item: "ebwizardry:dark_oak_lectern"
+		}]
+	},
+	{
+		uid: "d2fba91b",
+		type: "item",
+		items: [{
+			item: "tfspellpack:twilight_oak_lectern"
+		}]
+	},
+	{
+		uid: "678cca5e",
+		type: "item",
+		items: [{
+			item: "tfspellpack:canopy_lectern"
+		}]
+	},
+	{
+		uid: "cdeac250",
+		type: "item",
+		items: [{
+			item: "tfspellpack:mangrove_lectern"
+		}]
+	},
+	{
+		uid: "6c0ba237",
+		type: "item",
+		items: [{
+			item: "tfspellpack:sortingwood_lectern"
+		}]
+	},
+	{
+		uid: "307c4ca2",
+		type: "item",
+		items: [{
+			item: "tfspellpack:minewood_lectern"
+		}]
+	},
+	{
+		uid: "437bd15b",
+		type: "item",
+		items: [{
+			item: "tfspellpack:transwood_lectern"
+		}]
+	},
+	{
+		uid: "8beeef1d",
+		type: "item",
+		items: [{
+			item: "tfspellpack:timewood_lectern"
+		}]
+	},
+	{
+		uid: "5b069828",
+		type: "item",
+		items: [{
+			item: "tfspellpack:darkwood_lectern"
+		}]
+	}],
+	rewards: [{
+		uid: "f7413a7f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

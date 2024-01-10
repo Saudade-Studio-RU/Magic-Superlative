@@ -1,0 +1,23 @@
+{
+	title: "Добро пожаловать в Abyssalcraft!",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "abyssalcraft:necronomicon",
+		tag: {
+			PotEnergy: 0.0f
+		}
+	},
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"00e2f582"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "c9f6e614",
+		type: "checkmark"
+	}]
+}

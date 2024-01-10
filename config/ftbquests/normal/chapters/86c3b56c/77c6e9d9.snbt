@@ -1,0 +1,62 @@
+{
+	title: "Создайте Страхолитовый Самурайский комплект",
+	x: 17.0d,
+	y: -6.0d,
+	description: "Самурай из ада",
+	dependencies: [
+		"186756c8"
+	],
+	tasks: [{
+		uid: "4dddcaa0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:dreadiumsamuraihelmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "770e4922",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:dreadiumsamuraiplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8220ca8e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:dreadiumsamurailegs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "eb37a629",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:dreadiumsamuraiboots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a5934295",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

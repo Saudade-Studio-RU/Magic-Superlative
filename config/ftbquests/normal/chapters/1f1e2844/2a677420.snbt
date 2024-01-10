@@ -1,0 +1,21 @@
+{
+	title: "Создайте Разделитель луча",
+	x: 9.0d,
+	y: -4.0d,
+	description: "Один выход - много входов",
+	dependencies: [
+		"157b5ace"
+	],
+	tasks: [{
+		uid: "144db9eb",
+		type: "item",
+		items: [{
+			item: "embers:beam_splitter"
+		}]
+	}],
+	rewards: [{
+		uid: "467d4724",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

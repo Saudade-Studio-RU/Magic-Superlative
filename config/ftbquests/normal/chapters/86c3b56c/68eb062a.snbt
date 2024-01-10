@@ -1,0 +1,23 @@
+{
+	x: 14.5d,
+	y: -2.0d,
+	shape: "square",
+	description: "Коралловый дракон",
+	dependencies: [
+		"0e485f27"
+	],
+	hide: true,
+	tasks: [{
+		uid: "20af682e",
+		type: "kill",
+		title: "Убейте Падшего Асуру",
+		icon: "minecraft:skull 1 5",
+		entity: "abyssalcraft:dragonboss",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "5e61b795",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

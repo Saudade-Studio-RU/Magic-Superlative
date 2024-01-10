@@ -1,0 +1,30 @@
+{
+	title: "Открытие Алхимии",
+	icon: "thaumcraft:crucible",
+	x: 0.0d,
+	y: -2.5d,
+	dependencies: [
+		"e0da27f2"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "80d2d4a3",
+		type: "item",
+		items: [{
+			item: "thaumcraft:nitor_yellow"
+		}]
+	}],
+	rewards: [{
+		uid: "57cb70ab",
+		type: "item",
+		item: "minecraft:flint",
+		count: 8
+	},
+	{
+		uid: "7600892b",
+		type: "item",
+		item: "thaumcraft:salis_mundus",
+		count: 8
+	}]
+}

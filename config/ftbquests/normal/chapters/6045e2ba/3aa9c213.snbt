@@ -1,0 +1,53 @@
+{
+	x: 1.0d,
+	y: 1.5d,
+	description: "Мана из тортов",
+	dependencies: [
+		"ee38887d"
+	],
+	tasks: [{
+		uid: "135f71fa",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "kekimurus"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f0bc482a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:cake"
+		}
+	},
+	{
+		uid: "74a950a4",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:cake"
+		}
+	},
+	{
+		uid: "d0fa9e00",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:cake"
+		}
+	},
+	{
+		uid: "19208052",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

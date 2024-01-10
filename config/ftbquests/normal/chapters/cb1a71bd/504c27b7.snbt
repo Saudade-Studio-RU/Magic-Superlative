@@ -1,0 +1,30 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	description: "Всю информацию о блоках, предметах и моде в общем вы можете найти в книгах",
+	dependencies: [
+		"2e75bd25"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "02b966cc",
+		type: "checkmark",
+		title: "Добро пожаловать в Магия: Высшая степень!",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -8180240267111859189L,
+					AS_Amulet_HolderMost: -3319811669840801797L
+				}
+			},
+			id: "thaumicaugmentation:research_notes"
+		}
+	}],
+	rewards: [{
+		uid: "d7679f05",
+		type: "item",
+		item: "minecraft:book",
+		count: 4
+	}]
+}

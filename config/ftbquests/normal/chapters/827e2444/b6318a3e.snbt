@@ -1,0 +1,27 @@
+{
+	title: "Создайте Посох полёта на свинье",
+	x: -6.0d,
+	y: -3.0d,
+	description: "Лучший транспорт",
+	dependencies: [
+		"342bc1c6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b83a28ce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mahoutsukai:spatial_disorientation_gauntlet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e9360966",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

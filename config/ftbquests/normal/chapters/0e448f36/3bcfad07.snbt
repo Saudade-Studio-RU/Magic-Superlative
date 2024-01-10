@@ -1,0 +1,28 @@
+{
+	title: "Создайте Арбалет",
+	x: 7.0d,
+	y: -4.0d,
+	description: "Улучшенный Лук",
+	dependencies: [
+		"65435ea3"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "f66e56ce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:basic_crossbow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "be375169",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

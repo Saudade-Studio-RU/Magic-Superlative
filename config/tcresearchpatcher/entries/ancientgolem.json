@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "key": "ANCIENTGOLEM",
+      "name": "research.ANCIENTGOLEM.title",
+      "icons": [ "embers:golems_eye" ],
+      "category": "SUPERLATIVE",
+      "location": [ -3, 2 ],
+      "meta": [ "ROUND", "HIDDEN", "REVERSE" ],
+      "parents": [ "!AncientGolem" ],
+      "stages": [
+        {
+          "text": "research.ANCIENTGOLEM.text.stage.1"
+        }
+      ]
+    }
+  ]
+}

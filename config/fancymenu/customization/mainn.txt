@@ -1,0 +1,292 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/fancymenu/superlativemenuu.png
+  wideformat = true
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  path = resources/fancymenu/music/Scott-Buckley-Light-In-Dark-Places.wav
+  loop = true
+  action = addaudio
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 61
+  action = movebutton
+  y = -8
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 218
+  action = resizebutton
+  height = 38
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/2buttonforerealrealreal.png
+  backgroundnormal = resources/fancymenu/1buttonforerealrealreal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 61
+  action = movebutton
+  y = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 103
+  action = resizebutton
+  height = 34
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/2buttonforerealrealreal.png
+  backgroundnormal = resources/fancymenu/1buttonforerealrealreal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 171
+  action = movebutton
+  y = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 104
+  action = resizebutton
+  height = 34
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/2buttonforerealrealreal.png
+  backgroundnormal = resources/fancymenu/1buttonforerealrealreal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 62
+  action = movebutton
+  y = -48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 218
+  action = resizebutton
+  height = 38
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = false
+  restartbackgroundanimations = false
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/2buttonforerealrealreal.png
+  backgroundnormal = resources/fancymenu/1buttonforerealrealreal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-left
+  x = 60
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 218
+  action = resizebutton
+  height = 38
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/fancymenu/2buttonforerealrealreal.png
+  backgroundnormal = resources/fancymenu/1buttonforerealrealreal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 314
+  width = 333
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 2c5e3af9-b1f6-4f71-9ad0-ca7db7968a4f1694609490397
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 144
+  action = deep_customization_element:title_screen_branding
+  actionid = dedb487f-61d8-4faf-995e-759b538b901f1694609490449
+  y = 488
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 713
+  width = 246
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 8a1e515a-67e5-4a44-9a4c-f034bbbaef6b1694609490450
+  y = 520
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = a7f0af76-0cb9-466f-8bdf-ffd6505efc071694609490450
+  y = 235
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 803ee732-a7da-4cab-8df3-3012833408171694609490452
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = mid-left
+  splash_color = #ffff00
+  hidden = false
+  x = 331
+  width = 60
+  splash_rotation = 20
+  action = deep_customization_element:title_screen_splash
+  actionid = 6537def5-a682-4087-9f5b-4f25db7dd7ae1694609490453
+  y = -31
+  height = 30
+}
+
+customization {
+  path = resources/ftbquests/pictures/superlative_title.png
+  orientation = mid-left
+  x = 42
+  width = 264
+  actionid = 581f9452-f674-441b-a988-8299aa09a6221694609950280
+  action = addtexture
+  y = -162
+  height = 100
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/kWYZpgNT9t%btnaction_splitter_fm%
+  backgroundhovered = resources/fancymenu/discordicon.png
+  label = 
+  loopbackgroundanimations = true
+  x = 281
+  width = 63
+  action = addbutton
+  actionid = 3b39ba5e-337e-4ef3-80db-f9d2e88a10771697929382717
+  y = 54
+  backgroundnormal = resources/fancymenu/discordicon.png
+  height = 65
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://vk.com/saudade_mine%btnaction_splitter_fm%
+  backgroundhovered = resources/fancymenu/vkicon.png
+  label = 
+  loopbackgroundanimations = true
+  x = 282
+  width = 63
+  action = addbutton
+  actionid = d9bee714-fc8b-4dd5-b568-03cf965aa2251698083777873
+  y = 120
+  backgroundnormal = resources/fancymenu/vkicon.png
+  height = 65
+}
+
+customization {
+  orientation = mid-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.5
+  source = by ShadowKing21228
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 832
+  width = 257
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = e6920bab-2721-4baa-a7f5-c518e0736c531698084206844
+  y = 232
+  alignment = left
+  height = 40
+}
+

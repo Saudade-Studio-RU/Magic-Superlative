@@ -1,0 +1,26 @@
+{
+	title: "Создайте Ведро бесконечных цветов",
+	x: 14.0d,
+	y: -3.0d,
+	description: "Копировать - вставить",
+	dependencies: [
+		"956d9ae8"
+	],
+	tasks: [{
+		uid: "a2e29550",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:color_changer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "81d4cb1a",
+		type: "ftbmoney:money",
+		ftb_money: 8L
+	}]
+}

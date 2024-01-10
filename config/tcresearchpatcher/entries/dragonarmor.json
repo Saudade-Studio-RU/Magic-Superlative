@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "DRAGONARMOR",
+      "name": "research.DRAGONARMOR.title",
+      "icons": [ "iceandfire:armor_red_helmet", "iceandfire:armor_red_chestplate;1", "iceandfire:armor_red_leggings;2", "iceandfire:armor_red_boots;3", "iceandfire:armor_bronze_helmet;4", "iceandfire:armor_bronze_chestplate;5", "iceandfire:armor_bronze_leggings;6", "iceandfire:armor_bronze_boots;7", "iceandfire:armor_green_helmet;8", "iceandfire:armor_green_chestplate;9", "iceandfire:armor_green_leggings;10", "iceandfire:armor_green_boots;11", "iceandfire:armor_gray_helmet;12", "iceandfire:armor_gray_chestplate;13", "iceandfire:armor_gray_leggings;14", "iceandfire:armor_gray_boots;15", "iceandfire:armor_blue_helmet;16", "iceandfire:armor_blue_chestplate;17", "iceandfire:armor_blue_leggings;18", "iceandfire:armor_blue_boots;19", "iceandfire:armor_white_helmet;20", "iceandfire:armor_white_chestplate;21", "iceandfire:armor_white_leggings;22", "iceandfire:armor_white_boots;23", "iceandfire:armor_sapphire_helmet;24", "iceandfire:armor_sapphire_chestplate;25", "iceandfire:armor_sapphire_leggings;26", "iceandfire:armor_sapphire_boots;27", "iceandfire:armor_silver_helmet;28", "iceandfire:armor_silver_chestplate;29", "iceandfire:armor_silver_leggings;30", "iceandfire:armor_silver_boots;31" ],
+      "category": "SUPERLATIVE",
+      "location": [ 2, 6 ],
+      "parents": [ "BLOODALTAR" ],
+      "stages": [
+        {
+          "text": "research.DRAGONARMOR.text.stage.1",
+          "required_item": [ "iceandfire:dragonbone" ],
+          "required_knowledge": [ "THEORY;ARTIFICE;1", "THEORY;INFUSION;1", "OBSERVATION;ARTIFICE;5", "OBSERVATION;INFUSION;5", "OBSERVATION;SUPERLATIVE;5" ]
+        },
+        {
+          "text": "research.DRAGONARMOR.text.stage.2"
+        }
+      ]
+    }
+  ]
+}

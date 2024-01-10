@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "key": "ALFHEIMPORTAL",
+      "name": "research.ALFHEIMPORTAL.title",
+      "icons": [ "botania:alfheimportal" ],
+      "category": "SUPERLATIVE",
+      "location": [ -3, -2 ],
+      "meta": [ "SPIKY" ],
+      "parents": [ "TERRAPLATE" ],
+      "stages": [
+        {
+          "text": "research.ALFHEIMPORTAL.text.stage.1",
+          "required_knowledge": [ "THEORY;INFUSION;1", "OBSERVATION;INFUSION;3" ],
+          "required_research": [ "INFUSION" ]
+        },
+        {
+          "text": "research.ALFHEIMPORTAL.text.stage.2",
+          "recipes": [ "botania:alfheimportal" ],
+          "warp": 1
+        }
+      ]
+    }
+  ]
+}

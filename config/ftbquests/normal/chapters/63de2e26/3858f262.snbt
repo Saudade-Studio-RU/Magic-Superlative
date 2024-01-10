@@ -1,0 +1,36 @@
+{
+	title: "Найдите Волшебные бобы в пещерах Троллей и взрастите их для взбирания на Летающий остров",
+	x: 16.0d,
+	y: 0.0d,
+	description: "Вниз и вверх!",
+	dependencies: [
+		"9b7527bc",
+		"222130a0",
+		"36e7eda9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1514320a",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_beans"
+		}]
+	},
+	{
+		uid: "2498ec2d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:giant_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8969cbe0",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Создайте Материализатор",
+	x: 26.0d,
+	y: -4.0d,
+	description: "Материализация не-материи",
+	dependencies: [
+		"fef7055f"
+	],
+	tasks: [{
+		uid: "608ab2d9",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:materializer"
+		}]
+	}],
+	rewards: [{
+		uid: "22c736da",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

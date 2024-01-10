@@ -1,0 +1,21 @@
+{
+	title: "Создайте Древний саженец",
+	x: 6.0d,
+	y: 2.0d,
+	description: "Аура из дерева",
+	dependencies: [
+		"4e555d60"
+	],
+	tasks: [{
+		uid: "eda7a15d",
+		type: "item",
+		items: [{
+			item: "naturesaura:ancient_sapling"
+		}]
+	}],
+	rewards: [{
+		uid: "a24e6a3f",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

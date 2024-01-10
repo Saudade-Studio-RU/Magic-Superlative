@@ -1,0 +1,23 @@
+{
+	title: "Найдите Любую Сумеречную книгу заклинаний",
+	x: 6.0d,
+	y: 4.0d,
+	description: "Волшебства тёмных лесов",
+	dependencies: [
+		"954bfe15"
+	],
+	tasks: [{
+		uid: "b4aa97c6",
+		type: "item",
+		items: [{
+			item: "tfspellpack:twilight_spell_book 1 1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d371b7f7",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

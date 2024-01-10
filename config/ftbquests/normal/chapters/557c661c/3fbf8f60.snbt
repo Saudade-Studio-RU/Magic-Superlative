@@ -1,0 +1,23 @@
+{
+	title: "Создайте Необработанный сияющий кварц",
+	x: 6.0d,
+	y: 0.0d,
+	description: "Основа удобств",
+	dependencies: [
+		"0b1f3be0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c1043da5",
+		type: "item",
+		items: [{
+			item: "arcanearchives:raw_quartz"
+		}]
+	}],
+	rewards: [{
+		uid: "45b44381",
+		type: "item",
+		item: "arcanearchives:raw_quartz",
+		count: 3
+	}]
+}

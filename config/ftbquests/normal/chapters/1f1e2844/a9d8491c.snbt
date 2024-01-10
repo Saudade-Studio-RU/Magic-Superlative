@@ -1,0 +1,21 @@
+{
+	title: "Создайте Золотитовый слиток",
+	x: 15.0d,
+	y: 2.0d,
+	description: "Сплав следующего уровня",
+	dependencies: [
+		"2aa8a7b4"
+	],
+	tasks: [{
+		uid: "d8eb80ca",
+		type: "item",
+		items: [{
+			item: "embers:ingot_dawnstone"
+		}]
+	}],
+	rewards: [{
+		uid: "fd212c86",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

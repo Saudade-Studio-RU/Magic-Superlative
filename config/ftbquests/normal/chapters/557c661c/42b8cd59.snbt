@@ -1,0 +1,28 @@
+{
+	title: "Создайте Манифест",
+	x: 10.0d,
+	y: 0.0d,
+	shape: "pentagon",
+	description: "Отсчёт о ресурсах",
+	dependencies: [
+		"43d324b8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "65b5a775",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "arcanearchives:manifest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d90d925c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

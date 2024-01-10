@@ -1,0 +1,61 @@
+{
+	title: "Сундук мага Высшей степени",
+	icon: "ironchest:iron_chest 1 6",
+	empty_weight: 3,
+	loot_size: 3,
+	use_title: true,
+	rewards: [{
+		item: "botania:manaresource 1 4",
+		random_bonus: 2,
+		weight: 4
+	},
+	{
+		item: "thaumadditions:mithrillium_ingot",
+		weight: 4
+	},
+	{
+		item: "thaumadditions:adaminite_ingot",
+		weight: 3
+	},
+	{
+		item: "thaumadditions:mithminite_ingot",
+		weight: 2
+	},
+	{
+		item: "botania:manaresource 1 14",
+		weight: 2
+	},
+	{
+		item: "abyssalcraft:ethaxiumingot",
+		weight: 5
+	},
+	{
+		item: "extrabotany:material 1 1"
+	},
+	{
+		item: "ichoriumkit:resourcekami 1 2"
+	},
+	{
+		item: "iceandfire:dragonsteel_ice_ingot",
+		count: 2,
+		random_bonus: 2,
+		weight: 5
+	},
+	{
+		item: "iceandfire:dragonsteel_fire_ingot",
+		count: 2,
+		random_bonus: 2,
+		weight: 5
+	}],
+	loot_crate: {
+		string_id: "crate4",
+		item_name: "Сундук мага Высшей степени",
+		color: 15787010,
+		glow: true,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

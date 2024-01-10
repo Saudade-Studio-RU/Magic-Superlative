@@ -1,0 +1,24 @@
+{
+	icon: "botania:manaresource 1 8",
+	x: -6.0d,
+	y: 0.0d,
+	description: "Живодёрство?",
+	dependencies: [
+		"342bc1c6",
+		"fadf9750"
+	],
+	hide: true,
+	tasks: [{
+		uid: "efb0bca5",
+		type: "kill",
+		title: "Увидьте и убейте Фею",
+		entity: "mahoutsukai:fae",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "722dd2a4",
+		type: "item",
+		item: "mahoutsukai:fae_essence",
+		count: 3
+	}]
+}

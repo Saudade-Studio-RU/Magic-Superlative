@@ -1,0 +1,41 @@
+{
+	title: "Начните изучать Эмберс Рекиндлед",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "embers:codex"
+	},
+	x: 2.0d,
+	y: -3.0d,
+	description: "Начните изучать Дварфовские технологии прошлого на магический манер",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "9407d483",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:codex"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7638482f",
+		type: "kill",
+		title: "Убейте пару Древних големов в мире",
+		icon: "embers:ancient_motive_core",
+		entity: "embers:ancient_golem",
+		value: 2L
+	}],
+	rewards: [{
+		uid: "cffb48aa",
+		type: "item",
+		item: "embers:archaic_brick",
+		count: 16
+	}]
+}

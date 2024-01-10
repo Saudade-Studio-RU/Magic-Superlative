@@ -1,0 +1,26 @@
+{
+	title: "Astral Sorcery",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "astralsorcery:itemshiftingstar",
+		tag: {
+			astralsorcery: {}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 8.5d,
+		y: -7.0d,
+		width: 11.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/astral_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

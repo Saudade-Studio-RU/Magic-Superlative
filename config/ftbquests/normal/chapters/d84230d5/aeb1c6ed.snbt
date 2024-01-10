@@ -1,0 +1,25 @@
+{
+	title: "Добро пожаловать в Natures aura!",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"3c2d11d0"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "5d813bb0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "naturesaura:book"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

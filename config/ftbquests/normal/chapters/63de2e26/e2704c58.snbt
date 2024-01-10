@@ -1,0 +1,22 @@
+{
+	icon: "twilightforest:trophy 1 6",
+	x: 8.5d,
+	y: 2.0d,
+	description: "Лабиринт, минотавры, грибы",
+	dependencies: [
+		"a03fb208"
+	],
+	hide: true,
+	tasks: [{
+		uid: "88d4bcc5",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "78a45d10",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

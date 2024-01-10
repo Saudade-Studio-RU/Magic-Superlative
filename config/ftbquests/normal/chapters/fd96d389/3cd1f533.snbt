@@ -1,0 +1,122 @@
+{
+	title: "Создайте один из камней для тела",
+	x: 12.5d,
+	y: 5.0d,
+	description: "Баффы за драгоценности",
+	text: [
+		"Добавление камней возможно через отдельную прокачку Талантов"
+	],
+	dependencies: [
+		"f8ed1d74"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "95a9e49d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemperkgem",
+			tag: {
+				astralsorcery: {
+					modifiers: [{
+						mode: 1,
+						baseValue: 0.057442345f,
+						mId: 14414L,
+						idMost: -8701015208525544510L,
+						type: "astralsorcery.maxhealth",
+						idLeast: -5709266140203963359L
+					},
+					{
+						mode: 1,
+						baseValue: 0.060814604f,
+						mId: 14415L,
+						idMost: 6973383969636829322L,
+						type: "astralsorcery.projectileattackdamage",
+						idLeast: -5320411685091177081L
+					},
+					{
+						mode: 1,
+						baseValue: 0.05408501f,
+						mId: 14416L,
+						idMost: -6050973743772252556L,
+						type: "astralsorcery.meleeattackdamage",
+						idLeast: -8965419525936606406L
+					}]
+				}
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "650f2f1a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemperkgem",
+			tag: {
+				astralsorcery: {
+					modifiers: [{
+						mode: 1,
+						baseValue: 0.06585732f,
+						mId: 342L,
+						idMost: -2158741363232780527L,
+						type: "astralsorcery.meleeattackdamage",
+						idLeast: -8443345669746277025L
+					},
+					{
+						mode: 1,
+						baseValue: 0.061633326f,
+						mId: 343L,
+						idMost: 336399585378651385L,
+						type: "astralsorcery.reach",
+						idLeast: -8871892608335407577L
+					}]
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2f4b13c6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemperkgem",
+			tag: {
+				astralsorcery: {
+					modifiers: [{
+						mode: 1,
+						baseValue: 0.05215266f,
+						mId: 14246L,
+						idMost: 6627811181849428053L,
+						type: "astralsorcery.maxhealth",
+						idLeast: -8203738886190987986L
+					},
+					{
+						mode: 1,
+						baseValue: 0.08f,
+						mId: 14247L,
+						idMost: -5029803296292649950L,
+						type: "astralsorcery.attackspeed",
+						idLeast: -7805055998923093016L
+					}]
+				}
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "60958a0c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

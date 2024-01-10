@@ -1,0 +1,33 @@
+{
+	x: 24.0d,
+	y: -3.0d,
+	shape: "hexagon",
+	description: "Битва с самим собой вот вот начнётся...",
+	text: [
+		"Постройте конструкцию из Лексикона Ботании, для неё необходимо 9 блоков для Маяка, Маяк и Пилоны Гайи",
+		"Ритуал Гайи"
+	],
+	dependencies: [
+		"1bff0190"
+	],
+	hide: true,
+	tasks: [{
+		uid: "dbaaf266",
+		type: "kill",
+		title: "Убейте Стража Гайи",
+		entity: "botania:doppleganger",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "553f62cd",
+		type: "item",
+		item: "botania:manaresource 1 4",
+		count: 2,
+		random_bonus: 1
+	},
+	{
+		uid: "aabe94d1",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	title: "Ритуалы крови",
+	x: 9.0d,
+	y: -3.0d,
+	description: "Сколько пользы я могу получить за кровь?",
+	text: [
+		"Большинство ритуалов используют LP из вашей сети, что бы пополнить её привяжите к себе любой Кровавый шар через Shift, а затем наполните его на алтаре",
+		"Прочитать про Ритуал вы можете в Науке крови, Предсказатель ритуала покажет вам что для него нужно поставить"
+	],
+	dependencies: [
+		"b1a36fdd"
+	],
+	tasks: [{
+		uid: "fb6aaf83",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_controller"
+		}]
+	},
+	{
+		uid: "75bbdc14",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_controller 1 1"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "09592cf1",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

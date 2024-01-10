@@ -1,0 +1,34 @@
+{
+	x: 6.0d,
+	y: -1.5d,
+	description: "Позволяет активировать более мощные ритуалы",
+	dependencies: [
+		"ce3c1d40"
+	],
+	tasks: [{
+		uid: "4fd117f8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:activation_crystal",
+			tag: {
+				binding: {
+					name: "ShadowKing21228",
+					id: {
+						L: -8180240267111859189L,
+						M: -3319811669840801797L
+					}
+				}
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3a41a4ff",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "Любой Нитор x16",
+	x: 5.0d,
+	y: -2.0d,
+	can_repeat: true,
+	dependencies: [
+		"9623f406"
+	],
+	optional: true,
+	tasks: [{
+		uid: "f52bd6eb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "nitor",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any nitor"
+				}
+			}
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "c3ed03ea",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

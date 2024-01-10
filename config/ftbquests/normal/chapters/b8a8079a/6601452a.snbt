@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 8.5d,
+	description: "Голем-ночной сторож",
+	dependencies: [
+		"f3a8159d"
+	],
+	tasks: [{
+		uid: "2617f0d5",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 9"
+		}]
+	}],
+	rewards: [{
+		uid: "8f58d317",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

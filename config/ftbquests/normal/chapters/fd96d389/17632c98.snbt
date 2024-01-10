@@ -1,0 +1,21 @@
+{
+	title: "Создайте Обсерваторию",
+	x: 18.0d,
+	y: 0.5d,
+	description: "Новые горизонты!",
+	dependencies: [
+		"5fb68e2c"
+	],
+	tasks: [{
+		uid: "cb872533",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockobservatory"
+		}]
+	}],
+	rewards: [{
+		uid: "33b67689",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

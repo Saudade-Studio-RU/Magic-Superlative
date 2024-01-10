@@ -1,0 +1,22 @@
+{
+	title: "Создайте Медный сундук",
+	x: -4.0d,
+	y: 0.0d,
+	description: "Больше чем в 1",
+	dependencies: [
+		"e18e4572"
+	],
+	hide: true,
+	tasks: [{
+		uid: "11cb9c65",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "82205606",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

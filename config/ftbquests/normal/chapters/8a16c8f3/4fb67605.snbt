@@ -1,0 +1,31 @@
+{
+	title: "Улучшите Перчатку Заклинателя",
+	x: -2.0d,
+	y: -5.0d,
+	description: "Из Таумима",
+	dependencies: [
+		"25ad81fe"
+	],
+	tasks: [{
+		uid: "cd4a7d41",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					slots: 3
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:gauntlet",
+			tag: {
+				color: 8022208
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "18e4d2f5",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

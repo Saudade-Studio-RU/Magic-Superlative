@@ -1,0 +1,29 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	description: "Мана за листву",
+	dependencies: [
+		"840cc22e"
+	],
+	tasks: [{
+		uid: "c56218e4",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "munchdew"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "331a3c1f",
+		type: "item",
+		item: "minecraft:sapling",
+		count: 16
+	},
+	{
+		uid: "ea62b888",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

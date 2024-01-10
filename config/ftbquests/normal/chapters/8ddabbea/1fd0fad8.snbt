@@ -1,0 +1,26 @@
+{
+	title: "Создайте Ткань снятия зачаровний",
+	x: 0.0d,
+	y: 3.0d,
+	description: "НЕ ТО!",
+	dependencies: [
+		"abb43939"
+	],
+	tasks: [{
+		uid: "0c95cf70",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:disenchant_fabric"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "12874873",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

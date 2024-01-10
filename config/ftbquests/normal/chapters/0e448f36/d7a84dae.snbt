@@ -1,0 +1,23 @@
+{
+	title: "Создайте Оружейный Стол Охотника",
+	x: 9.0d,
+	y: -4.0d,
+	description: "Кузница охотников",
+	dependencies: [
+		"65435ea3"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "7209b876",
+		type: "item",
+		items: [{
+			item: "vampirism:weapon_table"
+		}]
+	}],
+	rewards: [{
+		uid: "0063ad50",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

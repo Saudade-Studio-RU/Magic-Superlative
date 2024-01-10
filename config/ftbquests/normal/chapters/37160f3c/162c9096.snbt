@@ -1,0 +1,23 @@
+{
+	title: "Разрушьте Погодный аккумулятор",
+	x: 0.0d,
+	y: 6.0d,
+	description: "И получите его ядро",
+	dependencies: [
+		"4486da03"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1622ca7b",
+		type: "item",
+		items: [{
+			item: "evilcraft:environmental_accumulation_core"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e21f31c7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

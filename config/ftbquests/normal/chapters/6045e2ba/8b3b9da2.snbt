@@ -1,0 +1,34 @@
+{
+	title: "Создайте Лепестковый аптекарь",
+	x: 2.5d,
+	y: 0.0d,
+	description: "Верстаки - не для цветов",
+	dependencies: [
+		"b4d2b920"
+	],
+	hide: true,
+	tasks: [{
+		uid: "23f56d9e",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "55c4d752",
+		type: "item",
+		item: "botania:flower 1 1",
+		count: 2
+	},
+	{
+		uid: "a0009cca",
+		type: "item",
+		item: "botania:flower",
+		count: 2
+	},
+	{
+		uid: "994149fa",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

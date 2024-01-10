@@ -1,0 +1,29 @@
+{
+	title: "Найдите Экскалибур на дне озера",
+	x: -6.0d,
+	y: 6.0d,
+	description: "А где же владычица? Меч же был серебрянным...",
+	dependencies: [
+		"ecd385ee"
+	],
+	tasks: [{
+		uid: "d7c0a8bc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					MAHOUTSUKAI_ATTACK_DAMAGE: 3.0f
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mahoutsukai:caliburn"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "231e6ef4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

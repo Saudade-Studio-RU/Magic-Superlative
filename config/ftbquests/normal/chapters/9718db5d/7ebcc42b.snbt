@@ -1,0 +1,26 @@
+{
+	title: "Блок из крови и камня",
+	x: 3.0d,
+	y: 2.0d,
+	description: "Я чувствую что она может изменятся...",
+	text: [
+		"С помощью Стамесок из Chisel вы можете видоизменять руны, при этом их функционал останется"
+	],
+	dependencies: [
+		"fa86642f",
+		"0a1369ed"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f55f9623",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}]
+	}],
+	rewards: [{
+		uid: "77f92339",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

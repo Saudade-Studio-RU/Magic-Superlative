@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "MIXER",
+      "name": "research.MIXER.title",
+      "icons": [ "embers:mixer" ],
+      "category": "SUPERLATIVE",
+      "location": [ 0, 4 ],
+      "parents": [ "EMBACTIVATOR" ],
+      "stages": [
+        {
+          "text": "research.MIXER.text.stage.1",
+          "required_knowledge": [ "THEORY;ARTIFICE;3", "OBSERVATION;ARTIFICE;8" ]
+        },
+        {
+          "text": "research.MIXER.text.stage.2",
+          "recipes": [ "embers:mixer" ]
+        }
+      ]
+    }
+  ]
+}

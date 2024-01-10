@@ -1,0 +1,26 @@
+{
+	title: "Создайте Чарм взрыва",
+	x: 17.0d,
+	y: 2.0d,
+	description: "Взрывная невосприимчивость",
+	dependencies: [
+		"49ed73f8"
+	],
+	tasks: [{
+		uid: "bc85cb76",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:explosion_charm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7ab33a92",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

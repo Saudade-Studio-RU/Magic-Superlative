@@ -1,0 +1,21 @@
+{
+	title: "Создайте Камень импульса",
+	x: 8.0d,
+	y: -7.0d,
+	description: "Продвинутые манипуляции импульсом",
+	dependencies: [
+		"bc158a26"
+	],
+	tasks: [{
+		uid: "bb81f614",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:material 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "7fd01b3b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Открытие Наполнения",
+	icon: "thaumcraft:infusion_matrix",
+	x: 4.0d,
+	y: -2.5d,
+	dependencies: [
+		"69f29029"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "3d316d2b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:fabric"
+		}],
+		count: 6L
+	}],
+	rewards: [{
+		uid: "5db0caa5",
+		type: "random",
+		table: 1
+	}]
+}

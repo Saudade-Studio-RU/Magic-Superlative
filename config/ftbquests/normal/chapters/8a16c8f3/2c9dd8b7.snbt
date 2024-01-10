@@ -1,0 +1,26 @@
+{
+	title: "Создайте Улучшение пояса",
+	x: 8.0d,
+	y: 2.0d,
+	dependencies: [
+		"fdd116d7"
+	],
+	tasks: [{
+		uid: "07bd422d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:thaumostatic_harness_augment",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1d669198",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

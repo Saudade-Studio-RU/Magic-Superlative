@@ -1,0 +1,26 @@
+{
+	title: "Создайте Пепельный амулет",
+	x: 17.0d,
+	y: -2.0d,
+	description: "Пепел из существ",
+	dependencies: [
+		"fdf438a8"
+	],
+	tasks: [{
+		uid: "e9134610",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ashen_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e258617e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

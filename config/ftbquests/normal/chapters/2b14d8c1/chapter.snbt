@@ -1,0 +1,18 @@
+{
+	title: "Electroblob's Wizardry",
+	icon: "ebwizardry:arcane_workbench",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: -5.5d,
+		y: 2.5d,
+		width: 10.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/electroblob_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

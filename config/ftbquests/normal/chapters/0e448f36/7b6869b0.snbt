@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"bca20590"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "928935b3",
+		type: "checkmark",
+		title: "Добро пожаловать в Вампиризм!",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:blood_bottle",
+			Damage: 9s
+		}
+	}]
+}

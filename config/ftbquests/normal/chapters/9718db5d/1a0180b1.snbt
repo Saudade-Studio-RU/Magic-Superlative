@@ -1,0 +1,23 @@
+{
+	title: "Увеличение вместимости Кровавых шаров в Алтаре",
+	x: 10.5d,
+	y: 2.0d,
+	description: "Батарейки больше",
+	dependencies: [
+		"ddf1ab23",
+		"7ebcc42b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "49cce2f1",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "73323de0",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

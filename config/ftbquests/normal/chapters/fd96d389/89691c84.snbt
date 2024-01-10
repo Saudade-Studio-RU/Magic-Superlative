@@ -1,0 +1,29 @@
+{
+	title: "Создайте Светящийся верстак",
+	x: 3.0d,
+	y: 3.0d,
+	description: "Астральный верстак",
+	text: [
+		"Что бы сделать его, вам необходимо поставить верстак под найденным кристаллом, благодаря чему в верстаке будет звёдный свет для их крафта"
+	],
+	dependencies: [
+		"2ab0e76d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1501b2b0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1134f1c1",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

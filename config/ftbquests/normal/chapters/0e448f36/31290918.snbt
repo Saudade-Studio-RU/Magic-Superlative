@@ -1,0 +1,23 @@
+{
+	title: "Создайте Улучшенную кровь перелитую на слиток железа",
+	x: 9.0d,
+	y: 4.0d,
+	description: "Улучшенный слиток Вампиров",
+	dependencies: [
+		"e882a43b"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "7696e8aa",
+		type: "item",
+		items: [{
+			item: "vampirism:blood_infused_enhanced_iron_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "636b3617",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Создайте Зарядник ауры",
+	x: 4.0d,
+	y: -8.0d,
+	description: "Искуственный контроль",
+	dependencies: [
+		"c11d2848",
+		"809b56d9"
+	],
+	tasks: [{
+		uid: "bd802561",
+		type: "item",
+		items: [{
+			item: "thaumadditions:aura_charger"
+		}]
+	}],
+	rewards: [{
+		uid: "3c13204b",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

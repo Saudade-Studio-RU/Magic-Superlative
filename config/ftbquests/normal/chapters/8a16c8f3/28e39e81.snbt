@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	description: "Охрана территорий",
+	dependencies: [
+		"8d031da0"
+	],
+	tasks: [{
+		uid: "5218c50a",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 17"
+		}]
+	}],
+	rewards: [{
+		uid: "8e216a2a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "key": "EMBACTIVATOR",
+      "name": "research.EMBACTIVATOR.title",
+      "icons": [ "embers:ember_activator" ],
+      "category": "SUPERLATIVE",
+      "location": [ 0, 2 ],
+      "meta": [ "SPIKY" ],
+      "parents": [ "SUPERLATIVESTART", "ANCIENTGOLEM" ],
+      "stages": [
+        {
+          "text": "research.EMBACTIVATOR.text.stage.1",
+          "required_knowledge": [ "THEORY;ARTIFICE;1", "THEORY;AUROMANCY;1", "OBSERVATION;ARTIFICE;3", "OBSERVATION;AUROMANCY;3" ],
+          "required_item": [ "embers:crystal_ember", "embers:dust_ember" ],
+          "required_craft": [ "embers:codex" ]
+        },
+        {
+          "text": "research.EMBACTIVATOR.text.stage.2",
+          "recipes": [ "embers:ember_activator", "embers:ember_pulser", "embers:ember_relay" ]
+        }
+      ]
+    }
+  ]
+}

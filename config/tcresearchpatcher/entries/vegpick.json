@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "VEGPICK",
+      "name": "research.VEGPICK.title",
+      "icons": [ "evilcraft:vengeance_pickaxe" ],
+      "category": "SUPERLATIVE",
+      "location": [ 2, -5 ],
+      "parents": [ "VEGFOCUS", "INFUSION" ],
+      "stages": [
+        {
+          "text": "research.VEGPICK.text.stage.1",
+          "required_knowledge": [ "THEORY;INFUSION;1", "OBSERVATION;INFUSION;3" ]
+        },
+        {
+          "text": "research.VEGPICK.text.stage.2",
+          "recipes": [ "evilcraft:piercing_vengeance_focus" ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+	title: "Алмаз x8",
+	x: 0.0d,
+	y: 5.0d,
+	can_repeat: true,
+	dependencies: [
+		"8a66a83f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e6b1aa46",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gemDiamond",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gemDiamond"
+				}
+			}
+		}],
+		count: 8L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "33726ff0",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

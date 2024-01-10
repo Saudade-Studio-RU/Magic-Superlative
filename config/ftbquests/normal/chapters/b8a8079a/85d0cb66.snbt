@@ -1,0 +1,38 @@
+{
+	title: "Лучшие Металлы",
+	x: -1.5d,
+	y: -4.0d,
+	description: "Они вам понадобятся ",
+	dependencies: [
+		"69f29029"
+	],
+	hide: true,
+	tasks: [{
+		uid: "25d85044",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ingot 1 2"
+		}],
+		count: 12L
+	},
+	{
+		uid: "a64f447b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ingot"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "f2fa6d9b",
+		type: "item",
+		item: "thaumcraft:ingot",
+		count: 4
+	},
+	{
+		uid: "011f9fa4",
+		type: "item",
+		item: "thaumcraft:ingot 1 2",
+		count: 4
+	}]
+}

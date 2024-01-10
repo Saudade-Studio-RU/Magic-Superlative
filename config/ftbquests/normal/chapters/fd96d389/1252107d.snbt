@@ -1,0 +1,27 @@
+{
+	title: "Создайте Жезл импульсов",
+	x: 16.0d,
+	y: 4.0d,
+	description: "Крюк-кошка из звёздного света",
+	dependencies: [
+		"0e10dbe2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "115e23bb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemgrapplewand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "36dcc215",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

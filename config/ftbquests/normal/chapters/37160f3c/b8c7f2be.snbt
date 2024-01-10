@@ -1,0 +1,36 @@
+{
+	title: "Создайте Кирку мщения",
+	x: 5.0d,
+	y: 4.5d,
+	description: "Удача за боль",
+	dependencies: [
+		"bb3d0cb3"
+	],
+	tasks: [{
+		uid: "78fc10d0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:vengeance_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 5s,
+					id: 35s
+				},
+				{
+					lvl: 3s,
+					id: 29s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "727b3fd0",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

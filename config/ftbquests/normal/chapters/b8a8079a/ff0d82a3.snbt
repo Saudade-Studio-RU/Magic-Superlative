@@ -1,0 +1,32 @@
+{
+	title: "Чернильница из крови (см. Evilcraft)",
+	x: -8.5d,
+	y: -1.0d,
+	description: "Чернила не везде, кровь всегда с собой",
+	text: [
+		"Сгусток крови поможет вам сделать их"
+	],
+	dependencies: [
+		"c09ce581",
+		"2b1f3f40"
+	],
+	hide: true,
+	tasks: [{
+		uid: "37ca1ee0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:veined_scribing_tools",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8a3b8c6b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

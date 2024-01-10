@@ -1,0 +1,30 @@
+{
+	title: "Начните изучение EvilCraft",
+	x: 4.0d,
+	y: 5.0d,
+	description: "Начните исследование тёмных исскуств и манипуляциям кровью",
+	text: [
+		"Скормите Яблоко другому существу, после смерти которого появится разлом. Бросьте в разлом книгу"
+	],
+	dependencies: [
+		"6ef484c5"
+	],
+	tasks: [{
+		uid: "ba3ed158",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:origins_of_darkness"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "57bf5661",
+		type: "item",
+		item: "evilcraft:dark_gem",
+		count: 8
+	}]
+}

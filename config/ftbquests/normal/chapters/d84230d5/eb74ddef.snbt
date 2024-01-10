@@ -1,0 +1,22 @@
+{
+	title: "Создайте Стол предложения",
+	x: 14.0d,
+	y: 0.0d,
+	description: "Обмен с богом",
+	dependencies: [
+		"956d9ae8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "83d57425",
+		type: "item",
+		items: [{
+			item: "naturesaura:offering_table"
+		}]
+	}],
+	rewards: [{
+		uid: "06b8f65e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Создайте Точильный камень",
+	x: 4.0d,
+	y: 1.5d,
+	description: "Повышение остроты",
+	dependencies: [
+		"89691c84",
+		"79772da4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a6bebac0",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmachine 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "0e7614f8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

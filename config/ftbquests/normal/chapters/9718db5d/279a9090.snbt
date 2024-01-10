@@ -1,0 +1,42 @@
+{
+	title: "Кристаллы других энергий",
+	x: -14.0d,
+	y: 6.0d,
+	description: "Ритуал Эдишн",
+	dependencies: [
+		"dfd224b6"
+	],
+	tasks: [{
+		uid: "4ff804c4",
+		type: "item",
+		items: [{
+			item: "bloodmagic:item_demon_crystal 1 3"
+		}]
+	},
+	{
+		uid: "2ed16fe3",
+		type: "item",
+		items: [{
+			item: "bloodmagic:item_demon_crystal 1 4"
+		}]
+	},
+	{
+		uid: "a2c40077",
+		type: "item",
+		items: [{
+			item: "bloodmagic:item_demon_crystal 1 2"
+		}]
+	},
+	{
+		uid: "21699083",
+		type: "item",
+		items: [{
+			item: "bloodmagic:item_demon_crystal 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "bec9acde",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

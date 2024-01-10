@@ -1,0 +1,27 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	description: "Наконец то понятно сколько там есть",
+	dependencies: [
+		"fa86642f",
+		"d87996e3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "22c58984",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_divination"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "850ba1c5",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Вис-амулет",
+	x: 15.0d,
+	y: 6.5d,
+	description: "Удобная подзарядка!",
+	dependencies: [
+		"61862465"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f4ca3a30",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:amulet_vis",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1d7b0351",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

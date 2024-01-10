@@ -1,0 +1,21 @@
+{
+	title: "Поглощающий пустоту",
+	x: 10.0d,
+	y: -14.5d,
+	description: "Выводящий семена",
+	dependencies: [
+		"83b8917a"
+	],
+	tasks: [{
+		uid: "6d83e53e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_siphon"
+		}]
+	}],
+	rewards: [{
+		uid: "fab9a9dc",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

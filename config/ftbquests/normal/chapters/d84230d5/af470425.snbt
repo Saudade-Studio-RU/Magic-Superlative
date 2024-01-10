@@ -1,0 +1,27 @@
+{
+	title: "Создайте Глаз окружения",
+	x: 6.0d,
+	y: -2.0d,
+	description: "Видение ауры",
+	dependencies: [
+		"4e555d60"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e081060a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:eye"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3339beea",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

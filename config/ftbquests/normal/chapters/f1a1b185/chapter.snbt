@@ -1,0 +1,23 @@
+{
+	title: "Ice and Fire",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "iceandfire:dragon_skull"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 6.5d,
+		y: -6.5d,
+		width: 8.0d,
+		height: 8.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/iceandfire_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

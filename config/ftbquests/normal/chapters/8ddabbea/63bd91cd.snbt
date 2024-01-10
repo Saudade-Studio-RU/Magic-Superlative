@@ -1,0 +1,33 @@
+{
+	title: "Создайте Честера",
+	x: -2.0d,
+	y: -2.0d,
+	description: "Ест ресурсы для вас",
+	dependencies: [
+		"abb43939"
+	],
+	tasks: [{
+		uid: "7bbc2b62",
+		type: "item",
+		items: [{
+			item: "thaumadditions:chester"
+		}]
+	},
+	{
+		uid: "02ab22ea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:bone_eye"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0e638fb4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"504c27b7"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "c3cd4e06",
+		type: "checkmark",
+		title: "Изучение хранилищ"
+	}]
+}

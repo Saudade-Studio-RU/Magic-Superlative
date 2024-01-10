@@ -1,0 +1,21 @@
+{
+	title: "Создайте Мировой глаз",
+	x: 4.0d,
+	y: -2.0d,
+	description: "Прогрузка территорий",
+	dependencies: [
+		"af470425"
+	],
+	tasks: [{
+		uid: "b8495e62",
+		type: "item",
+		items: [{
+			item: "naturesaura:chunk_loader"
+		}]
+	}],
+	rewards: [{
+		uid: "5357fc51",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

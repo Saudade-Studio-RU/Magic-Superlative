@@ -1,0 +1,22 @@
+{
+	title: "Создайте Стол кровавых зелий",
+	x: 5.0d,
+	y: -4.0d,
+	description: "Зелья из крови",
+	dependencies: [
+		"65435ea3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "74ce8595",
+		type: "item",
+		items: [{
+			item: "vampirism:blood_potion_table"
+		}]
+	}],
+	rewards: [{
+		uid: "7746bab0",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

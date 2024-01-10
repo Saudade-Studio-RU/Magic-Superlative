@@ -1,0 +1,57 @@
+{
+	title: "Открытие лутбоксов III",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "crate3"
+		}
+	},
+	x: -19.0d,
+	y: -5.0d,
+	shape: "octagon",
+	description: "Сундук архимага!",
+	dependencies: [
+		"809d3c2c",
+		"83b8917a",
+		"711fb32c",
+		"8a0dfbc9",
+		"88b27877",
+		"9908f530",
+		"c233b808",
+		"3fbf8f60"
+	],
+	tasks: [{
+		uid: "f43ffca3",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "55f8401b",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate3"
+			}
+		}
+	},
+	{
+		uid: "5cfc389a",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate3"
+			}
+		}
+	},
+	{
+		uid: "a0823d46",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate3"
+			}
+		}
+	}]
+}

@@ -1,0 +1,49 @@
+{
+	title: "Создайте любое улучшение для брони",
+	x: 22.0d,
+	y: -4.0d,
+	description: "Что же будет происходить, когда меня будут бить ногами?",
+	dependencies: [
+		"1c4a1d4e"
+	],
+	tasks: [{
+		uid: "2c0a8eff",
+		type: "item",
+		items: [{
+			item: "embers:flame_barrier"
+		}]
+	},
+	{
+		uid: "e00eeedc",
+		type: "item",
+		items: [{
+			item: "embers:jet_augment"
+		}]
+	},
+	{
+		uid: "91e9c665",
+		type: "item",
+		items: [{
+			item: "embers:intelligent_apparatus"
+		}]
+	},
+	{
+		uid: "c5b09bba",
+		type: "item",
+		items: [{
+			item: "embers:eldritch_insignia"
+		}]
+	},
+	{
+		uid: "ce902e14",
+		type: "item",
+		items: [{
+			item: "embers:shifting_scales"
+		}]
+	}],
+	rewards: [{
+		uid: "74c0135b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

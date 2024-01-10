@@ -1,0 +1,37 @@
+{
+	title: "Добудьте Горный кристалл",
+	x: 8.5d,
+	y: -0.5d,
+	description: "Резонирующий жезл покажет их путь ночью",
+	dependencies: [
+		"2d1216ec"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a4bd0760",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemrockcrystalsimple",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 400,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8143b3ce",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

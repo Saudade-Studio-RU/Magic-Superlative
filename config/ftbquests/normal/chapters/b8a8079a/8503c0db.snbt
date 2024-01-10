@@ -1,0 +1,74 @@
+{
+	title: "Багровые культисты",
+	x: 11.5d,
+	y: -13.0d,
+	shape: "hexagon",
+	description: "Клуб сумашедших тауматургов",
+	tasks: [{
+		uid: "2ebf0e4f",
+		type: "kill",
+		title: "Уничтожить портал багровых культистов",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:enchanted_placeholder"
+		},
+		entity: "thaumcraft:cultistportallesser",
+		value: 1L
+	},
+	{
+		uid: "ae65a8f2",
+		type: "kill",
+		title: "Багровый рыцарь",
+		entity: "thaumcraft:cultistknight",
+		value: 3L
+	},
+	{
+		uid: "feb40a99",
+		type: "kill",
+		title: "Багровый клирик",
+		entity: "thaumcraft:cultistcleric",
+		value: 2L
+	}],
+	rewards: [{
+		uid: "f9de0187",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:crimson_plate_helm"
+		}
+	},
+	{
+		uid: "c2b562e1",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:crimson_plate_chest"
+		}
+	},
+	{
+		uid: "32daafd0",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:crimson_plate_legs"
+		}
+	},
+	{
+		uid: "fa7affd2",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:crimson_boots"
+		}
+	}]
+}

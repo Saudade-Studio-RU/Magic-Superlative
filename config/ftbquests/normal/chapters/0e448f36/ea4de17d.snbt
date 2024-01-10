@@ -1,0 +1,23 @@
+{
+	title: "Создайте Кровь перелитую на слиток железа",
+	x: 5.0d,
+	y: 4.0d,
+	description: "Слиток вампиров",
+	dependencies: [
+		"e882a43b"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "62f850fa",
+		type: "item",
+		items: [{
+			item: "vampirism:blood_infused_iron_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "933f40c8",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

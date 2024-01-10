@@ -1,0 +1,29 @@
+{
+	title: "Эволюция кровавых шаров 2",
+	x: 9.0d,
+	y: 0.0d,
+	description: "Теперь ты маг",
+	dependencies: [
+		"df02d057",
+		"3e5a8de1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2522b75c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:magician"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "916aa6dc",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

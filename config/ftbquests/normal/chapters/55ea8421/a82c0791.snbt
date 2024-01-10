@@ -1,0 +1,18 @@
+{
+	title: "Создайте Рассадник монстров",
+	x: -6.0d,
+	y: -7.0d,
+	description: "TIME TO FARM",
+	tasks: [{
+		uid: "32f8e7c1",
+		type: "item",
+		items: [{
+			item: "minecraft:mob_spawner"
+		}]
+	}],
+	rewards: [{
+		uid: "52796b91",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

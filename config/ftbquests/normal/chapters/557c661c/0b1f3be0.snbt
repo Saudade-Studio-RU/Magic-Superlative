@@ -1,0 +1,24 @@
+{
+	title: "Создайте Излучающий резонатор",
+	x: 4.0d,
+	y: 0.0d,
+	description: "Создания особого материала",
+	dependencies: [
+		"e18e4572",
+		"a9d8491c",
+		"aac1451c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "04459786",
+		type: "item",
+		items: [{
+			item: "arcanearchives:radiant_resonator"
+		}]
+	}],
+	rewards: [{
+		uid: "d918084d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

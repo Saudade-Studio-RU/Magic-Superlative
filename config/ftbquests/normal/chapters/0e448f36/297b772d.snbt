@@ -1,0 +1,21 @@
+{
+	x: 16.0d,
+	y: -2.0d,
+	description: "Гроза Вампиров",
+	dependencies: [
+		"a88698b2"
+	],
+	tasks: [{
+		uid: "3b5a9e10",
+		type: "advancement",
+		title: "Повысьте уровень Охотника до 14",
+		icon: "vampirism:hunter_intel",
+		advancement: "vampirism:hunter/max_level",
+		criterion: ""
+	}],
+	rewards: [{
+		uid: "28269db1",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

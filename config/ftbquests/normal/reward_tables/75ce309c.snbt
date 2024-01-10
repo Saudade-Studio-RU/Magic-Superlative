@@ -1,0 +1,20 @@
+{
+	title: "Зелья",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:strong_regeneration"
+			}
+		}
+	},
+	{
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:strong_healing"
+			}
+		}
+	}]
+}

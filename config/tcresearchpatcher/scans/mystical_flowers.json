@@ -1,0 +1,15 @@
+[
+  {
+    "key": "!MystFlowerWhite",
+    "type": "thaumcraft:block",
+    "object": "botania:flower"
+  },
+  {
+    "key": "!MystFlowerBlack",
+    "type": "thaumcraft:block",
+    "object": {
+      "name": "botania:flower",
+      "meta": 15
+    }
+  }
+]

@@ -1,0 +1,33 @@
+{
+	title: "Создайте Небесные врата с Небесным жемчугом",
+	x: 12.0d,
+	y: -26.0d,
+	description: "Перемещение MOMENT",
+	dependencies: [
+		"8651732a"
+	],
+	tasks: [{
+		uid: "ccf95417",
+		type: "item",
+		items: [{
+			item: "ichoriumkit:warp_gate"
+		}]
+	},
+	{
+		uid: "8191fd51",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ichoriumkit:sky_pearl"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d9b0341b",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

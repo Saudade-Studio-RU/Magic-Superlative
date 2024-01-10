@@ -1,0 +1,30 @@
+{
+	title: "Создайте Улучшенный полу-автоматический Арбалет",
+	x: 9.0d,
+	y: -8.0d,
+	description: "Да здравствует ПУЛЕМЕТ",
+	dependencies: [
+		"40ad219c"
+	],
+	optional: true,
+	tasks: [{
+		uid: "80e6b73c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:enhanced_tech_crossbow",
+			tag: {
+				arrows: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6c6230ba",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

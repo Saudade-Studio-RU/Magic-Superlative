@@ -1,0 +1,27 @@
+{
+	x: 7.0d,
+	y: -1.5d,
+	description: "Распределение маны",
+	dependencies: [
+		"8302e288"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ba385b77",
+		type: "item",
+		items: [{
+			item: "botania:spreader"
+		}]
+	}],
+	rewards: [{
+		uid: "46c2cfbe",
+		type: "item",
+		item: "botania:livingrock",
+		count: 8
+	},
+	{
+		uid: "3f9fb59a",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

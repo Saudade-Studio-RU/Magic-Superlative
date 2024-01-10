@@ -1,0 +1,23 @@
+{
+	icon: "vampirism:human_heart",
+	x: 16.0d,
+	y: 2.0d,
+	description: "Я ждал этого 4.., нет, 5 тысяч лет!",
+	dependencies: [
+		"6db9b3b1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "58eb7997",
+		type: "advancement",
+		title: "Повысьте уровень Вампира до 14",
+		icon: "vampirism:pure_blood 1 4",
+		advancement: "vampirism:vampire/max_level",
+		criterion: ""
+	}],
+	rewards: [{
+		uid: "96a42e97",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

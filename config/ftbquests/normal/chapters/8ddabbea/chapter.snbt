@@ -1,0 +1,7 @@
+{
+	title: "Thaumic Additions: Reconstructed",
+	icon: "thaumadditions:seal_globe",
+	always_invisible: false,
+	group: -1196947558,
+	default_quest_shape: ""
+}

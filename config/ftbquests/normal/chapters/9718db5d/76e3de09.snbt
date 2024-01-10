@@ -1,0 +1,22 @@
+{
+	title: "Изменение принципа хранения в Кровавом алтаре",
+	x: 13.0d,
+	y: 2.0d,
+	description: "Нужно больше крови",
+	dependencies: [
+		"ddf1ab23"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d326ff65",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune 1 10"
+		}]
+	}],
+	rewards: [{
+		uid: "a4093554",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

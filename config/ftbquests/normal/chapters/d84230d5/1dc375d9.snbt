@@ -1,0 +1,26 @@
+{
+	title: "Создайте Клад ауры",
+	x: 11.0d,
+	y: -5.0d,
+	description: "Приросты x3",
+	dependencies: [
+		"44c9f19e"
+	],
+	tasks: [{
+		uid: "b3102e2e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:aura_trove"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "16f7857b",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

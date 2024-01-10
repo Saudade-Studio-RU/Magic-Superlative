@@ -1,0 +1,32 @@
+{
+	title: "Создайте Повязку реликвий",
+	x: 14.0d,
+	y: -11.0d,
+	description: "Наконец-то теории не только на столе...",
+	dependencies: [
+		"09aaed0b"
+	],
+	tasks: [{
+		uid: "50f6a9c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:curiosity_band"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e874cf2f",
+		type: "item",
+		item: "minecraft:experience_bottle",
+		count: 16
+	},
+	{
+		uid: "ac67f80f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

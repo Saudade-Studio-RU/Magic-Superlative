@@ -1,0 +1,21 @@
+{
+	title: "Автоматизация мира магии",
+	x: 10.0d,
+	y: -0.5d,
+	description: "Когда надоело делать вручную",
+	dependencies: [
+		"037bec19"
+	],
+	tasks: [{
+		uid: "78b247ef",
+		type: "item",
+		items: [{
+			item: "thaumcraft:pattern_crafter"
+		}]
+	}],
+	rewards: [{
+		uid: "81eeb018",
+		type: "xp",
+		xp: 500
+	}]
+}

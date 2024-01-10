@@ -1,0 +1,23 @@
+{
+	title: "Создайте Природные пилоны",
+	x: 13.0d,
+	y: -5.5d,
+	description: "В них ощущается странная сила... что я могу с помощью них сделать?",
+	dependencies: [
+		"62ecc54c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "45c8eb1b",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "d27dfa5f",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

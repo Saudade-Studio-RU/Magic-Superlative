@@ -1,0 +1,23 @@
+{
+	title: "Повстречайте Алтарь наполнения",
+	x: 3.0d,
+	y: -6.0d,
+	description: "Создание пропитанного магией",
+	dependencies: [
+		"d6a4585c"
+	],
+	tasks: [{
+		uid: "b5a4313d",
+		type: "observation",
+		title: "Повстречайте Алтарь Наполнения",
+		icon: "ebwizardry:imbuement_altar",
+		match_type: "block_id",
+		match: "ebwizardry:imbuement_altar",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "4059c0d3",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

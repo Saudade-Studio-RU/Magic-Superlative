@@ -1,0 +1,27 @@
+{
+	title: "Спуститесь в Пещеры Троллей вновь и откопайте Гигантский обсидиан для получения Лампы огня",
+	x: 17.5d,
+	y: 0.0d,
+	description: "Как сверкает!",
+	dependencies: [
+		"3858f262"
+	],
+	hide: true,
+	tasks: [{
+		uid: "25baac0f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:lamp_of_cinders"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "900aaa1e",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

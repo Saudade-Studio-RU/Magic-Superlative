@@ -1,0 +1,22 @@
+{
+	title: "Получите Звёздную пыль",
+	x: 16.0d,
+	y: 5.0d,
+	description: "Звёзды в руках",
+	dependencies: [
+		"711fb32c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d68e1872",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "907eae67",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

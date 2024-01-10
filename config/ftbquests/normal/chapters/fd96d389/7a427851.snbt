@@ -1,0 +1,21 @@
+{
+	title: "Создайте Стол преломления звёздного света",
+	x: 14.0d,
+	y: 1.5d,
+	description: "Зачарования от звёзд",
+	dependencies: [
+		"3cff543b"
+	],
+	tasks: [{
+		uid: "b31f41cb",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmapdrawingtable"
+		}]
+	}],
+	rewards: [{
+		uid: "a6d7fa88",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

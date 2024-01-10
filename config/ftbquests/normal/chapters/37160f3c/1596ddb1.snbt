@@ -1,0 +1,28 @@
+{
+	title: "Создайте Кровавую книгу и очиститель",
+	x: 9.0d,
+	y: 2.0d,
+	description: "Когда не понравилось",
+	dependencies: [
+		"bb3d0cb3"
+	],
+	tasks: [{
+		uid: "3accec00",
+		type: "item",
+		items: [{
+			item: "evilcraft:purifier"
+		}]
+	},
+	{
+		uid: "d55d090a",
+		type: "item",
+		items: [{
+			item: "evilcraft:blook"
+		}]
+	}],
+	rewards: [{
+		uid: "e60c18b3",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

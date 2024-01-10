@@ -1,0 +1,26 @@
+{
+	title: "Создайте Обещание упорства",
+	x: 9.0d,
+	y: 0.0d,
+	description: "Улучшение возможностей",
+	dependencies: [
+		"4837658d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "692ced35",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:promise"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e6c7cff2",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

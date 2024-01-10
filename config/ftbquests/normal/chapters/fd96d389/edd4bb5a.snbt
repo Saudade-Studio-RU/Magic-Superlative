@@ -1,0 +1,26 @@
+{
+	title: "Создайте Ручной телескоп",
+	x: 2.0d,
+	y: 1.5d,
+	description: "Изучение неба",
+	dependencies: [
+		"89691c84"
+	],
+	tasks: [{
+		uid: "f2880e6a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemhandtelescope"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6efae386",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

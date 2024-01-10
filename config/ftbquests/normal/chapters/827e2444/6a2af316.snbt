@@ -1,0 +1,27 @@
+{
+	title: "Создайте Второй Мистический код",
+	x: -10.0d,
+	y: 0.0d,
+	description: "Почти бесконечные свитки",
+	dependencies: [
+		"e35a150e"
+	],
+	tasks: [{
+		uid: "daf68cbe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: [],
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mahoutsukai:mystic_code_first_sorcery"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d0cba6bd",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

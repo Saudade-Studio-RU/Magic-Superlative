@@ -1,0 +1,22 @@
+{
+	title: "Создайте Автоматический арбалет",
+	x: 8.0d,
+	y: 4.0d,
+	description: "Оборона вашей территории",
+	dependencies: [
+		"f50f5caf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e1479873",
+		type: "item",
+		items: [{
+			item: "thaumcraft:turret"
+		}]
+	}],
+	rewards: [{
+		uid: "cbb340d5",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

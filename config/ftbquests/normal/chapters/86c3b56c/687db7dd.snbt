@@ -1,0 +1,65 @@
+{
+	title: "Получите любую возведённую Шогготами статую",
+	x: 3.0d,
+	y: -4.0d,
+	description: "Энергия от самих богов",
+	dependencies: [
+		"d3319a3b"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "d0fb769d",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue"
+		}]
+	},
+	{
+		uid: "3dae95e7",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 1"
+		}]
+	},
+	{
+		uid: "3b8723eb",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 2"
+		}]
+	},
+	{
+		uid: "28b356c0",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 3"
+		}]
+	},
+	{
+		uid: "8199fad0",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 4"
+		}]
+	},
+	{
+		uid: "92c49eac",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 5"
+		}]
+	},
+	{
+		uid: "52bc4353",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "60836f2f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Создайте Некрономикон из Омотула",
+	x: 28.0d,
+	y: -2.0d,
+	description: "Почти полные знания",
+	dependencies: [
+		"9fad941b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a085133a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:necronomicon_omt",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "aad32ffc",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

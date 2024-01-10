@@ -1,0 +1,16 @@
+{
+	title: "Добро пожаловать в Кровавую магию!",
+	icon: "bloodmagic:altar",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"5e11f3c8"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "315d4eda",
+		type: "checkmark",
+		title: "Добро пожаловать в Кровавую магию!"
+	}]
+}

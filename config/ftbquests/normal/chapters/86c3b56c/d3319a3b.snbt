@@ -1,0 +1,22 @@
+{
+	icon: "abyssalcraft:shoggothflesh",
+	x: 0.0d,
+	y: -4.0d,
+	description: "Отпрыски Старейшин",
+	dependencies: [
+		"85092639"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0632b372",
+		type: "kill",
+		title: "Найдите и Уничтожьте Маленьких Шоггтов",
+		entity: "abyssalcraft:lessershoggoth",
+		value: 3L
+	}],
+	rewards: [{
+		uid: "dc335647",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

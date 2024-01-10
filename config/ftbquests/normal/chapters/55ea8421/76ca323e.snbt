@@ -1,0 +1,18 @@
+{
+	title: "Создайте Маяк",
+	x: -9.0d,
+	y: -7.0d,
+	description: "Тяжелее, чем кажется",
+	tasks: [{
+		uid: "d6a8f29d",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	}],
+	rewards: [{
+		uid: "73ab0f1e",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

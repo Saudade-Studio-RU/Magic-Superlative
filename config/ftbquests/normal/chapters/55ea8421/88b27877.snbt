@@ -1,0 +1,62 @@
+{
+	title: "Открытие лутбоксов II",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "2crate"
+		}
+	},
+	x: -16.0d,
+	y: -5.0d,
+	shape: "hexagon",
+	description: "Сундук мага-адепта!",
+	dependencies: [
+		"23cf118f",
+		"222130a0",
+		"956d9ae8",
+		"63068820",
+		"293c3955",
+		"a53f9a76",
+		"36e7eda9",
+		"843b67eb",
+		"f9f5dce4",
+		"35a25cb0",
+		"ca8fe5bd",
+		"db02bf54",
+		"153b4f24"
+	],
+	tasks: [{
+		uid: "d29977be",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "f0f7aacf",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "2crate"
+			}
+		}
+	},
+	{
+		uid: "974ecd27",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "2crate"
+			}
+		}
+	},
+	{
+		uid: "40540852",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "2crate"
+			}
+		}
+	}]
+}

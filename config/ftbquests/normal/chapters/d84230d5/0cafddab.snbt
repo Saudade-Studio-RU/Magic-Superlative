@@ -1,0 +1,21 @@
+{
+	title: "Создайте Незаметный строитель",
+	x: 14.0d,
+	y: 3.5d,
+	description: "Авто установка блоков",
+	dependencies: [
+		"956d9ae8"
+	],
+	tasks: [{
+		uid: "9f39c1c6",
+		type: "item",
+		items: [{
+			item: "naturesaura:placer"
+		}]
+	}],
+	rewards: [{
+		uid: "e51bd222",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

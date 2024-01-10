@@ -1,0 +1,21 @@
+{
+	title: "Создайте Пустотный пьедестал подзарядки",
+	x: 6.0d,
+	y: -9.0d,
+	description: "Импульс вместо Вис",
+	dependencies: [
+		"69d2b155"
+	],
+	tasks: [{
+		uid: "ad14e15d",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:void_recharge_pedestal"
+		}]
+	}],
+	rewards: [{
+		uid: "269d2f1d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

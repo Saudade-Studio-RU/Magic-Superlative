@@ -1,0 +1,23 @@
+{
+  "entries": [
+    {
+      "key": "OFFERING",
+      "name": "research.OFFERING.title",
+      "icons": [ "naturesaura:offering_table" ],
+      "category": "SUPERLATIVE",
+      "location": [ 0, -2 ],
+      "parents": [ "SUPERLATIVESTART" ],
+      "stages": [
+        {
+          "text": "research.OFFERING.text.stage.1",
+          "required_knowledge": [ "THEORY;INFUSION;1", "THEORY;AUROMANCY;1", "OBSERVATION;SUPERLATIVE;3" ],
+          "required_item": [ "naturesaura:infused_iron" ]
+        },
+        {
+          "text": "research.OFFERING.text.stage.2",
+          "recipes": [ "naturesaura:offering_table" ]
+        }
+      ]
+    }
+  ]
+}

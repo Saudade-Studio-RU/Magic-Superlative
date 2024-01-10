@@ -1,0 +1,22 @@
+{
+	title: "Создайте Кресло для инъекций",
+	x: 3.0d,
+	y: -2.0d,
+	description: "Проводим операции",
+	dependencies: [
+		"7b6869b0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "71e7098b",
+		type: "item",
+		items: [{
+			item: "vampirism:item_med_chair"
+		}]
+	}],
+	rewards: [{
+		uid: "40cf5fdd",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

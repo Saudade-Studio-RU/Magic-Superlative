@@ -1,0 +1,28 @@
+{
+	title: "Создайте Молот лудильщика",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Ваш гаечный ключ сэр",
+	dependencies: [
+		"5f0d7246"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f06aa945",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:tinker_hammer",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2538c521",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

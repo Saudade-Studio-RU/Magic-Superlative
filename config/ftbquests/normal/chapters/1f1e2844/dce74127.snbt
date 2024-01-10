@@ -1,0 +1,21 @@
+{
+	title: "Создайте Материю",
+	x: 18.5d,
+	y: 2.0d,
+	description: "Починка чего угодно",
+	dependencies: [
+		"49ed73f8"
+	],
+	tasks: [{
+		uid: "f0f1cc6d",
+		type: "item",
+		items: [{
+			item: "embers:isolated_materia"
+		}]
+	}],
+	rewards: [{
+		uid: "c40adb7f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

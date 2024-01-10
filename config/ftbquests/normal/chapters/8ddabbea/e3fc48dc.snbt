@@ -1,0 +1,21 @@
+{
+	title: "Создайте Чистоцвет",
+	x: 2.0d,
+	y: 3.0d,
+	description: "Очищаем бесплатно 24/7",
+	dependencies: [
+		"abb43939"
+	],
+	tasks: [{
+		uid: "df6553c3",
+		type: "item",
+		items: [{
+			item: "thaumadditions:puriflower"
+		}]
+	}],
+	rewards: [{
+		uid: "4dd8c2ef",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

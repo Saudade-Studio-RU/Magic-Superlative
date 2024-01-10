@@ -1,0 +1,61 @@
+{
+	title: "Mid",
+	loot_size: 1,
+	rewards: [{
+		item: "thaumcraft:ingot 1 2",
+		count: 9
+	},
+	{
+		item: "minecraft:diamond",
+		count: 4
+	},
+	{
+		item: "bloodmagic:blood_rune",
+		count: 4
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemrockcrystalsimple",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 400,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}
+	},
+	{
+		item: "botania:manaresource",
+		count: 9
+	},
+	{
+		item: "twilightforest:ironwood_raw",
+		count: 16
+	},
+	{
+		item: "ebwizardry:magic_crystal",
+		count: 9
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:blood_extractor",
+			tag: {
+				Fluid: {
+					FluidName: "evilcraftblood",
+					Amount: 5000
+				}
+			}
+		}
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 31.0d,
+	y: -2.0d,
+	description: "Вы встретите его на 0-ых координатах",
+	dependencies: [
+		"e7647760"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3ad58b03",
+		type: "kill",
+		title: "Убейте Джа-зара, Стража Бездны",
+		entity: "abyssalcraft:jzahar",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "50453ccc",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

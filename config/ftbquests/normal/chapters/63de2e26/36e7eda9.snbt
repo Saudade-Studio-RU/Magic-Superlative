@@ -1,0 +1,22 @@
+{
+	icon: "twilightforest:trophy 1 3",
+	x: 11.0d,
+	y: -2.0d,
+	description: "Адский-не ад",
+	dependencies: [
+		"23eb50e7"
+	],
+	hide: true,
+	tasks: [{
+		uid: "820fe0e9",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "2f6f8429",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

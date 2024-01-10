@@ -1,0 +1,35 @@
+{
+	title: "Любой булыжник x128",
+	x: -1.0d,
+	y: 5.0d,
+	can_repeat: true,
+	dependencies: [
+		"8a66a83f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "45a57576",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "cobblestone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any cobblestone"
+				}
+			}
+		}],
+		count: 128L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "3a64d71b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

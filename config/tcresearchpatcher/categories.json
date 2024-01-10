@@ -1,0 +1,21 @@
+[
+  {
+    "key": "SUPERLATIVE",
+    "requirement": "FIRSTSTEPS",
+    "aspects": {
+      "caeles": 25,
+      "auram": 8,
+      "fluctus": 8,
+      "alienis": 8,
+      "aer": 3,
+      "perditio": 3,
+      "terra": 3, 
+      "ignis": 3, 
+      "ordo": 3, 
+      "aqua": 3
+    },
+    "icon": "arcanearchives:textures/items/item_manifest.png",
+    "background": "thaumcraft:textures/gui/gui_research_back_7.jpg",
+    "backgroundOverlay": "thaumcraft:textures/gui/gui_research_back_over.png"
+  }
+]

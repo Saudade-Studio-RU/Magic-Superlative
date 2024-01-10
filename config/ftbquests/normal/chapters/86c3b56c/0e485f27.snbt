@@ -1,0 +1,30 @@
+{
+	title: "Создайте Некрономикон из Бездной Пустоши",
+	x: 12.0d,
+	y: -2.0d,
+	description: "Понимание глубже",
+	dependencies: [
+		"9304cb15"
+	],
+	hide: true,
+	tasks: [{
+		uid: "77a0bcef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:necronomicon_cor",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1ec55703",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

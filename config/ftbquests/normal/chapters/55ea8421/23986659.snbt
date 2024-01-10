@@ -1,0 +1,26 @@
+{
+	title: "Зенит ваших мечей",
+	x: -6.0d,
+	y: -3.0d,
+	description: "Ультимативное оружие",
+	text: [
+		"Изучите многие аспекты мира что бы получить разные мечи. Но в конце получите его"
+	],
+	tasks: [{
+		uid: "270b554e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "witherskelefix:blade2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "61eb31c1",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

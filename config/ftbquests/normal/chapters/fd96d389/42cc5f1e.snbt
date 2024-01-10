@@ -1,0 +1,29 @@
+{
+	title: "Создайте Резонатор света",
+	x: 16.5d,
+	y: -0.5d,
+	description: "Помощь в поисках света",
+	dependencies: [
+		"843b67eb"
+	],
+	tasks: [{
+		uid: "b7cea7e8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemskyresonator",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dc030241",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

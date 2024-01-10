@@ -1,0 +1,35 @@
+{
+	title: "Создайте Сигил воздуха",
+	x: -6.0d,
+	y: 3.0d,
+	description: "Рывки за кровь",
+	dependencies: [
+		"5fd23f9f"
+	],
+	tasks: [{
+		uid: "9d3725c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_air",
+			tag: {
+				binding: {
+					name: "ShadowKing21228",
+					id: {
+						L: -8180240267111859189L,
+						M: -3319811669840801797L
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "56349840",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,52 @@
+{
+	title: "Открытие лутбоксов X",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "crate4"
+		}
+	},
+	x: -22.0d,
+	y: -5.0d,
+	shape: "circle",
+	description: "Сундук мага Высшей степени!",
+	dependencies: [
+		"755df67f",
+		"095bb958",
+		"1c4a1d4e",
+		"a482e424",
+		"b6548d7c",
+		"9a352f59",
+		"dd3923f6",
+		"122b9344",
+		"cfb0741f",
+		"45c232f4",
+		"258f6af9",
+		"1b89de90",
+		"5fb68e2c"
+	],
+	tasks: [{
+		uid: "ae9dd2ce",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "e0ec4350",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate4"
+			}
+		}
+	},
+	{
+		uid: "9ea6f32a",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate4"
+			}
+		}
+	}]
+}

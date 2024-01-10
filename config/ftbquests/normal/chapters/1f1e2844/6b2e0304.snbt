@@ -1,0 +1,26 @@
+{
+	title: "Создайте Тюрфинг",
+	x: 20.0d,
+	y: 2.0d,
+	description: "Отрицательная логика",
+	dependencies: [
+		"49ed73f8"
+	],
+	tasks: [{
+		uid: "f605aad7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:tyrfing"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7098b949",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

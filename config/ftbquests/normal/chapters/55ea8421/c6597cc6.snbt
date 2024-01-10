@@ -1,0 +1,67 @@
+{
+	title: "Соберите все Самородные кластеры",
+	x: 3.0d,
+	y: -7.0d,
+	description: "Всё и вся по 2x!",
+	tasks: [{
+		uid: "c991a4d3",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cluster 1 7"
+		}]
+	},
+	{
+		uid: "63b7e573",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cluster"
+		}]
+	},
+	{
+		uid: "588852e5",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cluster 1 1"
+		}]
+	},
+	{
+		uid: "767099c2",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cluster 1 2"
+		}]
+	},
+	{
+		uid: "5afdf121",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cluster 1 3"
+		}]
+	},
+	{
+		uid: "63001954",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cluster 1 4"
+		}]
+	},
+	{
+		uid: "3f4d931e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cluster 1 5"
+		}]
+	},
+	{
+		uid: "d413af3e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:cluster 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "98210076",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

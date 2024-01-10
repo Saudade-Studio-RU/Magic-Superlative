@@ -1,0 +1,32 @@
+{
+	title: "Создайте Предсказатель ритуала",
+	x: 12.0d,
+	y: -3.0d,
+	description: "Так вот как их делать!",
+	text: [
+		"Что бы увидеть какие ритуальные камни необходимы, наведите с необходимым ритуалом на ГРК (MRS в Науке Крови)"
+	],
+	dependencies: [
+		"d8f0bbf7"
+	],
+	tasks: [{
+		uid: "15236a3c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:ritual_diviner",
+			tag: {
+				current_ritual: "jumping",
+				direction: 5
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "52800bfd",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

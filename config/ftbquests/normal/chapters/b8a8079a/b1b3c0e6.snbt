@@ -1,0 +1,31 @@
+{
+	title: "Мини-сумка",
+	x: -5.0d,
+	y: 7.5d,
+	description: "Все линзы в одном месте",
+	dependencies: [
+		"f4a1f4bc"
+	],
+	tasks: [{
+		uid: "05fa8f85",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:focus_pouch"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "aee7a54a",
+		type: "item",
+		item: "thaumcraft:loot_bag"
+	},
+	{
+		uid: "77fee693",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

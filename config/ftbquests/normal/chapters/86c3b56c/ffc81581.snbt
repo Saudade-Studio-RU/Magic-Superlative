@@ -1,0 +1,26 @@
+{
+	title: "Создайте Посох Расщепления",
+	x: 9.0d,
+	y: 2.0d,
+	description: "Высасывание тьмы",
+	dependencies: [
+		"546864e6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d663bf4b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:drainstaff"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b5aeb511",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

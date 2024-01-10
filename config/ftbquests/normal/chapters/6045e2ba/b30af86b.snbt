@@ -1,0 +1,28 @@
+{
+	title: "Создайте бассейн маны ",
+	x: 7.0d,
+	y: 1.5d,
+	description: "Наполнение маной",
+	dependencies: [
+		"8302e288"
+	],
+	hide: true,
+	tasks: [{
+		uid: "24f32c9f",
+		type: "item",
+		items: [{
+			item: "botania:pool"
+		}]
+	}],
+	rewards: [{
+		uid: "40072993",
+		type: "item",
+		item: "botania:livingwood",
+		count: 8
+	},
+	{
+		uid: "583e848b",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

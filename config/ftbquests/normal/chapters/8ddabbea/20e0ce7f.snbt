@@ -1,0 +1,21 @@
+{
+	title: "Создайте Плавильню из Мифриллиума",
+	x: 0.0d,
+	y: -9.0d,
+	description: "Без потерь",
+	dependencies: [
+		"643c4a4a"
+	],
+	tasks: [{
+		uid: "298b1dc6",
+		type: "item",
+		items: [{
+			item: "thaumadditions:mithrillium_smelter"
+		}]
+	}],
+	rewards: [{
+		uid: "fb25d632",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

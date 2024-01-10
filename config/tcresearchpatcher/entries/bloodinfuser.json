@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "key": "BLOODINFUSER",
+      "name": "research.BLOODINFUSER.title",
+      "icons": [ "evilcraft:textures/blocks/blood_infuser_north_on.png" ],
+      "category": "SUPERLATIVE",
+      "location": [ 4, 0 ],
+      "parents": [ "ESSENTIASMELTER", "BLOODALTAR" ],
+      "stages": [
+        {
+          "text": "research.BLOODINFUSER.text.stage.1",
+          "required_craft": [ "evilcraft:blood_infusion_core" ],
+          "required_knowledge": [ "THEORY;INFUSION;1", "THEORY;ALCHEMY;1", "OBSERVATION;BASICS;1" ]
+        },
+        {
+          "text": "research.BLOODINFUSER.text.stage.2",
+          "recipes": [ "evilcraft:blood_infuser" ],
+          "warp": 1
+        }
+      ]
+    }
+      ]
+    }

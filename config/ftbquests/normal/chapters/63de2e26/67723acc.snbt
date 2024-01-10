@@ -1,0 +1,23 @@
+{
+	title: "Выплавьте слитки железного дерева",
+	x: 0.0d,
+	y: -2.0d,
+	description: "Лучше, чем железо",
+	dependencies: [
+		"109742bd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7216539e",
+		type: "item",
+		items: [{
+			item: "twilightforest:ironwood_ingot"
+		}],
+		count: 24L
+	}],
+	rewards: [{
+		uid: "d24e6808",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

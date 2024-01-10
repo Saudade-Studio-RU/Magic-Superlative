@@ -1,0 +1,23 @@
+{
+	title: "Развитие големов",
+	x: 4.0d,
+	y: 7.0d,
+	shape: "square",
+	description: "Полуискуственный интеллект",
+	dependencies: [
+		"629b4e3d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8b951979",
+		type: "item",
+		items: [{
+			item: "thaumcraft:mind 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "061ba5a0",
+		type: "xp",
+		xp: 1000
+	}]
+}

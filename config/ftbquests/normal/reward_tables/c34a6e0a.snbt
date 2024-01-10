@@ -1,0 +1,135 @@
+{
+	title: "Редкий сундук мага-адепта",
+	icon: "thaumicaugmentation:warded_chest",
+	loot_size: 2,
+	use_title: true,
+	rewards: [{
+		xp_levels: 5,
+		type: "xp_levels",
+		weight: 2
+	},
+	{
+		ftb_money: 15L,
+		type: "ftbmoney:money",
+		weight: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:blood_extractor",
+			tag: {
+				Fluid: {
+					FluidName: "evilcraftblood",
+					Amount: 10000
+				},
+				capacity: 10000
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {
+				souls: 64.0d,
+				demonWillType: "corrosive"
+			}
+		}
+	},
+	{
+		item: "naturesaura:infused_iron",
+		count: 2,
+		random_bonus: 3,
+		weight: 3
+	},
+	{
+		item: "minecraft:diamond",
+		count: 4,
+		random_bonus: 4,
+		weight: 2
+	},
+	{
+		item: "embers:ingot_lead",
+		count: 4,
+		random_bonus: 6,
+		weight: 5
+	},
+	{
+		item: "thaumcraft:ingot 1 2",
+		count: 4,
+		random_bonus: 3,
+		weight: 3
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:box_of_eternal_closure"
+		}
+	},
+	{
+		item: "iceandfire:witherbone",
+		weight: 3
+	},
+	{
+		item: "botania:blacklotus",
+		count: 10,
+		weight: 2
+	},
+	{
+		item: {
+			id: "extrabotany:rewardbag",
+			tag: {
+				weight: 76
+			},
+			Damage: 1s
+		}
+	},
+	{
+		item: "twilightforest:fiery_ingot",
+		count: 4
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "astralsorcery.liquidstarlight",
+				Amount: 1000
+			}
+		},
+		weight: 4
+	},
+	{
+		item: "embers:crystal_ember",
+		count: 4,
+		random_bonus: 8,
+		weight: 3
+	},
+	{
+		item: "abyssalcraft:shadowgem",
+		random_bonus: 2,
+		weight: 3
+	},
+	{
+		item: "thaumcraft:loot_bag 1 1",
+		weight: 3
+	}],
+	loot_crate: {
+		string_id: "2crate",
+		item_name: "Cундук мага-адепта",
+		color: 11535078,
+		drops: {
+			boss: 300,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

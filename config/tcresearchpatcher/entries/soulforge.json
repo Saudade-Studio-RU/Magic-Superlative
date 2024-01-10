@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "SOULFORGE",
+      "name": "research.SOULFORGE.title",
+      "icons": [ "evilcraft:spirit_furnace" ],
+      "category": "SUPERLATIVE",
+      "location": [ 6, -2 ],
+      "parents": [ "BLOODINFUSER", "VEGFOCUS" ],
+      "stages": [
+        {
+          "text": "research.SOULFORGE.text.stage.1",
+          "required_knowledge": [ "THEORY;ARTIFICE;3", "OBSERVATION;ARTIFICE;5", "OBSERVATION;SUPERLATIVE;5" ]
+        },
+        {
+          "text": "research.SOULFORGE.text.stage.2",
+          "recipes": [ "evilcraft:dark_blood_brick", "thaumcraft:salis_mundus" ]
+        }
+      ]
+    }
+  ]
+}

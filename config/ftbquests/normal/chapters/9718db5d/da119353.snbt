@@ -1,0 +1,21 @@
+{
+	title: "Эволюция плиток 4",
+	x: 0.0d,
+	y: 15.0d,
+	description: "Максимальный уровень",
+	dependencies: [
+		"0cb6218c"
+	],
+	tasks: [{
+		uid: "2fae75ce",
+		type: "item",
+		items: [{
+			item: "bloodmagic:slate 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "860ec154",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "Сделайте 5 уровень Кровавого алтаря",
+	icon: "bloodmagic:altar",
+	x: 16.0d,
+	y: 4.0d,
+	description: "Бесконечность не предел?",
+	dependencies: [
+		"01a15b9e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "081fddd8",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}],
+		count: 52L
+	},
+	{
+		uid: "06537e1b",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "ec0ebced",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Слиток Элементия x8",
+	x: -5.0d,
+	y: 1.0d,
+	can_repeat: true,
+	dependencies: [
+		"cd1a2244"
+	],
+	optional: true,
+	tasks: [{
+		uid: "ed365e7d",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 7"
+		}],
+		count: 8L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "afb30a71",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

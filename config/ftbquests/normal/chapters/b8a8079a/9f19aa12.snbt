@@ -1,0 +1,26 @@
+{
+	title: "Создайте Прото клей",
+	x: 11.0d,
+	y: -23.5d,
+	description: "Без переключений",
+	dependencies: [
+		"2f0084b8"
+	],
+	tasks: [{
+		uid: "f4d80b8c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ichoriumkit:proto_clay"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bb3c74bc",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

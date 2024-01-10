@@ -1,0 +1,22 @@
+{
+	title: "Выплавите Очищенный коралловый слиток",
+	x: 12.0d,
+	y: -4.0d,
+	description: "Скопление глубин",
+	dependencies: [
+		"0e485f27"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e3c8b797",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:cingot"
+		}]
+	}],
+	rewards: [{
+		uid: "9a4c437e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

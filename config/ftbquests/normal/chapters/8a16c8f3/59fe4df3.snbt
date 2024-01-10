@@ -1,0 +1,61 @@
+{
+	title: "Найдите все старые Артефакты в замке и используйте их",
+	x: 4.0d,
+	y: -7.0d,
+	description: "Найдя один, используйте что бы найти другой",
+	dependencies: [
+		"b1d4a2e9"
+	],
+	tasks: [{
+		uid: "12d8389d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:eldritch_lock_key"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5326fe71",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:eldritch_lock_key",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "41562288",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:eldritch_lock_key",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "82cb71c9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:eldritch_lock_key",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6db86f3d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

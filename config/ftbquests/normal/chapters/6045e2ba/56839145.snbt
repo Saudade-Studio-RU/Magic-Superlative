@@ -1,0 +1,22 @@
+{
+	title: "Создайте Ботаническую варочную стойку",
+	x: 14.0d,
+	y: 4.5d,
+	description: "Мана вместо порошка и лучший результат",
+	dependencies: [
+		"db02bf54"
+	],
+	tasks: [{
+		uid: "aa61dae7",
+		type: "item",
+		items: [{
+			id: "botania:brewery",
+			tag: {}
+		}]
+	}],
+	rewards: [{
+		uid: "98019b4b",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

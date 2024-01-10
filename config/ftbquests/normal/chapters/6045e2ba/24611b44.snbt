@@ -1,0 +1,21 @@
+{
+	title: "МанаАлхимияИзмерений",
+	x: 10.5d,
+	y: -3.0d,
+	description: "Вещи из другого мира через ману!",
+	dependencies: [
+		"4163cc02"
+	],
+	tasks: [{
+		uid: "80ab2f6d",
+		type: "item",
+		items: [{
+			item: "extrabotany:dimensioncatalyst"
+		}]
+	}],
+	rewards: [{
+		uid: "689add72",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

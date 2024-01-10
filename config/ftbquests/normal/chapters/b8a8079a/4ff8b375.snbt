@@ -1,0 +1,31 @@
+{
+	title: "Сделайте Кольцо жизненной силы",
+	x: 15.5d,
+	y: -8.5d,
+	description: "Больше никаких отравлений и иссушений!",
+	dependencies: [
+		"09aaed0b",
+		"61862465"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2e44b463",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:verdant_charm",
+			tag: {
+				tc.charge: 200
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "04831433",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Создайте Чесночную инъекцию",
+	x: 5.0d,
+	y: -2.0d,
+	description: "Наполните кровь иммунитетом",
+	dependencies: [
+		"592a68f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0707a058",
+		type: "item",
+		items: [{
+			item: "vampirism:injection 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "58beecdf",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

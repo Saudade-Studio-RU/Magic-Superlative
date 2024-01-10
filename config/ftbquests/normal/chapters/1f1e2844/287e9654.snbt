@@ -1,0 +1,29 @@
+{
+	title: "Создайте Измерители",
+	x: 3.0d,
+	y: 3.0d,
+	description: "Ну хоть какая то информация",
+	dependencies: [
+		"5f0d7246"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ef137518",
+		type: "item",
+		items: [{
+			item: "embers:ember_gauge"
+		}]
+	},
+	{
+		uid: "8ef2e094",
+		type: "item",
+		items: [{
+			item: "embers:fluid_gauge"
+		}]
+	}],
+	rewards: [{
+		uid: "4a0edc6e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Убейте Гидру обычного мира",
+	x: -3.0d,
+	y: 1.5d,
+	description: "Регенерация и живучесть",
+	dependencies: [
+		"7986f9bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "92ca4378",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:hydra_heart"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bf5ac44c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

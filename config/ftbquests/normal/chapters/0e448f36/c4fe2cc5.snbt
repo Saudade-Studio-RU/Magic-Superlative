@@ -1,0 +1,75 @@
+{
+	title: "Сделайте Улучшенный комплект Охотника",
+	x: 11.0d,
+	y: -6.0d,
+	description: "Золотая середина",
+	dependencies: [
+		"d7a84dae"
+	],
+	optional: true,
+	tasks: [{
+		uid: "088b83d3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:hunter_coat_head",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5a688219",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:hunter_coat_chest",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ad4527e0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:hunter_coat_legs",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "01d6c999",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:hunter_coat_feet",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f8914956",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

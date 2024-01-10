@@ -1,0 +1,30 @@
+{
+	title: "Создайте улучшение двигателя",
+	x: 8.0d,
+	y: -1.0d,
+	dependencies: [
+		"fa4e8c4c",
+		"69d2b155"
+	],
+	tasks: [{
+		uid: "8d9ed707",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					energy: {
+						energy: 0L
+					}
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:elytra_harness_augment"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d41969d2",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

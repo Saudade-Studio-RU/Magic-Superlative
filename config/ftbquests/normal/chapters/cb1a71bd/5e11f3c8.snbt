@@ -1,0 +1,61 @@
+{
+	title: "Начните изучение Кровавой магии",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "guideapi:bloodmagic-guide",
+		tag: {
+			G-API_Category_Page: 0,
+			G-API_Category: 1,
+			G-API_Entry_Page: 0,
+			G-API_Page: 8
+		}
+	},
+	x: 4.0d,
+	y: 0.0d,
+	description: "Начните изучение алхимическое изучение крови, алтарей и наполнения",
+	dependencies: [
+		"0e57d102"
+	],
+	tasks: [{
+		uid: "d4cd857b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "guideapi:bloodmagic-guide",
+			tag: {
+				G-API_Category_Page: 0,
+				G-API_Category: 1,
+				G-API_Entry_Page: 0,
+				G-API_Page: 8
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bca135a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:monster_soul"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c523e3d8",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sacrificial_dagger",
+			tag: {}
+		}
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Создайте Самоцвет улучшения",
+	x: 20.0d,
+	y: 5.0d,
+	description: "Приспрособление брони",
+	text: [
+		"Он позволяет вам, держа его в руках, запомнить нанесённый вам урон, затем, совместив часть с плащом, вы сможете уменьшить наносимый урон соответствующего типа. ",
+		"Что бы соединить их, используйте Нить в крафте"
+	],
+	dependencies: [
+		"0e6de70d"
+	],
+	tasks: [{
+		uid: "c656e6f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:inflictor_gem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d2482903",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

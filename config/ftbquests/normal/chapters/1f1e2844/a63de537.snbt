@@ -1,0 +1,24 @@
+{
+	title: "Создайте любое улучшение для оружия дальнего боя",
+	x: 26.0d,
+	y: -4.0d,
+	description: "Дробовик или снайперка?",
+	dependencies: [
+		"1c4a1d4e"
+	],
+	tasks: [{
+		uid: "726e4cb2",
+		type: "item",
+		items: [{
+			item: "embers:diffraction_barrel"
+		},
+		{
+			item: "embers:focal_lens"
+		}]
+	}],
+	rewards: [{
+		uid: "54d3b86f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

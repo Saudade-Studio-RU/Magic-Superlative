@@ -1,0 +1,201 @@
+{
+	title: "Обычный сундук мага",
+	icon: "ironchest:iron_chest 1 7",
+	loot_size: 2,
+	use_title: true,
+	rewards: [{
+		item: "minecraft:iron_ingot",
+		count: 2,
+		weight: 5
+	},
+	{
+		item: "astralsorcery:itemcraftingcomponent",
+		count: 4,
+		weight: 5
+	},
+	{
+		item: "thaumcraft:ingot",
+		count: 2,
+		weight: 2
+	},
+	{
+		item: "botania:manaresource",
+		count: 2,
+		weight: 2
+	},
+	{
+		item: "minecraft:ender_pearl",
+		count: 2,
+		weight: 2
+	},
+	{
+		team_reward: false,
+		item: "abyssalcraft:abyingot",
+		count: 2
+	},
+	{
+		item: "minecraft:redstone",
+		count: 6,
+		weight: 5
+	},
+	{
+		item: "minecraft:emerald",
+		weight: 2
+	},
+	{
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "aer"
+				}]
+			}
+		},
+		count: 4,
+		weight: 4
+	},
+	{
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "terra"
+				}]
+			}
+		},
+		count: 4,
+		weight: 4
+	},
+	{
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "ignis"
+				}]
+			}
+		},
+		count: 4,
+		weight: 4
+	},
+	{
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "aqua"
+				}]
+			}
+		},
+		count: 4,
+		weight: 4
+	},
+	{
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "perditio"
+				}]
+			}
+		},
+		count: 4,
+		weight: 4
+	},
+	{
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "ordo"
+				}]
+			}
+		},
+		count: 4,
+		weight: 4
+	},
+	{
+		ftb_money: 10L,
+		type: "ftbmoney:money",
+		weight: 3
+	},
+	{
+		item: "bloodmagic:slate",
+		weight: 3
+	},
+	{
+		item: "embers:ingot_copper",
+		count: 4,
+		weight: 5
+	},
+	{
+		item: "ebwizardry:magic_crystal",
+		count: 4,
+		weight: 5
+	},
+	{
+		item: "thaumcraft:loot_bag",
+		weight: 3
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:ironwood_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 32s
+				}]
+			}
+		},
+		weight: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:ironwood_axe",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 35s
+				}]
+			}
+		},
+		weight: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:ironwood_shovel",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 34s
+				}]
+			}
+		},
+		weight: 2
+	}],
+	loot_crate: {
+		string_id: "1crate",
+		item_name: "Сундук мага",
+		color: 7549365,
+		drops: {
+			boss: 1000,
+			passive: 1,
+			monster: 3
+		}
+	}
+}

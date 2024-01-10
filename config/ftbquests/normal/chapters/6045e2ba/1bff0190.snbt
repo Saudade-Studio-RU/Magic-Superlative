@@ -1,0 +1,23 @@
+{
+	title: "Создайте Гайя пилоны",
+	x: 22.5d,
+	y: -3.0d,
+	description: "Что бы призвать его",
+	dependencies: [
+		"8a0dfbc9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f97f7229",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 2"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "cf99526a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

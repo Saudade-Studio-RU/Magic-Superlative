@@ -1,0 +1,18 @@
+{
+	title: "Разное",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "botania:dice",
+		tag: {
+			soulbindUUID: "d1eda8e0-19f1-4ffb-8e79-f2d15d737c0b"
+		}
+	},
+	description: [
+		"Отдохните от исследований и займитесь увлекательными испытаниями"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,22 @@
+{
+	title: "Сооздайте Небесные врата",
+	x: 14.0d,
+	y: 6.5d,
+	description: "Лучший Фаст тревел в вашей жизни",
+	dependencies: [
+		"711fb32c"
+	],
+	tasks: [{
+		uid: "5b265173",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcelestialgateway"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "762abcf2",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Создайте блоки вечной воды",
+	x: 5.0d,
+	y: 2.0d,
+	description: "Всегда с собой",
+	dependencies: [
+		"bb3d0cb3"
+	],
+	tasks: [{
+		uid: "08c5e66f",
+		type: "item",
+		items: [{
+			item: "evilcraft:eternal_water_block"
+		}]
+	}],
+	rewards: [{
+		uid: "4aaa0d70",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

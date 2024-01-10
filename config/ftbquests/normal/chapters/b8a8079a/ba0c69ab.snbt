@@ -1,0 +1,21 @@
+{
+	title: "Обойдёмся и без лестниц",
+	x: 10.0d,
+	y: -2.5d,
+	description: "Ведь есть магия!",
+	dependencies: [
+		"6746ddd4"
+	],
+	tasks: [{
+		uid: "a8d3e1cc",
+		type: "item",
+		items: [{
+			item: "thaumcraft:levitator"
+		}]
+	}],
+	rewards: [{
+		uid: "b4f26aad",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

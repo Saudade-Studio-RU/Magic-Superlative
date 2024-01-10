@@ -1,0 +1,22 @@
+{
+	title: "Создайте Кровавый Алтарь!",
+	x: 0.0d,
+	y: 2.0d,
+	description: "Наполнение кровью... ",
+	dependencies: [
+		"8fa9d29c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "48bdb0fc",
+		type: "item",
+		items: [{
+			item: "bloodmagic:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "274e3c59",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

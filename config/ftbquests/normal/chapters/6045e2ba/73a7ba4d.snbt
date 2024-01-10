@@ -1,0 +1,21 @@
+{
+	x: 25.5d,
+	y: -3.0d,
+	description: "Новый уровень",
+	dependencies: [
+		"522b5e82"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ee4c2eda",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "f1c576d9",
+		type: "ftbmoney:money",
+		ftb_money: 45L
+	}]
+}

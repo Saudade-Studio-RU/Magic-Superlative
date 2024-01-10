@@ -1,0 +1,28 @@
+{
+	title: "Рунический алтарь",
+	x: 14.0d,
+	y: 0.0d,
+	description: "Создание рун для вас",
+	dependencies: [
+		"d5f03da1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4bbd76af",
+		type: "item",
+		items: [{
+			item: "botania:runealtar"
+		}]
+	}],
+	rewards: [{
+		uid: "7cbdf910",
+		type: "item",
+		item: "botania:livingrock",
+		count: 8
+	},
+	{
+		uid: "1466f129",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

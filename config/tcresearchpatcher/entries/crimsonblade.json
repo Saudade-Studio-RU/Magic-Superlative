@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "key": "CRIMSONBLADE",
+      "name": "research.CRIMSONBLADE.title",
+      "icons": [ "thaumcraft:crimson_blade" ],
+      "category": "SUPERLATIVE",
+      "location": [ 10, 0 ],
+      "meta": [ "SPIKY" ],
+      "parents": [ "PIERVEGFOCUS" ],
+      "stages": [
+        {
+          "text": "research.CRIMSONBLADE.text.stage.1",
+          "required_knowledge": [ "THEORY;BASICS;3", "THEORY;ELDRITCH;3", "OBSERVATION;BASICS;15", "OBSERVATION;ELDRITCH;15", "OBSERVATION;SUPERLATIVE;15" ]
+        },
+        {
+          "text": "research.CRIMSONBLADE.text.stage.2",
+          "recipes": [ "thaumcraft:crimson_blade" ],
+          "warp": 3
+        }
+      ]
+    }
+  ]
+}

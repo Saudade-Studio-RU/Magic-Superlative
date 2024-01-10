@@ -1,0 +1,22 @@
+{
+	title: "Получите первый Эмбер-кристалл",
+	x: 7.0d,
+	y: 0.0d,
+	description: "Основа модификации",
+	dependencies: [
+		"fe7a1065"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f3059fea",
+		type: "item",
+		items: [{
+			item: "embers:crystal_ember"
+		}]
+	}],
+	rewards: [{
+		uid: "619ed1ac",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

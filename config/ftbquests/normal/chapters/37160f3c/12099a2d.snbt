@@ -1,0 +1,28 @@
+{
+	title: "Создайте Спектральные очки",
+	x: 13.0d,
+	y: -1.5d,
+	description: "Видимость духов",
+	dependencies: [
+		"9a352f59",
+		"3b05fb25"
+	],
+	hide: true,
+	tasks: [{
+		uid: "eea5a614",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:spectral_glasses"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5ce7bac5",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

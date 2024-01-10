@@ -1,0 +1,38 @@
+{
+	title: "Создайте любой инструмент",
+	x: 11.0d,
+	y: 6.0d,
+	description: "Потребляющий Эмбер энергию",
+	dependencies: [
+		"f0a2ee68"
+	],
+	tasks: [{
+		uid: "b444130e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:grandhammer"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:axe_clockwork"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:pickaxe_clockwork"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6c2f9415",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

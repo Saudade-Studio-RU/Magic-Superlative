@@ -1,0 +1,50 @@
+{
+	x: 10.0d,
+	y: -3.0d,
+	description: "Инструменты с природой",
+	dependencies: [
+		"956d9ae8"
+	],
+	tasks: [{
+		uid: "a92842a1",
+		type: "item",
+		title: "Создайте любой Инструмент Ботаника",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:infused_iron_sword"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:infused_iron_pickaxe"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:infused_iron_axe"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:infused_iron_shovel"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:infused_iron_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8b53c6b8",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

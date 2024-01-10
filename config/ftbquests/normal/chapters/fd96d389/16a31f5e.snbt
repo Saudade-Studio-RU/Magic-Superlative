@@ -1,0 +1,27 @@
+{
+	title: "Создайте Инструмент связывания",
+	x: 15.0d,
+	y: 3.0d,
+	description: "Управление светом",
+	dependencies: [
+		"a1011c53"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fce42c4f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemlinkingtool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "74608642",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

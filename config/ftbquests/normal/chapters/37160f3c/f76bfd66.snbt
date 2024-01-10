@@ -1,0 +1,21 @@
+{
+	title: "Создайте Самоцвет тёмной силы",
+	x: 5.0d,
+	y: 1.0d,
+	description: "Бросьте тёмный самоцвет в пять блоков разлитой крови",
+	dependencies: [
+		"23cf118f"
+	],
+	tasks: [{
+		uid: "9a0ed9c7",
+		type: "item",
+		items: [{
+			item: "evilcraft:dark_power_gem"
+		}]
+	}],
+	rewards: [{
+		uid: "abf84997",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Создайте первую Драконосталь",
+	x: 8.5d,
+	y: 2.0d,
+	description: "Что может быть лучше?",
+	dependencies: [
+		"1b7cbd47"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "612063ba",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonsteel_fire_ingot"
+		}]
+	},
+	{
+		uid: "30643fb6",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonsteel_ice_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "f670e70e",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "key": "DREADKATANA",
+      "name": "research.DREADKATANA.title",
+      "icons": [ "abyssalcraft:dreadkatana" ],
+      "category": "SUPERLATIVE",
+      "location": [ 10, 2 ],
+      "meta": [ "SPIKY" ],
+      "parents": [ "ABKEY" ],
+      "stages": [
+        {
+          "text": "research.DREADKATANA.text.stage.1",
+          "required_knowledge": [ "THEORY;BASICS;3", "THEORY;ELDRITCH;1", "OBSERVATION;BASICS;10", "OBSERVATION;ELDRITCH;10", "OBSERVATION;SUPERLATIVE;10" ]
+        },
+        {
+          "text": "research.DREADKATANA.text.stage.2",
+          "recipes": [ "abyssalcraft:dreadkatana" ],
+          "warp": 3
+        }
+      ]
+    }
+  ]
+}

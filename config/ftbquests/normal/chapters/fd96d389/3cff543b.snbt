@@ -1,0 +1,28 @@
+{
+	title: "Создайте Небесный алтарь",
+	x: 14.0d,
+	y: 3.0d,
+	description: "Верстак ещё лучше",
+	dependencies: [
+		"a1011c53",
+		"711fb32c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6987ee88",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a0903313",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

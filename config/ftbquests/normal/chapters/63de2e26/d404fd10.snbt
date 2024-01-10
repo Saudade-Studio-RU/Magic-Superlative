@@ -1,0 +1,22 @@
+{
+	title: "Соберите Рыцарский металл",
+	x: 8.5d,
+	y: -3.5d,
+	description: "Что это за осколки из гоблинов?",
+	dependencies: [
+		"23eb50e7"
+	],
+	tasks: [{
+		uid: "a155260b",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_ingot"
+		}],
+		count: 20L
+	}],
+	rewards: [{
+		uid: "09d4ea59",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

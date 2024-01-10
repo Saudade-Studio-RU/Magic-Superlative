@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	description: "Простейшее повторение",
+	dependencies: [
+		"629b4e3d"
+	],
+	tasks: [{
+		uid: "acb78b09",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 13"
+		}]
+	}],
+	rewards: [{
+		uid: "71d5efce",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

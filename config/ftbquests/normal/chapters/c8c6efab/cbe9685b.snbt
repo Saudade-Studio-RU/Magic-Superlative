@@ -1,0 +1,23 @@
+{
+	title: "Слиток манастали x8",
+	x: -5.0d,
+	y: -1.0d,
+	can_repeat: true,
+	dependencies: [
+		"cd1a2244"
+	],
+	optional: true,
+	tasks: [{
+		uid: "6053a58d",
+		type: "item",
+		items: [{
+			item: "botania:manaresource"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "3a755ba0",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

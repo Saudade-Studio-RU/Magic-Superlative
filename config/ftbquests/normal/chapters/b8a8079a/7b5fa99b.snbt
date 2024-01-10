@@ -1,0 +1,32 @@
+{
+	title: "GOD LIKE",
+	x: 7.0d,
+	y: -29.0d,
+	description: "Вы сделали их все? Вот же безумец...",
+	dependencies: [
+		"21e808ef",
+		"96c0f6b8",
+		"7b40c799",
+		"45f4d41d",
+		"2f91e02a",
+		"1b224c9e",
+		"3f3ea042",
+		"5f88a227"
+	],
+	tasks: [{
+		uid: "9dd401a0",
+		type: "checkmark",
+		icon: "ichoriumkit:bedrock_portal"
+	}],
+	rewards: [{
+		uid: "459805ee",
+		type: "command",
+		title: "/gamemode 1",
+		command: "/say You can write gamemode without me, Player. But, you very cool. CONGRATULATIONS! I really hope you enjoyed this adventure."
+	},
+	{
+		uid: "5bfb52c1",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

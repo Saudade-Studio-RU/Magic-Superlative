@@ -1,0 +1,22 @@
+{
+	title: "Создайте Пепельный постамент",
+	x: 17.0d,
+	y: 0.0d,
+	description: "Ихор в пыль - истинная выгода!",
+	dependencies: [
+		"2aa8a7b4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0213b78f",
+		type: "item",
+		items: [{
+			item: "embers:cinder_plinth"
+		}]
+	}],
+	rewards: [{
+		uid: "41e02fbc",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

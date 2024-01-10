@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 9.5d,
+	description: "Голем-фермер",
+	dependencies: [
+		"f3a8159d"
+	],
+	tasks: [{
+		uid: "709daeec",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "42885526",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

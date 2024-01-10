@@ -1,0 +1,36 @@
+{
+	title: "Создайте любое оружие дальнего боя",
+	x: 9.0d,
+	y: 6.0d,
+	description: "Подребляющие Эмбер энергию",
+	text: [
+		"P.S. У них нет внутреннего заряда, они берут их у батареек напрямую"
+	],
+	dependencies: [
+		"f0a2ee68"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "c0ee9c71",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:staff_ember"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ignition_cannon"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5c714f35",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

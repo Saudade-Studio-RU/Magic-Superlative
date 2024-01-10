@@ -1,0 +1,34 @@
+{
+	title: "Помочь Шизофренику",
+	x: 2.0d,
+	y: -7.5d,
+	description: "Если вам, конечно, надо",
+	dependencies: [
+		"d5641f31"
+	],
+	tasks: [{
+		uid: "286a15bb",
+		type: "item",
+		items: [{
+			item: "thaumcraft:spa"
+		}]
+	},
+	{
+		uid: "1d22549c",
+		type: "item",
+		items: [{
+			item: "thaumcraft:sanity_soap"
+		}]
+	}],
+	rewards: [{
+		uid: "29fe308d",
+		type: "item",
+		item: "thaumcraft:sanity_soap",
+		count: 3
+	},
+	{
+		uid: "f420c6f8",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

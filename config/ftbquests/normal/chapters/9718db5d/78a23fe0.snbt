@@ -1,0 +1,109 @@
+{
+	title: "Создайте Любой живой инструмент",
+	x: -13.0d,
+	y: -3.5d,
+	description: "Эффективность за кровь",
+	dependencies: [
+		"09acd220"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "ee59f573",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:bound_sword",
+			tag: {
+				Unbreakable: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fdf8f9e0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:bound_pickaxe",
+			tag: {
+				Unbreakable: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8c006aed",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:bound_axe",
+			tag: {
+				Unbreakable: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ff54c3a9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:bound_shovel",
+			tag: {
+				Unbreakable: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "31a3f16d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodarsenal:bound_sickle",
+			tag: {
+				Unbreakable: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d85a664b",
+		type: "item",
+		items: [{
+			item: "bloodarsenal:bound_igniter"
+		}]
+	},
+	{
+		uid: "8f256c35",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodarsenal:bound_shears"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fa15c7a0",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

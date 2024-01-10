@@ -1,0 +1,32 @@
+{
+	title: "Mahou Tsukai",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				MAHOUTSUKAI_CASTER_UUIDLeast: 0L,
+				MAHOUTSUKAI_CASTER_NAME: "",
+				MAHOUTSUKAI_CASTER_UUIDMost: 0L
+			}
+		},
+		id: "mahoutsukai:scroll_projection",
+		tag: {
+			MAHOUTSUKAI_CASTER_UUIDLeast: 0L,
+			MAHOUTSUKAI_CASTER_NAME: "",
+			MAHOUTSUKAI_CASTER_UUIDMost: 0L
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: -0.5d,
+		y: -4.0d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/mahou_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

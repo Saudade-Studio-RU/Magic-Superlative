@@ -1,0 +1,29 @@
+{
+	title: "Создайте Витрину",
+	x: -3.0d,
+	y: 0.0d,
+	description: "Стенд для вещей",
+	dependencies: [
+		"780bfeac"
+	],
+	tasks: [{
+		uid: "11f75b74",
+		type: "item",
+		items: [{
+			id: "evilcraft:display_stand",
+			tag: {
+				displayStandType: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5001a7e8",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

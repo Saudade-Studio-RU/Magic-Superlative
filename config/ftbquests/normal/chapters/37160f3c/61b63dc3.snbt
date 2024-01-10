@@ -1,0 +1,27 @@
+{
+	title: "Создайте Кровавый эндер жемчуг",
+	x: 7.0d,
+	y: 4.5d,
+	description: "Телепорт за кровь",
+	dependencies: [
+		"bb3d0cb3"
+	],
+	tasks: [{
+		uid: "d6691294",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:blood_pearl_of_teleportation",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c20e5f8f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

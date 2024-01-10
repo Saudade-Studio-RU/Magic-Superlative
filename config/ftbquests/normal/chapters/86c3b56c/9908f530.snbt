@@ -1,0 +1,30 @@
+{
+	title: "Создайте Некрономикон из Ужасных Земель",
+	x: 19.0d,
+	y: -2.0d,
+	description: "Ужасные знания",
+	dependencies: [
+		"3e95023f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "290d0a27",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:necronomicon_dre",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bacaff88",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

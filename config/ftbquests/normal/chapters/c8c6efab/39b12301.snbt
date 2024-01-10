@@ -1,0 +1,23 @@
+{
+	x: 4.0d,
+	y: 3.0d,
+	can_repeat: true,
+	dependencies: [
+		"9623f406",
+		"83b8917a"
+	],
+	optional: true,
+	tasks: [{
+		uid: "000cae41",
+		type: "item",
+		items: [{
+			item: "thaumcraft:curio 1 6"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "00c19b74",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

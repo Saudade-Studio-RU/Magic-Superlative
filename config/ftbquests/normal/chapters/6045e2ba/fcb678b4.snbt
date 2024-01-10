@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: 2.5d,
+	description: "Мана из крови и душ",
+	dependencies: [
+		"ee38887d"
+	],
+	tasks: [{
+		uid: "23e7cd20",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "bloodyenchantress"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5daef0ce",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

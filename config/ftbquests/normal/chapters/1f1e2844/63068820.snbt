@@ -1,0 +1,22 @@
+{
+	title: "Создайте Эмбер-активатор",
+	x: 9.0d,
+	y: 0.0d,
+	description: "Из физической формы в энергетическую",
+	dependencies: [
+		"e2f4fb34"
+	],
+	hide: true,
+	tasks: [{
+		uid: "de73028f",
+		type: "item",
+		items: [{
+			item: "embers:ember_activator"
+		}]
+	}],
+	rewards: [{
+		uid: "1c4b4ac6",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

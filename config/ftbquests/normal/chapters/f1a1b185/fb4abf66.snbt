@@ -1,0 +1,22 @@
+{
+	title: "Убейте Сирену ",
+	x: 0.0d,
+	y: 3.0d,
+	description: "Пение лжи",
+	dependencies: [
+		"7986f9bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "869c7f76",
+		type: "item",
+		items: [{
+			item: "iceandfire:shiny_scales"
+		}]
+	}],
+	rewards: [{
+		uid: "3d53d547",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

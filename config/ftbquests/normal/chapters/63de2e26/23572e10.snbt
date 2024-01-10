@@ -1,0 +1,26 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "twilightforest:minotaur_axe_gold"
+	},
+	x: 8.5d,
+	y: 3.5d,
+	description: "Пора зачистить лабиринт!",
+	dependencies: [
+		"e2704c58"
+	],
+	tasks: [{
+		uid: "b2e0cf7a",
+		type: "kill",
+		title: "Убейте много Минотавров",
+		entity: "twilightforest:minotaur",
+		value: 20L
+	}],
+	rewards: [{
+		uid: "75a44aac",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

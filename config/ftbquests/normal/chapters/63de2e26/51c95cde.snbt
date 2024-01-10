@@ -1,0 +1,23 @@
+{
+	title: "Найдите Хижину друидов",
+	icon: "minecraft:mossy_cobblestone",
+	x: -2.0d,
+	y: 0.0d,
+	description: "Игнорируя броню, вы понимаете что вам очень больно",
+	dependencies: [
+		"109742bd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "71504521",
+		type: "kill",
+		title: "Убейте друидов",
+		entity: "twilightforest:skeleton_druid",
+		value: 15L
+	}],
+	rewards: [{
+		uid: "9816d942",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

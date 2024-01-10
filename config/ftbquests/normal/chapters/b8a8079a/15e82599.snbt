@@ -1,0 +1,28 @@
+{
+	title: "Эволюция линз",
+	x: -2.0d,
+	y: 7.5d,
+	shape: "circle",
+	description: "Больше и сильнее",
+	dependencies: [
+		"f4a1f4bc"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a3ef7551",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:focus_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7193dd0c",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

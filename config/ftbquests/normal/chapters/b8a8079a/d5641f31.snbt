@@ -1,0 +1,23 @@
+{
+	title: "Создайте магический жир",
+	x: 0.0d,
+	y: -5.5d,
+	description: "БОЛЬШЕ СВЕЧЕК БОГУ СВЕЧЕК",
+	dependencies: [
+		"69f29029"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6d4308c3",
+		type: "item",
+		items: [{
+			item: "thaumcraft:tallow"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "4ee72b36",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

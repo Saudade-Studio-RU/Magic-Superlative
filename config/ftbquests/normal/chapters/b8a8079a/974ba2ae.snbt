@@ -1,0 +1,45 @@
+{
+	title: "Постройте Наполняющую Матрицу",
+	x: 8.5d,
+	y: -7.0d,
+	description: "Активируйте её через Salis Mundus",
+	text: [
+		"Совет от автора сборки. При наполнении все предметы должны находится на пьедесталах симметрично, также как и объекты вокруг матрицы с пометкой Infision Stablizer (Пьедесталы, например). "
+	],
+	dependencies: [
+		"f08c17e8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "47014987",
+		type: "item",
+		items: [{
+			item: "thaumcraft:infusion_matrix"
+		}]
+	},
+	{
+		uid: "887a595f",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stone_arcane"
+		}],
+		count: 8L
+	},
+	{
+		uid: "a8d567f0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:pedestal_arcane"
+		}]
+	}],
+	rewards: [{
+		uid: "a8d89e06",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "553acdb6",
+		type: "item",
+		item: "ftbquests:progress_screen"
+	}]
+}

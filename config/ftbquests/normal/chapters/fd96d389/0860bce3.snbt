@@ -1,0 +1,29 @@
+{
+	title: "Найдите любой Свиток созвездия",
+	x: 0.0d,
+	y: 5.0d,
+	description: "Древние знания о небе",
+	dependencies: [
+		"4cb1bf7b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e917e545",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0cfaa512",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

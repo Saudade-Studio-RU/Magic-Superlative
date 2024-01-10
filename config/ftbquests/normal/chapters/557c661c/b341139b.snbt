@@ -1,0 +1,34 @@
+{
+	title: "Создайте Сияющий резервуар",
+	x: 8.0d,
+	y: -2.0d,
+	description: "Жидкости системы",
+	dependencies: [
+		"43d324b8"
+	],
+	tasks: [{
+		uid: "5010447a",
+		type: "item",
+		items: [{
+			item: "arcanearchives:radiant_tank"
+		}]
+	},
+	{
+		uid: "2458555c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "arcanearchives:radiant_amphora",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d1a457fd",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

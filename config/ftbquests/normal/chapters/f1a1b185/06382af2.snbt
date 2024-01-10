@@ -1,0 +1,104 @@
+{
+	title: "Убейте Самку Дракона  4 или 5 стадии",
+	x: 6.0d,
+	y: -2.0d,
+	description: "И получите собственного дракона!",
+	dependencies: [
+		"7bee1470"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "0fe69cbd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_red"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "65930db8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_green"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f6730da1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_bronze"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dbf89655",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_gray"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c00214c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_blue"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0fd2f85e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_silver"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3447e642",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_white"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a3e01205",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_sapphire"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9791a33c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

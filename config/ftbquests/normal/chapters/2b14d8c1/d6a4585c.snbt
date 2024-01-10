@@ -1,0 +1,22 @@
+{
+	title: "Создайте Мистический верстак",
+	x: 3.0d,
+	y: -2.0d,
+	description: "Уже второй",
+	dependencies: [
+		"741a6aab"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ccf4392f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:arcane_workbench"
+		}]
+	}],
+	rewards: [{
+		uid: "d350aecb",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

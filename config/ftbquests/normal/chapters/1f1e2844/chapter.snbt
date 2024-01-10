@@ -1,0 +1,18 @@
+{
+	title: "Embers Rekindled",
+	icon: "embers:winding_gears",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 12.5d,
+		y: -6.0d,
+		width: 8.0d,
+		height: 8.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/embers_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

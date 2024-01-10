@@ -1,0 +1,22 @@
+{
+	title: "Создайте Линзу Лудильщика",
+	x: 3.0d,
+	y: 1.5d,
+	description: "Ваш третий глаз",
+	dependencies: [
+		"c4714177"
+	],
+	hide: true,
+	tasks: [{
+		uid: "221c5b4b",
+		type: "item",
+		items: [{
+			item: "embers:tinker_lens"
+		}]
+	}],
+	rewards: [{
+		uid: "856b8852",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Генерирующие цветки 1",
+	x: 2.5d,
+	y: -4.0d,
+	description: "Мана из солнца",
+	dependencies: [
+		"8b3b9da2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d875097a",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "sunbless"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f0dbafc0",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

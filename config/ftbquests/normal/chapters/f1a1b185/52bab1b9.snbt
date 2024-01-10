@@ -1,0 +1,70 @@
+{
+	title: "Соберите все виды Драконьей чешуи",
+	x: 8.5d,
+	y: 0.0d,
+	description: "Парад цвета",
+	dependencies: [
+		"7bee1470"
+	],
+	tasks: [{
+		uid: "4f789262",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscales_green"
+		}]
+	},
+	{
+		uid: "04ad62c7",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscales_red"
+		}]
+	},
+	{
+		uid: "39da36b5",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscales_silver"
+		}]
+	},
+	{
+		uid: "65ff830a",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscales_gray"
+		}]
+	},
+	{
+		uid: "2afdd11c",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscales_white"
+		}]
+	},
+	{
+		uid: "fb407bd3",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscales_bronze"
+		}]
+	},
+	{
+		uid: "6b0a5a1e",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscales_sapphire"
+		}]
+	},
+	{
+		uid: "193b1370",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscales_blue"
+		}]
+	}],
+	rewards: [{
+		uid: "9abfad34",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

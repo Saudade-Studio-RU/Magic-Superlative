@@ -1,0 +1,29 @@
+{
+	x: 6.0d,
+	y: 5.5d,
+	description: "Мана за книги",
+	dependencies: [
+		"ee38887d"
+	],
+	tasks: [{
+		uid: "21213ed5",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "omniviolet"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "d8ff424a",
+		type: "item",
+		item: "minecraft:book",
+		count: 24
+	},
+	{
+		uid: "ac0d6a5a",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Создайте Улучшение Гироскопа",
+	x: 6.0d,
+	y: 2.0d,
+	dependencies: [
+		"fdd116d7"
+	],
+	tasks: [{
+		uid: "ae8cff61",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:thaumostatic_harness_augment"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cda78d1a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

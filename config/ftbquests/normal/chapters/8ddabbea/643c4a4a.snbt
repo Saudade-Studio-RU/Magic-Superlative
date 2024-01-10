@@ -1,0 +1,21 @@
+{
+	title: "Создайте Мифриллиумовый слиток",
+	x: 0.0d,
+	y: -6.0d,
+	description: "Новая ступень",
+	dependencies: [
+		"abb43939"
+	],
+	tasks: [{
+		uid: "a53593c9",
+		type: "item",
+		items: [{
+			item: "thaumadditions:mithrillium_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "711cd9d9",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

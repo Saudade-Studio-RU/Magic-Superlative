@@ -1,0 +1,31 @@
+{
+	title: "Постройте алтарь для Ритуала леса",
+	x: 6.0d,
+	y: 0.0d,
+	description: "Лес живой",
+	dependencies: [
+		"48a698d0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ddcfe53c",
+		type: "item",
+		items: [{
+			item: "naturesaura:wood_stand"
+		}],
+		count: 8L
+	},
+	{
+		uid: "43df2677",
+		type: "item",
+		items: [{
+			item: "naturesaura:gold_powder"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "e585475a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

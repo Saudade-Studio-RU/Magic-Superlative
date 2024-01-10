@@ -1,0 +1,22 @@
+{
+	title: "Убейте Водяного змея",
+	x: 0.0d,
+	y: -3.0d,
+	description: "Дракон мира вод",
+	dependencies: [
+		"7986f9bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7b47afe7",
+		type: "item",
+		items: [{
+			item: "iceandfire:sea_serpent_fang"
+		}]
+	}],
+	rewards: [{
+		uid: "6a55917f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

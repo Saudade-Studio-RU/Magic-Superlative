@@ -1,0 +1,27 @@
+{
+	title: "Получите Экскалибур, сильнейшее оружие из Botania",
+	x: 33.0d,
+	y: -1.5d,
+	description: "Совместите Терралезвие и Медаль за героизм",
+	dependencies: [
+		"a482e424"
+	],
+	hide: true,
+	tasks: [{
+		uid: "018236f9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:excaliber"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "878a5c4d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

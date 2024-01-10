@@ -1,0 +1,21 @@
+{
+	title: "Создайте Латунную банку",
+	x: 2.0d,
+	y: -2.0d,
+	description: "До 270",
+	dependencies: [
+		"abb43939"
+	],
+	tasks: [{
+		uid: "19a45146",
+		type: "item",
+		items: [{
+			item: "thaumadditions:jar_brass"
+		}]
+	}],
+	rewards: [{
+		uid: "8189d800",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	title: "Создайте Все перчатки Заклинателя",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				slots: 3
+			},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thaumicaugmentation:gauntlet",
+		tag: {
+			cap: {
+				slots: 3
+			},
+			color: 2498903
+		},
+		Damage: 1s
+	},
+	x: 3.0d,
+	y: -3.0d,
+	description: "Танос x5!?",
+	text: [
+		"Квест является обобщением всех квестов про перчатки"
+	],
+	dependencies: [
+		"306d1ef4",
+		"4fb67605",
+		"ca4c8662",
+		"47cc2393"
+	],
+	tasks: [{
+		uid: "0c7d4836",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "d55a2de4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

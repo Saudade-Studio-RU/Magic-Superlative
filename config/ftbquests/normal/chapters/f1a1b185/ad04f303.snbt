@@ -1,0 +1,37 @@
+{
+	title: "Убейте Смертельного пустынного червя",
+	x: -3.0d,
+	y: -1.5d,
+	description: "Мерзость",
+	dependencies: [
+		"7986f9bf"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "1371b418",
+		type: "item",
+		items: [{
+			item: "iceandfire:deathworm_chitin 1 1"
+		}]
+	},
+	{
+		uid: "32daacc5",
+		type: "item",
+		items: [{
+			item: "iceandfire:deathworm_chitin 1 2"
+		}]
+	},
+	{
+		uid: "0c408356",
+		type: "item",
+		items: [{
+			item: "iceandfire:deathworm_chitin"
+		}]
+	}],
+	rewards: [{
+		uid: "60ada70d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

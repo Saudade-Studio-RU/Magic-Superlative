@@ -1,0 +1,22 @@
+{
+	x: 24.0d,
+	y: -2.0d,
+	description: "Убить Страх",
+	dependencies: [
+		"983ef855"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b831ccd0",
+		type: "kill",
+		title: "Убейте Чагарота",
+		icon: "abyssalcraft:dreadkey",
+		entity: "abyssalcraft:chagaroth",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4de34efb",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

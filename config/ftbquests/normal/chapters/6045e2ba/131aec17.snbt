@@ -1,0 +1,31 @@
+{
+	title: "Получить обновлённый Лексикон Ботании",
+	x: 17.5d,
+	y: -5.5d,
+	shape: "square",
+	description: "Бросьте Лексикон в портал",
+	dependencies: [
+		"d6b850f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5d215282",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lexicon",
+			tag: {
+				knowledge.alfheim: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "08b03d89",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

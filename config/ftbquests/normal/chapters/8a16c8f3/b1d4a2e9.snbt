@@ -1,0 +1,21 @@
+{
+	title: "Найдите Замок в Пустотном измерении и откройте его замок",
+	x: 2.0d,
+	y: -7.0d,
+	description: "Замок других эпох... ",
+	dependencies: [
+		"5ad8257e"
+	],
+	tasks: [{
+		uid: "c3aff4e0",
+		type: "interaction",
+		icon: "thaumicaugmentation:eldritch_lock_impetus",
+		match_type: "block_id",
+		match: "thaumicaugmentation:eldritch_lock_impetus"
+	}],
+	rewards: [{
+		uid: "c551b016",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

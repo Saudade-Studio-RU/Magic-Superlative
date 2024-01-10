@@ -1,0 +1,24 @@
+{
+	title: "Слиток таумима x8",
+	x: 5.0d,
+	y: -1.0d,
+	can_repeat: true,
+	dependencies: [
+		"9623f406"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e440b54b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ingot"
+		}],
+		count: 8L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "7144a98b",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

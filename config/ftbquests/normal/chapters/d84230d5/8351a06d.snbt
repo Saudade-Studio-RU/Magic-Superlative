@@ -1,0 +1,31 @@
+{
+	title: "Создайте любой Символ",
+	x: 8.0d,
+	y: 0.0d,
+	description: "Признаки эмоций",
+	dependencies: [
+		"4e555d60"
+	],
+	hide: true,
+	tasks: [{
+		uid: "06fe789f",
+		type: "item",
+		items: [{
+			item: "naturesaura:token_joy"
+		},
+		{
+			item: "naturesaura:token_sorrow"
+		},
+		{
+			item: "naturesaura:token_fear"
+		},
+		{
+			item: "naturesaura:token_anger"
+		}]
+	}],
+	rewards: [{
+		uid: "673c7b05",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

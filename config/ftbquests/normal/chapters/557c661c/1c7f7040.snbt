@@ -1,0 +1,29 @@
+{
+	title: "Создайте Улучшения ",
+	x: 8.0d,
+	y: 3.5d,
+	description: "Больше в 1",
+	dependencies: [
+		"cf2db7e2"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "30aa2ea1",
+		type: "item",
+		items: [{
+			item: "arcanearchives:material_interface"
+		}]
+	},
+	{
+		uid: "effb2c33",
+		type: "item",
+		items: [{
+			item: "arcanearchives:matrix_brace"
+		}]
+	}],
+	rewards: [{
+		uid: "f75baed9",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

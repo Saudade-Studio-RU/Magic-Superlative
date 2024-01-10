@@ -1,0 +1,35 @@
+{
+	title: "Создайте Пламенный реактор",
+	x: 26.0d,
+	y: 0.0d,
+	description: "Атомный реактор местного разлива",
+	dependencies: [
+		"c233b808"
+	],
+	tasks: [{
+		uid: "446d3009",
+		type: "item",
+		items: [{
+			item: "embers:reactor"
+		}]
+	},
+	{
+		uid: "9022eba1",
+		type: "item",
+		items: [{
+			item: "embers:catalyzer"
+		}]
+	},
+	{
+		uid: "d9d9d333",
+		type: "item",
+		items: [{
+			item: "embers:combustor"
+		}]
+	}],
+	rewards: [{
+		uid: "8e895380",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

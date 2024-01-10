@@ -1,0 +1,22 @@
+{
+	title: "Создайте Фокус мщения для помещения духа внутрь",
+	x: 11.0d,
+	y: -4.0d,
+	description: "Связывание духов",
+	dependencies: [
+		"e4364a79"
+	],
+	hide: true,
+	tasks: [{
+		uid: "37796787",
+		type: "item",
+		items: [{
+			item: "evilcraft:vengeance_focus"
+		}]
+	}],
+	rewards: [{
+		uid: "3b75aff4",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

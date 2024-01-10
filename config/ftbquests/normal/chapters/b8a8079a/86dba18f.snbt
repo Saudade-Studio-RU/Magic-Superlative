@@ -1,0 +1,34 @@
+{
+	title: "Выбросов слишком много...",
+	icon: "thaumcraft:condenser",
+	x: 2.0d,
+	y: -10.0d,
+	description: "Время их очистить",
+	text: [
+		"Загрязнённые решётки можно менять фильтром, нажав на них пкм"
+	],
+	dependencies: [
+		"293c3955"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9a2abce0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:condenser"
+		}]
+	},
+	{
+		uid: "bc6fb136",
+		type: "item",
+		items: [{
+			item: "thaumcraft:condenser_lattice"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "d997eda6",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Сделайте простую ловушку для получения демонической энергии",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Бросание во врага даёт интересный эффект...",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "cee8116a",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_snare"
+		}]
+	}],
+	rewards: [{
+		uid: "86e3513e",
+		type: "item",
+		item: "minecraft:glass",
+		count: 8
+	}]
+}

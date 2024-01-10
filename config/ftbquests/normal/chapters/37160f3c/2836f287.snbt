@@ -1,0 +1,27 @@
+{
+	title: "Создайте Метлу",
+	x: 9.0d,
+	y: 4.5d,
+	description: "Полёт за кровь. В продаже несколько стилей!",
+	dependencies: [
+		"bb3d0cb3"
+	],
+	tasks: [{
+		uid: "3d7997c4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:broom",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "67007f5f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

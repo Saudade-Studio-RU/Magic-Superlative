@@ -1,0 +1,23 @@
+{
+	title: "Создайте Пилоны маны",
+	x: 13.0d,
+	y: -1.0d,
+	description: "Упрощённое зачарование и стабилизация наполнения (см. Thaumcraft)",
+	dependencies: [
+		"d5f03da1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f4a4f732",
+		type: "item",
+		items: [{
+			item: "botania:pylon"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "c2d7d650",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

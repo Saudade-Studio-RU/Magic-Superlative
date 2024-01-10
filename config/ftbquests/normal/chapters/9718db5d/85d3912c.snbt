@@ -1,0 +1,37 @@
+{
+	x: -3.0d,
+	y: 6.0d,
+	description: "Полезный инструмент",
+	text: [
+		"Сигил зрения обязателен к созданию, позволяет лучше видеть объекты из мода, как Сигил предсказания, а также смотреть сколько LP хранится в вашей сети"
+	],
+	dependencies: [
+		"5fd23f9f"
+	],
+	tasks: [{
+		uid: "8a9d322e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_seer",
+			tag: {
+				binding: {
+					name: "ShadowKing21228",
+					id: {
+						L: -8180240267111859189L,
+						M: -3319811669840801797L
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f3ac18cf",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

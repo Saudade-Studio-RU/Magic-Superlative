@@ -1,0 +1,32 @@
+{
+	title: "Получение знаний",
+	x: 12.0d,
+	y: -4.0d,
+	description: "ВОТ ОНО! @ExtraBotany",
+	text: [
+		"Кликните ПКМ по Пьедесталу из жизнекамня, в котором содержится топливо духов, удерживая Лексикон Ботании"
+	],
+	dependencies: [
+		"fd4f74b6"
+	],
+	tasks: [{
+		uid: "6394fe52",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lexicon",
+			tag: {
+				knowledge.dream: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "f0e4e859",
+		type: "toast",
+		title: "Знания - ваша награда"
+	}]
+}

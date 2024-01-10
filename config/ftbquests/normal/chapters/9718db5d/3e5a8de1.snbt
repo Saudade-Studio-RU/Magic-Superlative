@@ -1,0 +1,35 @@
+{
+	title: "Сделайте 3 уровень Кровавого алтаря",
+	icon: "bloodmagic:altar",
+	x: 8.0d,
+	y: 4.0d,
+	description: "Новая мощь",
+	text: [
+		"Сдвинтесь на 1 блок встрону и вниз от рун, и поставьте их вокруг Алтаря. На углах образонного квадрата поднимитесь на 2 блока вверх и поставьте Светокамень, повторите во всех сторонах."
+	],
+	dependencies: [
+		"42011209"
+	],
+	hide: true,
+	tasks: [{
+		uid: "20037578",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}],
+		count: 20L
+	},
+	{
+		uid: "67302c8e",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "43eb7802",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

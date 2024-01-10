@@ -1,0 +1,40 @@
+{
+	title: "Создайте Небесный кристалл",
+	x: 16.0d,
+	y: 6.0d,
+	description: "Своё лучше",
+	text: [
+		"Вы также можете настраивать его, как и обычный Горный кристалл"
+	],
+	dependencies: [
+		"0e10dbe2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "27ee1427",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcelestialcrystal",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "11c1f0eb",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

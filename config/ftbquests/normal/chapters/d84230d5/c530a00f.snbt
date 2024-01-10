@@ -1,0 +1,32 @@
+{
+	title: "Создайте Амулет Гнева",
+	x: 13.0d,
+	y: -3.0d,
+	description: "Мобильность и ярость",
+	dependencies: [
+		"956d9ae8"
+	],
+	tasks: [{
+		uid: "d373df84",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:shockwave_creator",
+			tag: {
+				x: 216.15651452640734d,
+				y: 85.74406125738486d,
+				z: -105.08176562807951d,
+				air: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fc237e3c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

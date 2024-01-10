@@ -1,0 +1,22 @@
+{
+	title: "Эволюция плиток 2 ",
+	x: 0.0d,
+	y: 9.0d,
+	description: "Теперь уже пропитанная",
+	dependencies: [
+		"c6924bbd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b6f4863b",
+		type: "item",
+		items: [{
+			item: "bloodmagic:slate 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "0a04e8a6",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

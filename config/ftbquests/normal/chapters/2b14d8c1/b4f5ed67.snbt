@@ -1,0 +1,21 @@
+{
+	title: "Найдите или создайте Большой волшебный кристалл",
+	x: 3.0d,
+	y: -8.0d,
+	description: "Кладезь волшебства",
+	dependencies: [
+		"0966d7cd"
+	],
+	tasks: [{
+		uid: "08a5f8a9",
+		type: "item",
+		items: [{
+			item: "ebwizardry:grand_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "041c9907",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

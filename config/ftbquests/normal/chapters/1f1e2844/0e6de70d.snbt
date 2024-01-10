@@ -1,0 +1,63 @@
+{
+	title: "Создайте Пепельный костюм",
+	x: 22.0d,
+	y: 5.0d,
+	description: "Сверх технологично-магический костюм",
+	dependencies: [
+		"e426d754"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5934b251",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ashen_cloak_head"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ecd65917",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ashen_cloak_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c2c1dee5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ashen_cloak_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3f9038fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ashen_cloak_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c3458183",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

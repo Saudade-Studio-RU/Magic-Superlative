@@ -1,0 +1,63 @@
+{
+	title: "Продвинутые руны 2",
+	x: 15.5d,
+	y: 4.5d,
+	description: "Семь смертных грехов",
+	dependencies: [
+		"db02bf54"
+	],
+	tasks: [{
+		uid: "1b7fd155",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 9"
+		}]
+	},
+	{
+		uid: "f57db4ca",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 10"
+		}]
+	},
+	{
+		uid: "e547ca8b",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 11"
+		}]
+	},
+	{
+		uid: "514d3327",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 12"
+		}]
+	},
+	{
+		uid: "9703b8d1",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 13"
+		}]
+	},
+	{
+		uid: "95140b5a",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 14"
+		}]
+	},
+	{
+		uid: "5b3c2569",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 15"
+		}]
+	}],
+	rewards: [{
+		uid: "137b97c0",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Найдите или создайте Очищающий Алтарь",
+	x: 7.0d,
+	y: 0.5d,
+	description: "Вновь никто",
+	dependencies: [
+		"e882a43b"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "578b7bff",
+		type: "item",
+		items: [{
+			item: "vampirism:church_altar"
+		}]
+	}],
+	rewards: [{
+		uid: "6339c424",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Создайте Репликатор печатей",
+	x: -3.0d,
+	y: -2.0d,
+	description: "Ctrl+C, Ctrl+V",
+	dependencies: [
+		"8d031da0"
+	],
+	tasks: [{
+		uid: "48f51257",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:seal_copier"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a8dbc7cd",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

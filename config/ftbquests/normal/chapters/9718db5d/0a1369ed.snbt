@@ -1,0 +1,29 @@
+{
+	title: "Создайте первый кровавый шар",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Важная составляющая ",
+	dependencies: [
+		"8fa9d29c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5ff8ae55",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:weak"
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4e57094b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	x: 8.5d,
+	y: 4.0d,
+	description: "Что с этой бутылкой?",
+	dependencies: [
+		"a712fc39"
+	],
+	tasks: [{
+		uid: "7b2ed0f0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:manabottle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9195eab5",
+		type: "item",
+		item: "botania:blacklotus"
+	},
+	{
+		uid: "bb1bda80",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

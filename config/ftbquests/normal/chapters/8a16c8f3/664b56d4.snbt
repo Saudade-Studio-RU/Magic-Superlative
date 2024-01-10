@@ -1,0 +1,34 @@
+{
+	title: "Создайте любое улучшение Рейлагана",
+	x: 12.0d,
+	y: -5.0d,
+	description: "Снайперка или дробовик?",
+	dependencies: [
+		"999c951f"
+	],
+	tasks: [{
+		uid: "dd69b022",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:impulse_cannon_augment"
+		},
+		{
+			ForgeCaps: {
+				Parent: {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:impulse_cannon_augment",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "abc8fef8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

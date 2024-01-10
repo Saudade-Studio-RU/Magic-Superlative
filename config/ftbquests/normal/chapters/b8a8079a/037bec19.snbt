@@ -1,0 +1,29 @@
+{
+	title: "Открытие Изобретений",
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"e0da27f2",
+		"69f29029"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "8c219a88",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:goggles"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "71681b1d",
+		type: "item",
+		item: "thaumcraft:mechanism_simple",
+		count: 3
+	}]
+}

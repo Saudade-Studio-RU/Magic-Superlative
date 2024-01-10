@@ -1,0 +1,21 @@
+{
+	title: "Создайте Кристалльное хранилище Эмбера",
+	x: 8.0d,
+	y: 4.0d,
+	description: "Энергетическое ядро местного разлива",
+	dependencies: [
+		"180f8e23"
+	],
+	tasks: [{
+		uid: "986078a7",
+		type: "item",
+		items: [{
+			item: "embers:crystal_cell"
+		}]
+	}],
+	rewards: [{
+		uid: "fb8ad130",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,102 @@
+{
+	title: "Создайте Кристальный инструмент",
+	x: 8.5d,
+	y: -2.0d,
+	description: "Очень хорошо! И очень плохо",
+	text: [
+		"Для выполнения необходимо создать лишь 1 "
+	],
+	dependencies: [
+		"79772da4"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "0c9c0041",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcrystalsword",
+			tag: {
+				astralsorcery: {
+					size: 1800,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7c647f5c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcrystalpickaxe",
+			tag: {
+				astralsorcery: {
+					size: 2700,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3d706eab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcrystalaxe",
+			tag: {
+				astralsorcery: {
+					size: 2700,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "aa4ed05e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcrystalshovel",
+			tag: {
+				astralsorcery: {
+					size: 900,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "de28dd80",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

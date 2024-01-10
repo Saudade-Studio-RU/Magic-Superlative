@@ -1,0 +1,22 @@
+{
+	title: "Создайте Адамантитовую усиленную банку",
+	x: 6.0d,
+	y: -2.0d,
+	description: "До 2000",
+	dependencies: [
+		"f8d704c5",
+		"809b56d9"
+	],
+	tasks: [{
+		uid: "e37af6f3",
+		type: "item",
+		items: [{
+			item: "thaumadditions:jar_adaminite"
+		}]
+	}],
+	rewards: [{
+		uid: "2be46953",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

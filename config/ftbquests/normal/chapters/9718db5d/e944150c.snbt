@@ -1,0 +1,22 @@
+{
+	title: "Создайте Демонический кристаллизатор",
+	x: -15.5d,
+	y: 2.5d,
+	description: "Вывод кристаллов из воздуха",
+	dependencies: [
+		"3f1f8a74"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c994d419",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crystallizer"
+		}]
+	}],
+	rewards: [{
+		uid: "5dfe9429",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

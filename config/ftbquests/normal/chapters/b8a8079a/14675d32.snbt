@@ -1,0 +1,22 @@
+{
+	title: "Эволюция плавильни",
+	x: -4.0d,
+	y: -10.0d,
+	description: "Быстрее и экономнее",
+	dependencies: [
+		"293c3955"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2d0a527a",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_thaumium"
+		}]
+	}],
+	rewards: [{
+		uid: "cd602402",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

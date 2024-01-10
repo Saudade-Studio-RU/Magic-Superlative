@@ -1,0 +1,21 @@
+{
+	title: "Выплавите Абиссальнитовый слиток",
+	x: 4.5d,
+	y: -2.0d,
+	description: "Слиток с силой пустоты",
+	dependencies: [
+		"61cd8f55"
+	],
+	tasks: [{
+		uid: "73140b18",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:abyingot"
+		}]
+	}],
+	rewards: [{
+		uid: "b4453b1a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

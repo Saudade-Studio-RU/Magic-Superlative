@@ -1,0 +1,23 @@
+{
+	title: "Создайте Разливщик",
+	x: 6.5d,
+	y: 8.5d,
+	description: "Наполнение Звёздным светом",
+	dependencies: [
+		"3cff543b",
+		"f300f759"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9d8311c0",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockstarlightinfuser"
+		}]
+	}],
+	rewards: [{
+		uid: "fbf28bb7",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

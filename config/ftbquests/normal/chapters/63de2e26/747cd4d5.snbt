@@ -1,0 +1,22 @@
+{
+	title: "Убейте Кобольдов",
+	x: 3.0d,
+	y: -3.0d,
+	description: "Синие, мерзкие, короткие",
+	dependencies: [
+		"109742bd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8683c1a3",
+		type: "kill",
+		title: "Убить: Кобольд",
+		entity: "twilightforest:kobold",
+		value: 20L
+	}],
+	rewards: [{
+		uid: "46cb4f14",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

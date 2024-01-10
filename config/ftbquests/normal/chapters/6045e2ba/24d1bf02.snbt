@@ -1,0 +1,78 @@
+{
+	title: "Доспехи Воина тени",
+	x: 22.0d,
+	y: -1.0d,
+	description: "Действуя ночью",
+	dependencies: [
+		"8a0dfbc9"
+	],
+	optional: true,
+	tasks: [{
+		uid: "5d9e5af6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -8180240267111859189L,
+					AS_Amulet_HolderMost: -3319811669840801797L
+				}
+			},
+			id: "extrabotany:shadowwarriorhelm",
+			tag: {
+				isnight: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d22160ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:shadowwarriorchest",
+			tag: {
+				isnight: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "85f5d884",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:shadowwarriorlegs",
+			tag: {
+				isnight: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2ec5ec58",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:shadowwarriorboots",
+			tag: {
+				isnight: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8a05be49",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

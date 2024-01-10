@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "key": "DOPPLEGANGER",
+      "name": "research.DOPPLEGANGER.title",
+      "icons": [ "botania:gaiahead" ],
+      "category": "SUPERLATIVE",
+      "location": [ -5, 0 ],
+      "meta": [ "ROUND", "HIDDEN" ],
+      "parents": [ "!Doppleganger" ],
+      "stages": [
+        {
+          "text": "research.DOPPLEGANGER.text.stage.1"
+        }
+      ]
+    }
+            ]
+ }

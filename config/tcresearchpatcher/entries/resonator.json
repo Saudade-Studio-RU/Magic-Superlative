@@ -1,0 +1,23 @@
+{
+  "entries": [
+    {
+      "key": "RESONATOR",
+      "name": "research.RESONATOR.title",
+      "icons": [ "arcanearchives:radiant_resonator" ],
+      "category": "SUPERLATIVE",
+      "location": [ -2, 5 ],
+      "parents": [ "MIXER" ],
+      "stages": [
+        {
+          "text": "research.RESONATOR.text.stage.1",
+          "required_craft": [ "arcanearchives:tome_arcana" ],
+          "required_knowledge": [ "THEORY;ARTIFICE;1", "THEORY;AUROMANCY;1", "OBSERVATION;SUPERLATIVE;10" ]
+        },
+        {
+          "text": "research.RESONATOR.text.stage.2",
+          "recipes": [ "arcanearchives:radiant_resonator" ]
+        }
+      ]
+    }
+  ]
+}

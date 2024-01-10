@@ -1,0 +1,22 @@
+{
+	title: "Создайте Кристаллизатор",
+	x: 21.5d,
+	y: -3.5d,
+	description: "Кристаллизация материи",
+	dependencies: [
+		"9908f530"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ba193ad2",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:crystallizer"
+		}]
+	}],
+	rewards: [{
+		uid: "41a2a155",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

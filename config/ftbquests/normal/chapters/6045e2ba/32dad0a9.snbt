@@ -1,0 +1,21 @@
+{
+	title: "Сделайте новый распространитель маны ",
+	x: 20.0d,
+	y: -6.5d,
+	description: "Вместимей и быстрее",
+	dependencies: [
+		"8a0dfbc9"
+	],
+	tasks: [{
+		uid: "ee913e08",
+		type: "item",
+		items: [{
+			item: "botania:spreader 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "b25004d7",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

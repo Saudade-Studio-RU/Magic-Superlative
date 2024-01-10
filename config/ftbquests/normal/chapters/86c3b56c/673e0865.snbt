@@ -1,0 +1,30 @@
+{
+	title: "Создайте Абиссальмикон",
+	x: 34.0d,
+	y: -2.0d,
+	description: "Все знания мира",
+	dependencies: [
+		"2e7b514d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5bd2b52c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:abyssalnomicon",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "504d26d4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

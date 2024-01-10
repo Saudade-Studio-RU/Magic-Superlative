@@ -1,0 +1,22 @@
+{
+	title: "Процентное увеличение вместимости Алтаря",
+	x: 7.5d,
+	y: 10.5d,
+	description: "Чем больше, тем лучше",
+	dependencies: [
+		"ffe233ea",
+		"ddf1ab23"
+	],
+	tasks: [{
+		uid: "c59d3aa5",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "4d59a87e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

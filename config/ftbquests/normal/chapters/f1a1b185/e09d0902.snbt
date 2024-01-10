@@ -1,0 +1,63 @@
+{
+	title: "Соберите все виды Морской чешуи",
+	x: 0.0d,
+	y: -5.0d,
+	description: "Парад покраше",
+	dependencies: [
+		"b23a9f3a"
+	],
+	tasks: [{
+		uid: "51129f41",
+		type: "item",
+		items: [{
+			item: "iceandfire:sea_serpent_scales_deepblue"
+		}]
+	},
+	{
+		uid: "8e895148",
+		type: "item",
+		items: [{
+			item: "iceandfire:sea_serpent_scales_teal"
+		}]
+	},
+	{
+		uid: "cea514ce",
+		type: "item",
+		items: [{
+			item: "iceandfire:sea_serpent_scales_blue"
+		}]
+	},
+	{
+		uid: "9ddd19e1",
+		type: "item",
+		items: [{
+			item: "iceandfire:sea_serpent_scales_purple"
+		}]
+	},
+	{
+		uid: "ce9629b8",
+		type: "item",
+		items: [{
+			item: "iceandfire:sea_serpent_scales_red"
+		}]
+	},
+	{
+		uid: "6b6110fb",
+		type: "item",
+		items: [{
+			item: "iceandfire:sea_serpent_scales_bronze"
+		}]
+	},
+	{
+		uid: "985715d1",
+		type: "item",
+		items: [{
+			item: "iceandfire:sea_serpent_scales_green"
+		}]
+	}],
+	rewards: [{
+		uid: "3c32da9d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

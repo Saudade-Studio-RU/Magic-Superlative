@@ -1,0 +1,24 @@
+{
+	title: "Скрафтите или найдите свою первую книгу с заклинанием",
+	x: 6.0d,
+	y: 0.0d,
+	description: "Заклинания с Эры драконов",
+	dependencies: [
+		"d6a4585c",
+		"5f6329ea"
+	],
+	hide: true,
+	tasks: [{
+		uid: "569cd6e7",
+		type: "item",
+		items: [{
+			item: "ebwizardry:spell_book 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cd462c1f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

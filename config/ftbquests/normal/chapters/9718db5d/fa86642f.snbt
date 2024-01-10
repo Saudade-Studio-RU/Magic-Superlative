@@ -1,0 +1,22 @@
+{
+	title: "Создайте Чистую плитку",
+	x: 0.0d,
+	y: 3.0d,
+	description: "Сколько раз мне придётся её сделать?",
+	dependencies: [
+		"ad247714"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f575d957",
+		type: "item",
+		items: [{
+			item: "bloodmagic:slate"
+		}]
+	}],
+	rewards: [{
+		uid: "e9e2df12",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

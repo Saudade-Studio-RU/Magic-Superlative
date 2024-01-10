@@ -1,0 +1,29 @@
+{
+	x: -1.0d,
+	y: 2.5d,
+	description: "Мана за взрывы",
+	dependencies: [
+		"ee38887d"
+	],
+	tasks: [{
+		uid: "242b01d2",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "entropinnyum"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5c1871fb",
+		type: "item",
+		item: "minecraft:tnt",
+		count: 4
+	},
+	{
+		uid: "84150c4c",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

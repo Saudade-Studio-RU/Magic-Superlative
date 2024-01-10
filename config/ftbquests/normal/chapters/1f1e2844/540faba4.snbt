@@ -1,0 +1,21 @@
+{
+	title: "Создайте Механическое ядро",
+	x: 3.0d,
+	y: -1.5d,
+	description: "Больше разъёмов!",
+	dependencies: [
+		"c4714177"
+	],
+	tasks: [{
+		uid: "bd46f54f",
+		type: "item",
+		items: [{
+			item: "embers:mech_core"
+		}]
+	}],
+	rewards: [{
+		uid: "8ad1ede4",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

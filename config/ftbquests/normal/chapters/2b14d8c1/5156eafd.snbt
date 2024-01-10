@@ -1,0 +1,69 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	description: "Настоящий маг!",
+	dependencies: [
+		"cc4c1364"
+	],
+	hide: true,
+	tasks: [{
+		uid: "40f1c716",
+		type: "item",
+		title: "Повысьте ранг посоха до Продвинутого уровня",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:advanced_fire_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:advanced_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:advanced_sorcery_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:advanced_lightning_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:advanced_ice_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:advanced_earth_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:advanced_necromancy_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:advanced_healing_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2a23f278",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

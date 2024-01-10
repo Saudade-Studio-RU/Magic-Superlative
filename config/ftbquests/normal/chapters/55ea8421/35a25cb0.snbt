@@ -1,0 +1,62 @@
+{
+	title: "Открытие лутбоксов",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "1crate"
+		}
+	},
+	x: -13.0d,
+	y: -5.0d,
+	shape: "pentagon",
+	description: "Сундук мага!",
+	text: [
+		"Пройдите небходимые квесты из Dependicies, что бы получить лут боксы и возможность их покупки в магазине!"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"741a6aab",
+		"780bfeac",
+		"61cd8f55",
+		"fa86642f",
+		"7986f9bf",
+		"69f29029",
+		"a712fc39",
+		"89691c84",
+		"0ff5a33b"
+	],
+	tasks: [{
+		uid: "4ad5abe5",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "25a499d2",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "1crate"
+			}
+		}
+	},
+	{
+		uid: "06e814af",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "1crate"
+			}
+		}
+	},
+	{
+		uid: "f2c9f623",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "1crate"
+			}
+		}
+	}]
+}

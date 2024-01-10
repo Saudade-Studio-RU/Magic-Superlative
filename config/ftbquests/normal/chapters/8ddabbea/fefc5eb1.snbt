@@ -1,0 +1,26 @@
+{
+	title: "Создайте Адаминитовый меч",
+	x: 6.0d,
+	y: -8.0d,
+	description: "Одно из лучших орудий",
+	dependencies: [
+		"809b56d9"
+	],
+	tasks: [{
+		uid: "598fd15d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:adaminite_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "841ecebd",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

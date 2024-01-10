@@ -1,0 +1,21 @@
+{
+	title: "Создайте Смешиватель эссенции",
+	x: 1.0d,
+	y: -8.0d,
+	description: "Получение сложного соединением простых",
+	dependencies: [
+		"643c4a4a"
+	],
+	tasks: [{
+		uid: "aa6e5628",
+		type: "item",
+		items: [{
+			item: "thaumadditions:aspect_combiner"
+		}]
+	}],
+	rewards: [{
+		uid: "7e7635b1",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

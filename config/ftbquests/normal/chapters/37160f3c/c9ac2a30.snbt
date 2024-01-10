@@ -1,0 +1,25 @@
+{
+	title: "Поместите в бутыль биом",
+	x: 13.0d,
+	y: 8.0d,
+	description: "Переезд не отходя от дивана",
+	dependencies: [
+		"c87f4647"
+	],
+	tasks: [{
+		uid: "0aed85d6",
+		type: "item",
+		items: [{
+			id: "evilcraft:biome_extract",
+			tag: {
+				biomeKey: "minecraft:ocean"
+			},
+			Damage: 1s
+		}]
+	}],
+	rewards: [{
+		uid: "f922a138",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

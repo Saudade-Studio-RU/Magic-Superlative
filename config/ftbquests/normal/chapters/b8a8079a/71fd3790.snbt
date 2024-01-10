@@ -1,0 +1,23 @@
+{
+	title: "Постройте Адскую печь и сделайте лакомство",
+	icon: "thaumcraft:infernal_furnace",
+	x: 7.5d,
+	y: -1.5d,
+	description: "Даже без топлива",
+	dependencies: [
+		"037bec19"
+	],
+	hide: true,
+	tasks: [{
+		uid: "75d4d7e6",
+		type: "item",
+		items: [{
+			item: "thaumcraft:triple_meat_treat"
+		}]
+	}],
+	rewards: [{
+		uid: "f80ede94",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

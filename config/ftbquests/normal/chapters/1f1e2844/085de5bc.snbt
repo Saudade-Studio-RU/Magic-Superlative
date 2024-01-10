@@ -1,0 +1,27 @@
+{
+	title: "Создайте Измеритель атмосферы",
+	x: 3.0d,
+	y: -3.0d,
+	description: "Изучение воздуха",
+	dependencies: [
+		"5f0d7246"
+	],
+	hide: true,
+	tasks: [{
+		uid: "330972f8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ember_detector"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "47ba680d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

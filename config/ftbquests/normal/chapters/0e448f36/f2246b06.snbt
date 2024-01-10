@@ -1,0 +1,30 @@
+{
+	title: "Создайте Пронзатель сердец",
+	x: 5.0d,
+	y: 6.0d,
+	description: "Оружие Вампиров",
+	dependencies: [
+		"ea4de17d"
+	],
+	optional: true,
+	tasks: [{
+		uid: "2c730c2e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:heart_striker",
+			tag: {
+				tier: "NORMAL"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "714d0233",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"91a79e90"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "a78c7d6a",
+		type: "checkmark",
+		title: "Добро пожаловать в Ice and Fire!"
+	}]
+}

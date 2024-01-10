@@ -1,0 +1,28 @@
+{
+	title: "Создайте Жемчужину Преобразования",
+	x: 6.0d,
+	y: -4.0d,
+	description: "Ядро тьмы",
+	dependencies: [
+		"61cd8f55",
+		"687db7dd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2c9362f4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:transmutationgem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b3d747e9",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

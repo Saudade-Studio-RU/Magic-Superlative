@@ -1,0 +1,150 @@
+{
+	title: "Эпический сундук архимага",
+	icon: "arcanearchives:radiant_chest",
+	loot_size: 3,
+	use_title: true,
+	rewards: [{
+		item: "botania:manaresource 1 7",
+		count: 2,
+		random_bonus: 3,
+		weight: 5
+	},
+	{
+		item: "thaumcraft:ingot 1 1",
+		count: 2,
+		random_bonus: 2,
+		weight: 4
+	},
+	{
+		item: "naturesaura:sky_ingot",
+		random_bonus: 1,
+		weight: 5
+	},
+	{
+		item: "bloodmagic:slate 1 2",
+		count: 2,
+		random_bonus: 2,
+		weight: 5
+	},
+	{
+		ftb_money: 35L,
+		type: "ftbmoney:money",
+		weight: 3
+	},
+	{
+		item: "embers:ingot_dawnstone",
+		count: 2,
+		random_bonus: 2,
+		weight: 4
+	},
+	{
+		item: "embers:ashen_cloth",
+		count: 2,
+		random_bonus: 2,
+		weight: 5
+	},
+	{
+		item: "botania:manaresource 1 4"
+	},
+	{
+		item: "astralsorcery:itemcraftingcomponent 1 1",
+		count: 2,
+		random_bonus: 2,
+		weight: 4
+	},
+	{
+		item: "arcanearchives:raw_quartz",
+		random_bonus: 1,
+		weight: 2
+	},
+	{
+		item: "embers:wildfire_core"
+	},
+	{
+		item: "abyssalcraft:dreadiumingot",
+		weight: 2
+	},
+	{
+		item: "thaumcraft:loot_bag 1 2",
+		weight: 3
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:elemental_axe",
+			tag: {
+				infench: [{
+					lvl: 1s,
+					id: 2s
+				},
+				{
+					lvl: 1s,
+					id: 0s
+				}]
+			}
+		},
+		weight: 3
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:elemental_pick",
+			tag: {
+				infench: [{
+					lvl: 1s,
+					id: 4s
+				},
+				{
+					lvl: 2s,
+					id: 3s
+				}]
+			}
+		},
+		weight: 3
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:elemental_shovel",
+			tag: {
+				infench: [{
+					lvl: 1s,
+					id: 1s
+				}]
+			}
+		},
+		weight: 3
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:elemental_hoe"
+		},
+		weight: 3
+	},
+	{
+		item: "bloodmagic:component 1 8"
+	},
+	{
+		item: "minecraft:nether_star"
+	}],
+	loot_crate: {
+		string_id: "crate3",
+		item_name: "Сундук архимага",
+		color: 13894205,
+		glow: true,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

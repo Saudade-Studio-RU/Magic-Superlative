@@ -1,0 +1,26 @@
+{
+	title: "Создайте Мистическую основу",
+	x: 0.0d,
+	y: -3.0d,
+	description: "Создание продвинутых ламп",
+	text: [
+		"Основа для красивых ламп, подробнее в JEI"
+	],
+	tasks: [{
+		uid: "2d21ef7e",
+		type: "item",
+		items: [{
+			item: "fancylamps:arcane_base"
+		}]
+	}],
+	rewards: [{
+		uid: "2f00b1fe",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "619ff7a8",
+		type: "item",
+		item: "fancylamps:obelisk 1 4"
+	}]
+}

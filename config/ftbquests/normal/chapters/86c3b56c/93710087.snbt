@@ -1,0 +1,21 @@
+{
+	title: "Получите Тёмный фрагмент",
+	x: 4.5d,
+	y: 0.0d,
+	description: "Сама тьма",
+	dependencies: [
+		"36e955de"
+	],
+	tasks: [{
+		uid: "d124f27a",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:shadowfragment"
+		}]
+	}],
+	rewards: [{
+		uid: "46bf3b9a",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

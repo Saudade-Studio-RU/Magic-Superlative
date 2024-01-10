@@ -1,0 +1,21 @@
+{
+	title: "Увеличение предачи Алтаря",
+	x: -2.0d,
+	y: 10.5d,
+	description: "Ждать не придётся",
+	dependencies: [
+		"809d3c2c"
+	],
+	tasks: [{
+		uid: "b5654d9f",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "66150b3b",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

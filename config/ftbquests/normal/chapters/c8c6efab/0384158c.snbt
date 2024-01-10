@@ -1,0 +1,34 @@
+{
+	title: "Звезда из Незера",
+	x: 3.0d,
+	y: 4.0d,
+	can_repeat: true,
+	dependencies: [
+		"8a66a83f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "b0940717",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "netherStar",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any netherStar"
+				}
+			}
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "74ee4c2a",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

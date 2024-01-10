@@ -1,0 +1,99 @@
+{
+	title: "Создайте Заряженный кристалльный инструмент",
+	x: 10.0d,
+	y: 8.5d,
+	description: "Максимальный инструмент",
+	dependencies: [
+		"91d69d85"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "12d59625",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemchargedcrystalsword",
+			tag: {
+				astralsorcery: {
+					size: 1800,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "87bbe01d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemchargedcrystalpickaxe",
+			tag: {
+				astralsorcery: {
+					size: 2700,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "80be8e7b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemchargedcrystalaxe",
+			tag: {
+				astralsorcery: {
+					size: 2700,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "948f973a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemchargedcrystalshovel",
+			tag: {
+				astralsorcery: {
+					size: 900,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e5ac267e",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

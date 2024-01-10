@@ -1,0 +1,27 @@
+{
+	title: "Алхимия крови",
+	x: -3.0d,
+	y: -1.0d,
+	description: "Круги из пепла",
+	dependencies: [
+		"18c33323"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f92259ee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:arcane_ashes"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e603c4d1",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Убейте Циклопа",
+	x: 2.5d,
+	y: -3.0d,
+	description: "И получите его глаз",
+	dependencies: [
+		"7986f9bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f6918ed6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:cyclops_eye"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "85e30bbf",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

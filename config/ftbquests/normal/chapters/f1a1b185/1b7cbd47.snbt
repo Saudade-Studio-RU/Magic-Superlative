@@ -1,0 +1,30 @@
+{
+	title: "Создайте Ядро Драконьей кузни",
+	x: 6.0d,
+	y: 2.0d,
+	description: "Разработка металла драконов",
+	dependencies: [
+		"7bee1470"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "5b7f27aa",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonforge_ice_core_disabled"
+		}]
+	},
+	{
+		uid: "46c540cb",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonforge_fire_core_disabled"
+		}]
+	}],
+	rewards: [{
+		uid: "d4d1994d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

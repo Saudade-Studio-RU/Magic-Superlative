@@ -1,0 +1,22 @@
+{
+	title: "Создайте Пронзающий мстительный фокус",
+	x: 13.0d,
+	y: -4.0d,
+	description: "Убийство неживого",
+	dependencies: [
+		"df6e75d6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8476bec9",
+		type: "item",
+		items: [{
+			item: "evilcraft:piercing_vengeance_focus"
+		}]
+	}],
+	rewards: [{
+		uid: "827201f1",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

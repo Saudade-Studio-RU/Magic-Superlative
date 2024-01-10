@@ -1,0 +1,22 @@
+{
+	title: "Создайте Калибровщик",
+	x: 6.0d,
+	y: -3.0d,
+	description: "Очередная батарейка для очередной маны",
+	dependencies: [
+		"342bc1c6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "475cf4b4",
+		type: "item",
+		items: [{
+			item: "mahoutsukai:attuner"
+		}]
+	}],
+	rewards: [{
+		uid: "e5325315",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Создайте Стол алхимии",
+	x: 2.0d,
+	y: -2.0d,
+	description: "Алхимия кровавых шаров",
+	dependencies: [
+		"0a1369ed"
+	],
+	tasks: [{
+		uid: "e0e0c1b9",
+		type: "item",
+		items: [{
+			item: "bloodmagic:alchemy_table"
+		}]
+	}],
+	rewards: [{
+		uid: "129966e8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

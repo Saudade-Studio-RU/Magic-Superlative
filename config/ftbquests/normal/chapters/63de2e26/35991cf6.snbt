@@ -1,0 +1,30 @@
+{
+	title: "Найдите квестового барана и выполните его квест",
+	x: 0.0d,
+	y: 2.0d,
+	description: "ДА ГДЕ ЭТА ШЕРСТЬ?",
+	dependencies: [
+		"109742bd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8dd8b9d8",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 8"
+		}]
+	},
+	{
+		uid: "75bb57f5",
+		type: "observation",
+		title: "Встретьте его",
+		match_type: "entity_id",
+		match: "twilightforest:quest_ram",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "4da32938",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

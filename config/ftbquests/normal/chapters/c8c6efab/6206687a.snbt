@@ -1,0 +1,23 @@
+{
+	title: "Клык вампира x16",
+	x: -0.5d,
+	y: -5.0d,
+	can_repeat: true,
+	dependencies: [
+		"7e353549"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e6bcce4b",
+		type: "item",
+		items: [{
+			item: "vampirism:vampire_fang"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "c8b0b7d5",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

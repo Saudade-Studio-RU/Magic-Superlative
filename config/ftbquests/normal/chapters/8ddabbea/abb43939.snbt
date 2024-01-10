@@ -1,0 +1,12 @@
+{
+	title: "Добро пожаловать в Thaumic Additions!",
+	icon: "thaumadditions:seal_globe",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	size: 2.0d,
+	tasks: [{
+		uid: "b696a196",
+		type: "checkmark"
+	}]
+}

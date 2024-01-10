@@ -1,0 +1,75 @@
+{
+	title: "Сделайте Улучшенный комплект скорости",
+	x: 11.0d,
+	y: -4.0d,
+	description: "-Защита, +Скорость",
+	dependencies: [
+		"d7a84dae"
+	],
+	optional: true,
+	tasks: [{
+		uid: "307eee17",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:armor_of_swiftness_head",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7e59bd17",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:armor_of_swiftness_chest",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8d89e2e5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:armor_of_swiftness_legs",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0337902c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:armor_of_swiftness_feet",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "984fece8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

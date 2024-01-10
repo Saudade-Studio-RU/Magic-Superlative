@@ -1,0 +1,22 @@
+{
+	x: 1.5d,
+	y: -5.0d,
+	can_repeat: true,
+	dependencies: [
+		"7e353549"
+	],
+	optional: true,
+	tasks: [{
+		uid: "a505512d",
+		type: "item",
+		items: [{
+			item: "vampirism:human_heart"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "56fc7537",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

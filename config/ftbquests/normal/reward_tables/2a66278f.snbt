@@ -1,0 +1,36 @@
+{
+	title: "Лутбоксики",
+	icon: {
+		id: "ftbquests:lootcrate",
+		tag: {
+			type: "crate4"
+		}
+	},
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "1crate"
+			}
+		},
+		weight: 16
+	},
+	{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "2crate"
+			}
+		},
+		weight: 6
+	},
+	{
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate3"
+			}
+		}
+	}]
+}

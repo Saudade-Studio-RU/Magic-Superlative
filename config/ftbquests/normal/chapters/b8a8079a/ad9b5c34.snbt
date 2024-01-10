@@ -1,0 +1,26 @@
+{
+	title: "Создайте Мистические меха",
+	x: 10.0d,
+	y: -1.5d,
+	description: "Блиц - скорость без границ!",
+	dependencies: [
+		"71fd3790"
+	],
+	tasks: [{
+		uid: "5807c0b3",
+		type: "item",
+		items: [{
+			item: "thaumcraft:bellows"
+		}]
+	}],
+	rewards: [{
+		uid: "65fc5599",
+		type: "item",
+		item: "thaumcraft:bellows"
+	},
+	{
+		uid: "4b14e9e1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

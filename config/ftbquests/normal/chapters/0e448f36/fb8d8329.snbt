@@ -1,0 +1,21 @@
+{
+	title: "Повысьте уровень Охотника до 5",
+	x: 11.5d,
+	y: -2.0d,
+	description: "Больше, чем новичок",
+	dependencies: [
+		"6a9ddb01"
+	],
+	tasks: [{
+		uid: "f180fc09",
+		type: "item",
+		items: [{
+			item: "vampirism:hunter_intel"
+		}]
+	}],
+	rewards: [{
+		uid: "76e8bae6",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

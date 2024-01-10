@@ -1,0 +1,27 @@
+{
+	title: "Что-бы это ни было, выглядит интересно...",
+	x: 5.5d,
+	y: -13.0d,
+	shape: "square",
+	description: "Что я могу с этим сделать?",
+	dependencies: [
+		"c3618499"
+	],
+	hide: true,
+	tasks: [{
+		uid: "82c320bf",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_seed"
+		}]
+	},
+	{
+		uid: "0b01a402",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "d36c81df",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

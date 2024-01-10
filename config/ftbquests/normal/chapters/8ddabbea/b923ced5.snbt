@@ -1,0 +1,22 @@
+{
+	title: "Создайте Мифминитовую банку",
+	x: 7.0d,
+	y: -2.0d,
+	description: "До 4000",
+	dependencies: [
+		"efe32993",
+		"fbad08d7"
+	],
+	tasks: [{
+		uid: "6a753694",
+		type: "item",
+		items: [{
+			item: "thaumadditions:jar_mithminite"
+		}]
+	}],
+	rewards: [{
+		uid: "fef172b4",
+		type: "ftbmoney:money",
+		ftb_money: 160L
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Создайте Посох Сторожа",
+	x: 37.0d,
+	y: -2.0d,
+	description: "Абсолютная мощь",
+	dependencies: [
+		"a3208be4",
+		"673e0865"
+	],
+	tasks: [{
+		uid: "8fc314f6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:staff",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "65e0b4da",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

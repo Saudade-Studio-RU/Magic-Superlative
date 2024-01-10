@@ -1,0 +1,22 @@
+{
+	title: "Создайте Центробежный смеситель",
+	x: 15.0d,
+	y: 0.0d,
+	description: "Создание сплавов",
+	dependencies: [
+		"1d23bef3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "dac4a05f",
+		type: "item",
+		items: [{
+			item: "embers:mixer"
+		}]
+	}],
+	rewards: [{
+		uid: "963fa2f4",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

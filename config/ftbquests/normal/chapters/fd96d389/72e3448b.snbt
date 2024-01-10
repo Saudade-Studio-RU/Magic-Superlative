@@ -1,0 +1,29 @@
+{
+	title: "Создайте Свиток записи исследований",
+	x: 9.0d,
+	y: 1.5d,
+	description: "Передача ваших знаний! Надеюсь их есть кому передать",
+	dependencies: [
+		"a1011c53"
+	],
+	tasks: [{
+		uid: "3d43d3da",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemknowledgeshare",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4a3c9815",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

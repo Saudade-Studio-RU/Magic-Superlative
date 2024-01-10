@@ -1,0 +1,22 @@
+{
+	title: "Создайте Обещание эффективности",
+	x: 6.0d,
+	y: -1.5d,
+	description: "Улучшение выхода",
+	dependencies: [
+		"4837658d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "193c6ef4",
+		type: "item",
+		items: [{
+			item: "evilcraft:promise 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "bd01f16f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

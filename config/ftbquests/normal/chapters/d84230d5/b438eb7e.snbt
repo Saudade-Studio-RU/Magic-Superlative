@@ -1,0 +1,21 @@
+{
+	title: "Создайте Метку для стрельбы",
+	x: 16.0d,
+	y: -2.0d,
+	description: "Аура за точность",
+	dependencies: [
+		"eb74ddef"
+	],
+	tasks: [{
+		uid: "af9db189",
+		type: "item",
+		items: [{
+			item: "naturesaura:projectile_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "049cce3f",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

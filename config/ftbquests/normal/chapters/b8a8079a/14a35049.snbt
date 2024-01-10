@@ -1,0 +1,21 @@
+{
+	title: "Создайте продвинутую версию",
+	x: 10.0d,
+	y: 4.5d,
+	description: "Умная оборона вашей территории... насколько это возможно",
+	dependencies: [
+		"d1c90d9a"
+	],
+	tasks: [{
+		uid: "dae08064",
+		type: "item",
+		items: [{
+			item: "thaumcraft:turret 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "d0221d75",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

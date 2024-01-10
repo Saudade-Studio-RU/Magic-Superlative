@@ -1,0 +1,27 @@
+{
+	title: "Создайте Кровавый сундук",
+	x: 9.0d,
+	y: 3.0d,
+	description: "Чинящий за кровь",
+	dependencies: [
+		"bb3d0cb3"
+	],
+	tasks: [{
+		uid: "cecf6a9e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:blood_chest",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b55434c6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

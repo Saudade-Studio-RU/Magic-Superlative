@@ -1,0 +1,29 @@
+{
+	title: "Начните изучение Абиссалкрафта",
+	x: 0.0d,
+	y: -3.0d,
+	description: "Начните изучать мифических существ Лавкрафта и их богов",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "7cb5b9c1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:necronomicon",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "774e4406",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

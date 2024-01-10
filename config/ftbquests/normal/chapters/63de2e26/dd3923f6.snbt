@@ -1,0 +1,22 @@
+{
+	title: "Достигните финального замка",
+	icon: "twilightforest:castle_rune_brick 1 1",
+	x: 19.0d,
+	y: 0.0d,
+	description: "ЭЙ, А ГДЕ МОЙ ФИНАЛЬНЫЙ БОСС?",
+	dependencies: [
+		"56f1034a"
+	],
+	tasks: [{
+		uid: "c5fc029a",
+		type: "advancement",
+		title: "Выполните достижение \"Этот замок классный\"",
+		advancement: "twilightforest:progress_castle",
+		criterion: ""
+	}],
+	rewards: [{
+		uid: "f6ff265b",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Создайте Молот",
+	x: 0.0d,
+	y: 3.0d,
+	description: "Бюджетная дробилка",
+	dependencies: [
+		"342bc1c6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "17f1ceb9",
+		type: "item",
+		items: [{
+			item: "mahoutsukai:hammer"
+		}]
+	}],
+	rewards: [{
+		uid: "ca718584",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

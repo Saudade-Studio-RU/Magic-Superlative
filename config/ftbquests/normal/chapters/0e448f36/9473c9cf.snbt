@@ -1,0 +1,26 @@
+{
+	title: "Создайте Кол",
+	x: 3.0d,
+	y: -4.0d,
+	description: "Сама эффективность",
+	dependencies: [
+		"65435ea3"
+	],
+	tasks: [{
+		uid: "7ebe87d6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:stake"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bc1dd727",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

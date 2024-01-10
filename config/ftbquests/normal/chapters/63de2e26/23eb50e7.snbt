@@ -1,0 +1,22 @@
+{
+	icon: "twilightforest:trophy 1 4",
+	x: 8.5d,
+	y: -2.0d,
+	description: "Рыцарская... не дуэль!?",
+	dependencies: [
+		"a03fb208"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b2411f14",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "7f97fc1c",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

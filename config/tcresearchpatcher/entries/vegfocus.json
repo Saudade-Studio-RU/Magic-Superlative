@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "VEGFOCUS",
+      "name": "research.VEGFOCUS.title",
+      "icons": [ "evilcraft:vengeance_focus" ],
+      "category": "SUPERLATIVE",
+      "location": [ 2, -3 ],
+      "parents": [ "SUPERLATIVESTART" ],
+      "stages": [
+        {
+          "text": "research.VEGFOCUS.text.stage.1",
+          "required_knowledge": [ "THEORY;ARTIFICE;1", "OBSERVATION;ARTIFICE;1" ]
+        },
+        {
+          "text": "research.VEGFOCUS.text.stage.2",
+          "recipes": [ "evilcraft:vengeance_focus", "bloodmagic:blood_rune" ]
+        }
+      ]
+    }
+  ]
+}

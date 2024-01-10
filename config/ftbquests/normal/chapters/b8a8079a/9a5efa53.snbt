@@ -1,0 +1,33 @@
+{
+	title: "Чернильница из маны (см. Ботания)",
+	x: -6.0d,
+	y: -3.5d,
+	description: "Лучше мана, чем чернила",
+	text: [
+		"Наполните маной письменные принадлежности в бассейне"
+	],
+	dependencies: [
+		"c09ce581",
+		"a712fc39"
+	],
+	hide: true,
+	tasks: [{
+		uid: "510e0380",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:manainkwell",
+			tag: {},
+			Damage: 150s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a1898728",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

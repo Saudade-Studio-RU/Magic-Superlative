@@ -1,0 +1,26 @@
+{
+	title: "Мобильность - это всё!",
+	x: 10.0d,
+	y: 2.5d,
+	description: "Человек-паук мира магии",
+	dependencies: [
+		"037bec19"
+	],
+	tasks: [{
+		uid: "f85eadaf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:grapple_gun"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dfc7266c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

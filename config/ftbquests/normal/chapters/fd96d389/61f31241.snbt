@@ -1,0 +1,29 @@
+{
+	title: "Создайте Секстант",
+	x: 1.0d,
+	y: 3.0d,
+	description: "Помощь в постройке",
+	dependencies: [
+		"89691c84"
+	],
+	tasks: [{
+		uid: "679751d4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemsextant",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8928cb67",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

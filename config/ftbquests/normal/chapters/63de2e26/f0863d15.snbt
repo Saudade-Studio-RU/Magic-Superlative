@@ -1,0 +1,50 @@
+{
+	title: "Создайте Броню из чешуи Наги",
+	x: 5.0d,
+	y: 3.0d,
+	description: "Чешуя, вторая кожа",
+	dependencies: [
+		"592bca4c"
+	],
+	tasks: [{
+		uid: "30a3ef3c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:naga_chestplate",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 1s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e5910f85",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:naga_leggings",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2ffcb5b4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

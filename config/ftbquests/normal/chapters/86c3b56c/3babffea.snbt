@@ -1,0 +1,24 @@
+{
+	title: "Создайте Энергетический пьедестал",
+	x: 6.0d,
+	y: 2.0d,
+	description: "Хранилище PE",
+	dependencies: [
+		"ca8fe5bd"
+	],
+	tasks: [{
+		uid: "343bbd1a",
+		type: "item",
+		items: [{
+			id: "abyssalcraft:energypedestal",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "deb4ffac",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Получите Эксперимент 115",
+	x: 11.0d,
+	y: -3.5d,
+	description: "Бесконечный пирог",
+	dependencies: [
+		"36e7eda9"
+	],
+	tasks: [{
+		uid: "13982e8b",
+		type: "item",
+		items: [{
+			item: "twilightforest:experiment_115"
+		}]
+	}],
+	rewards: [{
+		uid: "d40c6819",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,49 @@
+{
+	title: "Мистические светильники",
+	x: 10.0d,
+	y: 0.5d,
+	shape: "circle",
+	description: "Для животоводства - лучшее решение",
+	dependencies: [
+		"037bec19"
+	],
+	tasks: [{
+		uid: "3674f490",
+		type: "item",
+		items: [{
+			item: "thaumcraft:lamp_arcane"
+		}]
+	},
+	{
+		uid: "3a903cdd",
+		type: "item",
+		items: [{
+			item: "thaumcraft:lamp_fertility"
+		}]
+	},
+	{
+		uid: "194645d5",
+		type: "item",
+		items: [{
+			item: "thaumcraft:lamp_growth"
+		}]
+	}],
+	rewards: [{
+		uid: "ef255234",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "bbf2804b",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 3s,
+					id: 21s
+				}]
+			}
+		}
+	}]
+}

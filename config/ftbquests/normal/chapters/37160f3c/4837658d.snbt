@@ -1,0 +1,30 @@
+{
+	title: "Создайте Наполнитель кровью",
+	x: 7.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "Не опять, а снова",
+	dependencies: [
+		"f76bfd66",
+		"77b944ff"
+	],
+	hide: true,
+	tasks: [{
+		uid: "91f812ab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:blood_infuser",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "07494bea",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

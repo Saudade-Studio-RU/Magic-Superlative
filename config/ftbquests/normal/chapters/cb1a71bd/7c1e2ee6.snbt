@@ -1,0 +1,23 @@
+{
+	title: "Найдите первый алмаз",
+	x: -2.5d,
+	y: 3.0d,
+	description: "Он понадобится вам для...",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "113db29e",
+		type: "item",
+		title: "Найти первый алмаз",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "d2a9260c",
+		type: "item",
+		item: "minecraft:red_flower",
+		count: 8
+	}]
+}

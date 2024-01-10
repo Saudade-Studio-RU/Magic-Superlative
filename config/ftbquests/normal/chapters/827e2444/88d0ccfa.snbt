@@ -1,0 +1,22 @@
+{
+	title: "Создайте Ступку и пестик из алмазов",
+	x: -3.0d,
+	y: 3.0d,
+	description: "Дорогая дробилка",
+	dependencies: [
+		"342bc1c6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d6365514",
+		type: "item",
+		items: [{
+			item: "mahoutsukai:mortar_and_pestle"
+		}]
+	}],
+	rewards: [{
+		uid: "92d60f61",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Создайте Механическую Перчатку Заклинателя",
+	x: -3.0d,
+	y: 3.0d,
+	description: "Эмбер вместо Вис",
+	dependencies: [
+		"da415f62"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6927b6dd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicperiphery:caster_ember"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9affab89",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

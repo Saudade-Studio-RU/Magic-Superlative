@@ -1,0 +1,29 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	description: "Мана за опыт",
+	dependencies: [
+		"840cc22e"
+	],
+	tasks: [{
+		uid: "719083ec",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "arcanerose"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "850ef9c6",
+		type: "item",
+		item: "minecraft:experience_bottle",
+		count: 32
+	},
+	{
+		uid: "8ef6c238",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

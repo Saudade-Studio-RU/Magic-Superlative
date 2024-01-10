@@ -1,0 +1,21 @@
+{
+	title: "Создайте Сияющий верстак",
+	x: 5.0d,
+	y: 2.0d,
+	description: "Лучший верстак",
+	dependencies: [
+		"3fbf8f60"
+	],
+	tasks: [{
+		uid: "71cf5211",
+		type: "item",
+		items: [{
+			item: "arcanearchives:radiant_crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "a9905151",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

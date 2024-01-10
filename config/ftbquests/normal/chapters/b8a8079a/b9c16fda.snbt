@@ -1,0 +1,26 @@
+{
+	title: "Вис-талисман",
+	x: 18.5d,
+	y: 6.5d,
+	description: "Подзардка с батарейкой внутри",
+	dependencies: [
+		"d8b7d661"
+	],
+	tasks: [{
+		uid: "53f9e018",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicperiphery:vis_phylactery"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "36bac86a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

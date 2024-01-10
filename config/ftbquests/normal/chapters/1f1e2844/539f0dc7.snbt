@@ -1,0 +1,50 @@
+{
+	title: "Создайте любой Эмбер аксессуар",
+	x: 20.0d,
+	y: -2.0d,
+	description: "Уменьшение затрат",
+	dependencies: [
+		"49ed73f8"
+	],
+	tasks: [{
+		uid: "4e56711c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ember_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "742c3a03",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ember_belt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e65708a0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ember_ring"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1e0cd8bd",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

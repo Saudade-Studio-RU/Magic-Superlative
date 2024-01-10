@@ -1,0 +1,22 @@
+{
+	title: "Создайте Демонический Тигель",
+	x: -12.5d,
+	y: 2.5d,
+	description: "Адская воля в воздухе ",
+	dependencies: [
+		"3f1f8a74"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3385ec94",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crucible"
+		}]
+	}],
+	rewards: [{
+		uid: "0d450433",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

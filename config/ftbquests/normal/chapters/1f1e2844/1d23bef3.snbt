@@ -1,0 +1,29 @@
+{
+	title: "Создайте Штампер",
+	x: 13.0d,
+	y: 0.0d,
+	description: "Из жидкости в физическую форму",
+	dependencies: [
+		"a30b25e8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b3067e97",
+		type: "item",
+		items: [{
+			item: "embers:stamper"
+		}]
+	},
+	{
+		uid: "d1de0e17",
+		type: "item",
+		items: [{
+			item: "embers:stamper_base"
+		}]
+	}],
+	rewards: [{
+		uid: "65bc38d0",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

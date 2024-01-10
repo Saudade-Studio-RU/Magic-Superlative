@@ -1,0 +1,28 @@
+{
+	title: "Создайте Посох Расщепления из Ужасных Земель",
+	x: 22.0d,
+	y: 2.0d,
+	description: "Абсорбция с силой Ужаса",
+	dependencies: [
+		"9908f530",
+		"c6b7f2e6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b126fbc7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:drainstaff",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "93d625db",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

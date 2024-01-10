@@ -1,0 +1,31 @@
+{
+	title: "Создайте и соберите Мутную воду",
+	x: -6.0d,
+	y: 3.0d,
+	description: "Что же за туман?",
+	dependencies: [
+		"342bc1c6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7df7ef9f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "murky_water",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eac83180",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

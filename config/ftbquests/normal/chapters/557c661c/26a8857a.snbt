@@ -1,0 +1,22 @@
+{
+	title: "Создайте Сияющий клад",
+	x: 7.0d,
+	y: -2.0d,
+	description: "Тысячи и миллионы",
+	dependencies: [
+		"43d324b8"
+	],
+	tasks: [{
+		uid: "6ce465aa",
+		type: "item",
+		items: [{
+			id: "arcanearchives:radiant_trove",
+			tag: {}
+		}]
+	}],
+	rewards: [{
+		uid: "f197a8a7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

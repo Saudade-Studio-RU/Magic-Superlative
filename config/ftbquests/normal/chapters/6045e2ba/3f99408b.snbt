@@ -1,0 +1,33 @@
+{
+	title: "Создайте мешок для цветов",
+	x: -2.0d,
+	y: 0.0d,
+	description: "Экономия пространства из Ботании",
+	dependencies: [
+		"b4d2b920"
+	],
+	hide: true,
+	tasks: [{
+		uid: "945b4c81",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: [],
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:flowerbag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2974bb1e",
+		type: "random",
+		table: 6
+	},
+	{
+		uid: "0978553a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

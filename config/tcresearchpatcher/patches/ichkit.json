@@ -1,0 +1,277 @@
+[
+  {
+    "key": "DIMENSIONALSHARD",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -7, 0 ]
+      },
+      {
+        "op": "add",
+        "path": "parents",
+        "value": [ "IMPETUS_MATRIX", "DOPPLEGANGER", "~GEMCUTTERS", "~DAWNANVIL", "~SOULFORGE", "~PIERVEGFOCUS", "~ABKEY", "PAULDRONREPULSION", "MALIGNANTHEART", "MAGICQUIVER", "VISPHYLACTERY" ]
+      }
+    ]
+  },
+  {
+    "key": "ICHOR",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"  
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -9, 0 ]
+      }
+    ]
+  },
+  {
+    "key": "ICHORIUMTOOLS",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -11, 2 ]
+      }
+    ]
+  },
+  {
+    "key": "ICHOR_POUCH",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -19, 0 ]
+      }
+    ]
+  },
+  {
+    "key": "ICHORARMOR",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -11, -2 ]
+      }
+    ]
+  },
+  {
+    "key": "KAMIHELM",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -14, -3 ]
+      }
+    ]
+  },
+  {
+    "key": "KAMICHEST",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -12, -4 ]
+      }
+    ]
+  },
+  {
+    "key": "KAMILEGS",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -10, -4 ]
+      }
+    ]
+  },
+  {
+    "key": "KAMIBOOTS",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -8, -3 ]
+      }
+    ]
+  },
+  {
+    "key": "ICHOR_SWORD_ADV",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -14, 3 ]
+      }
+    ]
+  },
+  {
+    "key": "ICHOR_PICK_ADV",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -12, 4 ]
+      }
+    ]
+  },
+  {
+    "key": "ICHOR_AXE_ADV",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -10, 4 ]
+      }
+    ]
+  },
+  {
+    "key": "ICHOR_SHOVEL_ADV",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -8, 3 ]
+      }
+    ]
+  },
+  {
+    "key": "BLACKHOLE_RING",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -11, 6 ]
+      }
+    ]
+  },
+  {
+    "key": "PROTO_CLAY",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -13, 6 ]
+      }
+    ]
+  },
+  {
+    "key": "CAT_AMULET",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -17, 2 ]
+      }
+    ]
+  },
+  {
+    "key": "PLACEMENT_MIRROR",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -11, 8 ]
+      }
+    ]
+  },
+  {
+    "key": "WARP_SERIES",
+    "ops": [
+      {
+        "op": "replace",
+        "path": "category",
+        "value": "SUPERLATIVE"
+      },
+      {
+        "op": "replace",
+        "path": "location",
+        "value": [ -17, -2 ]
+      }
+    ]
+  }
+]

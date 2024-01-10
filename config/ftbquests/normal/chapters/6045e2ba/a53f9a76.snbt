@@ -1,0 +1,42 @@
+{
+	title: "Продвинутые руны 1 ",
+	x: 12.5d,
+	y: 4.5d,
+	description: "Времена года",
+	dependencies: [
+		"db02bf54"
+	],
+	tasks: [{
+		uid: "856cd938",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 4"
+		}]
+	},
+	{
+		uid: "2d3d9612",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 5"
+		}]
+	},
+	{
+		uid: "e24c83ff",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 6"
+		}]
+	},
+	{
+		uid: "0f477ac7",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "788fd95e",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

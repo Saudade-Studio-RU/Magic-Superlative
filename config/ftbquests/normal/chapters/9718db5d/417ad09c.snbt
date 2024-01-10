@@ -1,0 +1,21 @@
+{
+	title: "Создайте Жертвенник для курений",
+	x: 4.0d,
+	y: -2.0d,
+	description: "Увеличение подношений",
+	dependencies: [
+		"0a1369ed"
+	],
+	tasks: [{
+		uid: "de8f710a",
+		type: "item",
+		items: [{
+			item: "bloodmagic:incense_altar"
+		}]
+	}],
+	rewards: [{
+		uid: "0f3f11e7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

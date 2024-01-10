@@ -1,0 +1,28 @@
+{
+	title: "Создайте Таумостическую упряжь",
+	x: 7.0d,
+	y: 1.0d,
+	description: "Креативный полёт",
+	dependencies: [
+		"c28087d3"
+	],
+	tasks: [{
+		uid: "59119241",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					slots: 1
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:thaumostatic_harness"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ec379736",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	title: "Создайте Продвинутый верстак",
+	x: -3.0d,
+	y: -3.0d,
+	description: "Рюкзак+верстак",
+	dependencies: [
+		"780bfeac"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "a1dc1c44",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:exalted_crafter",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "125cc30e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:exalted_crafter"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9a723b79",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

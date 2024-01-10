@@ -1,0 +1,55 @@
+{
+	title: "TOP TIER",
+	loot_size: 1,
+	rewards: [{
+		item: "twilightforest:fiery_ingot",
+		count: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:arcane_tome",
+			Damage: 3s
+		}
+	},
+	{
+		item: "botania:manaresource 1 4",
+		count: 4
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "baubles:ring"
+		}
+	},
+	{
+		item: "thaumcraft:curio 1 1",
+		count: 16
+	},
+	{
+		item: "minecraft:golden_apple 1 1"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:focus_2"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:archmage"
+			}
+		}
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Создайте Ритуальный пьедестал",
+	x: 8.0d,
+	y: 8.5d,
+	description: "Ритуалы Астрального Волшебства",
+	dependencies: [
+		"f300f759"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ddb4b42b",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockritualpedestal"
+		}]
+	}],
+	rewards: [{
+		uid: "83b244dd",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

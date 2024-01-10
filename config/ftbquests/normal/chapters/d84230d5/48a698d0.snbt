@@ -1,0 +1,22 @@
+{
+	title: "Получите Золотой лист",
+	x: 4.0d,
+	y: 0.0d,
+	description: "Природа - золото",
+	dependencies: [
+		"0ff5a33b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3dab8eba",
+		type: "item",
+		items: [{
+			item: "naturesaura:gold_leaf"
+		}]
+	}],
+	rewards: [{
+		uid: "9f1d92f1",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

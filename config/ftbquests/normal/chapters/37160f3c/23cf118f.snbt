@@ -1,0 +1,28 @@
+{
+	title: "Создайте Экстрактор крови",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Мобы - фрукт, кровь - сок",
+	dependencies: [
+		"780bfeac"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c8b7cf4a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:blood_extractor",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1e88bea9",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

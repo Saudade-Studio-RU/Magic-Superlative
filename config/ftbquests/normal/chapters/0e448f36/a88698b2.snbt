@@ -1,0 +1,21 @@
+{
+	title: "Повысьте уровень Охотника до 10",
+	x: 14.0d,
+	y: -2.0d,
+	description: "Ветеран вампирских баталий",
+	dependencies: [
+		"fb8d8329"
+	],
+	tasks: [{
+		uid: "083174ee",
+		type: "item",
+		items: [{
+			item: "vampirism:hunter_intel 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "03870eed",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Сделайте Кольцо шагающего по облакам",
+	x: 11.5d,
+	y: -8.5d,
+	description: "Теперь и вы в облаках",
+	dependencies: [
+		"974ba2ae"
+	],
+	hide: true,
+	tasks: [{
+		uid: "939be7e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:cloud_ring"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9a01baa8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

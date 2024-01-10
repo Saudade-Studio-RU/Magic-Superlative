@@ -1,0 +1,22 @@
+{
+	title: "Создайте Плавильню из Мифминита",
+	x: 10.0d,
+	y: -9.0d,
+	description: "Максимальная выгода",
+	dependencies: [
+		"efe32993",
+		"819dff4b"
+	],
+	tasks: [{
+		uid: "f350f74e",
+		type: "item",
+		items: [{
+			item: "thaumadditions:mithminite_smelter"
+		}]
+	}],
+	rewards: [{
+		uid: "4856df63",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

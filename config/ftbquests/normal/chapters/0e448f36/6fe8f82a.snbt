@@ -1,0 +1,97 @@
+{
+	title: "Получите Любую книгу Вампира",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Древние знания",
+	dependencies: [
+		"7b6869b0"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "40b4c680",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:vampire_book",
+			tag: {
+				generation: 3,
+				pages: [
+					"[\"\",{\"text\":\"Venatio\",\"bold\":true},{\"text\":\"\\nstabunt quadrupedes et flexis laetus habenis teque tuumque canam terris venerabile numen. Aurea pacati regeres cum saecula mundi,\\nIustitia inviolata malis, placidissima virgo,\\nsive illa Astraei genus es, quem fama parentem\",\"color\":\"reset\"}]",
+					"{\"text\":\"tradidit astrorum, seu vera intercidit aevo\\nortus fama tui, mediis te laeta ferebas\\nsublimis populis nec dedignata subire\\ntecta hominum et puros sine crimine, diva, penatis iura dabas cultuque novo rude vulgus in omnem \"}",
+					"{\"text\":\"formabas vitae sinceris artibus usum.\\nnondum vesanos rabies nudaverat ensis\\nnec consanguineis fuerat discordia nota,\\nignotique maris cursus privataque tellus\"}"
+				],
+				author: "Unknown",
+				display: {
+					Lore: [
+						"Ancient writing"
+					],
+					Name: "Книга Вампира"
+				},
+				title: "Venatio"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9ce71b65",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:vampire_book",
+			tag: {
+				generation: 3,
+				pages: [
+					"[\"\",{\"text\":\"Liber XV\",\"bold\":true},{\"text\":\"\\nUtcumque potuimus veritatem scrutari, ea quae videre licuit per aetatem, vel perplexe interrogando versatos in medio scire, narravimus ordine casuum exposito diversorum:\",\"color\":\"reset\"}]",
+					"{\"text\":\"residua quae secuturus aperiet textus, pro virium captu limatius absolvemus, nihil obtrectatores longi, ut putant, operis formidantes. Tunc enim laudanda est brevitas cum moras rumpens intempestivas nihil subtrahit cognitioni gestorum.\"}"
+				],
+				author: "Unknown",
+				display: {
+					Lore: [
+						"Ancient writing"
+					],
+					Name: "Книга Вампира"
+				},
+				title: "Liber XV"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bedd7c3d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:vampire_book",
+			tag: {
+				generation: 3,
+				pages: [
+					"[\"\",{\"text\":\"Exitiorum\",\"bold\":true},{\"text\":\"\\nDum has exitiorum communium clades suscitat turbo feralis, urbem aeternam Leontius regens multa spectati iudicis documenta praebebat in audiendo celer, in disceptando \",\"color\":\"reset\"},{\"text\":\"iustissimus\",\"obfuscated\":true},{\"text\":\", natura benivolus, licet auctoritatis causa servandae acer\",\"color\":\"reset\"}]",
+					"[\"\",{\"text\":\"quibusdam videbatur et inclinatior ad damnandum.\\n\"},{\"text\":\"Exitiosfm\",\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\"},{\"text\":\"videbatur\",\"obfuscated\":true},{\"text\":\" et \",\"color\":\"reset\"},{\"text\":\"inclidnator\",\"obfuscated\":true},{\"text\":\"\\nPrima igitur causa seditionis in eum concitandae vilissima fuit et levis.\",\"color\":\"reset\"}]"
+				],
+				author: "Unknown",
+				display: {
+					Lore: [
+						"Ancient writing"
+					],
+					Name: "Книга Вампира"
+				},
+				title: "Exitiorum"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cbe280c5",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

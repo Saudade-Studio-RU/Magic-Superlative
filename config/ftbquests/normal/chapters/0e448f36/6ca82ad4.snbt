@@ -1,0 +1,22 @@
+{
+	title: "Создайте Алтарь Вдохновения",
+	x: 10.0d,
+	y: 2.0d,
+	description: "Повышая уровень до 5",
+	dependencies: [
+		"e882a43b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "22cbfcb7",
+		type: "item",
+		items: [{
+			item: "vampirism:altar_inspiration"
+		}]
+	}],
+	rewards: [{
+		uid: "3a8a275e",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

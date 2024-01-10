@@ -1,0 +1,27 @@
+{
+	title: "Победите Медузу Горгону",
+	x: -3.0d,
+	y: 3.0d,
+	description: "И получите голову, окаменяющую всё...",
+	dependencies: [
+		"7986f9bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9759ce88",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:gorgon_head"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b798860b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

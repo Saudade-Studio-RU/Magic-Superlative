@@ -1,0 +1,22 @@
+{
+	title: "Создайте Ткань для заклинаний",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Заклинания в быстром доступе",
+	dependencies: [
+		"342bc1c6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "02e40655",
+		type: "item",
+		items: [{
+			item: "mahoutsukai:spell_cloth"
+		}]
+	}],
+	rewards: [{
+		uid: "ed6b61e0",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

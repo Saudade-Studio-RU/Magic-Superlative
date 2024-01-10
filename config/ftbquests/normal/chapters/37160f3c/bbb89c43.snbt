@@ -1,0 +1,38 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "evilcraft:spirit_furnace",
+		tag: {}
+	},
+	x: 11.0d,
+	y: -1.5d,
+	description: "Повторяющий смерти",
+	dependencies: [
+		"df6e75d6",
+		"a754899a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "78dba001",
+		type: "interaction",
+		title: "Постройте Печь духов и взаимодействуйте с ней",
+		icon: "evilcraft:dark_blood_brick",
+		match_type: "block_id",
+		match: "evilcraft:spirit_furnace"
+	},
+	{
+		uid: "0bca07b8",
+		type: "item",
+		items: [{
+			item: "evilcraft:dark_blood_brick"
+		}],
+		count: 24L
+	}],
+	rewards: [{
+		uid: "9413bffc",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

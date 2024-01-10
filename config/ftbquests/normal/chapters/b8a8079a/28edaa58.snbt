@@ -1,0 +1,21 @@
+{
+	title: "Безвредные пары!",
+	x: 2.0d,
+	y: -13.0d,
+	description: "Уменьшение загрязнения",
+	dependencies: [
+		"70260fdb"
+	],
+	tasks: [{
+		uid: "a6164216",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_vent"
+		}]
+	}],
+	rewards: [{
+		uid: "047647d9",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

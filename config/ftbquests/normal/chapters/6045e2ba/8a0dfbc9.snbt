@@ -1,0 +1,70 @@
+{
+	title: "Ресурсы Эльфхейма",
+	x: 21.0d,
+	y: -3.0d,
+	description: "Новые материалы!",
+	dependencies: [
+		"6e4f3bda",
+		"131aec17"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3ed77953",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 7"
+		}]
+	},
+	{
+		uid: "519abddf",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 8"
+		}]
+	},
+	{
+		uid: "d04b5848",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 9"
+		}]
+	},
+	{
+		uid: "bc2bdf71",
+		type: "item",
+		items: [{
+			item: "botania:dreamwood"
+		}]
+	},
+	{
+		uid: "399762d3",
+		type: "item",
+		items: [{
+			item: "botania:elfglass"
+		}]
+	}],
+	rewards: [{
+		uid: "dfc2770c",
+		type: "item",
+		item: "botania:manaresource",
+		count: 4
+	},
+	{
+		uid: "043ce820",
+		type: "item",
+		item: "botania:manaresource 1 23",
+		count: 4
+	},
+	{
+		uid: "7f72574d",
+		type: "item",
+		item: "botania:manaresource 1 1",
+		count: 2
+	},
+	{
+		uid: "dba961fd",
+		type: "item",
+		item: "botania:manaresource 1 2",
+		count: 2
+	}]
+}

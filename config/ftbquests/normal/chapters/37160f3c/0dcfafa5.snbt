@@ -1,0 +1,28 @@
+{
+	title: "Создайте Рениаматор духов",
+	x: 5.0d,
+	y: 3.0d,
+	description: "Креатив подобие",
+	dependencies: [
+		"bb3d0cb3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "716944fa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:spirit_reanimator",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3a76ab95",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Создайте Пояс странника",
+	x: -4.0d,
+	y: 0.0d,
+	description: "Даже лучше",
+	dependencies: [
+		"e6ebe420"
+	],
+	tasks: [{
+		uid: "372c4fed",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:striding_belt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "24cd2a3a",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

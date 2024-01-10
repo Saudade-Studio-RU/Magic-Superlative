@@ -1,0 +1,22 @@
+{
+	title: "Создайте выращиваемое Семя пустоты",
+	x: 2.0d,
+	y: 1.5d,
+	description: "Выращивание пустоты",
+	dependencies: [
+		"abb43939",
+		"83b8917a"
+	],
+	tasks: [{
+		uid: "8c527e40",
+		type: "item",
+		items: [{
+			item: "thaumadditions:void_seed"
+		}]
+	}],
+	rewards: [{
+		uid: "c6886d00",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

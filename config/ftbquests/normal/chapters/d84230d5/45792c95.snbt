@@ -1,0 +1,28 @@
+{
+	title: "Создайте Движущиеся солнечные часы",
+	x: 16.0d,
+	y: 2.0d,
+	description: "Изменение времени по прихоти природы",
+	dependencies: [
+		"eb74ddef"
+	],
+	tasks: [{
+		uid: "99b5ea16",
+		type: "item",
+		items: [{
+			item: "naturesaura:time_changer"
+		}]
+	},
+	{
+		uid: "938117bb",
+		type: "item",
+		items: [{
+			item: "naturesaura:clock_hand"
+		}]
+	}],
+	rewards: [{
+		uid: "b7787a6f",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

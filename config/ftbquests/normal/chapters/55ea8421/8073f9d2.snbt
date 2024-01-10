@@ -1,0 +1,52 @@
+{
+	x: 0.0d,
+	y: -7.0d,
+	description: "Лудомания",
+	hide_dependency_lines: true,
+	dependencies: [
+		"35a25cb0"
+	],
+	tasks: [{
+		uid: "56a2ef1e",
+		type: "item",
+		title: "Имейте в инвентаре 10 лутбоксов",
+		items: [{
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "1crate"
+			}
+		},
+		{
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "2crate"
+			}
+		},
+		{
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate3"
+			}
+		},
+		{
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate4"
+			}
+		}],
+		count: 10L,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4099726e",
+		type: "random",
+		title: "Случайный сундук",
+		icon: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate4"
+			}
+		},
+		table: 11
+	}]
+}

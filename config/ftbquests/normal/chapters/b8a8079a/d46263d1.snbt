@@ -1,0 +1,21 @@
+{
+	title: "Переносной бесконечный источник воды",
+	x: 2.0d,
+	y: -4.0d,
+	description: "Кувшин полезности",
+	dependencies: [
+		"d5641f31"
+	],
+	tasks: [{
+		uid: "c5664ad3",
+		type: "item",
+		items: [{
+			item: "thaumcraft:everfull_urn"
+		}]
+	}],
+	rewards: [{
+		uid: "0bb31382",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

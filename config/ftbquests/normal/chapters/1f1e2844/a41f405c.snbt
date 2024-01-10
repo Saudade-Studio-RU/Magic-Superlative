@@ -1,0 +1,21 @@
+{
+	title: "Создайте Эмбер-инжектор",
+	x: 24.0d,
+	y: 2.0d,
+	description: "Выращивание металлургических кристаллов",
+	dependencies: [
+		"c233b808"
+	],
+	tasks: [{
+		uid: "2846490f",
+		type: "item",
+		items: [{
+			item: "embers:ember_injector"
+		}]
+	}],
+	rewards: [{
+		uid: "8b634622",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

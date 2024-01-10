@@ -1,0 +1,24 @@
+{
+	title: "Создайте Порошок награждённого ядра",
+	x: 18.0d,
+	y: 1.5d,
+	description: "Ресурсы из ауры",
+	dependencies: [
+		"fb79a9bd"
+	],
+	tasks: [{
+		uid: "c2a1e20a",
+		type: "item",
+		items: [{
+			id: "naturesaura:effect_powder",
+			tag: {
+				effect: "naturesaura:ore_spawn"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "0a761139",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

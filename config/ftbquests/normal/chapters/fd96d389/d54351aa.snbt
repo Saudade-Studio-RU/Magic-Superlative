@@ -1,0 +1,22 @@
+{
+	title: "Создайте Колодец света",
+	x: 11.5d,
+	y: -0.5d,
+	description: "Жидкость из света",
+	dependencies: [
+		"79772da4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "48256359",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockwell"
+		}]
+	}],
+	rewards: [{
+		uid: "dba0e4fc",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

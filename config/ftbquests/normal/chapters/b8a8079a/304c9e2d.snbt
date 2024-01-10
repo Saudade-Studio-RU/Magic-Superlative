@@ -1,0 +1,31 @@
+{
+	title: "Чернильница из вис (см. Thaumic Additions)",
+	x: -8.5d,
+	y: -3.5d,
+	description: "Долго заряжать, но лучше чем ничего",
+	dependencies: [
+		"c09ce581"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c4b0fe5a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:vis_scribing_tools",
+			tag: {
+				tc.charge: 0
+			},
+			Damage: 150s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2ebaa5c6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Чистая маргаритка",
+	x: 5.0d,
+	y: 0.0d,
+	description: "Цветок жизни",
+	dependencies: [
+		"8b3b9da2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1e3330b7",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3d4a1694",
+		type: "random",
+		table: 6
+	},
+	{
+		uid: "62a502d6",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

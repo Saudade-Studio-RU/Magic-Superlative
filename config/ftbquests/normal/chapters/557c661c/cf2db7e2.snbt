@@ -1,0 +1,30 @@
+{
+	title: "Смастерите Скипетр Манипуляции",
+	x: 8.0d,
+	y: 2.0d,
+	description: "Изменение блоков",
+	dependencies: [
+		"43d324b8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9096aebf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -8180240267111859189L,
+					AS_Amulet_HolderMost: -3319811669840801797L
+				}
+			},
+			id: "arcanearchives:scepter_manipulation"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3f8a3ff7",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Создайте Портальный Ключ Чагарота Райляна",
+	x: 26.0d,
+	y: -2.0d,
+	description: "Проход во тьму",
+	dependencies: [
+		"a7c6a122",
+		"409a9569"
+	],
+	hide: true,
+	tasks: [{
+		uid: "54717784",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:gatewaykeyjzh"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "74829702",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

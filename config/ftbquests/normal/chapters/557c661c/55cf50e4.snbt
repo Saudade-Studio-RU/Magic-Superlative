@@ -1,0 +1,21 @@
+{
+	title: "Создайте Святящуюся Жаровню",
+	x: 7.0d,
+	y: 2.0d,
+	description: "Быстрый склад",
+	dependencies: [
+		"43d324b8"
+	],
+	tasks: [{
+		uid: "c5dd8ac4",
+		type: "item",
+		items: [{
+			item: "arcanearchives:brazier_of_hoarding"
+		}]
+	}],
+	rewards: [{
+		uid: "1df9ff15",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,741 @@
+{
+	title: "Выдайте Бутыльки аспектов всего мира",
+	x: 6.0d,
+	y: -5.0d,
+	description: "ПРОЕКТ ШИЗОФРЕНИЯ",
+	tasks: [{
+		uid: "68a8498c",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "aer"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "2160797a",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "terra"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "4e2eaaf7",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "ignis"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "66109d15",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "aqua"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "ce8c966e",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "ordo"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "22358439",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "perditio"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "a4e6e64e",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "vacuos"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "b053c3e7",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "lux"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "7a3b2c13",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "motus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "76e63a38",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "humanus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "84def0db",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "bestia"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "0d462e56",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "exanimis"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "52b1f1e7",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "desiderium"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "7aec09a6",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "praemunio"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "8ef26a2c",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "aversio"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "15e34d0d",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "sensus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "436a67ec",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "cognitio"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "b37a5629",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "spiritus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "ebfc65ef",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "vinculum"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "127afbf2",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "machina"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "3345f1dd",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "fabrico"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "bacccf32",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "instrumentum"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "4c31a5b8",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "herba"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "fcb2329c",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "volatus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "c0513096",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "alienis"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "d4d45798",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "tenebrae"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "613e2b02",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "vitium"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "22f9c803",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "alkimia"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "92125264",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "auram"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "e81b6573",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "praecantatio"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "65013d76",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "permutatio"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "5ad25d76",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "potentia"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "c21b68ea",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "mortuus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "5b248164",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "victus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "1e96c4d1",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "metallum"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "0c3f3aed",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "vitreus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "6d381e18",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "fluctus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "29429aa0",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "sonus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "1fc4f5ee",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "exitium"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "ee4b8253",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "caeles"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "5d2ac312",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "draco"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "9c62d76a",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "infernum"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "4911e75b",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "ventus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "430c0db6",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "visum"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "7d87a0fd",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "imperium"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "7c04afc4",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "mythus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "bd34d495",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "coralos"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "c0616e02",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "dreadia"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "40ca9e4d",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	},
+	{
+		uid: "886297da",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate3"
+			}
+		}
+	}]
+}

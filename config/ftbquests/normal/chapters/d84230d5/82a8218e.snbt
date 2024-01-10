@@ -1,0 +1,23 @@
+{
+	title: "Создайте Эндер ящики",
+	x: 0.0d,
+	y: 3.0d,
+	description: "Пространственное перемещние в промышленных масштабах",
+	dependencies: [
+		"aeb1c6ed"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ade7b977",
+		type: "item",
+		items: [{
+			item: "naturesaura:ender_crate"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "9e7a99a8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

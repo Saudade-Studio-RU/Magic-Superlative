@@ -1,0 +1,28 @@
+{
+	title: "Создайте Улучшенный Арбалет",
+	x: 7.0d,
+	y: -6.0d,
+	description: "Лук на максималках",
+	dependencies: [
+		"3bcfad07"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "f581bc28",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:enhanced_crossbow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6184c99d",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

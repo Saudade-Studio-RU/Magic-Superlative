@@ -1,0 +1,21 @@
+{
+	title: "Создайте Кафедру для манифеста",
+	x: 12.0d,
+	y: 0.0d,
+	description: "МЭ Контроллер",
+	dependencies: [
+		"42b8cd59"
+	],
+	tasks: [{
+		uid: "8bea2fd4",
+		type: "item",
+		items: [{
+			item: "arcanearchives:lectern_manifest"
+		}]
+	}],
+	rewards: [{
+		uid: "ae13ff73",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

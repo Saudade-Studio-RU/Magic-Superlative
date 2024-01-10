@@ -1,0 +1,21 @@
+{
+	title: "Создайте Пожирающий талисман",
+	x: 9.0d,
+	y: -2.0d,
+	description: "Нет мусору",
+	dependencies: [
+		"43d324b8"
+	],
+	tasks: [{
+		uid: "222ae790",
+		type: "item",
+		items: [{
+			item: "arcanearchives:devouring_charm"
+		}]
+	}],
+	rewards: [{
+		uid: "c6fcb273",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

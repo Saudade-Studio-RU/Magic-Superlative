@@ -1,0 +1,29 @@
+{
+	title: "Создайте Звёздную мантию",
+	x: 21.0d,
+	y: 3.0d,
+	description: "Накидка с силой Звёзд",
+	dependencies: [
+		"5fb68e2c"
+	],
+	tasks: [{
+		uid: "8bb4aef9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcape",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "89426d1e",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Разум в банках",
+	x: 6.0d,
+	y: 5.5d,
+	description: "Оно живое",
+	dependencies: [
+		"629b4e3d"
+	],
+	tasks: [{
+		uid: "463c3490",
+		type: "item",
+		items: [{
+			item: "thaumcraft:jar_brain"
+		}]
+	}],
+	rewards: [{
+		uid: "856e7a47",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

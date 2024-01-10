@@ -1,0 +1,21 @@
+{
+	title: "Создайте Сияющий сундук",
+	x: 5.0d,
+	y: -2.0d,
+	description: "Лучшее хранилище",
+	dependencies: [
+		"3fbf8f60"
+	],
+	tasks: [{
+		uid: "6fa41e34",
+		type: "item",
+		items: [{
+			item: "arcanearchives:radiant_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "1aa6dd32",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

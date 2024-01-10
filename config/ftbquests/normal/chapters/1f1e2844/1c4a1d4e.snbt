@@ -1,0 +1,22 @@
+{
+	title: "Создайте Золотитовую наковальню",
+	x: 24.0d,
+	y: -2.0d,
+	description: "Многофункциональная наковальня",
+	dependencies: [
+		"c233b808"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7de41542",
+		type: "item",
+		items: [{
+			item: "embers:dawnstone_anvil"
+		}]
+	}],
+	rewards: [{
+		uid: "143ff723",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

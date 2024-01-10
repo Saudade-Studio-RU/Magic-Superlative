@@ -1,0 +1,30 @@
+{
+	title: "Наполните пузырёк Солнечной погодой",
+	icon: "evilcraft:weather_container 1 1",
+	x: -3.0d,
+	y: 1.0d,
+	description: "Просто бросьте в аккумулятор во время Солнечной погоды",
+	dependencies: [
+		"4486da03"
+	],
+	tasks: [{
+		uid: "a99e13d5",
+		type: "item",
+		items: [{
+			item: "evilcraft:weather_container"
+		}]
+	},
+	{
+		uid: "19f136c0",
+		type: "item",
+		items: [{
+			item: "evilcraft:weather_container 1 1"
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "694337f7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

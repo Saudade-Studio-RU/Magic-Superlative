@@ -1,0 +1,37 @@
+{
+	title: "Начните изучение Таумкрафта",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thaumcraft:thaumonomicon",
+		tag: {}
+	},
+	x: -4.0d,
+	y: 0.0d,
+	description: "Начните изучение ауры вокруг вас и аспектов этого мира",
+	text: [
+		"Нажмите ПКМ Salis Mundus по книжной полке что бы получить..."
+	],
+	dependencies: [
+		"3badd023"
+	],
+	tasks: [{
+		uid: "6864eb57",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0c97cd88",
+		type: "item",
+		item: "thaumcraft:salis_mundus",
+		count: 4
+	}]
+}

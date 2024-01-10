@@ -1,0 +1,26 @@
+{
+	title: "Колчан мага",
+	x: 11.5d,
+	y: -11.0d,
+	description: "Бесконечные стрелы пробивающие броню",
+	dependencies: [
+		"09aaed0b"
+	],
+	tasks: [{
+		uid: "2a1945be",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicperiphery:magic_quiver"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "60d7401e",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

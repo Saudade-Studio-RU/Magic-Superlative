@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "key": "IMMOLATIONBLADE",
+      "name": "research.IMMOLATIONBLADE.title",
+      "icons": [ "witherskelefix:blade2" ],
+      "category": "SUPERLATIVE",
+      "location": [ -5, -4 ],
+      "meta": [ "SPIKY" ],
+      "parents": [ "DOPPLEGANGER" ],
+      "stages": [
+        {
+          "text": "research.IMMOLATIONBLADE.text.stage.1",
+          "required_knowledge": [ "THEORY;INFUSION;3", "THEORY;ACLHEMY;1", "OBSERVATION;INFUSION;15", "OBSERVATION;SUPERLATIVE;15", "OBSERVATION;INFUSION;15" ]
+        },
+        {
+          "text": "research.IMMOLATIONBLADE.text.stage.2",
+          "recipes": [ "witherskelefix:blade2" ],
+          "warp": 10
+        }
+      ]
+    }
+  ]
+}

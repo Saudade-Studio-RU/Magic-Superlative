@@ -1,0 +1,22 @@
+{
+	title: "Создайте Отслеживатель Камня силы",
+	x: 14.5d,
+	y: -4.0d,
+	description: "Глаз края из мира глубин",
+	dependencies: [
+		"0e485f27"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6cac3a82",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:powerstonetracker"
+		}]
+	}],
+	rewards: [{
+		uid: "c805a5d9",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

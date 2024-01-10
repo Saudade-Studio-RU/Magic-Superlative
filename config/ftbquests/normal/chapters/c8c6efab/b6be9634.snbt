@@ -1,0 +1,22 @@
+{
+	x: -5.0d,
+	y: 2.0d,
+	can_repeat: true,
+	dependencies: [
+		"cd1a2244"
+	],
+	optional: true,
+	tasks: [{
+		uid: "5c68e42c",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 5"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "59ea5b0c",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

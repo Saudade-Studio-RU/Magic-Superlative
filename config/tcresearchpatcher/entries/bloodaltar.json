@@ -1,0 +1,23 @@
+{
+  "entries": [
+    {
+      "key": "BLOODALTAR",
+      "name": "research.BLOODALTAR.title",
+      "icons": [ "bloodmagic:altar" ],
+      "category": "SUPERLATIVE",
+      "location": [ 2, 3 ],
+      "parents": [ "SUPERLATIVESTART" ],
+      "stages": [
+        {
+          "text": "research.BLOODALTAR.text.stage.1",
+          "required_knowledge": [ "OBSERVATION;ALCHEMY;1" ],
+          "required_item": [ "bloodmagic:arcane_ashes" ]
+        },
+        {
+          "text": "research.BLOODALTAR.text.stage.2",
+          "recipes": [ "bloodmagic:altar" ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Начните изучение фокусов в Mahou Tsukai",
+	x: -4.0d,
+	y: 3.0d,
+	description: "Начните изучать магию, заклинания и их катализаторы",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "37caa95f",
+		type: "item",
+		items: [{
+			item: "mahoutsukai:guidebook"
+		}]
+	}],
+	rewards: [{
+		uid: "01fc9cb7",
+		type: "item",
+		item: "mahoutsukai:dagger"
+	}]
+}

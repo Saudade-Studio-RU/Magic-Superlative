@@ -1,0 +1,21 @@
+{
+	title: "Создайте Основу ремня",
+	x: 5.0d,
+	y: 0.0d,
+	description: "Полёт на ваше усмотрение",
+	dependencies: [
+		"8d031da0"
+	],
+	tasks: [{
+		uid: "8af9f74a",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:material 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "c303cc9a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

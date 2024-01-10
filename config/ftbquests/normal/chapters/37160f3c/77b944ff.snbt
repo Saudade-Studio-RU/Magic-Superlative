@@ -1,0 +1,22 @@
+{
+	title: "Создайте Осколок крови",
+	x: 5.0d,
+	y: -1.0d,
+	description: "Сожгите блок застывшей крови",
+	dependencies: [
+		"23cf118f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e00d3463",
+		type: "item",
+		items: [{
+			item: "evilcraft:hardened_blood_shard"
+		}]
+	}],
+	rewards: [{
+		uid: "4b3b8cfd",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

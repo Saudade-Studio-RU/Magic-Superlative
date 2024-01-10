@@ -1,0 +1,23 @@
+{
+	title: "Создайте Медный зарядник",
+	x: 10.0d,
+	y: 2.0d,
+	description: "Зарядка Эмбером",
+	dependencies: [
+		"a9d8491c",
+		"63068820"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7b5c858a",
+		type: "item",
+		items: [{
+			item: "embers:charger"
+		}]
+	}],
+	rewards: [{
+		uid: "9ad1b77f",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

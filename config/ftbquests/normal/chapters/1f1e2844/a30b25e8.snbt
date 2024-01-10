@@ -1,0 +1,22 @@
+{
+	title: "Создайте Плавитель",
+	x: 11.0d,
+	y: 0.0d,
+	description: "Плавка металлов",
+	dependencies: [
+		"63068820"
+	],
+	hide: true,
+	tasks: [{
+		uid: "91601673",
+		type: "item",
+		items: [{
+			item: "embers:block_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "35499a56",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

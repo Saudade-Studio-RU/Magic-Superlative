@@ -1,0 +1,34 @@
+{
+	title: "Последний Гайа был убит",
+	x: 33.0d,
+	y: -3.0d,
+	shape: "square",
+	description: "Что же за награда вас ждёт?",
+	dependencies: [
+		"5f7bdd5d"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "5da76d7a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:treasurebox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "77041387",
+		type: "item",
+		item: "botania:gaiahead"
+	},
+	{
+		uid: "3392f45d",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

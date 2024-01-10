@@ -1,0 +1,22 @@
+{
+	title: "Создайте Алтарь Инфузии",
+	x: 13.0d,
+	y: 2.0d,
+	description: "Повышая уровень до 14",
+	dependencies: [
+		"6ca82ad4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c1d1554f",
+		type: "item",
+		items: [{
+			item: "vampirism:altar_infusion"
+		}]
+	}],
+	rewards: [{
+		uid: "5b4aa4b2",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

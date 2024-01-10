@@ -1,0 +1,28 @@
+{
+	title: "Перчатка заклинаний из элементия",
+	x: -3.0d,
+	y: 2.0d,
+	description: "Мана вместо Вис",
+	dependencies: [
+		"8a0dfbc9",
+		"da415f62"
+	],
+	hide: true,
+	tasks: [{
+		uid: "25cfb29e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicperiphery:caster_elementium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2636ef98",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

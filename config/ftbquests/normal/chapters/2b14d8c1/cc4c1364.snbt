@@ -1,0 +1,69 @@
+{
+	x: 1.0d,
+	y: 4.0d,
+	description: "Новые возможности и больше маны",
+	dependencies: [
+		"5f6329ea"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c9fe78fe",
+		type: "item",
+		title: "Повысьте ранг посоха до Уровня ученика",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:apprentice_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:apprentice_fire_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:apprentice_lightning_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:apprentice_earth_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:apprentice_necromancy_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:apprentice_healing_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:apprentice_sorcery_wand"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:apprentice_ice_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0b6ed881",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

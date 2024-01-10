@@ -1,0 +1,29 @@
+{
+	x: 6.0d,
+	y: -7.0d,
+	description: "Мана из ветра",
+	dependencies: [
+		"840cc22e"
+	],
+	tasks: [{
+		uid: "7c8f851d",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "bellflower"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "34bb9cbc",
+		type: "item",
+		item: "botania:spark",
+		count: 2
+	},
+	{
+		uid: "945a3d22",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

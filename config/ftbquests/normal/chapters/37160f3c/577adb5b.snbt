@@ -1,0 +1,38 @@
+{
+	title: "Создайте Пробуждённый продвинутый верстак",
+	x: -6.0d,
+	y: -3.0d,
+	description: "Больше места - лучше жизнь!",
+	dependencies: [
+		"462e67a2"
+	],
+	tasks: [{
+		uid: "d1c17aaa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:exalted_crafter",
+			Damage: 3s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "e9c46388",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:exalted_crafter",
+			Damage: 2s
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "04361429",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

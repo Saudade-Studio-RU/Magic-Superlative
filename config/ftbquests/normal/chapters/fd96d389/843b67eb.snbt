@@ -1,0 +1,31 @@
+{
+	title: "Получите Жидкий звёздный свет",
+	x: 14.0d,
+	y: -0.5d,
+	description: "Невероятно красивый... А что с кристаллами в нём?",
+	dependencies: [
+		"d54351aa"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0fe6bdf4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "astralsorcery.liquidstarlight",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "280ff9db",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

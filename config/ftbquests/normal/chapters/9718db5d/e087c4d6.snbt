@@ -1,0 +1,36 @@
+{
+	title: "Создайте Сигил скорости",
+	x: -9.0d,
+	y: 3.0d,
+	description: "Boost за кровь",
+	dependencies: [
+		"588f6c78"
+	],
+	tasks: [{
+		uid: "e505a063",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_haste",
+			tag: {
+				binding: {
+					name: "ShadowKing21228",
+					id: {
+						L: -8180240267111859189L,
+						M: -3319811669840801797L
+					}
+				},
+				activated: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e8bd7c9f",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

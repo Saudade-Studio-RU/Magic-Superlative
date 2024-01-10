@@ -1,0 +1,38 @@
+{
+	title: "Создайте Небесный сборный кристалл",
+	x: 16.0d,
+	y: 7.0d,
+	description: "Собственный свет лучше прежнего",
+	dependencies: [
+		"f89e6829"
+	],
+	tasks: [{
+		uid: "60fd1a38",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockcelestialcollectorcrystal",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.discidia",
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					},
+					collectorType: 1
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "689bb70a",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

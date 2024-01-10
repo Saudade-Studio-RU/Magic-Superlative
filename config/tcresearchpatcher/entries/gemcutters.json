@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "GEMCUTTERS",
+      "name": "research.GEMCUTTERS.title",
+      "icons": [ "arcanearchives:gemcutters_table" ],
+      "category": "SUPERLATIVE",
+      "location": [ -4, 4 ],
+      "parents": [ "RESONATOR" ],
+      "stages": [
+        {
+          "text": "research.GEMCUTTERS.text.stage.1",
+          "required_knowledge": [ "THEORY;GOLEMANCY;3", "OBSERVATION;GOLEMANCY;10", "OBSERVATION;SUPERLATIVE;10" ]
+        },
+        {
+          "text": "research.GEMCUTTERS.text.stage.2",
+          "recipes": [ "arcanearchives:gemcutters_table" ]
+        }
+      ]
+    }
+  ]
+}

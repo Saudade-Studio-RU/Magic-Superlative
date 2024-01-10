@@ -1,0 +1,106 @@
+{
+	title: "Создайте Любую книжную полку",
+	x: 0.0d,
+	y: -8.5d,
+	description: "Хранилище знаний",
+	dependencies: [
+		"b4f5ed67"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "dc83b064",
+		type: "item",
+		items: [{
+			item: "ebwizardry:oak_bookshelf"
+		}]
+	},
+	{
+		uid: "abfae72f",
+		type: "item",
+		items: [{
+			item: "ebwizardry:spruce_bookshelf"
+		}]
+	},
+	{
+		uid: "2235799c",
+		type: "item",
+		items: [{
+			item: "ebwizardry:birch_bookshelf"
+		}]
+	},
+	{
+		uid: "a83621c8",
+		type: "item",
+		items: [{
+			item: "ebwizardry:jungle_bookshelf"
+		}]
+	},
+	{
+		uid: "f87dff7a",
+		type: "item",
+		items: [{
+			item: "ebwizardry:acacia_bookshelf"
+		}]
+	},
+	{
+		uid: "ac63aeff",
+		type: "item",
+		items: [{
+			item: "ebwizardry:dark_oak_bookshelf"
+		}]
+	},
+	{
+		uid: "745fe184",
+		type: "item",
+		items: [{
+			item: "tfspellpack:minewood_bookshelf"
+		}]
+	},
+	{
+		uid: "1d73ee21",
+		type: "item",
+		items: [{
+			item: "tfspellpack:transwood_bookshelf"
+		}]
+	},
+	{
+		uid: "e320f963",
+		type: "item",
+		items: [{
+			item: "tfspellpack:timewood_bookshelf"
+		}]
+	},
+	{
+		uid: "8816702a",
+		type: "item",
+		items: [{
+			item: "tfspellpack:darkwood_bookshelf"
+		}]
+	},
+	{
+		uid: "722acc32",
+		type: "item",
+		items: [{
+			item: "tfspellpack:mangrove_bookshelf"
+		}]
+	},
+	{
+		uid: "ef7c66e5",
+		type: "item",
+		items: [{
+			item: "tfspellpack:canopy_bookshelf"
+		}]
+	},
+	{
+		uid: "c03244dd",
+		type: "item",
+		items: [{
+			item: "tfspellpack:twilight_oak_bookshelf"
+		}]
+	}],
+	rewards: [{
+		uid: "aa23a2d0",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

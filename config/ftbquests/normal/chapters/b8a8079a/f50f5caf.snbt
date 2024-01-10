@@ -1,0 +1,21 @@
+{
+	x: 6.5d,
+	y: 2.5d,
+	description: "Полностью настраиваемый",
+	dependencies: [
+		"037bec19"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2215f981",
+		type: "item",
+		items: [{
+			item: "thaumcraft:redstone_relay"
+		}]
+	}],
+	rewards: [{
+		uid: "c322fbfc",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

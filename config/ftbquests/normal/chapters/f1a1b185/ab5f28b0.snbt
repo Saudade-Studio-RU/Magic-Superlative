@@ -1,0 +1,39 @@
+{
+	title: "Создайте Костяной меч дракона",
+	x: 8.5d,
+	y: -2.0d,
+	description: "Меч из дракона",
+	dependencies: [
+		"7bee1470"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "38cd9f3e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonbone_sword_fire"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b52de56c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonbone_sword_ice"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3ee84aca",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

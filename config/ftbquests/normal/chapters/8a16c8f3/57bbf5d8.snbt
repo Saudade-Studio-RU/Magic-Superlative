@@ -1,0 +1,31 @@
+{
+	title: "Создайте Импульсную матрицу",
+	x: 10.0d,
+	y: -7.0d,
+	description: "Наполнение импульсом",
+	dependencies: [
+		"69d2b155"
+	],
+	tasks: [{
+		uid: "d7f3366e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:pedestal_eldritch"
+		}],
+		count: 2L
+	},
+	{
+		uid: "5d3dc3a2",
+		type: "observation",
+		title: "Наблюдайте Импульсную матрицу",
+		icon: "thaumicaugmentation:impetus_matrix",
+		match_type: "block_id",
+		match: "thaumicaugmentation:impetus_matrix",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "51c9cfa6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

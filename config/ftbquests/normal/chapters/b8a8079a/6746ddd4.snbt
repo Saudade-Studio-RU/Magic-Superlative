@@ -1,0 +1,22 @@
+{
+	title: "Сделайте Голодный сундук",
+	x: 7.5d,
+	y: -2.5d,
+	description: "Бесконечно голодный ",
+	dependencies: [
+		"037bec19"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c661c3d2",
+		type: "item",
+		items: [{
+			item: "thaumcraft:hungry_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "70a53529",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

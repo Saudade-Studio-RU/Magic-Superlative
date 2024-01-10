@@ -1,0 +1,21 @@
+{
+	title: "Создайте Гроб",
+	x: 9.0d,
+	y: 0.5d,
+	description: "Сон днём",
+	dependencies: [
+		"e882a43b"
+	],
+	tasks: [{
+		uid: "b74d5ad3",
+		type: "item",
+		items: [{
+			item: "vampirism:item_coffin"
+		}]
+	}],
+	rewards: [{
+		uid: "488a5129",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

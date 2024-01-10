@@ -1,0 +1,36 @@
+{
+	title: "Гурмарилис",
+	x: 2.5d,
+	y: -7.0d,
+	description: "Мана за еду",
+	dependencies: [
+		"840cc22e"
+	],
+	tasks: [{
+		uid: "02fb60b7",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "gourmaryllis"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c99ba75f",
+		type: "item",
+		item: "minecraft:cooked_mutton",
+		count: 32
+	},
+	{
+		uid: "c2cb6601",
+		type: "item",
+		item: "minecraft:baked_potato",
+		count: 32
+	},
+	{
+		uid: "00c60bdf",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

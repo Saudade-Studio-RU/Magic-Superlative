@@ -1,0 +1,58 @@
+{
+	icon: {
+		id: "thaumcraft:crystal_essence",
+		tag: {
+			Aspects: [{
+				amount: 1,
+				key: "aer"
+			}]
+		}
+	},
+	x: -3.0d,
+	y: 0.0d,
+	description: "Вы ощущаете странные колебания...",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "77cdf73f",
+		type: "item",
+		title: "Найдите любой Вис-Кристалл",
+		icon: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "aer"
+				}]
+			}
+		},
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "ordo"
+				}]
+			}
+		}],
+		consume_items: false,
+		ignore_nbt: 1b,
+		only_from_crafting: false
+	}],
+	rewards: [{
+		uid: "5c51b305",
+		type: "choice",
+		title: "Вис-кристаллы на выбор (x16)",
+		icon: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "ordo"
+				}]
+			}
+		},
+		table: 1
+	}]
+}

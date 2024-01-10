@@ -1,0 +1,26 @@
+{
+	title: "Злое сердце ",
+	x: 19.0d,
+	y: -8.5d,
+	description: "Лучшая защита: нападение!",
+	dependencies: [
+		"4ff8b375"
+	],
+	tasks: [{
+		uid: "eaaa3972",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicperiphery:malignant_heart"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "17137c08",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

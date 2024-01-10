@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"0c3d3f4c"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "07e66ef5",
+		type: "checkmark",
+		title: "Добро пожаловать в Таумкрафт 6!",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon",
+			tag: {}
+		}
+	}]
+}

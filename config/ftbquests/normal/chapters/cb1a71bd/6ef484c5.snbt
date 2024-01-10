@@ -1,0 +1,21 @@
+{
+	title: "Найдите Тёмные кристаллы в пещерах и сделайте Тёмное яблоко",
+	x: 2.5d,
+	y: 3.0d,
+	description: "Начало начал",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "5089d9d0",
+		type: "item",
+		items: [{
+			item: "evilcraft:darkened_apple"
+		}]
+	}],
+	rewards: [{
+		uid: "c7893f33",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

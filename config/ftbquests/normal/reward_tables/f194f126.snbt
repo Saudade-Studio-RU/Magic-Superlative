@@ -1,0 +1,41 @@
+{
+	title: "Low",
+	loot_size: 1,
+	use_title: true,
+	rewards: [{
+		item: "minecraft:iron_ingot",
+		count: 8
+	},
+	{
+		item: "botania:manaresource",
+		count: 4
+	},
+	{
+		item: "thaumcraft:ingot",
+		count: 3
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "evilcraftblood",
+				Amount: 1000
+			}
+		}
+	},
+	{
+		item: "ebwizardry:crystal_ore",
+		count: 4
+	},
+	{
+		xp_levels: 3,
+		type: "xp_levels"
+	},
+	{
+		item: "astralsorcery:itemcraftingcomponent",
+		count: 8
+	}]
+}

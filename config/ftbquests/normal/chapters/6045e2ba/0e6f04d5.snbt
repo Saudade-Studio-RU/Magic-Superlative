@@ -1,0 +1,27 @@
+{
+	title: "Награда за Стража II",
+	x: 28.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	description: "Бросьте кубик и узнайте свою награду",
+	dependencies: [
+		"c574a76c"
+	],
+	tasks: [{
+		uid: "06a67830",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:dice"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1a640771",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

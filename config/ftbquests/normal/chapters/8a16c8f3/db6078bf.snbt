@@ -1,0 +1,59 @@
+{
+	title: "Создайте одеяние Адепта",
+	x: 2.0d,
+	y: 3.0d,
+	description: "Боевой тауматург",
+	dependencies: [
+		"8d031da0"
+	],
+	tasks: [{
+		uid: "e15d8e67",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:thaumium_robes_hood",
+			tag: {
+				color: 11360678
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4328aa46",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:thaumium_robes_chestplate",
+			tag: {
+				color: 11360678
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "80a1915b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:thaumium_robes_leggings",
+			tag: {
+				color: 11360678
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "803e3a9a",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

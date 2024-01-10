@@ -1,0 +1,21 @@
+{
+	title: "Создайте Катализатор создания",
+	x: 14.0d,
+	y: -2.0d,
+	description: "Один источник - больше ауры",
+	dependencies: [
+		"eb74ddef"
+	],
+	tasks: [{
+		uid: "b72422d9",
+		type: "item",
+		items: [{
+			item: "naturesaura:generator_limit_remover"
+		}]
+	}],
+	rewards: [{
+		uid: "d851670c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Зарядка предметов",
+	x: 11.5d,
+	y: 6.5d,
+	description: "Хорошая вещь, но можно ли компактней?",
+	dependencies: [
+		"da415f62"
+	],
+	hide: true,
+	tasks: [{
+		uid: "52e9d7a8",
+		type: "item",
+		items: [{
+			item: "thaumcraft:recharge_pedestal"
+		}]
+	}],
+	rewards: [{
+		uid: "8b5832a3",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

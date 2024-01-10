@@ -1,0 +1,22 @@
+{
+	title: "Добудьте 10тыс. RF/FE",
+	x: 0.0d,
+	y: -5.0d,
+	description: "Энергия без генераторов",
+	text: [
+		"Добыча энергии существует и в магических модификациях, необходимо лишь поискать!"
+	],
+	dependencies: [
+		"a712fc39"
+	],
+	tasks: [{
+		uid: "aa2a17d1",
+		type: "forge_energy",
+		value: 10000L
+	}],
+	rewards: [{
+		uid: "25cbca16",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

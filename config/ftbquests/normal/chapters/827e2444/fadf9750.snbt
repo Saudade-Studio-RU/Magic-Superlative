@@ -1,0 +1,29 @@
+{
+	title: "Создайте Свиток для созерцания Фей",
+	x: -3.0d,
+	y: 0.0d,
+	description: "Наконец то узнаю что за звук",
+	dependencies: [
+		"342bc1c6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "39c004b7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					MAHOUTSUKAI_CASTER_UUIDLeast: 0L,
+					MAHOUTSUKAI_CASTER_NAME: "",
+					MAHOUTSUKAI_CASTER_UUIDMost: 0L
+				}
+			},
+			id: "mahoutsukai:scroll_fay_sight"
+		}]
+	}],
+	rewards: [{
+		uid: "29bbf684",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

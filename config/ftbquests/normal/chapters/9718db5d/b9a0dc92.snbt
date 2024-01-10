@@ -1,0 +1,25 @@
+{
+	x: 13.5d,
+	y: -1.5d,
+	description: "Больше ритуалов",
+	dependencies: [
+		"0dc871dd"
+	],
+	tasks: [{
+		uid: "9f1fb9a6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:ritual_diviner",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7f02fdcb",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

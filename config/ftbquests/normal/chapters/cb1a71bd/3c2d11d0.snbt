@@ -1,0 +1,30 @@
+{
+	title: "Начните изучение Ауры Природы",
+	x: -2.0d,
+	y: -3.0d,
+	description: "Начните изучать ауру природы вокруг вас, и её влияние на этот мир",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "75a8002e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "naturesaura:book"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "91843d58",
+		type: "item",
+		item: "naturesaura:gold_fiber",
+		count: 3
+	}]
+}

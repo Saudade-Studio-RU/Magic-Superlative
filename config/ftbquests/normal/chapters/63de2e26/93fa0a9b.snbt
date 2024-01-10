@@ -1,0 +1,43 @@
+{
+	title: "Найдите все редкие саженцы",
+	x: 3.0d,
+	y: 3.0d,
+	description: "Забрался на дерево, а в нём... ещё одно",
+	dependencies: [
+		"109742bd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "02c8e01a",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_sapling 1 5"
+		}]
+	},
+	{
+		uid: "07ddfd2a",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_sapling 1 6"
+		}]
+	},
+	{
+		uid: "9d147866",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_sapling 1 8"
+		}]
+	},
+	{
+		uid: "b93eb585",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_sapling 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "d18915cb",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Создайте Алтарь звёздного света",
+	x: 9.0d,
+	y: 3.0d,
+	description: "Улучшенный верстак",
+	text: [
+		"Для его работы необходима структура, описанная в Журнале"
+	],
+	dependencies: [
+		"843b67eb",
+		"89691c84"
+	],
+	tasks: [{
+		uid: "668034fe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ac36b86c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

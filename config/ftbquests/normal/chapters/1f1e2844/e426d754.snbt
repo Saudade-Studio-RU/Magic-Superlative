@@ -1,0 +1,22 @@
+{
+	title: "Создайте Пепельную ткань",
+	x: 22.0d,
+	y: 2.0d,
+	description: "Ткань истинного Дварфа",
+	dependencies: [
+		"49ed73f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f7365e20",
+		type: "item",
+		items: [{
+			item: "embers:ashen_cloth"
+		}]
+	}],
+	rewards: [{
+		uid: "ea5e3a65",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

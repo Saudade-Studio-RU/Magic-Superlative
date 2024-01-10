@@ -1,0 +1,29 @@
+{
+	title: "Эволюция кровавых шаров 3",
+	x: 12.0d,
+	y: 0.0d,
+	description: "Теперь ты мастер",
+	dependencies: [
+		"b1a36fdd",
+		"01a15b9e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "116ae740",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:master"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "4a8be8a8",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

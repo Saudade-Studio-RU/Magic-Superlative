@@ -1,0 +1,29 @@
+{
+	title: "Создайте Алтарь Чагарота",
+	x: 21.5d,
+	y: -2.0d,
+	description: "Алтарь демона",
+	dependencies: [
+		"9908f530"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5886cfe7",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadaltarbottom"
+		}]
+	},
+	{
+		uid: "71be80e1",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadaltartop"
+		}]
+	}],
+	rewards: [{
+		uid: "6ce4ba4e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

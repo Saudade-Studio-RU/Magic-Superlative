@@ -1,0 +1,21 @@
+{
+	title: "Создайте Маготехническую цепь",
+	x: 6.0d,
+	y: -6.0d,
+	description: "Я храню ваши Mahou",
+	dependencies: [
+		"2eb63b1f"
+	],
+	tasks: [{
+		uid: "e832cc6e",
+		type: "item",
+		items: [{
+			item: "mahoutsukai:mana_circuit_magitech"
+		}]
+	}],
+	rewards: [{
+		uid: "efc34376",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

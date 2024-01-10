@@ -1,0 +1,22 @@
+{
+	title: "Создайте Плавильню из Адаминита",
+	x: 5.0d,
+	y: -9.0d,
+	description: "Больше, чем планировалось",
+	dependencies: [
+		"809b56d9",
+		"20e0ce7f"
+	],
+	tasks: [{
+		uid: "beeace4a",
+		type: "item",
+		items: [{
+			item: "thaumadditions:adaminite_smelter"
+		}]
+	}],
+	rewards: [{
+		uid: "c0ed2f87",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

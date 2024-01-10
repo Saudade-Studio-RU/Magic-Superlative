@@ -1,0 +1,21 @@
+{
+	title: "Создайте Алхимический котёл",
+	x: 5.0d,
+	y: -6.0d,
+	description: "Алхимия Охотников",
+	dependencies: [
+		"3a340acf"
+	],
+	tasks: [{
+		uid: "97d83510",
+		type: "item",
+		items: [{
+			item: "vampirism:alchemical_cauldron"
+		}]
+	}],
+	rewards: [{
+		uid: "ee5f8c34",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

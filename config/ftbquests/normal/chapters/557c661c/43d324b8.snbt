@@ -1,0 +1,22 @@
+{
+	title: "Создайте Столик обработки кристаллов",
+	x: 8.0d,
+	y: 0.0d,
+	description: "Изменение кристаллов",
+	dependencies: [
+		"3fbf8f60"
+	],
+	hide: true,
+	tasks: [{
+		uid: "cfc91964",
+		type: "item",
+		items: [{
+			item: "arcanearchives:gemcutters_table"
+		}]
+	}],
+	rewards: [{
+		uid: "8bbc580e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

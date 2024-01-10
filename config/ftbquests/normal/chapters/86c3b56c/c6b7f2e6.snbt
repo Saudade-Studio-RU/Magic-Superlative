@@ -1,0 +1,28 @@
+{
+	title: "Создайте Посох Расщепления из Бездной Пустоши",
+	x: 15.0d,
+	y: 2.0d,
+	description: "Усиление абсорбции",
+	dependencies: [
+		"ffc81581",
+		"0e485f27"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8e759afa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:drainstaff",
+			Damage: 1s
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "ec74ab28",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

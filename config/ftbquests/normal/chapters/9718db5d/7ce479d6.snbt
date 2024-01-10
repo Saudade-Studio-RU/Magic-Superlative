@@ -1,0 +1,28 @@
+{
+	title: "Эволюция Адских камней",
+	x: -11.0d,
+	y: 0.0d,
+	description: "Вплоть до 256",
+	dependencies: [
+		"f9f5dce4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d35b1502",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e5a29a3b",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

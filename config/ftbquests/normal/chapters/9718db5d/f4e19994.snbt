@@ -1,0 +1,41 @@
+{
+	title: "Создайте Сигилы воды и лавы",
+	x: -6.0d,
+	y: 6.0d,
+	description: "Вода и лава за кровь",
+	dependencies: [
+		"5fd23f9f"
+	],
+	tasks: [{
+		uid: "aa5fab4c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -8180240267111859189L,
+					AS_Amulet_HolderMost: -3319811669840801797L
+				}
+			},
+			id: "bloodmagic:sigil_water"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "241ce8ad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_lava"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "da4e4689",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

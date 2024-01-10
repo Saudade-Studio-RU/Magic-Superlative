@@ -1,0 +1,24 @@
+{
+	title: "Открытие Големостроения",
+	icon: "thaumcraft:golem_builder",
+	x: 4.0d,
+	y: 2.5d,
+	dependencies: [
+		"f08c17e8",
+		"037bec19",
+		"da415f62"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "e7bc7846",
+		type: "item",
+		items: [{
+			item: "thaumcraft:mind"
+		}]
+	}],
+	rewards: [{
+		uid: "246fd908",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

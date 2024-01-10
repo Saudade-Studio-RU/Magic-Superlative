@@ -1,0 +1,21 @@
+{
+	title: "Создайте Телескоп",
+	x: 9.0d,
+	y: 4.0d,
+	description: "Держать не придётся",
+	dependencies: [
+		"a1011c53"
+	],
+	tasks: [{
+		uid: "5c1c5187",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmachine"
+		}]
+	}],
+	rewards: [{
+		uid: "d03f76b7",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

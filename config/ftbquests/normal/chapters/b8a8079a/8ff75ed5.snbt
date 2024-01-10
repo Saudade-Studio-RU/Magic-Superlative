@@ -1,0 +1,57 @@
+{
+	title: "Записки сумашедших",
+	x: 8.5d,
+	y: -13.0d,
+	shape: "hexagon",
+	description: "Могут быть полезны...",
+	dependencies: [
+		"8503c0db"
+	],
+	tasks: [{
+		uid: "8a85bbe0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:curio 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "0cd774ba",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:crimson_robe_helm"
+		}
+	},
+	{
+		uid: "3a14f59f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:crimson_robe_chest"
+		}
+	},
+	{
+		uid: "7191d9f5",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:crimson_robe_legs"
+		}
+	},
+	{
+		uid: "783752b2",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:crimson_boots"
+		}
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	title: "Подружитесь с одной из колоний и выторгуйте Яйцо Королевы",
+	x: -6.0d,
+	y: -3.0d,
+	description: "Собственная колония!",
+	dependencies: [
+		"2a91fa69"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "5442c654",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:myrmex_jungle_egg",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1c8d2313",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:myrmex_desert_egg",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d026dc33",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

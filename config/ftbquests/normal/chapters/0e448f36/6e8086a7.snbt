@@ -1,0 +1,30 @@
+{
+	title: "Создайте Улучшенный пронзатель сердец",
+	x: 9.0d,
+	y: 6.0d,
+	description: "Улучшенное оружие вампиров",
+	dependencies: [
+		"31290918"
+	],
+	optional: true,
+	tasks: [{
+		uid: "0fa13fdc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:heart_striker",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "7bea584d",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

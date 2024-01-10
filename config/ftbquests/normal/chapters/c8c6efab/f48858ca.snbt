@@ -1,0 +1,22 @@
+{
+	x: 5.0d,
+	y: 2.0d,
+	can_repeat: true,
+	dependencies: [
+		"9623f406"
+	],
+	optional: true,
+	tasks: [{
+		uid: "8543bcb1",
+		type: "item",
+		items: [{
+			item: "thaumcraft:nugget 1 10"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "84138f97",
+		type: "ftbmoney:money",
+		ftb_money: 4L
+	}]
+}

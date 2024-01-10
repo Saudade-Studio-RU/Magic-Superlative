@@ -1,0 +1,31 @@
+{
+	title: "Сделайте Сапоги Путешественника",
+	x: 11.5d,
+	y: -7.0d,
+	description: "Мчись как ветер!",
+	dependencies: [
+		"974ba2ae",
+		"61862465"
+	],
+	hide: true,
+	tasks: [{
+		uid: "401fd75d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:traveller_boots",
+			tag: {
+				tc.charge: 170
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e6556c3e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

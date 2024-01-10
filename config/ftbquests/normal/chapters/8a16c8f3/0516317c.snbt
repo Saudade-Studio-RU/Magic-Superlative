@@ -1,0 +1,21 @@
+{
+	title: "Создайте Небесный наблюдатель",
+	x: -3.0d,
+	y: 2.0d,
+	description: "Наблюдение за небом без вашего досмотра",
+	dependencies: [
+		"8d031da0"
+	],
+	tasks: [{
+		uid: "de14879c",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:celestial_observer_placer"
+		}]
+	}],
+	rewards: [{
+		uid: "e6db8b99",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

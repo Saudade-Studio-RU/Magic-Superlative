@@ -1,0 +1,21 @@
+{
+	title: "Верстак-недвижимость",
+	x: 15.0d,
+	y: 4.0d,
+	description: "Тысячи вис в одном блоке!",
+	dependencies: [
+		"61862465"
+	],
+	tasks: [{
+		uid: "61da46c3",
+		type: "item",
+		items: [{
+			item: "thaumcraft:arcane_workbench_charger"
+		}]
+	}],
+	rewards: [{
+		uid: "731880bf",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

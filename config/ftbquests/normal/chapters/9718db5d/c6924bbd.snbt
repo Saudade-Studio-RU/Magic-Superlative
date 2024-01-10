@@ -1,0 +1,21 @@
+{
+	title: "Эволюция плиток",
+	x: 0.0d,
+	y: 6.0d,
+	description: "Что, опять?",
+	dependencies: [
+		"fa86642f"
+	],
+	tasks: [{
+		uid: "e3db69c4",
+		type: "item",
+		items: [{
+			item: "bloodmagic:slate 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "dca41291",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

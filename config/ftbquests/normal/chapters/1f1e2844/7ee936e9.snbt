@@ -1,0 +1,22 @@
+{
+	title: "Создайте Кластер Эмбер-кристалла",
+	x: 22.0d,
+	y: 0.0d,
+	description: "Больше и крупнее",
+	dependencies: [
+		"49ed73f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "cfab9690",
+		type: "item",
+		items: [{
+			item: "embers:ember_cluster"
+		}]
+	}],
+	rewards: [{
+		uid: "09c4a903",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,50 @@
+{
+	title: "Основы удобства хранения",
+	x: -4.0d,
+	y: -2.0d,
+	description: "Создайте все виды ящиков",
+	dependencies: [
+		"e18e4572"
+	],
+	hide: true,
+	tasks: [{
+		uid: "99f99df4",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8d620ce7",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cdb44fe5",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "043545ff",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,75 @@
+{
+	title: "Thaumcraft",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thaumcraft:goggles"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "rsquare",
+	images: [{
+		x: 21.5d,
+		y: -5.5d,
+		width: 8.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/matrix.png",
+		hover: [
+			"Infuse this world"
+		],
+		click: "",
+		dev: false
+	},
+	{
+		x: -10.0d,
+		y: 2.5d,
+		width: 9.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/thaum_place.png",
+		hover: [
+			"Custom your place"
+		],
+		click: "",
+		dev: false
+	},
+	{
+		x: -6.5d,
+		y: -7.0d,
+		width: 9.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/alchim_place.png",
+		hover: [
+			"Create"
+		],
+		click: "",
+		dev: false
+	},
+	{
+		x: 10.0d,
+		y: 9.0d,
+		width: 8.0d,
+		height: 4.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/golem_palce.png",
+		hover: [
+			"Automate with Golems"
+		],
+		click: "",
+		dev: false
+	},
+	{
+		x: -7.0d,
+		y: -16.5d,
+		width: 24.0d,
+		height: 6.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/thaum_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

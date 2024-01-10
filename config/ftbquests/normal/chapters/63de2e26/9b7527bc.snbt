@@ -1,0 +1,21 @@
+{
+	x: 14.5d,
+	y: 0.0d,
+	description: "Холодное сердце",
+	dependencies: [
+		"fde42018"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a068b30e",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "c4d525a6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

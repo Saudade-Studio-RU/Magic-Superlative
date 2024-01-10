@@ -1,0 +1,22 @@
+{
+	title: "Создайте Слиток небес",
+	x: 16.0d,
+	y: 0.0d,
+	description: "Подарок от бога",
+	dependencies: [
+		"eb74ddef"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4b03d59c",
+		type: "item",
+		items: [{
+			item: "naturesaura:sky_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "8329fba7",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

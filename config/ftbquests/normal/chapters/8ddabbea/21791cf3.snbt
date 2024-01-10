@@ -1,0 +1,22 @@
+{
+	title: "Создайте Пустотную наковальню",
+	x: -2.0d,
+	y: 1.5d,
+	description: "Восстановление за загрязнение",
+	dependencies: [
+		"abb43939",
+		"83b8917a"
+	],
+	tasks: [{
+		uid: "f0b82627",
+		type: "item",
+		items: [{
+			item: "thaumadditions:void_anvil"
+		}]
+	}],
+	rewards: [{
+		uid: "25be4e25",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

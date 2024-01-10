@@ -1,0 +1,21 @@
+{
+	title: "Создайте Катализатор трансмутации",
+	x: 8.0d,
+	y: -2.0d,
+	description: "Изменение предметов в ауре",
+	dependencies: [
+		"fff2d88e"
+	],
+	tasks: [{
+		uid: "d62fdc82",
+		type: "item",
+		items: [{
+			item: "naturesaura:conversion_catalyst"
+		}]
+	}],
+	rewards: [{
+		uid: "7ed1dbd6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "МанаАлхимия",
+	x: 9.5d,
+	y: -1.0d,
+	description: "Одно в другое через ману!",
+	dependencies: [
+		"d5f03da1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1ba465fc",
+		type: "item",
+		items: [{
+			item: "botania:alchemycatalyst"
+		}]
+	}],
+	rewards: [{
+		uid: "d6930b75",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

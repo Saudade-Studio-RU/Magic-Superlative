@@ -1,0 +1,22 @@
+{
+	title: "Убейте Симфолийских птиц",
+	x: -1.5d,
+	y: 3.0d,
+	description: "Проворный пулемёт",
+	dependencies: [
+		"7986f9bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c2fff34e",
+		type: "item",
+		items: [{
+			item: "iceandfire:stymphalian_bird_feather"
+		}]
+	}],
+	rewards: [{
+		uid: "bc93b67c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

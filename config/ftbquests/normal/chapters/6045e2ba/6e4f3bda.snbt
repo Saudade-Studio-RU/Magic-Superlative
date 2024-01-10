@@ -1,0 +1,29 @@
+{
+	title: "Создайте Террасталь",
+	x: 17.5d,
+	y: -3.0d,
+	shape: "square",
+	description: "Сильнейший металл?",
+	dependencies: [
+		"c8269522"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c6d30842",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "6e7e09da",
+		type: "item",
+		title: "Бонусный слиток",
+		item: "botania:manaresource 1 4"
+	},
+	{
+		uid: "94f5a400",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Создайте Живую Кирасу",
+	x: -15.0d,
+	y: -3.5d,
+	description: "Эволюция с тобой",
+	dependencies: [
+		"09acd220"
+	],
+	tasks: [{
+		uid: "b617f2ea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:living_armour_chest",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0ea5ae2f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

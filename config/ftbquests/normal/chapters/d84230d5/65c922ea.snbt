@@ -1,0 +1,21 @@
+{
+	title: "Создайте Болотный генератор",
+	x: 11.0d,
+	y: 3.5d,
+	description: "Аура за мох",
+	dependencies: [
+		"956d9ae8"
+	],
+	tasks: [{
+		uid: "aed7ee98",
+		type: "item",
+		items: [{
+			item: "naturesaura:moss_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "960a8ed0",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

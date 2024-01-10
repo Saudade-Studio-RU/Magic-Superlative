@@ -1,0 +1,30 @@
+{
+	title: "Создайте Связанную кровавую каплю",
+	x: 11.0d,
+	y: 2.0d,
+	description: "Цели - разные, кровь - одна",
+	text: [
+		"Позволяет выкачивать кровь из сети BloodMagic"
+	],
+	dependencies: [
+		"a754899a",
+		"0a1369ed"
+	],
+	tasks: [{
+		uid: "377a809c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:bound_blood_drop"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d46dd756",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

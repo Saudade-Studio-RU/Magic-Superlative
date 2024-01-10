@@ -1,0 +1,22 @@
+{
+	title: "Создайте Блестящие волокна",
+	x: 2.0d,
+	y: 0.0d,
+	description: "Они светятся",
+	dependencies: [
+		"aeb1c6ed"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0b24194f",
+		type: "item",
+		items: [{
+			item: "naturesaura:gold_fiber"
+		}]
+	}],
+	rewards: [{
+		uid: "defa2c3c",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

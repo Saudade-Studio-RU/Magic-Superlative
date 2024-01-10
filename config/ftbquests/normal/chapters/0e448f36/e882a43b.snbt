@@ -1,0 +1,23 @@
+{
+	title: "Станьте Вампиром",
+	x: 7.0d,
+	y: 2.0d,
+	description: "Совершенная форма жизни... Я, ДИО",
+	dependencies: [
+		"e1374ee6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "39795c5b",
+		type: "advancement",
+		title: "Станьте Вампиром",
+		icon: "vampirism:soul_orb_vampire",
+		advancement: "vampirism:vampire/become_vampire",
+		criterion: ""
+	}],
+	rewards: [{
+		uid: "7916a74a",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

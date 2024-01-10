@@ -1,0 +1,44 @@
+{
+	title: "Создание следующего уровня",
+	x: 14.0d,
+	y: -3.0d,
+	description: "Создайте многоблочную структуру для создания Террастали",
+	dependencies: [
+		"9a31cf0d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2375a262",
+		type: "item",
+		items: [{
+			item: "botania:terraplate"
+		}]
+	},
+	{
+		uid: "babe5860",
+		type: "item",
+		items: [{
+			item: "minecraft:lapis_block"
+		}],
+		count: 4L
+	},
+	{
+		uid: "fc2f8157",
+		type: "item",
+		items: [{
+			item: "botania:livingrock"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "69163343",
+		type: "item",
+		item: "botania:spark",
+		count: 2
+	},
+	{
+		uid: "7dc59593",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

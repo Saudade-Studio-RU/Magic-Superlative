@@ -1,0 +1,28 @@
+{
+	title: "Создайте Осколок Забывчивости",
+	x: 6.0d,
+	y: -2.0d,
+	description: "Преобразованная тьма",
+	dependencies: [
+		"faa857c8",
+		"ca8fe5bd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f825a9f6",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:oblivionshard"
+		}]
+	}],
+	rewards: [{
+		uid: "e6cb8f75",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	},
+	{
+		uid: "230d8ef0",
+		type: "item",
+		item: "ftbquests:progress_screen"
+	}]
+}

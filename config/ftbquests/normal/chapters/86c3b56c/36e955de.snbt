@@ -1,0 +1,21 @@
+{
+	title: "Посетите Тёмные земли",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Зло окружает это место",
+	dependencies: [
+		"85092639"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a03f4c11",
+		type: "biome",
+		icon: "abyssalcraft:cobblestone",
+		biome: "abyssalcraft:darklands"
+	}],
+	rewards: [{
+		uid: "305b8c2c",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "Любое бревно x64",
+	x: 1.0d,
+	y: 5.0d,
+	can_repeat: true,
+	dependencies: [
+		"8a66a83f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "c252259f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "814ec946",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

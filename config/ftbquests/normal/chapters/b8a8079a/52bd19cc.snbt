@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: 4.0d,
+	description: "Голем-вор",
+	dependencies: [
+		"629b4e3d"
+	],
+	tasks: [{
+		uid: "f85e74ba",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "549f1b8c",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

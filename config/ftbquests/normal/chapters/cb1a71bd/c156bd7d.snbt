@@ -1,0 +1,34 @@
+{
+	title: "Начните изучение Астрального волшебства",
+	x: 4.0d,
+	y: 3.0d,
+	description: "Начните изучение звёзд, звёздного света и созвездий",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "65232fbd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemjournal",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "777bf1e5",
+		type: "item",
+		item: "astralsorcery:itemcraftingcomponent",
+		count: 8
+	},
+	{
+		uid: "82ece613",
+		type: "item",
+		item: "astralsorcery:blockmarble",
+		count: 16
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Выплавите слиток Звёздного металла",
+	x: 14.0d,
+	y: 5.0d,
+	shape: "square",
+	description: "Как сверкает!",
+	text: [
+		"Сконцентрируйте свет из Кристалла в железную руду с помощью Линз, или направьте свет на руду напрямую"
+	],
+	dependencies: [
+		"16a31f5e",
+		"55e4a037"
+	],
+	hide: true,
+	tasks: [{
+		uid: "becbd5de",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "07a4c42a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

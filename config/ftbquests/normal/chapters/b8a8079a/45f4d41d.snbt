@@ -1,0 +1,30 @@
+{
+	x: 6.0d,
+	y: -25.0d,
+	description: "Увековечено в камне",
+	dependencies: [
+		"3a360189"
+	],
+	tasks: [{
+		uid: "4cb41219",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ichoriumkit:kami_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "253f47b7",
+		type: "item",
+		item: "minecraft:skull 1 1"
+	},
+	{
+		uid: "6669ec32",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

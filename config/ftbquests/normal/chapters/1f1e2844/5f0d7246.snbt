@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"3aa4b3af"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "bb60e0a6",
+		type: "checkmark",
+		title: "Добро пожаловать в Embers Rekindled!",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:codex"
+		}
+	}]
+}

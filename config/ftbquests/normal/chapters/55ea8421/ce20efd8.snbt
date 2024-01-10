@@ -1,0 +1,25 @@
+{
+	title: "Создайте Том опыта",
+	x: -3.0d,
+	y: -5.0d,
+	shape: "square",
+	description: "Хранилище опыта",
+	tasks: [{
+		uid: "168d763c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "xpbook:xp_tome",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a88b92ff",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

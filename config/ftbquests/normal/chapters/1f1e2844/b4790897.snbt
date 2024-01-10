@@ -1,0 +1,30 @@
+{
+	title: "Создайте Амулет еретика",
+	x: 18.5d,
+	y: -2.0d,
+	description: "Не верю - значит такого нет",
+	text: [
+		"Поглощает 90% нанесённого Магического урона"
+	],
+	dependencies: [
+		"49ed73f8",
+		"b9be2c13"
+	],
+	tasks: [{
+		uid: "175d06eb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:nonbeliever_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5ffdbe43",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

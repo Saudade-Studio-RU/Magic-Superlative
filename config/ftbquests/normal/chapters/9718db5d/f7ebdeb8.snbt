@@ -1,0 +1,27 @@
+{
+	title: "Эволюция Адских камней 4",
+	x: -20.0d,
+	y: 0.0d,
+	description: "Вплоть до 16к",
+	dependencies: [
+		"c49622f5"
+	],
+	tasks: [{
+		uid: "c405da6f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "81ccfdb5",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

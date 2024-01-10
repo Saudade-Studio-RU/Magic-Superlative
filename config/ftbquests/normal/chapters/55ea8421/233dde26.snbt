@@ -1,0 +1,30 @@
+{
+	title: "Землекрушитель SS ",
+	x: -6.0d,
+	y: -5.0d,
+	description: "Мир трясётся...",
+	dependencies: [
+		"dd9580ff"
+	],
+	tasks: [{
+		uid: "0ac23285",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:terrapick",
+			tag: {
+				mana: 2147483646
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "71533e2d",
+		type: "item",
+		title: "Дёрн богов",
+		item: "minecraft:grass"
+	}]
+}

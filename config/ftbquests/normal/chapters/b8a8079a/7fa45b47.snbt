@@ -1,0 +1,22 @@
+{
+	title: "Раскладыватель эссенции",
+	x: -4.0d,
+	y: -13.0d,
+	description: "Когда составляющие полезнее",
+	dependencies: [
+		"293c3955"
+	],
+	hide: true,
+	tasks: [{
+		uid: "cc657dcf",
+		type: "item",
+		items: [{
+			item: "thaumcraft:centrifuge"
+		}]
+	}],
+	rewards: [{
+		uid: "d3889aed",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

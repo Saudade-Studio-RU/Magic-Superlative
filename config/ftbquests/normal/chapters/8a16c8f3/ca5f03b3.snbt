@@ -1,0 +1,22 @@
+{
+	title: "Создайте Зеркала импульса",
+	x: 10.0d,
+	y: -9.0d,
+	description: "Телепортирование импульса",
+	dependencies: [
+		"69d2b155"
+	],
+	tasks: [{
+		uid: "46f97138",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:impetus_mirror"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "d3babf18",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

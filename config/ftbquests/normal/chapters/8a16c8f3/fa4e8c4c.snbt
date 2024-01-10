@@ -1,0 +1,28 @@
+{
+	title: "Создайте Упряжь с элитрой",
+	x: 7.0d,
+	y: -1.0d,
+	description: "Полёт из Элитр",
+	dependencies: [
+		"c28087d3"
+	],
+	tasks: [{
+		uid: "6a62d08b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					slots: 2
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:elytra_harness"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a69d4027",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	icon: "twilightforest:trophy 1 1",
+	x: 6.5d,
+	y: 0.0d,
+	description: "Король в главной башне",
+	dependencies: [
+		"592bca4c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e9355196",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "7261b225",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "53de9baa",
+		type: "item",
+		item: "ftbquests:progress_screen"
+	}]
+}

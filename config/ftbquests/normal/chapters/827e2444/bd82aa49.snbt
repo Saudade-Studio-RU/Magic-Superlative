@@ -1,0 +1,27 @@
+{
+	title: "Создайте Мистический код",
+	x: 3.0d,
+	y: 3.0d,
+	description: "Перчатка для свитков",
+	dependencies: [
+		"b764085d"
+	],
+	tasks: [{
+		uid: "38bcbc95",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: [],
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mahoutsukai:mystic_code"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "28d23909",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

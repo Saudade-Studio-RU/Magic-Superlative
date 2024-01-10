@@ -1,0 +1,27 @@
+{
+	title: "Создайте Обещание упорства II ",
+	x: 11.0d,
+	y: 0.0d,
+	description: "Следующий уровень",
+	dependencies: [
+		"2b1f3f40"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f08f1c82",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:promise",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cdbd81fe",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

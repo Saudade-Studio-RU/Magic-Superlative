@@ -1,0 +1,25 @@
+{
+	title: "Любой Вис-кристалл x32",
+	x: 5.0d,
+	y: 0.0d,
+	can_repeat: true,
+	dependencies: [
+		"9623f406"
+	],
+	optional: true,
+	tasks: [{
+		uid: "8c23f289",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crystal_essence"
+		}],
+		count: 32L,
+		consume_items: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "86d5a243",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

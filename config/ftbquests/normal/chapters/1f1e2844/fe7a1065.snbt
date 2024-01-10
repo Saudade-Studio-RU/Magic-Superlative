@@ -1,0 +1,22 @@
+{
+	title: "Создайте Эмбер-скважину",
+	x: 5.0d,
+	y: 0.0d,
+	description: "Основной механизм",
+	dependencies: [
+		"c4714177"
+	],
+	hide: true,
+	tasks: [{
+		uid: "33c81c5e",
+		type: "item",
+		items: [{
+			item: "embers:ember_bore"
+		}]
+	}],
+	rewards: [{
+		uid: "7a037f66",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

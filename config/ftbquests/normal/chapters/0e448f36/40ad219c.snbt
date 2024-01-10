@@ -1,0 +1,31 @@
+{
+	title: "Создайте Полу-автоматический Арбалет",
+	x: 7.0d,
+	y: -8.0d,
+	description: "Это точно... арбалет?",
+	dependencies: [
+		"0a6645c1"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "092dce49",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:basic_tech_crossbow",
+			tag: {
+				arrows: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "87408088",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

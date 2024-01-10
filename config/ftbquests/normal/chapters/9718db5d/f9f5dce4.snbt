@@ -1,0 +1,27 @@
+{
+	title: "Создайте первый демонический камень",
+	x: -8.0d,
+	y: 0.0d,
+	description: "Батарейка для демонической энергии (Вплоть до 64)",
+	dependencies: [
+		"18c33323"
+	],
+	hide: true,
+	tasks: [{
+		uid: "aec81218",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f36b719c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

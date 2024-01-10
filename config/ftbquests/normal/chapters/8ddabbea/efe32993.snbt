@@ -1,0 +1,21 @@
+{
+	title: "Создайте Мифминитовый слиток",
+	x: 10.0d,
+	y: -6.0d,
+	description: "Максимум",
+	dependencies: [
+		"809b56d9"
+	],
+	tasks: [{
+		uid: "948578e2",
+		type: "item",
+		items: [{
+			item: "thaumadditions:mithminite_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "93b16b10",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

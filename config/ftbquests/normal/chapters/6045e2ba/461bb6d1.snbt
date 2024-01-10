@@ -1,0 +1,21 @@
+{
+	title: "МанаКолдовство",
+	x: 8.5d,
+	y: -3.0d,
+	description: "Ещё больше возможностей!",
+	dependencies: [
+		"4163cc02"
+	],
+	tasks: [{
+		uid: "c6a21255",
+		type: "item",
+		items: [{
+			item: "botania:conjurationcatalyst"
+		}]
+	}],
+	rewards: [{
+		uid: "5fdf965b",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

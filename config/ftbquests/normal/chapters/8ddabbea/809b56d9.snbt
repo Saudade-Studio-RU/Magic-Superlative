@@ -1,0 +1,21 @@
+{
+	title: "Создайте Адаминитовый слиток",
+	x: 5.0d,
+	y: -6.0d,
+	description: "Невероятная мощь",
+	dependencies: [
+		"643c4a4a"
+	],
+	tasks: [{
+		uid: "597919a0",
+		type: "item",
+		items: [{
+			item: "thaumadditions:adaminite_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "d114bab9",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

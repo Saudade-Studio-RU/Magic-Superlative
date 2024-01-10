@@ -1,0 +1,21 @@
+{
+	title: "Создайте Генератор поля стабильности",
+	x: 2.0d,
+	y: -5.0d,
+	description: "Даёшь Ember - получаешь стабильность",
+	dependencies: [
+		"25ad81fe"
+	],
+	tasks: [{
+		uid: "b23f7a58",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:stability_field_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "2b4158c3",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

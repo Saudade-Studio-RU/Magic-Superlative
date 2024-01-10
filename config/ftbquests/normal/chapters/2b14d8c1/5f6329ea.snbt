@@ -1,0 +1,27 @@
+{
+	title: "Создайте Волшебный жезл",
+	x: 3.0d,
+	y: 2.0d,
+	description: "Классика!",
+	dependencies: [
+		"741a6aab"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7c11d992",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:magic_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "56162bf2",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

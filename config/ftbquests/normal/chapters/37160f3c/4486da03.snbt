@@ -1,0 +1,25 @@
+{
+	title: "Найдите Погодный аккумулятор",
+	icon: "evilcraft:environmental_accumulator",
+	x: 0.0d,
+	y: 3.0d,
+	description: "Наполнитель погодой",
+	dependencies: [
+		"780bfeac"
+	],
+	hide: true,
+	tasks: [{
+		uid: "bff7a9be",
+		type: "observation",
+		title: "Найдите погодный аккумулятор",
+		icon: "evilcraft:environmental_accumulator",
+		match_type: "block_id",
+		match: "evilcraft:environmental_accumulator",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "5f686cdb",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Создайте Таум-усиленную банку",
+	x: 3.0d,
+	y: -2.0d,
+	description: "До 350",
+	dependencies: [
+		"b9ca21db"
+	],
+	tasks: [{
+		uid: "ce758eee",
+		type: "item",
+		items: [{
+			item: "thaumadditions:jar_thaumium"
+		}]
+	}],
+	rewards: [{
+		uid: "2921a8c3",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

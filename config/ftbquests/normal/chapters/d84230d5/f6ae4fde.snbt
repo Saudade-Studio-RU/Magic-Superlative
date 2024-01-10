@@ -1,0 +1,21 @@
+{
+	title: "Создайте Святильник святилища",
+	x: 14.0d,
+	y: 2.0d,
+	description: "Аура - есть, мобов - нет",
+	dependencies: [
+		"eb74ddef"
+	],
+	tasks: [{
+		uid: "105649eb",
+		type: "item",
+		items: [{
+			item: "naturesaura:spawn_lamp"
+		}]
+	}],
+	rewards: [{
+		uid: "a413a18d",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "Сделайте 4 уровень Кровавого алтаря",
+	icon: "bloodmagic:altar",
+	x: 12.0d,
+	y: 4.0d,
+	description: "Практически предел",
+	dependencies: [
+		"3e5a8de1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1bea7630",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}],
+		count: 28L
+	},
+	{
+		uid: "5293e4ab",
+		type: "item",
+		items: [{
+			item: "bloodmagic:decorative_brick"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "9fbcc17e",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

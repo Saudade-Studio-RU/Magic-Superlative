@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 4.5d,
+	description: "Голем-убиралка",
+	dependencies: [
+		"629b4e3d"
+	],
+	tasks: [{
+		uid: "ccc065a1",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "d3000a61",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

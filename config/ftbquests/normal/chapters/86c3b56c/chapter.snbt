@@ -1,0 +1,26 @@
+{
+	title: "Abyssalcraft",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "abyssalcraft:abyssalnomicon",
+		tag: {
+			PotEnergy: 0.0f
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 18.5d,
+		y: -9.0d,
+		width: 20.0d,
+		height: 4.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/abyssal_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

@@ -1,0 +1,158 @@
+type = menu
+
+customization-meta {
+  identifier = com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/fancymenu/superlativemenuu.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-left
+  x = 149
+  action = movebutton
+  y = -37
+}
+
+customization {
+  identifier = %id=400322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/fancymenu/buttonimage.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-left
+  x = 149
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=400382%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/fancymenu/buttonimage.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-left
+  x = 149
+  action = movebutton
+  y = 38
+}
+
+customization {
+  identifier = %id=502382%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/fancymenu/buttonimage.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-left
+  x = 124
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=376382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/fancymenu/buttonimage.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = top-left
+  x = 149
+  action = movebutton
+  y = 211
+}
+
+customization {
+  identifier = %id=400298%
+  loopbackgroundanimations = false
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/fancymenu/buttonimage.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = bottom-left
+  x = 150
+  action = movebutton
+  y = -263
+}
+
+customization {
+  identifier = %id=400346%
+  width = 199
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/fancymenu/buttonimage.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  path = resources/ftbquests/pictures/superlative_title.png
+  orientation = top-left
+  x = 120
+  width = 264
+  actionid = ba59cd78-6bc3-45fa-878a-1c253b6496c21694471147124
+  action = addtexture
+  y = 94
+  height = 100
+}
+

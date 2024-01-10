@@ -1,0 +1,70 @@
+{
+	title: "Любые Мистические цветы x10",
+	x: -5.0d,
+	y: 0.0d,
+	can_repeat: true,
+	dependencies: [
+		"cd1a2244"
+	],
+	optional: true,
+	tasks: [{
+		uid: "9e423e50",
+		type: "item",
+		title: "Любой Мистический цветок",
+		items: [{
+			item: "botania:flower"
+		},
+		{
+			item: "botania:flower 1 1"
+		},
+		{
+			item: "botania:flower 1 2"
+		},
+		{
+			item: "botania:flower 1 3"
+		},
+		{
+			item: "botania:flower 1 11"
+		},
+		{
+			item: "botania:flower 1 5"
+		},
+		{
+			item: "botania:flower 1 6"
+		},
+		{
+			item: "botania:flower 1 9"
+		},
+		{
+			item: "botania:flower 1 4"
+		},
+		{
+			item: "botania:flower 1 10"
+		},
+		{
+			item: "botania:flower 1 14"
+		},
+		{
+			item: "botania:flower 1 15"
+		},
+		{
+			item: "botania:flower 1 7"
+		},
+		{
+			item: "botania:flower 1 8"
+		},
+		{
+			item: "botania:flower 1 12"
+		},
+		{
+			item: "botania:flower 1 13"
+		}],
+		count: 10L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "641828d0",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

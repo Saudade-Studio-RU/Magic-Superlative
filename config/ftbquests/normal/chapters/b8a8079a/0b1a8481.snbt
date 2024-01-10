@@ -1,0 +1,21 @@
+{
+	title: "Создайте Мистический бур",
+	x: 10.0d,
+	y: 3.5d,
+	description: "Камень со скоростью света! ",
+	dependencies: [
+		"d1c90d9a"
+	],
+	tasks: [{
+		uid: "764d9303",
+		type: "item",
+		items: [{
+			item: "thaumcraft:turret 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "bdabaf98",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Создайте Локатор изломов",
+	x: 0.0d,
+	y: -4.0d,
+	description: "Обнаружение закрытых разломов",
+	dependencies: [
+		"df0dbec4",
+		"8d031da0"
+	],
+	tasks: [{
+		uid: "38fd1577",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:fracture_locator"
+		}]
+	}],
+	rewards: [{
+		uid: "effeaedf",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

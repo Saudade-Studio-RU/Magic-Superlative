@@ -1,0 +1,24 @@
+{
+	title: "Создайте Порошок устойчового роста",
+	x: 18.0d,
+	y: -1.5d,
+	description: "Не трать её попусту",
+	dependencies: [
+		"fb79a9bd"
+	],
+	tasks: [{
+		uid: "dd88d3ca",
+		type: "item",
+		items: [{
+			id: "naturesaura:effect_powder",
+			tag: {
+				effect: "naturesaura:plant_boost"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "155ed8a8",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

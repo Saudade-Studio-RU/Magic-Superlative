@@ -1,0 +1,22 @@
+{
+	title: "Создайте Пламенное ядро",
+	x: 24.0d,
+	y: 0.0d,
+	description: "Сердце машин Дварфов",
+	dependencies: [
+		"7ee936e9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "aea8e0d8",
+		type: "item",
+		items: [{
+			item: "embers:wildfire_core"
+		}]
+	}],
+	rewards: [{
+		uid: "fa51d8e6",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

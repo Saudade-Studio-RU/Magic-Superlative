@@ -1,0 +1,28 @@
+{
+	title: "Начните изучение Архивов Арканы",
+	x: 1.5d,
+	y: 5.0d,
+	description: "Начните изучать магические методы хранения ресурсов",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "51c937f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "arcanearchives:tome_arcana",
+			tag: {
+				Book: "arcanearchives:xml/tome.xml"
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "60996253",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

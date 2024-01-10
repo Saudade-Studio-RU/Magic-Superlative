@@ -1,0 +1,50 @@
+{
+	title: "Восстанавливающаяся броня",
+	x: 4.0d,
+	y: -14.5d,
+	description: "Невероятная мощь",
+	dependencies: [
+		"83b8917a"
+	],
+	tasks: [{
+		uid: "5c26f7ef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:void_robe_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1fbb1806",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:void_robe_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6cdb852d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:void_robe_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bcd1ab74",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Создайте Ключ Асоры от Ужасного портала",
+	x: 17.0d,
+	y: -2.0d,
+	description: "Проход к ужасу",
+	dependencies: [
+		"68eb062a",
+		"d717b4a4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0688b974",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:gatewaykeydl"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eb6f3019",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

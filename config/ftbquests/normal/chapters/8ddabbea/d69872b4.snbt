@@ -1,0 +1,26 @@
+{
+	title: "Создайте Том обмена знаниями",
+	x: -2.0d,
+	y: 3.0d,
+	description: "Надеюсь, вам есть кому их передать",
+	dependencies: [
+		"abb43939"
+	],
+	tasks: [{
+		uid: "ef25ddd6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:knowledge_tome"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0d30c67d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

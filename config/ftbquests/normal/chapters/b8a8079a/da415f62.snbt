@@ -1,0 +1,34 @@
+{
+	title: "Открытие Ауромантии",
+	x: 0.0d,
+	y: 2.5d,
+	dependencies: [
+		"e0da27f2",
+		"69f29029"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "896a1b07",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:caster_basic"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "240ff05e",
+		type: "item",
+		item: "thaumcraft:table_stone"
+	},
+	{
+		uid: "956d15bc",
+		type: "item",
+		item: "thaumcraft:vis_resonator",
+		count: 2
+	}]
+}

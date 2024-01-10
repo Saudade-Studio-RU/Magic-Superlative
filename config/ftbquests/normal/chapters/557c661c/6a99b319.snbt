@@ -1,0 +1,21 @@
+{
+	title: "Создайте Контроллер ящика",
+	x: -4.0d,
+	y: -4.0d,
+	description: "Быстрый склад",
+	dependencies: [
+		"8decb1ed"
+	],
+	tasks: [{
+		uid: "db64ed6a",
+		type: "item",
+		items: [{
+			item: "storagedrawers:controller"
+		}]
+	}],
+	rewards: [{
+		uid: "e89ab9c8",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

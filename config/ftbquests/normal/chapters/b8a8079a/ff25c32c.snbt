@@ -1,0 +1,50 @@
+{
+	title: "Сделайте Штурмовую броню из таумима",
+	x: 17.0d,
+	y: -7.0d,
+	description: "Стать самураем! Где же катана?",
+	dependencies: [
+		"0aa001a1"
+	],
+	tasks: [{
+		uid: "481c2e52",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:fortress_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "36c3c987",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:fortress_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3dd41bbc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:fortress_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "003a1323",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

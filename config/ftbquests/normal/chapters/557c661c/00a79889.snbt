@@ -1,0 +1,21 @@
+{
+	title: "Создайте Наблюдающий кристалл",
+	x: 9.0d,
+	y: 2.0d,
+	description: "Связывание хранилищ",
+	dependencies: [
+		"43d324b8"
+	],
+	tasks: [{
+		uid: "4f1d9df3",
+		type: "item",
+		items: [{
+			item: "arcanearchives:monitoring_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "9c36140d",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

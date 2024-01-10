@@ -1,0 +1,27 @@
+{
+	x: -3.0d,
+	y: 4.0d,
+	can_repeat: true,
+	dependencies: [
+		"8a66a83f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "8d5b37b9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:totem_of_undying"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1af110cc",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Создайте Эмбер-передатчики",
+	x: 9.0d,
+	y: -2.0d,
+	description: "Беспроводная энергия",
+	dependencies: [
+		"63068820"
+	],
+	tasks: [{
+		uid: "3c251560",
+		type: "item",
+		items: [{
+			item: "embers:ember_emitter"
+		}]
+	},
+	{
+		uid: "5679146f",
+		type: "item",
+		items: [{
+			item: "embers:ember_receiver"
+		}]
+	}],
+	rewards: [{
+		uid: "b9b9d8df",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

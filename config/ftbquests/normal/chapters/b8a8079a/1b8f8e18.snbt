@@ -1,0 +1,30 @@
+{
+	title: "Сделайте первые заметки о небесах ",
+	x: -5.0d,
+	y: 2.5d,
+	description: "Помогут в исследованиях и получении теорий",
+	text: [
+		"Нажмите ПКМ Таумометром по небесным объектам, имея в инвентаре бумагу и письменные принадлежности"
+	],
+	dependencies: [
+		"e32115cb"
+	],
+	tasks: [{
+		uid: "dae450a5",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes"
+		}]
+	}],
+	rewards: [{
+		uid: "068e0639",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "e562f9f2",
+		type: "item",
+		item: "minecraft:paper",
+		count: 32
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	title: "Настоящий инструмент",
+	x: 8.5d,
+	y: -16.5d,
+	description: "Из другого мира",
+	dependencies: [
+		"83b8917a"
+	],
+	tasks: [{
+		uid: "f911ceac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:primal_crusher",
+			tag: {
+				infench: [{
+					lvl: 1s,
+					id: 1s
+				},
+				{
+					lvl: 1s,
+					id: 4s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cf638f58",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

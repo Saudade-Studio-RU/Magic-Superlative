@@ -1,0 +1,30 @@
+{
+	title: "Создайте любое улучшение для оружия",
+	x: 24.0d,
+	y: -4.0d,
+	description: "Разнообразие безгранично",
+	dependencies: [
+		"1c4a1d4e"
+	],
+	tasks: [{
+		uid: "b4d6e0fd",
+		type: "item",
+		items: [{
+			item: "embers:superheater"
+		},
+		{
+			item: "embers:caster_orb"
+		},
+		{
+			item: "embers:blasting_core"
+		},
+		{
+			item: "embers:resonating_bell"
+		}]
+	}],
+	rewards: [{
+		uid: "d144ef50",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

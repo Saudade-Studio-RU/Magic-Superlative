@@ -1,0 +1,30 @@
+{
+	title: "Наполните Пузырёк дождём",
+	icon: "evilcraft:weather_container 1 2",
+	x: -3.0d,
+	y: 3.0d,
+	description: "Просто бросьте в аккумулятор во время дождя",
+	dependencies: [
+		"4486da03"
+	],
+	tasks: [{
+		uid: "3c8dab5b",
+		type: "item",
+		items: [{
+			item: "evilcraft:weather_container"
+		}]
+	},
+	{
+		uid: "e068c80d",
+		type: "item",
+		items: [{
+			item: "evilcraft:weather_container 1 2"
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "015259fd",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

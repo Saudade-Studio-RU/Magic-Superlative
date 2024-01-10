@@ -1,0 +1,21 @@
+{
+	title: "Создайте Травоядный поглотитель",
+	x: 12.0d,
+	y: 3.5d,
+	description: "Аура за цветы",
+	dependencies: [
+		"956d9ae8"
+	],
+	tasks: [{
+		uid: "a12e8c14",
+		type: "item",
+		items: [{
+			item: "naturesaura:flower_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "5d42d67a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

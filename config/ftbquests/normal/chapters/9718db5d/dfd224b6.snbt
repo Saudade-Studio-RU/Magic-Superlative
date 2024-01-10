@@ -1,0 +1,26 @@
+{
+	title: "Создание кристаллов демонической энергии",
+	x: -14.0d,
+	y: 4.5d,
+	description: "Кристаллизация воли",
+	text: [
+		"Что бы сделать кристаллы с одним аспектом, вам необходим ритуал Resonance of Faceted Crystal"
+	],
+	dependencies: [
+		"e944150c",
+		"e7b88062"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e3e5f105",
+		type: "item",
+		items: [{
+			item: "bloodmagic:item_demon_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "a3201f0c",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

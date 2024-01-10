@@ -1,0 +1,21 @@
+{
+	title: "Эволюция плавильни 2",
+	x: -7.0d,
+	y: -10.0d,
+	description: "Больше экономии, меньше скорость",
+	dependencies: [
+		"14675d32"
+	],
+	tasks: [{
+		uid: "a89120c1",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_void"
+		}]
+	}],
+	rewards: [{
+		uid: "6ee64765",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

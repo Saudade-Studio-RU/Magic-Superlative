@@ -1,0 +1,26 @@
+{
+	title: "Создайте Мешочек для кристаллов",
+	x: 4.0d,
+	y: 0.0d,
+	description: "Чёрная дыра только для них",
+	dependencies: [
+		"abb43939"
+	],
+	tasks: [{
+		uid: "6ffac38a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:crystal_bag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "65805615",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

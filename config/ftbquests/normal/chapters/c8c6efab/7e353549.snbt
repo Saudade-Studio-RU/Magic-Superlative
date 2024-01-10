@@ -1,0 +1,12 @@
+{
+	title: "Линия подажи вещей из Bloodmagic, Vampirism",
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"3b3b668f"
+	],
+	tasks: [{
+		uid: "176c4dd4",
+		type: "checkmark"
+	}]
+}

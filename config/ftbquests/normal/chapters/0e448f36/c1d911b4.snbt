@@ -1,0 +1,74 @@
+{
+	title: "Создайте любой Вампирский плащ",
+	x: 7.0d,
+	y: 5.0d,
+	description: "Вредно для людей",
+	dependencies: [
+		"e882a43b"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "2f4b2a48",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:vampire_cloak"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bac1ea93",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:vampire_cloak",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8e153d5b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:vampire_cloak",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "14ea0493",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:vampire_cloak",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "73c85092",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:vampire_cloak",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "931a1459",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

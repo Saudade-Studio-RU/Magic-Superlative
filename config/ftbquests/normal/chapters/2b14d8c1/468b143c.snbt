@@ -1,0 +1,52 @@
+{
+	title: "Найдите Любые улучшения брони мага",
+	x: 6.0d,
+	y: -4.0d,
+	description: "Мудрец, боец и чернокнижник. Кого выберешь ты?",
+	dependencies: [
+		"4eaa4a16",
+		"0966d7cd"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "a1ed4f2c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:resplendent_thread"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c2f0700e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:ethereal_crystalweave"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ad559333",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:crystal_silver_plating"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e150b39f",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

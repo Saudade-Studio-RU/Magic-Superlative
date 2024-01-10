@@ -1,0 +1,26 @@
+{
+	title: "Создайте Окуляр окружения",
+	x: 6.0d,
+	y: -4.0d,
+	description: "Продвинутое видение Ауры",
+	dependencies: [
+		"af470425"
+	],
+	tasks: [{
+		uid: "52ba7220",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "naturesaura:eye_improved"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "491eeca7",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Начните изучать Ice and Fire",
+	x: 0.0d,
+	y: 5.0d,
+	description: "Победите мифических существ и драконов, забрав себе их богатства и силу",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "66ad5ac9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:bestiary",
+			tag: {
+				Pages: [I;
+					0
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ae333fc7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Слиток алхимической латуни x8",
+	x: 5.0d,
+	y: 1.0d,
+	can_repeat: true,
+	dependencies: [
+		"9623f406"
+	],
+	optional: true,
+	tasks: [{
+		uid: "9874835a",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ingot 1 2"
+		}],
+		count: 8L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "aefe1c33",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

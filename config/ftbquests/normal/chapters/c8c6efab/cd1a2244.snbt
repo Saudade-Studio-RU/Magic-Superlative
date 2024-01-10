@@ -1,0 +1,13 @@
+{
+	title: "Линия продажи вещей из Botania",
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"3b3b668f"
+	],
+	tasks: [{
+		uid: "46288de7",
+		type: "checkmark",
+		title: "Линия продажи Botania"
+	}]
+}

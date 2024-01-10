@@ -1,0 +1,21 @@
+{
+	x: 10.0d,
+	y: 1.5d,
+	description: "Перемещение предметов на расстоянии",
+	dependencies: [
+		"037bec19"
+	],
+	tasks: [{
+		uid: "09fd16ea",
+		type: "item",
+		items: [{
+			item: "thaumcraft:mirror"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "05e97c3a",
+		type: "xp",
+		xp: 500
+	}]
+}

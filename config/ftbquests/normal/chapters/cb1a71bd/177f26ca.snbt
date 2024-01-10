@@ -1,0 +1,31 @@
+{
+	title: "Начните изучать Ботанию",
+	x: 4.0d,
+	y: -3.0d,
+	description: "Начните изучение расительности и маны",
+	text: [
+		"Найдите или сделайте Лексикон Ботании"
+	],
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "23c93f16",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lexicon",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e24782d6",
+		type: "item",
+		item: "botania:flower",
+		count: 2
+	}]
+}

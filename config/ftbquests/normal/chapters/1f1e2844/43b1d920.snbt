@@ -1,0 +1,21 @@
+{
+	title: "Создайте Автоматический молот",
+	x: 22.0d,
+	y: -2.0d,
+	description: "Быстрее и без вашей грубой силы",
+	dependencies: [
+		"1c4a1d4e"
+	],
+	tasks: [{
+		uid: "d1059644",
+		type: "item",
+		items: [{
+			item: "embers:auto_hammer"
+		}]
+	}],
+	rewards: [{
+		uid: "46a881a0",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

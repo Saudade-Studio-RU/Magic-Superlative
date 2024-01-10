@@ -1,0 +1,28 @@
+{
+	title: "Создайте Переливчатый алтарь",
+	x: 18.0d,
+	y: 3.0d,
+	description: "Максимальный верстак Астарльного Волшебства",
+	dependencies: [
+		"3cff543b",
+		"f89e6829"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b192a87a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e9551f68",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

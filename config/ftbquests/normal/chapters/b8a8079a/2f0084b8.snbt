@@ -1,0 +1,25 @@
+{
+	title: "Осколки измерений",
+	x: 9.5d,
+	y: -22.0d,
+	description: "Что же можно из них сделать?",
+	tasks: [{
+		uid: "b827f2f7",
+		type: "item",
+		items: [{
+			item: "ichoriumkit:resourcekami 1 1"
+		}]
+	},
+	{
+		uid: "f71692e0",
+		type: "item",
+		items: [{
+			item: "ichoriumkit:resourcekami"
+		}]
+	}],
+	rewards: [{
+		uid: "b88556f0",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

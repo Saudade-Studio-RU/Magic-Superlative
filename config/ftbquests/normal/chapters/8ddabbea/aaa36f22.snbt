@@ -1,0 +1,21 @@
+{
+	title: "Создайте Пустотную укреплённую банку",
+	x: 4.0d,
+	y: -2.0d,
+	description: "До 500",
+	dependencies: [
+		"aa05edbf"
+	],
+	tasks: [{
+		uid: "bc7cd6b2",
+		type: "item",
+		items: [{
+			item: "thaumadditions:jar_eldritch"
+		}]
+	}],
+	rewards: [{
+		uid: "11ad096a",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

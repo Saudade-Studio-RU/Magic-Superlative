@@ -1,0 +1,75 @@
+{
+	title: "Сделайте Улучшенный обсидиановый комплект ада",
+	x: 9.0d,
+	y: -6.0d,
+	description: "-Скорость, +Защита",
+	dependencies: [
+		"d7a84dae"
+	],
+	optional: true,
+	tasks: [{
+		uid: "9e826f1e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:obsidian_armor_head",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2f95c1ad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:obsidian_armor_chest",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9fa96d81",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:obsidian_armor_legs",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8e734f59",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:obsidian_armor_feet",
+			tag: {
+				tier: "ENHANCED"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3781c97d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

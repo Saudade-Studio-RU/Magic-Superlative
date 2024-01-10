@@ -1,0 +1,22 @@
+{
+	title: "Создайте Наполненное железо",
+	x: 12.0d,
+	y: 0.0d,
+	description: "Слитки природы",
+	dependencies: [
+		"fff2d88e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ee13658c",
+		type: "item",
+		items: [{
+			item: "naturesaura:infused_iron"
+		}]
+	}],
+	rewards: [{
+		uid: "0fccd8b1",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

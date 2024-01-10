@@ -1,0 +1,22 @@
+{
+	title: "Создайте Мифриллиумную усиленную банку",
+	x: 5.0d,
+	y: -2.0d,
+	description: "До 1000",
+	dependencies: [
+		"aaa36f22",
+		"643c4a4a"
+	],
+	tasks: [{
+		uid: "6d73d7cd",
+		type: "item",
+		items: [{
+			item: "thaumadditions:jar_mithrillium"
+		}]
+	}],
+	rewards: [{
+		uid: "02fa9ba1",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

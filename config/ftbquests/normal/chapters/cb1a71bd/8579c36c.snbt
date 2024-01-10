@@ -1,0 +1,24 @@
+{
+	title: "Посетите Сумеречный Лес",
+	icon: "twilightforest:miniature_structure",
+	x: -4.0d,
+	y: 5.0d,
+	description: "Сделайте портал ",
+	text: [
+		"Разлейте воду 2x2, поставте по сторонам цветы и киньте алмаз"
+	],
+	dependencies: [
+		"7c1e2ee6"
+	],
+	tasks: [{
+		uid: "d82b2774",
+		type: "dimension",
+		title: "Посетите измерение: Сумеречный Лес",
+		dim: 7
+	}],
+	rewards: [{
+		uid: "71259c53",
+		type: "item",
+		item: "twilightforest:raven_feather"
+	}]
+}

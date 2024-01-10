@@ -1,0 +1,26 @@
+{
+	title: "Создайте Пояс путешественника",
+	x: -2.0d,
+	y: 0.0d,
+	description: "Сапоги без сапог",
+	dependencies: [
+		"abb43939"
+	],
+	tasks: [{
+		uid: "7f4756c2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:traveller_belt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d2b2755c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

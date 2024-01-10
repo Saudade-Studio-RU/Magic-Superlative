@@ -1,0 +1,33 @@
+{
+	x: -1.0d,
+	y: -7.0d,
+	description: "Мана из луны",
+	dependencies: [
+		"840cc22e"
+	],
+	tasks: [{
+		uid: "2cd53a21",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "moonbless"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "ca1291b9",
+		type: "item",
+		item: {
+			id: "botania:specialflower",
+			tag: {
+				type: "moonbless"
+			}
+		}
+	},
+	{
+		uid: "e5f93b10",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

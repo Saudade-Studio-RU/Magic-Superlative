@@ -1,0 +1,18 @@
+{
+	title: "EvilCraft",
+	icon: "evilcraft:dark_gem",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 4.5d,
+		y: -6.5d,
+		width: 16.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/evil_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

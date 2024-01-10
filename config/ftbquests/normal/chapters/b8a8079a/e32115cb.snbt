@@ -1,0 +1,40 @@
+{
+	title: "Сделайте Стол исследований",
+	x: -5.0d,
+	y: 0.0d,
+	description: "Нажмите Письменными принадлежностями ПКМ по столу",
+	dependencies: [
+		"b2a971df"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5cf0fd0e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:research_table"
+		}]
+	},
+	{
+		uid: "dd8b023c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:scribing_tools"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "64be75a2",
+		type: "item",
+		item: "minecraft:dye",
+		count: 3
+	},
+	{
+		uid: "e05a8f79",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

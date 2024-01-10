@@ -1,0 +1,22 @@
+{
+	title: "Создайте Алтарь природы",
+	x: 10.0d,
+	y: 0.0d,
+	description: "Наполнение Аурой природы",
+	dependencies: [
+		"8351a06d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1220c2fe",
+		type: "item",
+		items: [{
+			item: "naturesaura:nature_altar"
+		}]
+	}],
+	rewards: [{
+		uid: "b445bce2",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

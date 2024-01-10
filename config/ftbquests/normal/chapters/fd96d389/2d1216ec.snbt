@@ -1,0 +1,33 @@
+{
+	title: "Создайте Резонирующий жезл",
+	x: 6.0d,
+	y: -0.5d,
+	description: "Инструмент Астральной магии",
+	text: [
+		"Что бы сделать его, вам необходимо поставить верстак под найденным кристаллом, благодаря чему в верстаке будет звёдный свет для их крафта"
+	],
+	dependencies: [
+		"2ab0e76d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "39fc3b99",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemwand",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e0477d53",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

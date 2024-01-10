@@ -1,0 +1,49 @@
+{
+	title: "Создайте все виды металлических элементов",
+	x: 15.0d,
+	y: -2.0d,
+	description: "Ключевые составляющие",
+	dependencies: [
+		"2aa8a7b4"
+	],
+	tasks: [{
+		uid: "6f5551da",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_iron"
+		}]
+	},
+	{
+		uid: "ef6a0b8c",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_copper"
+		}]
+	},
+	{
+		uid: "9d291dbf",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_lead"
+		}]
+	},
+	{
+		uid: "71184990",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_dawnstone"
+		}]
+	},
+	{
+		uid: "94531ed5",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_silver"
+		}]
+	}],
+	rewards: [{
+		uid: "9a6ab72e",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

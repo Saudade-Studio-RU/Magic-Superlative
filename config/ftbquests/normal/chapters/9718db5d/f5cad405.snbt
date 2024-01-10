@@ -1,0 +1,36 @@
+{
+	title: "Создайте Сигил удержания",
+	x: -1.5d,
+	y: 4.5d,
+	description: "Пять Сигилов в одном. Экономия!",
+	dependencies: [
+		"5fd23f9f"
+	],
+	tasks: [{
+		uid: "a05e62ba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -8180240267111859189L,
+					AS_Amulet_HolderMost: -3319811669840801797L
+				}
+			},
+			id: "bloodmagic:sigil_holding",
+			tag: {
+				mostSig: 6512986005380154299L,
+				binding: {
+					name: "ShadowKing21228",
+					id: {
+						L: -8180240267111859189L,
+						M: -3319811669840801797L
+					}
+				},
+				Items: [],
+				leastSig: -4638131892588265676L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

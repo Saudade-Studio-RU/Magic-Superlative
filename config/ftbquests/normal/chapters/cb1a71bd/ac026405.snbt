@@ -1,0 +1,33 @@
+{
+	title: "Начните изучение Волшебства (Electroblob)",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "ebwizardry:wizard_handbook"
+	},
+	x: -4.0d,
+	y: -3.0d,
+	description: "Начните изучение магических кристаллов, волшебных палочек и разнообразных заклинаний",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "337a4cb3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:wizard_handbook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2b1ce502",
+		type: "item",
+		item: "ebwizardry:magic_crystal",
+		count: 12
+	}]
+}

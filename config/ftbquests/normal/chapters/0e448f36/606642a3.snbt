@@ -1,0 +1,28 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	description: "Красота - сила",
+	dependencies: [
+		"7b6869b0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d5f56f00",
+		type: "item",
+		title: "Создайте Основу любого зонта",
+		items: [{
+			item: "vampiresneedumbrellas:iron_umbrella_rod"
+		},
+		{
+			item: "vampiresneedumbrellas:gold_umbrella_rod"
+		},
+		{
+			item: "vampiresneedumbrellas:diamond_umbrella_rod"
+		}]
+	}],
+	rewards: [{
+		uid: "9831c260",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

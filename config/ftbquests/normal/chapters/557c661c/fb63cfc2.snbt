@@ -1,0 +1,21 @@
+{
+	x: -8.0d,
+	y: 0.0d,
+	dependencies: [
+		"80253090",
+		"95da1f41"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c29c18aa",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "e7897a9a",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

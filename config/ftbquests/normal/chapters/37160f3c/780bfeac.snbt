@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"63832557"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "a32f6fa3",
+		type: "checkmark",
+		title: "Добро пожаловать в Evilcraft!",
+		icon: "evilcraft:dark_gem"
+	}]
+}

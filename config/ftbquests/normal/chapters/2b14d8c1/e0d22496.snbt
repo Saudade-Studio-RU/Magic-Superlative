@@ -1,0 +1,21 @@
+{
+	title: "Создайте Пустой свиток",
+	x: 9.0d,
+	y: 2.0d,
+	description: "Заклинания без трат маны",
+	dependencies: [
+		"954bfe15"
+	],
+	tasks: [{
+		uid: "a2ea53b6",
+		type: "item",
+		items: [{
+			item: "ebwizardry:blank_scroll"
+		}]
+	}],
+	rewards: [{
+		uid: "f98cad06",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"c156bd7d"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "6849af46",
+		type: "checkmark",
+		title: "Добро пожаловать в Астарльное волшебство!",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemjournal",
+			tag: {}
+		}
+	}]
+}

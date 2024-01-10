@@ -1,0 +1,22 @@
+{
+	x: 13.0d,
+	y: 6.0d,
+	description: "Искуственное наполнение погодой",
+	dependencies: [
+		"9a352f59",
+		"162c9096"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6796b477",
+		type: "item",
+		items: [{
+			item: "evilcraft:sanguinary_environmental_accumulator"
+		}]
+	}],
+	rewards: [{
+		uid: "9ba491ab",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

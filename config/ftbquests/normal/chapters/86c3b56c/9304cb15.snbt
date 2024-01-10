@@ -1,0 +1,28 @@
+{
+	title: "Создайте Первый портальный ключ",
+	x: 9.0d,
+	y: -2.0d,
+	shape: "square",
+	description: "Доступ к глубинам",
+	dependencies: [
+		"546864e6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e4c29ec5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:gatewaykey"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "760294ed",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,46 @@
+{
+	title: "Создайте любой хранитель Эмбер-энергии",
+	x: 10.0d,
+	y: 4.0d,
+	description: "Всегда были RF/MJ/EU и другие, а теперь в батарейках какие-то Эмбер",
+	dependencies: [
+		"3a88ba1c"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "7ce0a7b6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ember_jar",
+			tag: {
+				emberCapacity: 2000.0d,
+				ember: 2000.0d
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a1f3b7c5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ember_cartridge",
+			tag: {
+				emberCapacity: 6000.0d,
+				ember: 6000.0d
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1edac8c9",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

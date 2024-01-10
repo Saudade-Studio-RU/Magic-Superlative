@@ -1,0 +1,67 @@
+{
+	title: "Доспехи Убийцы Гоблинов",
+	x: 20.0d,
+	y: -1.0d,
+	description: "Гоблинов тут нет, но где то я их уже видел",
+	dependencies: [
+		"8a0dfbc9"
+	],
+	optional: true,
+	tasks: [{
+		uid: "36cfd6bf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:goblinslayerhelm",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d80a6eda",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:goblinslayerchest",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "58e776c5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:goblinslayerlegs",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "31d742b8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:goblinslayerboots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "33ce0e45",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Создайте Медную ячейку",
+	x: 8.0d,
+	y: 2.0d,
+	description: "Хранитель Эмбера",
+	dependencies: [
+		"63068820"
+	],
+	hide: true,
+	tasks: [{
+		uid: "32a8054f",
+		type: "item",
+		items: [{
+			id: "embers:copper_cell",
+			tag: {
+				emberCapacity: 24000.0d,
+				ember: 0.0d
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "bff9746f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

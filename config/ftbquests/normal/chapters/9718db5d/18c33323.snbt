@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: 0.0d,
+	description: "Верстак для кровавых нужд",
+	dependencies: [
+		"8fa9d29c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0e5757b7",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_forge"
+		}]
+	}],
+	rewards: [{
+		uid: "ac9e1220",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	title: "Убейте любого Тролля",
+	x: -1.5d,
+	y: -3.0d,
+	description: "И соберите его чешую",
+	dependencies: [
+		"7986f9bf"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "8a4b14dc",
+		type: "item",
+		items: [{
+			item: "iceandfire:troll_leather_frost"
+		}]
+	},
+	{
+		uid: "4c3de026",
+		type: "item",
+		items: [{
+			item: "iceandfire:troll_leather_mountain"
+		}]
+	},
+	{
+		uid: "859774fe",
+		type: "item",
+		items: [{
+			item: "iceandfire:troll_leather_forest"
+		}]
+	}],
+	rewards: [{
+		uid: "75517d9e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

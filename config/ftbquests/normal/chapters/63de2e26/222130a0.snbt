@@ -1,0 +1,22 @@
+{
+	icon: "twilightforest:trophy 1 2",
+	x: 11.0d,
+	y: 2.0d,
+	description: "Головы падают, они крепчают",
+	dependencies: [
+		"e2704c58"
+	],
+	hide: true,
+	tasks: [{
+		uid: "31dd5272",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "55e7e844",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

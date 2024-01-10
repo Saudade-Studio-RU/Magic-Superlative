@@ -1,0 +1,34 @@
+{
+	title: "Создайте Кристальную линзу",
+	x: 16.0d,
+	y: 3.0d,
+	description: "Перемещение света",
+	dependencies: [
+		"a1011c53"
+	],
+	hide: true,
+	tasks: [{
+		uid: "71d063dd",
+		type: "item",
+		items: [{
+			id: "astralsorcery:blocklens",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eaf1abb9",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

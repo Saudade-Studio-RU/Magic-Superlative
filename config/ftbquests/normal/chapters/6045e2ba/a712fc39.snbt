@@ -1,0 +1,33 @@
+{
+	title: "Первая мана!",
+	x: 8.5d,
+	y: 0.0d,
+	description: "Хоть сколько-то...",
+	text: [
+		"Что бы выполнить квест, поставьте экран (награда в одном из прошлых квестов, проверьте), выберите в нём этот квест и через Распределитель маны и Посох Леса укажите им на экран с выбранным заданием. Готово!"
+	],
+	dependencies: [
+		"cb3e981f",
+		"b30af86b",
+		"840cc22e",
+		"702f8cc4",
+		"ee38887d"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "ba955945",
+		type: "botania_mana",
+		value: 1000L
+	}],
+	rewards: [{
+		uid: "d43c4fdd",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	},
+	{
+		uid: "8ffd4a3c",
+		type: "item",
+		item: "ftbquests:progress_screen"
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Создайте предметы из Этаксия",
+	x: 28.0d,
+	y: -4.0d,
+	description: "Конечный металл",
+	dependencies: [
+		"e7647760"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0edbf601",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:ethaxiumingot"
+		}]
+	},
+	{
+		uid: "f7f0e39f",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:ethbrick"
+		}]
+	}],
+	rewards: [{
+		uid: "bc898673",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

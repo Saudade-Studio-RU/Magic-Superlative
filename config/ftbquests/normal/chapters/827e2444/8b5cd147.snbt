@@ -1,0 +1,52 @@
+{
+	title: "Создайте Проектор Мистического круга",
+	x: 3.0d,
+	y: -3.0d,
+	description: "Блаженство для глаз",
+	dependencies: [
+		"342bc1c6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a955a400",
+		type: "item",
+		items: [{
+			id: "mahoutsukai:mahoujin_projector",
+			tag: {
+				mahoujin_projector: {
+					IMAGE_LOAD: -1,
+					CIRCLE_PITCH: 0.0f,
+					CIRCLE_SHOW_R: 1b,
+					CIRCLE_A: 200,
+					CIRCLE_B: 20,
+					CIRCLE_SHOW_C: 1b,
+					CIRCLE_G: 255,
+					CIRCLE_SIZE: 1.0f,
+					id: "mahoutsukai:mahoujin_projector",
+					RUNES_LOAD: -1,
+					CIRCLE_SPEED: 1.0f,
+					CIRCLE_YAW: 0.0f,
+					CIRCLE_RING_ANGLE: 0.0f,
+					RING_HEIGHT: 0.125f,
+					CIRCLE_SPEED_YAW: 0.0f,
+					CIRCLE_R: 255,
+					ROTATION_OFFSET: 0.0f,
+					x: 187,
+					y: 80,
+					CIRCLE_SPEED_PITCH: 0.0f,
+					z: -73,
+					CIRCLE_ROTATION: 17.0f,
+					CIRCLE_Y: 0.5f,
+					CIRCLE_Z: 0.0f,
+					CIRCLE_X: 0.0f
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "33614f82",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,47 @@
+{
+	title: "Постройте эльфийские врата... в другой мир",
+	x: 15.0d,
+	y: -5.5d,
+	description: "Что же там будет?",
+	dependencies: [
+		"6e4f3bda",
+		"cf3d7982"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d108ab2a",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	},
+	{
+		uid: "042bd12f",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}],
+		count: 2L
+	},
+	{
+		uid: "d1da052d",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}],
+		count: 8L
+	},
+	{
+		uid: "20098078",
+		type: "item",
+		items: [{
+			item: "botania:livingwood 1 5"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "0e0273aa",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

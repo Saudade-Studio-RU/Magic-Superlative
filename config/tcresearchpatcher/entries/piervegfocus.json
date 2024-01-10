@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "PIERVEGFOCUS",
+      "name": "research.PIERVEGFOCUS.title",
+      "icons": [ "evilcraft:piercing_vengeance_focus" ],
+      "category": "SUPERLATIVE",
+      "location": [ 7, 0 ],
+      "parents": [ "VEGFOCUS", "BLOODINFUSER" ],
+      "stages": [
+        {
+          "text": "research.PIERVEGFOCUS.text.stage.1",
+          "required_knowledge": [ "THEORY;ARTIFICE;1", "OBSERVATION;ARTIFICE;1" ]
+        },
+        {
+          "text": "research.PIERVEGFOCUS.text.stage.2",
+          "recipes": [ "evilcraft:piercing_vengeance_focus" ]
+        }
+      ]
+    }
+  ]
+}

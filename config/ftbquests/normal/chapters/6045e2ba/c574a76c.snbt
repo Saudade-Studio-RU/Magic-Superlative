@@ -1,0 +1,28 @@
+{
+	title: "Слитки из Стража",
+	x: 28.0d,
+	y: -3.0d,
+	description: "Готов ко 2 раунду?",
+	dependencies: [
+		"73a7ba4d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1126d453",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 14"
+		}]
+	}],
+	rewards: [{
+		uid: "fc77684d",
+		type: "item",
+		item: "botania:manaresource 1 5",
+		count: 4
+	},
+	{
+		uid: "d0d0327b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Создайте Порошок нет хранилищу",
+	x: 18.0d,
+	y: 0.5d,
+	description: "Оставьте излишки себе",
+	dependencies: [
+		"fb79a9bd"
+	],
+	tasks: [{
+		uid: "2ea92b47",
+		type: "item",
+		items: [{
+			id: "naturesaura:effect_powder",
+			tag: {
+				effect: "naturesaura:cache_recharge"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "55850dc2",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

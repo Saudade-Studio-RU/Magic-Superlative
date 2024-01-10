@@ -1,0 +1,17 @@
+{
+  "entries": [
+    {
+      "key": "SUPERLATIVESTART",
+      "name": "research.SUPERLATIVESTART.title",
+      "icons": [ "arcanearchives:textures/items/item_manifest.png" ],
+      "category": "SUPERLATIVE",
+      "location": [ 0, 0 ],
+      "meta": [ "ROUND", "SPIKY" ],
+      "stages": [
+        {
+          "text": "research.SUPERLATIVESTART.text.stage.1"
+        }
+      ]
+    }
+  ]
+}

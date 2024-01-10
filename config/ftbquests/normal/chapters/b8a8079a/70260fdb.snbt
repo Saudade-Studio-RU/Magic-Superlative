@@ -1,0 +1,22 @@
+{
+	title: "Второй плавильный мозг",
+	x: 0.0d,
+	y: -13.0d,
+	description: "Скорость x2!",
+	dependencies: [
+		"293c3955"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a20f8129",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_aux"
+		}]
+	}],
+	rewards: [{
+		uid: "668a73fb",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

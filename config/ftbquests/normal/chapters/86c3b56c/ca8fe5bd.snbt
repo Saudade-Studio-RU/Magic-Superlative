@@ -1,0 +1,22 @@
+{
+	title: "Создайте Тёмную жемчужину",
+	x: 6.0d,
+	y: 0.0d,
+	description: "Кристалл тьмы",
+	dependencies: [
+		"93710087"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9f7f0976",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:shadowgem"
+		}]
+	}],
+	rewards: [{
+		uid: "e9416bac",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

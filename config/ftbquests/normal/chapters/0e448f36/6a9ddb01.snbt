@@ -1,0 +1,21 @@
+{
+	title: "Создайте или найдите Оружейный Стол охотника",
+	x: 9.0d,
+	y: -2.0d,
+	description: "Повышая уровень до 4",
+	dependencies: [
+		"65435ea3"
+	],
+	tasks: [{
+		uid: "de2df765",
+		type: "item",
+		items: [{
+			item: "vampirism:hunter_table"
+		}]
+	}],
+	rewards: [{
+		uid: "451f7807",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

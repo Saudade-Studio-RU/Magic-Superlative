@@ -1,0 +1,25 @@
+{
+	title: "Сделайте 2 уровень Кровавого алтаря",
+	icon: "bloodmagic:altar",
+	x: 4.0d,
+	y: 4.0d,
+	description: "Разложите любые руны ниже кровавого алтаря вокруг него",
+	dependencies: [
+		"8fa9d29c",
+		"7ebcc42b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c11a8f32",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "118317a5",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

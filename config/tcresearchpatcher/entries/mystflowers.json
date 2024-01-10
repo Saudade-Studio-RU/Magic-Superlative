@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "MYSTFLOWERS",
+      "name": "research.MYSTFLOWERS.title",
+      "icons": [ "botania:flower", "botania:flower;2;1", "botania:flower;3;2", "botania:flower;1;3", "botania:flower;4;4", "botania:flower;5;5", "botania:flower;6;6", "botania:flower;7;7", "botania:flower;8;8", "botania:flower;9;9", "botania:flower;10;10", "botania:flower;11;11", "botania:flower;12;12", "botania:flower;13;13", "botania:flower;14;14", "botania:flower;15;15" ],
+      "category": "SUPERLATIVE",
+      "location": [ -5, 2 ],
+      "meta": [ "ROUND" ],
+      "parents": [ "!MystFlowerWhite", "!MystFlowerBlack" ],
+      "stages": [
+        {
+          "text": "research.MYSTFLOWERS.text.stage.1",
+          "required_craft": [ "botania:lexicon" ]
+        },
+        {
+          "text": "research.MYSTFLOWERS.text.stage.2"
+        }
+      ]
+    }
+  ]
+}

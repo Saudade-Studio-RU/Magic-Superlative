@@ -1,0 +1,33 @@
+{
+	x: -1.0d,
+	y: 5.5d,
+	description: "Мана из лавы",
+	dependencies: [
+		"ee38887d"
+	],
+	tasks: [{
+		uid: "e395a162",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "thermalily"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5050993c",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:lava_bucket"
+		}
+	},
+	{
+		uid: "22067015",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

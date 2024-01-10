@@ -1,0 +1,18 @@
+{
+	title: "Создайте Тестовую куклу",
+	x: -3.0d,
+	y: -7.0d,
+	description: "Сколько же там?",
+	tasks: [{
+		uid: "0ac8c5f8",
+		type: "item",
+		items: [{
+			item: "testdummy:dummy"
+		}]
+	}],
+	rewards: [{
+		uid: "59f8944f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

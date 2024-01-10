@@ -1,0 +1,29 @@
+{
+	x: 2.5d,
+	y: 5.5d,
+	description: "Мана за топливо",
+	dependencies: [
+		"ee38887d"
+	],
+	tasks: [{
+		uid: "f5aa85be",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "endoflame"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "826636af",
+		type: "item",
+		item: "minecraft:coal",
+		count: 64
+	},
+	{
+		uid: "eb13ff87",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

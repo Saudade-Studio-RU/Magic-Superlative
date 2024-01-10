@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "key": "DAWNANVIL",
+      "name": "research.DAWNANVIL.title",
+      "icons": [ "embers:dawnstone_anvil" ],
+      "category": "SUPERLATIVE",
+      "location": [ 0, 6 ],
+      "meta": [ "SPIKY" ],
+      "parents": [ "MIXER" ],
+      "stages": [
+        {
+          "text": "research.DAWNANVIL.text.stage.1",
+          "required_knowledge": [ "THEORY;ARTIFICE;3", "THEORY;ELDRITCH;2", "THEORY;BASICS;2", "OBSERVATION;ARTIFICE;8", "OBSERVATION;ELDRITCH;8", "OBSERVATION;BASICS;10" ],
+          "required_item": [ "embers:ingot_dawnstone" ]
+        },
+        {
+          "text": "research.DAWNANVIL.text.stage.2",
+          "recipes": [ "embers:dawnstone_anvil" ],
+          "warp": 5
+        }
+      ]
+    }
+  ]
+}

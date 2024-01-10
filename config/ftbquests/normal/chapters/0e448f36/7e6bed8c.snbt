@@ -1,0 +1,21 @@
+{
+	title: "Создайте Вампирскую инъекцию",
+	x: 7.0d,
+	y: -0.5d,
+	description: "Вновь никто",
+	dependencies: [
+		"65435ea3"
+	],
+	tasks: [{
+		uid: "79162887",
+		type: "item",
+		items: [{
+			item: "vampirism:injection 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "06d33c9c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Создайте Кафедру",
+	x: -3.0d,
+	y: 0.0d,
+	description: "Пополнение знаний",
+	text: [
+		"Вкладывая Манускрипты в кафедру и свой Бестиарий, вам дадут выбор того, какое знание вы хотите получить из 3 на выбор"
+	],
+	dependencies: [
+		"7986f9bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f08b883b",
+		type: "item",
+		items: [{
+			item: "iceandfire:lectern"
+		}]
+	}],
+	rewards: [{
+		uid: "1330b60e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

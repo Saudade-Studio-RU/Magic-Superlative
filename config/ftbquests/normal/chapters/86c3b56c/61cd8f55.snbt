@@ -1,0 +1,22 @@
+{
+	title: "Добудьте Коралловую жемчужину",
+	x: 3.0d,
+	y: -2.0d,
+	description: "Тьма глубины ощущается в ней...",
+	dependencies: [
+		"85092639"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3940d882",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:coralium"
+		}]
+	}],
+	rewards: [{
+		uid: "6a7f2ecd",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

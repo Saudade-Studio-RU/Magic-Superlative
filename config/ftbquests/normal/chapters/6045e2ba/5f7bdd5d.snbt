@@ -1,0 +1,32 @@
+{
+	title: "Создайте аксессуар природы",
+	x: 31.0d,
+	y: -3.0d,
+	description: "Он поможет вам призвать последнее испытание",
+	text: [
+		"Что бы заряжать Сферу вам необходимо построить многоблочную структуру, находящуюся в разделах ",
+		"ExtraBotany -> Сфера Природы в Лексиконе Ботании"
+	],
+	dependencies: [
+		"c574a76c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "441062b3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:natureorb",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "48443b7f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

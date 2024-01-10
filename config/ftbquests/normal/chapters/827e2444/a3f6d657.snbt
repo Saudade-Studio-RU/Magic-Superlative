@@ -1,0 +1,22 @@
+{
+	title: "Содайте Посох БАБАХ",
+	x: -6.0d,
+	y: -1.5d,
+	description: "Бакурецу, Бакурецу",
+	dependencies: [
+		"342bc1c6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "dab369f2",
+		type: "item",
+		items: [{
+			item: "mahoutsukai:mystic_staff"
+		}]
+	}],
+	rewards: [{
+		uid: "e2db3885",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

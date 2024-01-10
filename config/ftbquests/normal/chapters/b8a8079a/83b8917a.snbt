@@ -1,0 +1,29 @@
+{
+	title: "Вход в Потустороннее...",
+	x: 7.0d,
+	y: -14.5d,
+	description: "Был открыт!",
+	dependencies: [
+		"23115a4f",
+		"8ff75ed5"
+	],
+	hide: true,
+	tasks: [{
+		uid: "46b84193",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ingot 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "f6244392",
+		type: "item",
+		item: "thaumcraft:void_seed",
+		count: 3
+	},
+	{
+		uid: "6f4b7d46",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

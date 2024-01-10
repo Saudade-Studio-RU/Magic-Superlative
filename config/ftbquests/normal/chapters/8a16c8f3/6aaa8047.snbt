@@ -1,0 +1,21 @@
+{
+	title: "Создайте Мистический терраформер",
+	x: 8.0d,
+	y: -9.0d,
+	description: "Управление биомами",
+	dependencies: [
+		"69d2b155"
+	],
+	tasks: [{
+		uid: "cb75ebe2",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:arcane_terraformer"
+		}]
+	}],
+	rewards: [{
+		uid: "aedc08d2",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

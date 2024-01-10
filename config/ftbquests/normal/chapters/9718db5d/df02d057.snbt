@@ -1,0 +1,30 @@
+{
+	title: "Эволюция кровавых шаров ",
+	x: 6.0d,
+	y: 0.0d,
+	description: "Теперь ты ученик",
+	dependencies: [
+		"42011209",
+		"0a1369ed"
+	],
+	hide: true,
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "931f7013",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:apprentice"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "b8ff9688",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

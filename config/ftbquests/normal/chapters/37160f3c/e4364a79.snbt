@@ -1,0 +1,26 @@
+{
+	title: "Создайте или найдите Коробку вечного закрытия",
+	x: 6.0d,
+	y: -4.0d,
+	description: "Пленение душ",
+	dependencies: [
+		"780bfeac"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e7731347",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:box_of_eternal_closure"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b4a78b38",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

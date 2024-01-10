@@ -1,0 +1,28 @@
+{
+	title: "Станьте ОХОТНИКОМ НА ВАМПИРОВ",
+	x: 7.0d,
+	y: -2.0d,
+	description: "Смерть кровососам",
+	dependencies: [
+		"0fd23487"
+	],
+	hide: true,
+	tasks: [{
+		uid: "bbfef1d7",
+		type: "advancement",
+		title: "Станьте Охотником",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:basic_crossbow"
+		},
+		advancement: "vampirism:hunter/become_hunter",
+		criterion: ""
+	}],
+	rewards: [{
+		uid: "ae0f0165",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Батарейка мира магии",
+	x: -5.0d,
+	y: 5.0d,
+	description: "Зарядка ауры",
+	dependencies: [
+		"f4a1f4bc"
+	],
+	tasks: [{
+		uid: "541ad14b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:vis_battery"
+		}]
+	}],
+	rewards: [{
+		uid: "f6caa727",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

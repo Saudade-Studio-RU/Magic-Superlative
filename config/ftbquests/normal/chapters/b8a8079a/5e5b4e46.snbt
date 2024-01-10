@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: 8.5d,
+	description: "Голем-лесник",
+	dependencies: [
+		"f3a8159d"
+	],
+	tasks: [{
+		uid: "d000cc0d",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 11"
+		}]
+	}],
+	rewards: [{
+		uid: "e3023dda",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

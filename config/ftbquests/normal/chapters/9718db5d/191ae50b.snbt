@@ -1,0 +1,41 @@
+{
+	title: "Сделайте Разумный меч, вытягивыющий Адскую энергию из мобов",
+	x: -9.0d,
+	y: 1.5d,
+	description: "Теперь без ловушек",
+	dependencies: [
+		"f9f5dce4"
+	],
+	tasks: [{
+		uid: "e3011ee1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sentient_sword",
+			tag: {
+				soulSwordDamage: 5.0d,
+				soulSwordDrop: 0.0d,
+				soulSwordActiveDrain: 0.0d,
+				soulSwordHealth: 0.0d,
+				soulSwordAttackSpeed: -2.4d,
+				demonWillType: "default",
+				soulSwordStaticDrop: 1.0d,
+				soulSwordSpeed: 0.0d
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c300cfe8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "ab14f4b8",
+		type: "item",
+		item: "ftbquests:progress_screen"
+	}]
+}

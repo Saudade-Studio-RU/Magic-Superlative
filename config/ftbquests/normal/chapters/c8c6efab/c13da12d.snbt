@@ -1,0 +1,35 @@
+{
+	title: "Кожа x16",
+	x: -3.0d,
+	y: 3.0d,
+	can_repeat: true,
+	dependencies: [
+		"8a66a83f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "36e3c4eb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "leather",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any leather"
+				}
+			}
+		}],
+		count: 16L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "bad0347c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

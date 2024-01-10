@@ -1,0 +1,37 @@
+{
+	title: "Сделайте Плавильну Эссенции",
+	x: -1.5d,
+	y: -10.0d,
+	description: "Что за фиолетовый выброс...?",
+	dependencies: [
+		"85d0cb66"
+	],
+	hide: true,
+	tasks: [{
+		uid: "45a0f2b4",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_basic"
+		}]
+	},
+	{
+		uid: "0485db7c",
+		type: "item",
+		items: [{
+			item: "thaumcraft:alembic"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "af8535c5",
+		type: "item",
+		item: "thaumcraft:tube",
+		count: 32
+	},
+	{
+		uid: "4639cfb4",
+		type: "item",
+		item: "thaumcraft:tube_buffer",
+		count: 2
+	}]
+}

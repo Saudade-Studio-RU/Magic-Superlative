@@ -1,0 +1,18 @@
+{
+	title: "Vampirism",
+	icon: "vampirism:vampire_fang",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: -4.5d,
+		y: -4.5d,
+		width: 16.0d,
+		height: 8.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/vampirism_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "Создайте Первичный резак",
+	x: 0.0d,
+	y: 3.0d,
+	description: "Пустота vs Живое",
+	dependencies: [
+		"8d031da0"
+	],
+	tasks: [{
+		uid: "cdee81e4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:primal_cutter",
+			tag: {
+				infench: [{
+					lvl: 2s,
+					id: 5s
+				},
+				{
+					lvl: 1s,
+					id: 2s
+				}]
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "474935fd",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

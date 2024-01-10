@@ -1,0 +1,27 @@
+{
+	title: "Создайте Мифминитовую косу",
+	x: 9.0d,
+	y: -8.0d,
+	description: "Уже почти максимум",
+	dependencies: [
+		"efe32993",
+		"fefc5eb1"
+	],
+	tasks: [{
+		uid: "ccdabbca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:mithminite_scythe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "76070895",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

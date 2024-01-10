@@ -1,0 +1,22 @@
+{
+	x: -1.5d,
+	y: -5.0d,
+	can_repeat: true,
+	dependencies: [
+		"7e353549"
+	],
+	optional: true,
+	tasks: [{
+		uid: "dc038b20",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "02e100cb",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

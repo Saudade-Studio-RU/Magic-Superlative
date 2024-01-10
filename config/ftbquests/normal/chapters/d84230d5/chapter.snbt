@@ -1,0 +1,18 @@
+{
+	title: "Nature's Aura",
+	icon: "naturesaura:gold_leaf",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 9.5d,
+		y: -7.0d,
+		width: 20.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/nature_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

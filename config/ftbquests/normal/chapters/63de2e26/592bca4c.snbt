@@ -1,0 +1,22 @@
+{
+	icon: "twilightforest:trophy",
+	x: 5.0d,
+	y: 0.0d,
+	description: "Первый босс",
+	dependencies: [
+		"eb106e0c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6fec6bc0",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy"
+		}]
+	}],
+	rewards: [{
+		uid: "b66ae5bc",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

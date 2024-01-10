@@ -1,0 +1,21 @@
+{
+	title: "Длительный поглотитель",
+	x: 10.0d,
+	y: 3.5d,
+	description: "Аура за зелья",
+	dependencies: [
+		"956d9ae8"
+	],
+	tasks: [{
+		uid: "ac0929d5",
+		type: "item",
+		items: [{
+			item: "naturesaura:potion_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "8a6c0f22",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Создайте Линзу маны",
+	x: 12.5d,
+	y: 1.5d,
+	description: "Улучшение распространителей",
+	text: [
+		"Создаваемый предмет - лишь основа для будущих улучшений. Подробнее в лексиконе и JEI"
+	],
+	dependencies: [
+		"d5f03da1"
+	],
+	tasks: [{
+		uid: "2ee1bcce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lens",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5bd334a",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

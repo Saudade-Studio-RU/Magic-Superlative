@@ -1,0 +1,30 @@
+{
+	title: "Создайте Тёмный резервуар",
+	x: 0.0d,
+	y: -3.0d,
+	description: "Хранилище крови",
+	dependencies: [
+		"780bfeac"
+	],
+	hide: true,
+	tasks: [{
+		uid: "54bdf7aa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:dark_tank",
+			tag: {
+				capacity: 16000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "92d9e30b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

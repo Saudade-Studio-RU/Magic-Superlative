@@ -1,0 +1,30 @@
+{
+	title: "Создайте Сапоги Странника",
+	x: -2.0d,
+	y: 3.0d,
+	description: "Всегда целы",
+	dependencies: [
+		"83b8917a",
+		"8d031da0"
+	],
+	tasks: [{
+		uid: "0e4053db",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:void_boots",
+			tag: {
+				color: 6961280
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "91141288",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

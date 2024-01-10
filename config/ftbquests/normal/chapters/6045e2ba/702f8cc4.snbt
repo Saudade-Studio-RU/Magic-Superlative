@@ -1,0 +1,35 @@
+{
+	title: "Палочка мира Ботании",
+	x: 7.0d,
+	y: 0.0d,
+	description: "Функции из листьев!",
+	dependencies: [
+		"8302e288"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d9956a02",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:twigwand",
+			tag: {
+				color1: 0,
+				color2: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bfde16ba",
+		type: "item",
+		item: "ftbquests:screen"
+	},
+	{
+		uid: "2f18b0bf",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

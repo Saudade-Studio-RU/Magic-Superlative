@@ -1,0 +1,23 @@
+{
+	title: "Кристалл демонической энергии x3",
+	x: 0.5d,
+	y: -5.0d,
+	can_repeat: true,
+	dependencies: [
+		"7e353549"
+	],
+	optional: true,
+	tasks: [{
+		uid: "1e8ce221",
+		type: "item",
+		items: [{
+			item: "bloodmagic:item_demon_crystal"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "1c2fbb6f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,43 @@
+{
+	title: "Создайте Кровавое зелье",
+	x: 3.0d,
+	y: -6.0d,
+	description: "Сила вампира в крови человека",
+	dependencies: [
+		"3a340acf"
+	],
+	tasks: [{
+		uid: "82d34cc6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "vampirism:blood_potion",
+			tag: {
+				ident_seed: 1149113140,
+				effects: {
+					"vampirism:shortNausea": {
+						duration: 373,
+						amplifier: 0
+					},
+					"vampirism:invisibility": {
+						duration: 5151,
+						amplifier: 0
+					},
+					"vampirism:speed": {
+						duration: 5157,
+						amplifier: 0
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ee02e278",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

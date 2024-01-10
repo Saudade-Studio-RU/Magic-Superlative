@@ -1,0 +1,22 @@
+{
+	title: "Ускорение всех рун для Алтаря",
+	x: 5.5d,
+	y: 5.5d,
+	description: "Нет времени ждать",
+	dependencies: [
+		"0cb6218c",
+		"2c96f981"
+	],
+	tasks: [{
+		uid: "34da9913",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune 1 9"
+		}]
+	}],
+	rewards: [{
+		uid: "f88b653f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Автоматизация эссенции",
+	x: -7.0d,
+	y: -13.0d,
+	description: "Принципы наполнения",
+	dependencies: [
+		"7fa45b47"
+	],
+	tasks: [{
+		uid: "08fce5d3",
+		type: "item",
+		items: [{
+			item: "thaumcraft:essentia_input"
+		}]
+	},
+	{
+		uid: "77c8ae26",
+		type: "item",
+		items: [{
+			item: "thaumcraft:essentia_output"
+		}]
+	}],
+	rewards: [{
+		uid: "bcdbbdbf",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

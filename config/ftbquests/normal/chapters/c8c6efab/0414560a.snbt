@@ -1,0 +1,35 @@
+{
+	title: "Золотой слиток x24",
+	x: -2.0d,
+	y: 5.0d,
+	can_repeat: true,
+	dependencies: [
+		"8a66a83f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "df5de14c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotGold",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotGold"
+				}
+			}
+		}],
+		count: 24L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "5b7a7e4f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

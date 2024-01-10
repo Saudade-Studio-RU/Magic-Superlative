@@ -1,0 +1,43 @@
+{
+	title: "Наполнение маной в действии",
+	x: 11.0d,
+	y: 0.0d,
+	description: "Преобразование маны!",
+	dependencies: [
+		"a712fc39"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ef4c3067",
+		type: "item",
+		items: [{
+			item: "botania:manaresource"
+		}]
+	},
+	{
+		uid: "4583fcd1",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 2"
+		}]
+	},
+	{
+		uid: "ff0e9194",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 23"
+		}]
+	},
+	{
+		uid: "b69de2eb",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "c112322e",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

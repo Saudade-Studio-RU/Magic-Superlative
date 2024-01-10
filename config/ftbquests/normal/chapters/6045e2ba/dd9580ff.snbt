@@ -1,0 +1,29 @@
+{
+	x: 18.5d,
+	y: -1.0d,
+	description: "Кирка, ломающая мир...",
+	dependencies: [
+		"6e4f3bda",
+		"5fb68e2c"
+	],
+	tasks: [{
+		uid: "2cf93838",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:terrapick",
+			tag: {
+				mana: 9999
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "774b1436",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Создайте Карту Сумеречного леса",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Вещь, необходимая каждому",
+	dependencies: [
+		"1501b2b0",
+		"109742bd",
+		"85d3912c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "dbfd760c",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_map_empty"
+		}]
+	}],
+	rewards: [{
+		uid: "4105b972",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

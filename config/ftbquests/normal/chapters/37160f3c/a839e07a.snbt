@@ -1,0 +1,27 @@
+{
+	title: "Создайте Кольцо лёгкости",
+	x: 7.0d,
+	y: -3.0d,
+	description: "Да, снова, опять, ещё раз",
+	dependencies: [
+		"474115b4",
+		"45c10ab2"
+	],
+	tasks: [{
+		uid: "74e3b2f3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "evilcraft:effortless_ring"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9c0928e9",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

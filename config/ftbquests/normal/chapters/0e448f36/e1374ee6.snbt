@@ -1,0 +1,22 @@
+{
+	title: "Получите Клык Вампира",
+	x: 3.0d,
+	y: 2.0d,
+	description: "Уничтожая нечисть",
+	dependencies: [
+		"7b6869b0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "54e866ab",
+		type: "item",
+		items: [{
+			item: "vampirism:vampire_fang"
+		}]
+	}],
+	rewards: [{
+		uid: "2846c4c4",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

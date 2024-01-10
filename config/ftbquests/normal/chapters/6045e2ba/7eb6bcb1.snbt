@@ -1,0 +1,29 @@
+{
+	x: 6.0d,
+	y: -4.0d,
+	description: "Мана из камня и руд",
+	dependencies: [
+		"840cc22e"
+	],
+	tasks: [{
+		uid: "0ff75ae0",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "stonesia"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "8e6b3e26",
+		type: "item",
+		item: "minecraft:lapis_ore",
+		count: 32
+	},
+	{
+		uid: "93b41fa5",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

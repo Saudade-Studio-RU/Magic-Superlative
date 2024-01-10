@@ -1,0 +1,17 @@
+type = customizablemenus
+
+com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu {
+}
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+
+net.minecraft.client.gui.GuiWorldSelection {
+}
+
+net.minecraft.client.gui.GuiMultiplayer {
+}
+
+net.minecraft.client.gui.GuiOptions {
+}
+

@@ -1,0 +1,25 @@
+{
+	title: "Победите босса и найдите Потеряные свитки",
+	x: 6.0d,
+	y: -7.0d,
+	description: "Записи старых тауматургов. Что за вис-узлы?",
+	dependencies: [
+		"59fe4df3"
+	],
+	tasks: [{
+		uid: "fe99d20c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:research_notes"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3e21b8f1",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

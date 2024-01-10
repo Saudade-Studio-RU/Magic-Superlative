@@ -1,0 +1,29 @@
+{
+	title: "Начните изучать Вампиризм",
+	x: -1.5d,
+	y: 5.0d,
+	description: "Станьте Вампиров или охотником на них",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "7ca1874f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "guideapi:vampirism-guide",
+			tag: {
+				G-API_Category_Page: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8723024a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

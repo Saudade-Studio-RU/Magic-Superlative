@@ -1,0 +1,33 @@
+{
+	x: 7.5d,
+	y: -1.5d,
+	description: "Начало ритуала",
+	dependencies: [
+		"d8f0bbf7"
+	],
+	tasks: [{
+		uid: "a091ab15",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:activation_crystal",
+			tag: {
+				binding: {
+					name: "ShadowKing21228",
+					id: {
+						L: -8180240267111859189L,
+						M: -3319811669840801797L
+					}
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "44bb2ca9",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

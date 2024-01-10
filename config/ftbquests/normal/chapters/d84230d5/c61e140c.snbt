@@ -1,0 +1,21 @@
+{
+	title: "Создайте Уменьшитель навеса",
+	x: 13.0d,
+	y: 3.5d,
+	description: "Аура за большие деревья",
+	dependencies: [
+		"956d9ae8"
+	],
+	tasks: [{
+		uid: "d7a1ba1a",
+		type: "item",
+		items: [{
+			item: "naturesaura:oak_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "aeeaa30b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

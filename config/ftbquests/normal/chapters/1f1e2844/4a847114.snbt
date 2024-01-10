@@ -1,0 +1,24 @@
+{
+	title: "Создайте Адскую кузницу",
+	x: 26.0d,
+	y: -2.0d,
+	description: "Закалка вашего снаряжения",
+	text: [
+		"Для того что бы запитать Печь, подключите принимающий Эмбер блок ровно СНИЗУ ПОД печью"
+	],
+	dependencies: [
+		"1c4a1d4e"
+	],
+	tasks: [{
+		uid: "56f9b0d3",
+		type: "item",
+		items: [{
+			item: "embers:inferno_forge"
+		}]
+	}],
+	rewards: [{
+		uid: "29bd52e3",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

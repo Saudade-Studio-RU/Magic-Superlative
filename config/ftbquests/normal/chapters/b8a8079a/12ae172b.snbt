@@ -1,0 +1,30 @@
+{
+	title: "Эволюция линз 2 ",
+	x: -2.0d,
+	y: 10.0d,
+	shape: "square",
+	description: "Продолжение!",
+	text: [
+		"Палочку Пехта просканируйте таумометром и потратьте в Таумономиконе"
+	],
+	dependencies: [
+		"15e82599"
+	],
+	tasks: [{
+		uid: "9c6e8a74",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:focus_3"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "87356250",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

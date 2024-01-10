@@ -1,0 +1,21 @@
+{
+	title: "Создайте Катализатор крошения",
+	x: 10.0d,
+	y: -2.0d,
+	description: "Дробление предметов в ауре",
+	dependencies: [
+		"fff2d88e"
+	],
+	tasks: [{
+		uid: "dc144f14",
+		type: "item",
+		items: [{
+			item: "naturesaura:crushing_catalyst"
+		}]
+	}],
+	rewards: [{
+		uid: "5a3f4810",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

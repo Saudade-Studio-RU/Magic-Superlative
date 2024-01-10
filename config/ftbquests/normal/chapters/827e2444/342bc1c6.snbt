@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	text: [
+		"Должен сказать, Mahou Tsukai - мод без прогрессии, так что... можете выполнять что угодно в любом порядке"
+	],
+	dependencies: [
+		"f2aeae6a"
+	],
+	tasks: [{
+		uid: "2390571d",
+		type: "checkmark",
+		title: "Добро пожаловать в Mahou Tsukai!",
+		icon: "mahoutsukai:guidebook"
+	}]
+}

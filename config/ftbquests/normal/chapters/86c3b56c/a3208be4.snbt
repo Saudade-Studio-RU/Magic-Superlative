@@ -1,0 +1,28 @@
+{
+	title: "Создайте Посох Расщепления из Омотула",
+	x: 31.0d,
+	y: 2.0d,
+	description: "Тьма поглощает тьму",
+	dependencies: [
+		"e7647760",
+		"64eda538"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2c59429f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "abyssalcraft:drainstaff",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "36e0ebba",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

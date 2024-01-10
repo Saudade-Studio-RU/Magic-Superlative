@@ -1,0 +1,25 @@
+{
+	x: -6.0d,
+	y: 0.0d,
+	description: "Это точно просто пояс?",
+	dependencies: [
+		"7dde747b"
+	],
+	tasks: [{
+		uid: "72457ad1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:meteor_belt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0ff0d3a3",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}
