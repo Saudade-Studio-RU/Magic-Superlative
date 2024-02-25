@@ -1,0 +1,27 @@
+{
+  "name": "Испорченная Роба",
+  "category": "demonic_gear",
+  "icon": "bewitchment:besmirched_hat",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Обновление обычных одежд ведьмы, созданное путем сшивания окровавленной и почерневшей ткани, золотой нити и дьявольских жил, на обычную одежду ведьмы. При ношении демоны менее склонны нападать, и это дает толчок к более темным формам магии, таким как проклятия."
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:besmirched_hat"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:besmirched_hood"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:besmirched_robes"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:besmirched_pants"
+	}
+  ]
+}

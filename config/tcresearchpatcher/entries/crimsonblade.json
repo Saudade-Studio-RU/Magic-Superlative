@@ -15,7 +15,7 @@
         },
         {
           "text": "research.CRIMSONBLADE.text.stage.2",
-          "recipes": [ "thaumcraft:crimson_blade" ],
+          "recipes": [ "thaumcraft:CrimsonBlade" ],
           "warp": 3
         }
       ]

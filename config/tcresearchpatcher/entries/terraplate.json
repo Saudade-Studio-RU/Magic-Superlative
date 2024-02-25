@@ -14,7 +14,7 @@
         },
         {
           "text": "research.TERRAPLATE.text.stage.2",
-          "recipes": [ "botania:terraplate" ]
+          "recipes": [ "thaumcraft:Terraplatehard" ]
         }
       ]
     }

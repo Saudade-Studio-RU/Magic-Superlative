@@ -1,0 +1,21 @@
+{
+  "name": "Дьявольская Жила И Сангвиническая Ткань",
+  "category": "demonic_gear",
+  "icon": "bewitchment:sanguine_cloth",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Когда шерсть черной овцы омывается кровью жертвы, создается Сангвиническая ткань. Эта ткань используется в создании как испорченных одежд, наряду с предпочтительным одеянием детей Лилит, наряду с реагентом в некоторых ритуалах. Считается также, что именно из этого материала демоны делают свои одежды."
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:sanguine_cloth",
+	  "text": "$(o)Пропитанная кровью ткань~"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:diabolical_vein",
+	  "text": "$(o)Очень кровавая"
+	}
+  ]
+}

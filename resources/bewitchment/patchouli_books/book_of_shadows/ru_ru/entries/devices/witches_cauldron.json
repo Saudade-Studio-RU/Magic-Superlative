@@ -1,0 +1,368 @@
+{
+  "name": "Ведьмин котел",
+  "category": "devices",
+  "icon": "bewitchment:witches_cauldron",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Используется чаще всего для создания продвинутых сортов варева, с которыми обычные варочные стенды просто не могут сравниться. Некоторые другие элементы могут быть сварены и объединены в котле, чтобы создать новые. Котлы требуют магической энергии и для работы под ними нужен огонь. В любой момент в котел можно бросить древесную золу, чтобы очистить его."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:witches_cauldron"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:filled_goblet",
+	  "text": "Наполненный этой магической смесью, Кубок придаст больше силы алтарям, а также испустит сигнал красного камня."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:embergrass",
+	  "text": "Алхимически созданное растение. Он испускает горящий пепел, который воспламеняет тех, кто прикасается к нему. Это растение также будет распространяться, что делает его отличным для обороны базы."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:torchwood",
+	  "text": "Алхимически созданное растение. Он излучает свет от лампочки на конце своего древесного стебля. Как и естественные растения, факельное дерево распространяется."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:tallow",
+	  "text": "Вареный жир мертвецов. Используется для свечей и многое другое."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:slimeball",
+	  "text": "Липкий."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:iron_gall_ink",
+	  "text": "Безжалостная замена чернильных мешочков. Некоторые утверждают, что это жизненно важно для создания демонических контрактов…"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:catechu_brown",
+	  "text": "Древесная альтернатива какао-бобам для получения коричневого красителя."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:banner_pattern_removal",
+	  "text": "Более обыденное использование котла-это очистка от краски знамен."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:flower_siphoning_poppy",
+	  "text": "Хотя он выглядит как любой другой невинный цветок, созданный алхимиками сифонный цветок покрыт крошечными шипами и колючками и возьмет образец крови у тех, кто прикоснется к нему."
+	},
+	{
+	  "type": "text",
+	  "text": "Этот образец можно собрать, используя Болин на цветке, в то время как пустая закрытая бирка удерживается в навскидку. Этот рецепт применим ко всем цветкам ванили."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:blue_ink_cap",
+	  "text": "Алхимически созданный гриб. Этот гриб производит богатый синий пигмент в своей желатиновой Глебе, что позволяет использовать его в качестве замены синего красителя."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:frostflower",
+	  "text": "Несмотря на кажущееся живым противоречие, жидкости этого алхимически созданного цветка замерзают при контакте с воздухом и могут быть превращены в снежный ком."
+	},
+	{
+	  "type": "text",
+	  "title": "Телепортация",
+	  "text": "Котел с размерным песком, брошенным в него, позволяет пользователю, стоящему внутри, телепортироваться к другим котлам, которые были названы через тег имени, произнося свое имя в чате."
+	},
+	{
+	  "type": "text",
+	  "title": "Удаление",
+	  "text": "Котел, содержащий лаву, уничтожит любой предмет, брошенный в него, а также подожжет любое живое существо, если оно окажется в нем."
+	},
+	{
+	  "type": "text",
+	  "title": "Варка",
+	  "text": "Для того, чтобы обозначить котловое дурачество как варево, корень мандрагоры должен быть брошен в первую очередь перед любыми другими реагентами. После этого добавьте другие реагенты, которые вы хотите, однако чем больше вы добавите, тем дороже будет варево, мне кажется.."
+	},
+	{
+	  "type": "text",
+	  "text": "В том числе Редстоун увеличит продолжительность варки, до определенного количества. Светящийся камень оказывает такое же воздействие на потенцию, и перо ворона будет препятствовать появлению частиц. Порох также может быть брошен, чтобы создать взрывное варево, и если крыло совенка брошено также, это становится затяжным варевом."
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:instant_health",
+	  "text": "Исцеляет цель, если она жива, или повреждает ее, если нежить"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:instant_damage",
+	  "text": "Повреждает цель, если она жива, или исцеляет ее, если нежить"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:regeneration",
+	  "text": "Дает регенерацию, если цель жива, не делает ничего другого."
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:poison",
+	  "text": "Отравляет цель, если она жива, не делает ничего другого."
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:wither",
+	  "text": "Похоже на яд, но способно убивать, а также наносить урон нежити"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:night_vision",
+	  "text": "Позволяет цели ясно видеть в условиях низкой освещенности. Глаз старого даст это вдобавок к Водному дыханию"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:blindness",
+	  "text": "Затемняет зрение цели, и предотвращает их от спринта"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:strength",
+	  "text": "Усиливает оружие цели, позволяя им наносить больший урон в ближнем бою. "
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:weakness",
+	  "text": "Ослабляет оружие цели, заставляя его наносить меньше урона в ближнем бою. "
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:resistance",
+	  "text": "Укрепляет кожу объекта для получения меньшего урона от немагических источников"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:fire_resistance",
+	  "text": "Дает цели иммунитет к огню и лаве"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:absorption",
+	  "text": "Дает временное повышение здоровья"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:jump_boost",
+	  "text": "Укрепляет ноги цели, позволяя ей прыгать выше"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:speed",
+	  "text": "Укрепляет ноги цели, позволяя ей двигаться быстрее"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:slowness",
+	  "text": "Ослабляет ноги цели, заставляя ей двигаться медленнее"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:haste",
+	  "text": "Усиливает руки цели, позволяя ей добывать и атаковать быстрее"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:mining_fatigue",
+	  "text": "Ослабляет руки цели, заставляя ее добывать и атаковать медленнее"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:luck",
+	  "text": "Дает цели больше шансов на получение хорошего лута"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:unluck",
+	  "text": "Дает цели худший шанс получить хороший лут"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:water_breathing",
+	  "text": "Вызывает цель вырастить временный набор жабр, позволяя им дышать при погружении в жидкость. Глаз Старого даст это в дополнение к Ночному Видению"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:invisibility",
+	  "text": "Заставляет весь свет проходить через цель, делая их невидимыми. Однако не распространяется на броню и удерживаемые предметы цели"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:hunger",
+	  "text": "Заставляет цель слишком много думать о своем следующем приеме пищи"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:nausea",
+	  "text": "Дезориентирует цель"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:glowing",
+	  "text": "Заставляет цель светиться"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:levitation",
+	  "text": "Медленно поднимает цель в воздух"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:absence",
+	  "text": "Очищает цель от всех эффектов зелья"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:purification",
+	  "text": "Очищает цель от негативных эффектов зелья"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:corruption",
+	  "text": "Очищает цель от положительных эффектов зелья"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:magic_resistance",
+	  "text": "Позволяет цели получать меньше урона от магических источников"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:magic_weakness",
+	  "text": "Заставляет цель получать больше урона от магических источников"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:hellworld",
+	  "text": "Преобразует окружающую местность в ландшафт, похожий на преисподнюю, и устанавливает некоторые из земель и всех объектов, достаточно несчастных, чтобы быть пораженными всплеском огня."
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:iceworld",
+	  "text": "Превращает окружающую местность в зимнюю страну чудес и тушит пожары как на земле, так и на объектах. Вечный лед, форма льда, которая не тает, может появиться, и может быть обработан в озлобленные кирпичи, подобные каменным кирпичам"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:rubedo",
+	  "text": "Преобразует песок и цветные блоки в их красный аналог"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:citrinitas",
+	  "text": "Преобразует красный песок и цветные блоки в их желтый аналог"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:desertification",
+	  "text": "Превращает различные растения в их пустынный аналог"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:fertility",
+	  "text": "Заставляет растения расти и животных размножаться"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:harvest",
+	  "text": "Мгновенно собирает и пересаживает семена и может заставить листья сбросить яблоки и вызвать рост тыквы"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:spore_cloud",
+	  "text": "Вызывает рост грибов, мицелия, папоротников и мха. Я надеюсь, что у вас нет аллергии..."
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:blight",
+	  "text": "Убивает растения и посевы и ослабляет живых существ"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:ruin",
+	  "text": "Вызывает распад или разрушение различных блоков"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:pesticide",
+	  "text": "Повреждает членистоногих"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:arachnophobia",
+	  "text": "Заворачивает мишень в паутину и призывает голодных пауков напасть на них"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:mending",
+	  "text": "Превратите грязь и мицелий в траву и вылечите жителей зомби"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:holy_water",
+	  "text": "Рядом только Святая ручная граната! Наносит урон нечестивым существам, таким как нежить или демоны"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:wolfsbane",
+	  "text": "Повреждает волков и других собак"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:deviants_decomposure",
+	  "text": "Наносит ущерб изгоям общества, таким как иллагеры или ведьмы. Не влияет на охотников на ведьм"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:sleeping",
+	  "text": "Ослепляет и замедляет цель, и может убить ее, если она находится на достаточно низком уровне здоровья"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:volatility",
+	  "text": "KABOOM. Взрывается при получении урона. Не влияет на блоки"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:grace",
+	  "text": "Приводит к тому, что цель получает меньше урона от падения."
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:shell_armor",
+	  "text": "Наносит урон тем, кто атакует цель"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:deflection",
+	  "text": "Тинг! Отражает стрелы и другие снаряды в сторону от цели"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:revealing",
+	  "text": "Очищает невидимость от пораженных объектов"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:disrobing",
+	  "text": "Снимает броню и безделушки с цели"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:sinking",
+	  "text": "Прыгать становится все труднее, вплоть до предотвращения прыжков при более сильных потенциях."
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:cursed_leaps",
+	  "text": "Подбрасывает мишень в воздух, делая их неспособными действовать, а затем получать урон от падения."
+	}
+  ]
+}

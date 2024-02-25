@@ -1,0 +1,12 @@
+{
+  "name": "Кукла истощения",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_wasting",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_wasting",
+	  "text": "Вызывает голод у того, кто нападает на владельца этой куколки"
+	}
+  ]
+}

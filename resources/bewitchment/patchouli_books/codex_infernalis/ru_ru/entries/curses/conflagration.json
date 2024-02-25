@@ -1,0 +1,12 @@
+{
+  "name": "Возгорание",
+  "category": "curses",
+  "icon": "bewitchment:bottled_hellfire",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:conflagration",
+	  "text": "Адские огни лижут цель, ослабляя ее сопротивление жару и пламени. Каждое пламя-это пожирающий костер."
+	}
+  ]
+}

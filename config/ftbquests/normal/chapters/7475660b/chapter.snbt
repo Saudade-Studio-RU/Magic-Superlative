@@ -1,0 +1,12 @@
+{
+	title: "Bewitchment",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "bewitchment:poppet_voodoo"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

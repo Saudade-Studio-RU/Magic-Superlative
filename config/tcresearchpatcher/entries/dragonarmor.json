@@ -14,7 +14,39 @@
           "required_knowledge": [ "THEORY;ARTIFICE;1", "THEORY;INFUSION;1", "OBSERVATION;ARTIFICE;5", "OBSERVATION;INFUSION;5", "OBSERVATION;SUPERLATIVE;5" ]
         },
         {
-          "text": "research.DRAGONARMOR.text.stage.2"
+          "text": "research.DRAGONARMOR.text.stage.2",
+          "recipes": [ "thaumcraft:dragonarmor0", 
+          "thaumcraft:dragonarmor1", 
+          "thaumcraft:dragonarmor2", 
+          "thaumcraft:dragonarmor3", 
+          "thaumcraft:dragonarmor4", 
+          "thaumcraft:dragonarmor5", 
+          "thaumcraft:dragonarmor6", 
+          "thaumcraft:dragonarmor7", 
+          "thaumcraft:dragonarmor8", 
+          "thaumcraft:dragonarmor9", 
+          "thaumcraft:dragonarmor10",
+          "thaumcraft:dragonarmor11",
+          "thaumcraft:dragonarmor12",
+          "thaumcraft:dragonarmor13",
+          "thaumcraft:dragonarmor14",
+          "thaumcraft:dragonarmor15",
+          "thaumcraft:dragonarmor16",
+          "thaumcraft:dragonarmor17",
+          "thaumcraft:dragonarmor18",
+          "thaumcraft:dragonarmor19",
+          "thaumcraft:dragonarmor20",
+          "thaumcraft:dragonarmor21",
+          "thaumcraft:dragonarmor22",
+          "thaumcraft:dragonarmor23",
+          "thaumcraft:dragonarmor24",
+          "thaumcraft:dragonarmor25",
+          "thaumcraft:dragonarmor26",
+          "thaumcraft:dragonarmor27",
+          "thaumcraft:dragonarmor28",
+          "thaumcraft:dragonarmor29",
+          "thaumcraft:dragonarmor30",
+          "thaumcraft:dragonarmor31" ]
         }
       ]
     }

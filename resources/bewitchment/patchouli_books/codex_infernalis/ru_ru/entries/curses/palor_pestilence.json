@@ -1,0 +1,12 @@
+{
+  "name": "Чума Палор",
+  "category": "curses",
+  "icon": "minecraft:skull",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:palor_pestilence",
+	  "text": "Наносит цели болезненное, магическое заболевание, постоянно пожирая здоровье, пока цель не умрет или не очистится."
+	}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Древнее дерево",
+    "icon": "naturesaura:ancient_leaves",
+    "category": "creating",
+    "advancement": "naturesaura:wood_stand",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Основным способом пополнения §2Ауры§r в области являются $(item)Древние деревья$(). Как только $(item)Древний Саженец$() будет создан и посажен, он будет расти как обычное дерево, за исключением его листьев которые начнут медленно возвращать уровень §2Ауры§r к нормальному состоянию.$(br)Однако дереву во время этого процесса будет не очень сладко: поскольку его листья"
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "text": "С §2Аурой§r начинают отмирать, оставляя дерево голым, пока не отомрут полностью. Создать $(item)Древний саженец$() можно используя $(l:practices/tree_ritual)Ритуал леса$()",
+            "recipe": "naturesaura:ancient_sapling"
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:ancient_planks",
+            "recipe2": "naturesaura:ancient_stick"
+        }
+    ]
+}

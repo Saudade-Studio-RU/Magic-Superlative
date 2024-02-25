@@ -1,0 +1,39 @@
+{
+	title: "Создайте Любой Эфировый арбалет",
+	x: 12.0d,
+	y: 2.0d,
+	dependencies: [
+		"906ba836"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "4c821032",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aetherworks:item_crossbow_magma"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f9dbf4a5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aetherworks:item_crossbow_quartz"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f7d0dea6",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

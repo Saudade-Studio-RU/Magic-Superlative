@@ -15,7 +15,7 @@
         },
         {
           "text": "research.IMMOLATIONBLADE.text.stage.2",
-          "recipes": [ "witherskelefix:blade2" ],
+          "recipes": [ "thaumcraft:HeadBlade" ],
           "warp": 10
         }
       ]

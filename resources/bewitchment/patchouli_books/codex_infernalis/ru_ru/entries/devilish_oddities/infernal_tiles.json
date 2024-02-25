@@ -1,0 +1,182 @@
+{
+  "name": "Адские Плитки",
+  "category": "devilish_oddities",
+  "icon": "bewitchment:nethersteel",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Помимо носимой одежды, есть также много блоков и других подобных предметов, связанных с демонами."
+	},
+	{
+	  "type": "empty",
+	  "draw_filler": false
+	},
+	{
+	  "type": "text",
+	  "title": "Незер-сталь",
+	  "text": "Странный полуметаллический материал. Он кажется теплым, почти как живой ... этот материал тоже... капризно быть сформированным в инструменты, но часто может быть сформировано в декоративные блоки и идолы. Это также имеет решающее значение в создании многих демонических безделушек. Эта сомнительная субстанция создается следующим образом:"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:nethersteel"
+	},
+	{
+	  "type": "text",
+	  "title": "Презренные Кирпичи",
+	  "text": "Независимо от климата, этот красноватый сланцевый камень всегда холоден, как ночь. Если вы приложите к нему ухо, то можете поклясться, что слышите крики и вопли ... этот материал, как полагают, используется демонами для строительства своих великих дворцов, скрытых за углами времени, и может быть создан с помощью адского варева на озлобленных кирпичах, а также следующим образом:"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:scorned_bricks"
+	},
+	{
+	  "type": "text",
+	  "title": "Отчаянные Кирпичи",
+	  "text": "Иногда эти отчаянные кирпичи встречаются в пустошах многих адов и часто ассоциируются с адскими Пустошами, где ни одна душа не получает никакого тепла от любого света и, таким образом, гниет вечно. Структуры, которые усеивают эти ландшафты, как полагают, были сделаны давно ушедшими демонами, и все же их рецепт таков, как есть:"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:despair_bricks"
+	},
+	{
+	  "type": "text",
+	  "title": "Статуи",
+	  "text": "Статуи - это большие фигуры главных демонов. Их можно разместить вокруг, они дарят благосклонность, а иногда и благосклонность самого демона."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Леонард",
+	  "recipe": "bewitchment:stone_leonard_statue",
+	  "recipe2": "bewitchment:gold_leonard_statue"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Леонард",
+	  "recipe": "bewitchment:nether_brick_leonard_statue",
+	  "recipe2": "bewitchment:scorned_brick_leonard_statue",
+	  "text": "Леонард известен как Король Ведьм."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Бафомет",
+	  "recipe": "bewitchment:stone_baphomet_statue",
+	  "recipe2": "bewitchment:gold_baphomet_statue"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Бафомет",
+	  "recipe": "bewitchment:nether_brick_baphomet_statue",
+	  "recipe2": "bewitchment:scorned_brick_baphomet_statue",
+	  "text": "Остерегайтесь тамплиеров и их козлиного идолопоклонства."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Лилит",
+	  "recipe": "bewitchment:stone_lilith_statue",
+	  "recipe2": "bewitchment:gold_lilith_statue"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Лилит",
+	  "recipe": "bewitchment:nether_brick_lilith_statue",
+	  "recipe2": "bewitchment:scorned_brick_lilith_statue",
+	  "text": "Владычица ночи питаеющаяся кровью людей."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Херн",
+	  "recipe": "bewitchment:stone_herne_statue",
+	  "recipe2": "bewitchment:gold_herne_statue"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Херн",
+	  "recipe": "bewitchment:nether_brick_herne_statue",
+	  "recipe2": "bewitchment:scorned_brick_herne_statue",
+	  "text": "Охотник Орион верит, что может охотиться на всех."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Moлох",
+	  "recipe": "bewitchment:stone_moloch_statue",
+	  "recipe2": "bewitchment:gold_moloch_statue"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Moлох",
+	  "recipe": "bewitchment:nether_brick_moloch_statue",
+	  "recipe2": "bewitchment:scorned_brick_moloch_statue",
+	  "text": "Молох пожирает все на виду."
+	},
+	{
+	  "type": "text",
+	  "title": "Идолы",
+	  "text": "Идолы - это маленькие чучела демона, часто помещаемые на алтари добровольными демонолаторами, которые поклоняются этим адским существам."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Леонард",
+	  "recipe": "bewitchment:stone_leonard_idol",
+	  "recipe2": "bewitchment:gold_leonard_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Леонард",
+	  "recipe": "bewitchment:nether_brick_leonard_idol",
+	  "recipe2": "bewitchment:scorned_brick_leonard_idol",
+	  "text": "Леонард известен как Король Ведьм."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Бафомет",
+	  "recipe": "bewitchment:stone_baphomet_idol",
+	  "recipe2": "bewitchment:gold_baphomet_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Бафомет",
+	  "recipe": "bewitchment:nether_brick_baphomet_idol",
+	  "recipe2": "bewitchment:scorned_brick_baphomet_idol",
+	  "text": "Остерегайтесь тамплиеров и их козлиного идолопоклонства."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Лилит",
+	  "recipe": "bewitchment:stone_lilith_idol",
+	  "recipe2": "bewitchment:gold_lilith_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Лилит",
+	  "recipe": "bewitchment:nether_brick_lilith_idol",
+	  "recipe2": "bewitchment:scorned_brick_lilith_idol",
+	  "text": "Владычица ночи питаеющаяся кровью людей."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Херн",
+	  "recipe": "bewitchment:stone_herne_idol",
+	  "recipe2": "bewitchment:gold_herne_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Херн",
+	  "recipe": "bewitchment:nether_brick_herne_idol",
+	  "recipe2": "bewitchment:scorned_brick_herne_idol",
+	  "text": "Охотник Орион верит, что может охотиться на всех."
+	},
+	{
+	  "type": "crafting",
+	  "title": "Moлох",
+	  "recipe": "bewitchment:stone_moloch_idol",
+	  "recipe2": "bewitchment:gold_moloch_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Moлох",
+	  "recipe": "bewitchment:nether_brick_moloch_idol",
+	  "recipe2": "bewitchment:scorned_brick_moloch_idol",
+	  "text": "Молох пожирает все на виду."
+	}
+  ]
+}

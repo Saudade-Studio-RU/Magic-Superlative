@@ -1,0 +1,16 @@
+{
+  "name": "Тесак-Лезвие",
+  "category": "demonic_gear",
+  "icon": "bewitchment:cleaver_sword",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Меч, сделанный из неизвестного металла, часто используется детьми Золотого Тельца. Чтобы получить его, нужно в первую очередь превзойти такое существо."
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:cleaver_sword",
+	  "text": "A fiercesome blade, that's for sure."
+	}
+  ]
+}

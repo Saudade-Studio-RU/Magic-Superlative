@@ -1,0 +1,12 @@
+{
+  "name": "Кукла защиты от смерти",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_deathprotection",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_deathprotection",
+	  "text": "Помогает обмануть смерть, только один раз"
+	}
+  ]
+}

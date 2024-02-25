@@ -1,0 +1,21 @@
+{
+	title: "Создайте Прялку",
+	x: 4.5d,
+	y: 3.0d,
+	description: "Обработка ткани и не только",
+	dependencies: [
+		"a596851a"
+	],
+	tasks: [{
+		uid: "33902d90",
+		type: "item",
+		items: [{
+			item: "bewitchment:spinning_wheel"
+		}]
+	}],
+	rewards: [{
+		uid: "c4ded30e",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

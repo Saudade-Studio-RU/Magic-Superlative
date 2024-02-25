@@ -1,0 +1,74 @@
+{
+	title: "Создайте Структуру сбора Эфира",
+	x: 3.0d,
+	y: 1.0d,
+	description: "Буквально из космоса",
+	text: [
+		"Постройте Структуру (изображение ниже). В центре должен находится Жидкосный резервуар, а над ним 2 Эфирные опоры Призымы, на накоторых должна располагаться сама Эфирная призма.",
+		"Вокруг них, в форме плюса расположенны колонны из Архаического кирпича в 2 блока, затем Архаическая Кромка и Усилитель Лунного света, который должен быть направлен на Призму. В форме креста должны стоять такие же колонны, за исключением того, что там",
+		"всего один Архаический кирпич, а вместо Усилителя стоят Линзы Усиливающей Матрицы. Если всё сделано правильно,  на архаических кирпичах появятся голубые руны, а в полночь  Структура начнёт работать, генерируя в Жид. резервуару Необработанный Эфир."
+	],
+	dependencies: [
+		"f6cc8d2a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fa801419",
+		type: "item",
+		items: [{
+			item: "embers:block_tank"
+		}]
+	},
+	{
+		uid: "22915e5b",
+		type: "item",
+		items: [{
+			item: "aetherworks:prism_support"
+		}],
+		count: 2L
+	},
+	{
+		uid: "b8fab95b",
+		type: "item",
+		items: [{
+			item: "aetherworks:prism"
+		}]
+	},
+	{
+		uid: "06659216",
+		type: "item",
+		items: [{
+			item: "aetherworks:moonlight_amplifier"
+		}],
+		count: 4L
+	},
+	{
+		uid: "5414cfe2",
+		type: "item",
+		items: [{
+			item: "aetherworks:aether_prism_controller_matrix"
+		}],
+		count: 4L
+	},
+	{
+		uid: "f3173aef",
+		type: "item",
+		items: [{
+			item: "embers:archaic_edge"
+		}],
+		count: 8L
+	},
+	{
+		uid: "a024812e",
+		type: "item",
+		items: [{
+			item: "embers:archaic_bricks"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "b5b23e53",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	title: "Сделайте любую Эфировую кирку",
+	x: 12.0d,
+	y: -2.0d,
+	dependencies: [
+		"906ba836"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "ea7d24bf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aetherworks:item_pickaxe_aether"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "98ed52d4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aetherworks:item_pickaxe_ember"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d4e61e14",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

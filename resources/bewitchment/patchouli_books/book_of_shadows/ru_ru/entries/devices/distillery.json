@@ -1,0 +1,60 @@
+{
+  "name": "Дистиллятор",
+  "category": "devices",
+  "icon": "bewitchment:distillery",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Используется для получения более высокого уровня дыма, чем то, что может произвести только печь ведьмы. Некоторые другие соединения также могут быть созданы с помощью этого устройства. Дистиллятор требует магической энергии и должна использовать Пылающий порошок в качестве топлива."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:distillery"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:cleansing_balm",
+	  "text": "Мазь с очищающей силой"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:demonic_elixir",
+	  "text": "Мерзкая смесь, пропитанная сущностью демона."
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:fiery_unguent",
+	  "text": "Получите свои острые мемы здесь"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:bottled_frostfire",
+	  "text": "Странный анти-огонь, холодный на ощупь. Помещенный, он может расплавить железную руду в холодное железо, брошенное внутрь"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:oil_of_vitriol",
+	  "text": "Жестокая и горькая критика"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:swirl_of_depths",
+	  "text": "$(o)Это может быть своего рода гипнозом."
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:heaven_extract",
+	  "text": "С небес"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:stone_ichor",
+	  "text": "Земляная смесь"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:otherworld_tears",
+	  "text": "Если вы внимательно прислушаетесь, то услышите, как они плачут ~"
+	}
+  ]
+}

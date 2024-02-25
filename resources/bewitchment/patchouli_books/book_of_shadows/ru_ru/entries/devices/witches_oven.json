@@ -1,0 +1,90 @@
+{
+  "name": "Печь Ведмы",
+  "category": "devices",
+  "icon": "bewitchment:witches_oven",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Вероятно, первая машина, которую получит Начинающая ведьма, печь ведьм может сжигать определенные реагенты до специальных паров и может производить целый ряд вторичных продуктов. Если Ведьминой печи дать глиняные кувшины, она соберет произведенные испарения. Баночка нужна только в том случае, если на выходе образуется дым."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:witches_oven"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:oak_spirit",
+	  "text": "Один из самых жизненно важных экстрактов, приготовленный из любого вида дубового саженца."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:oak_spirit_alt"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:spruce_heart",
+	  "text": "Сущность еловых деревьев, и жизненно важное значение для прялки"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:birch_soul",
+	  "text": "Легкий и воздушный дым, исходящий от молодой березы"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:cloudy_oil",
+	  "text": "Обычное масло, получаемое при приготовлении мяса и трав, и часто используемое в качестве базового масла для более продвинутых паров."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:cloudy_oil_alt0"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:acacia_resin",
+	  "text": "Довольно трудно найти дым с большой силой исцеления."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:ebb_of_death",
+	  "text": "Вонючее масло, пахнущее смертью и разложением, добытое из кипариса."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:droplet_of_wisdom",
+	  "text": "Экстракт из бузины, который, как говорят, наполняет пользователя знаниями"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:liquid_witchcraft",
+	  "text": "Экстракт мандрагоры, который просто гудит магической энергией."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:essence_of_vitality",
+	  "text": "Живительный остаток, полученный из сожженных саженцев Тиса"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:ectoplasm",
+	  "text": "Кого ты позовешь?"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:ectoplasm_alt"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:dimensional_sand",
+	  "text": "Зелено-голубой материал, который вы можете почувствовать резонирующим с эфирной энергией, наряду с мощной связью с Эндером."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:dimensional_sand_alt0"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:dimensional_sand_alt1"
+	}
+  ]
+}

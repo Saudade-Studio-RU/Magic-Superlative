@@ -1,0 +1,15 @@
+{
+  "name": "Очищение",
+  "category": "rituals",
+  "icon": "bewitchment:purifying_earth",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Благословляет землю в версию, которая поражает нежить"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:purifying_earth"
+	}
+  ]
+}

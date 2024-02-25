@@ -1,0 +1,15 @@
+{
+  "name": "Зов дикой природы",
+  "category": "rituals",
+  "icon": "bewitchment:owlets_wing",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Вызовите несколько животных из диких мест."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:call_of_the_wild"
+	}
+  ]
+}

@@ -722,20 +722,85 @@
 			Damage: 1s
 		}],
 		consume_items: true
+	},
+	{
+		uid: "1ec85ec6",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "sol"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "d5c9e65a",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "luna"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "51cbca22",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "stellae"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "61497eb6",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "diabolus"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
+	},
+	{
+		uid: "d737ff86",
+		type: "item",
+		items: [{
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "comprehensio"
+				}]
+			},
+			Damage: 1s
+		}],
+		consume_items: true
 	}],
 	rewards: [{
 		uid: "40ca9e4d",
 		type: "ftbmoney:money",
 		ftb_money: 250L
-	},
-	{
-		uid: "886297da",
-		type: "item",
-		item: {
-			id: "ftbquests:lootcrate",
-			tag: {
-				type: "crate3"
-			}
-		}
 	}]
 }

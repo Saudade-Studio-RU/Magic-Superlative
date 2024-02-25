@@ -1,0 +1,21 @@
+{
+	title: "Создайте Перегонный куб",
+	x: 8.0d,
+	y: -1.5d,
+	description: "Создание жидких ведьминских предметов",
+	dependencies: [
+		"902cb9fc"
+	],
+	tasks: [{
+		uid: "a57ed477",
+		type: "item",
+		items: [{
+			item: "bewitchment:distillery"
+		}]
+	}],
+	rewards: [{
+		uid: "1a1294cd",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

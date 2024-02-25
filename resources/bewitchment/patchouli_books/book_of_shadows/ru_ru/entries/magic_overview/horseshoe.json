@@ -1,0 +1,15 @@
+{
+  "name": "Подкова",
+  "category": "magic_overview",
+  "icon": "bewitchment:horseshoe",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Несмотря на то, что подкова чаще прикрепляется к копыту лошади, чтобы защитить ее копыта от износа, она также защищает от духов, которые могут нанести вред хозяину."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/bauble/horseshoe"
+	}
+  ]
+}

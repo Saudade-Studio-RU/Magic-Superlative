@@ -1,0 +1,12 @@
+{
+  "name": "Инструментальня кукла",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_tool",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_tool",
+	  "text": "Как и ее вариант брони, кукла сломается вместо вашего инструмента, сохраняя его для последнего использования."
+	}
+  ]
+}

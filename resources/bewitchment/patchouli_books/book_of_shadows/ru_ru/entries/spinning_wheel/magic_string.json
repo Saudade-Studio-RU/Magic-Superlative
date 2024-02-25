@@ -1,0 +1,37 @@
+{
+  "name": "Магическая нить",
+  "category": "spinning_wheel",
+  "icon": "bewitchment:spirit_string",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Веревки связывают вещи, это всем известно. Однако магические нити могут связывать вместе и другие вещи, включая души и даже сущность измерений."
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:cobweb",
+	  "text": "У этих пауков для тебя ничего нет"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:witches_stitching",
+	  "text": "Вы должны подобрать каждый стежок, должно быть, мода ведьмы..."
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:golden_thread",
+	  "text": "Сияющая золотая нить"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:pure_filament",
+	  "text": "Сияющая серебряная нить, благословенная и очищенная."
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:spirit_string",
+	  "text": "Нить, наполненная духами."
+	}
+  ]
+}

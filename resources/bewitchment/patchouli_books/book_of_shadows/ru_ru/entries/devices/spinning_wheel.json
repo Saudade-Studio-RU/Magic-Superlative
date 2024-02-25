@@ -1,0 +1,36 @@
+{
+  "name": "Прялка",
+  "category": "devices",
+  "icon": "bewitchment:spinning_wheel",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Используется для создания магических пряжей и нитей, может также использоваться для изготовления более специализированных форм одежды ведьмы."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:spinning_wheel"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:cobweb",
+	  "text": "У этих пауков для тебя ничего нет"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:witches_stitching",
+	  "text": "Вы должны подобрать каждый стежок, должно быть, сезон ведьмы..."
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:diabolical_vein",
+	  "text": "Нить, которая была выжжена в огне, а затем пропитана кровью сердца. Фуууу..."
+	},
+	{
+	  "anchor": "pure_fillament",
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:pure_filament",
+	  "text": "Сияющая серебряная нить, благословенная и очищенная."
+	}
+  ]
+}

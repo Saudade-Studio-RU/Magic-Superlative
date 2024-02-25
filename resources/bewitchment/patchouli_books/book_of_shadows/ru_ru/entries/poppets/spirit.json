@@ -1,0 +1,12 @@
+{
+  "name": "Кукла проклятия духов",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_spiritbane",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_spiritbane",
+	  "text": "Уменьшает урон от духов"
+	}
+  ]
+}

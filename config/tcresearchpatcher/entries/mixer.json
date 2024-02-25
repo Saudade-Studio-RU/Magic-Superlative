@@ -14,7 +14,7 @@
         },
         {
           "text": "research.MIXER.text.stage.2",
-          "recipes": [ "embers:mixer" ]
+          "recipes": [ "thaumcraft:Mixerrecipe" ]
         }
       ]
     }

@@ -1,0 +1,30 @@
+{
+	x: -16.0d,
+	y: -17.0d,
+	description: "Уборка лесов",
+	dependencies: [
+		"8651732a"
+	],
+	tasks: [{
+		uid: "a906733e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ichoriumkit:ichorium_axe_adv"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3483acc5",
+		type: "item",
+		item: "minecraft:skull 1 1"
+	},
+	{
+		uid: "d216d80c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Невезение",
+  "category": "curses",
+  "icon": "minecraft:arrow",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:misfortune",
+	  "text": "Случайным образом дает цели любой дебафф, кроме иссушения или отравления. Не постоянный, случайно возникающий на протяжении всего проклятия."
+	}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Духовный Разлом",
+  "category": "rituals",
+  "icon": "bewitchment:spectral_dust",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Делает временную прореху в завесе, позволяя существам духовной природы снова ходить по земле. Работает только по ночам"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:spiritual_rift"
+	}
+  ]
+}

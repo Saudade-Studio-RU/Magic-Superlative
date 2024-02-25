@@ -1,0 +1,22 @@
+{
+	title: "Пустой кувшин",
+	x: 3.0d,
+	y: 1.5d,
+	description: "Месим глину",
+	dependencies: [
+		"be91320a"
+	],
+	tasks: [{
+		uid: "f038fe90",
+		type: "item",
+		items: [{
+			item: "bewitchment:empty_jar"
+		}]
+	}],
+	rewards: [{
+		uid: "5b2a2db7",
+		type: "item",
+		item: "bewitchment:salt_ore",
+		count: 4
+	}]
+}

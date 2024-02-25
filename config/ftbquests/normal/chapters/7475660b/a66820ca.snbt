@@ -1,0 +1,16 @@
+{
+	title: "Призовите Бафомет",
+	x: 17.5d,
+	y: -1.5d,
+	dependencies: [
+		"32b4fc13"
+	],
+	tasks: [{
+		uid: "4ff23df9",
+		type: "observation",
+		icon: "bewitchment:demon_heart",
+		match_type: "entity_id",
+		match: "bewitchment:baphomet",
+		timer: 0L
+	}]
+}

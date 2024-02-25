@@ -1,0 +1,6 @@
+{
+  "name": "Прялка",
+  "description": "Прялка-это простой инструмент, используемый для производства волшебных нитей. Прялка должна находиться в радиусе действия алтаря.",
+  "icon": "bewitchment:textures/gui/patchouli/icons/book_of_shadows/spinningwheel.png",
+  "sortnum": 2
+}

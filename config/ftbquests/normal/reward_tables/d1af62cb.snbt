@@ -30,9 +30,6 @@
 		weight: 5
 	},
 	{
-		item: "extrabotany:material 1 1"
-	},
-	{
 		item: "ichoriumkit:resourcekami 1 2"
 	},
 	{
@@ -46,6 +43,10 @@
 		count: 2,
 		random_bonus: 2,
 		weight: 5
+	},
+	{
+		item: "aetherworks:item_resource 1 4",
+		weight: 3
 	}],
 	loot_crate: {
 		string_id: "crate4",

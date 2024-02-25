@@ -1,0 +1,39 @@
+{
+	title: "Создайте Любую Эфировую лопату",
+	x: 12.0d,
+	y: 1.0d,
+	dependencies: [
+		"906ba836"
+	],
+	hide: true,
+	or_tasks: true,
+	tasks: [{
+		uid: "b30f14ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aetherworks:item_shovel_redstone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "248e8ea8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aetherworks:item_shovel_slime"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ef491231",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

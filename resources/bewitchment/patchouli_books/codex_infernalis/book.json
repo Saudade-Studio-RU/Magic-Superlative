@@ -1,0 +1,10 @@
+{
+  "name": "Кодекс Инферналис",
+  "version": "616",
+  "landing_text": "Просто держать эту книгу кажется неправильным... осмелитесь ли вы продолжить?",
+  "model": "bewitchment:codex_infernalis",
+  "book_texture": "bewitchment:textures/gui/book.png",
+  "show_toasts": false,
+  "creative_tab": "bewitchment",
+  "show_progress": false
+}

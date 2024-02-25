@@ -1,0 +1,12 @@
+{
+  "name": "Кукла защиты от Вуду",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_voodooprotection",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_voodooprotection",
+	  "text": "Защищает от вампиров и кукол вуду. (W.I.P)"
+	}
+  ]
+}

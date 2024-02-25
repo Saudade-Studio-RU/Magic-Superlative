@@ -1,0 +1,15 @@
+{
+  "name": "Выявление",
+  "category": "rituals",
+  "icon": "bewitchment:white_lantern",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Наполняет расположенные рядом фонари волшебным светом, который позволяет ведьме размещать огни за счет ME, которые невидимы для тех, кто не носит фонарь самостоятельно"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:revealing"
+	}
+  ]
+}

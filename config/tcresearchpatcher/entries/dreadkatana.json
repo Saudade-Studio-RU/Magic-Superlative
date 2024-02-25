@@ -15,7 +15,7 @@
         },
         {
           "text": "research.DREADKATANA.text.stage.2",
-          "recipes": [ "abyssalcraft:dreadkatana" ],
+          "recipes": [ "thaumcraft:dreadkatana" ],
           "warp": 3
         }
       ]

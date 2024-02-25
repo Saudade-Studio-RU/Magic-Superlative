@@ -1,0 +1,10 @@
+{
+  "name": "Книга Теней",
+  "version": "4",
+  "landing_text": "Колдовство-это древнее искусство магии и природы. Эта книга поможет вам открыть для себя ее секреты.",
+  "model": "bewitchment:book_of_shadows",
+  "book_texture": "bewitchment:textures/gui/book.png",
+  "show_toasts": false,
+  "creative_tab": "bewitchment",
+  "show_progress": false
+}

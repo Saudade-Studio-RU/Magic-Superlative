@@ -1,0 +1,24 @@
+{
+	title: "Получите Сердце",
+	x: 13.5d,
+	y: 0.0d,
+	description: "Убейте Импа",
+	text: [
+		"Имп вызывается ритуалом."
+	],
+	dependencies: [
+		"60a44881"
+	],
+	tasks: [{
+		uid: "73e87475",
+		type: "item",
+		items: [{
+			item: "bewitchment:heart"
+		}]
+	}],
+	rewards: [{
+		uid: "a556660a",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

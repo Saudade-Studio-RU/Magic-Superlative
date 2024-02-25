@@ -35,4 +35,3 @@ voidFluid.material = <blockmaterial:lava>;
 voidFluid.viscosity = 3000;
 
 voidFluid.register();
-

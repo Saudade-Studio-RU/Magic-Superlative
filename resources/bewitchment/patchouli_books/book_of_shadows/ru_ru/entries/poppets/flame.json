@@ -1,0 +1,12 @@
+{
+  "name": "Огнезащитная кукла",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_flameprotection",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_flameprotection",
+	  "text": "Уменьшает урон от огня"
+	}
+  ]
+}

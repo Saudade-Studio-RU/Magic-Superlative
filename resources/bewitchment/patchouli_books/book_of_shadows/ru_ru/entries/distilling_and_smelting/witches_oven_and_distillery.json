@@ -1,0 +1,20 @@
+{
+  "name": "Ведьмина печь и дистиллятор",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:distillery",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Несмотря на их обычное использование и внешний вид, печь и дистиллятор жизненно важны для всех форм высшей магии. Печь может перегонять саженцы и другие продукты в чистый экстракт, в то время как дистиллятор может перерабатывать пары с другими ингредиентами в более сложные смеси."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:witches_oven"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:distillery"
+	}
+  ]
+}

@@ -15,7 +15,7 @@
         },
         {
           "text": "research.ABKEY.text.stage.2",
-          "recipes": [ "abyssalcraft:gatewaykey" ],
+          "recipes": [ "thaumcraft:keyHard" ],
           "warp": 3
         }
       ]

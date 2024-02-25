@@ -1,0 +1,26 @@
+{
+	title: "Создайте Ихоровую сумку",
+	x: -22.0d,
+	y: -17.0d,
+	description: "Миллион в 1",
+	dependencies: [
+		"3a360189"
+	],
+	tasks: [{
+		uid: "7292a2c0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ichoriumkit:focus_pouch"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4e6cded7",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "WITCHCAULDRON",
+      "name": "research.WITCHCAULDRON.title",
+      "icons": [ "bewitchment:witches_cauldron" ],
+      "category": "SUPERLATIVE",
+      "location": [ 4, 6 ],
+      "parents": [ "BLOODALTAR" ],
+      "stages": [
+        {
+          "text": "research.WITCHCAULDRON.text.stage.1",
+          "required_knowledge": [ "THEORY;ALCHEMY;1", "THEORY;BASICS;1", "OBSERVATION;ALCHEMY;5", "OBSERVATION;BASICS;5", "OBSERVATION;SUPERLATIVE;5" ]
+        },
+        {
+          "text": "research.WITCHCAULDRON.text.stage.2",
+          "recipes": [ "thaumcraft:Cauldronhard" ]
+        }
+      ]
+    }
+  ]
+}

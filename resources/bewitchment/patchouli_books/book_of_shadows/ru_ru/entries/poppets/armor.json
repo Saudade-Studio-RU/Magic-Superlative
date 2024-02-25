@@ -1,0 +1,12 @@
+{
+  "name": "Кукла брони",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_armor",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_armor",
+	  "text": "Предотвращает разрушение элементов брони, вместо этого лопается кукла. (W.I.P)"
+	}
+  ]
+}

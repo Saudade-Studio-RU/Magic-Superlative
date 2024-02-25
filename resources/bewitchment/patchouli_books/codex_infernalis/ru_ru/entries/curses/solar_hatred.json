@@ -1,0 +1,12 @@
+{
+  "name": "Солнечная Ненависть",
+  "category": "curses",
+  "icon": "minecraft:double_plant",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:solar_hatred",
+	  "text": "Ослабляет плоть цели, заставляя ее гореть и трескаться в присутствии солнечного света, как у грязной нежити."
+	}
+  ]
+}

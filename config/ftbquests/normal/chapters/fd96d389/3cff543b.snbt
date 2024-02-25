@@ -23,6 +23,11 @@
 	rewards: [{
 		uid: "a0903313",
 		type: "ftbmoney:money",
-		ftb_money: 20L
+		ftb_money: 50L
+	},
+	{
+		uid: "aa03d5ba",
+		type: "item",
+		item: "scalinghealth:heartcontainer"
 	}]
 }

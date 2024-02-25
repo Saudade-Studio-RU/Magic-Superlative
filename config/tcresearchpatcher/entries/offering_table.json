@@ -15,7 +15,7 @@
         },
         {
           "text": "research.OFFERING.text.stage.2",
-          "recipes": [ "naturesaura:offering_table" ]
+          "recipes": [ "thaumcraft:Offeringhard" ]
         }
       ]
     }

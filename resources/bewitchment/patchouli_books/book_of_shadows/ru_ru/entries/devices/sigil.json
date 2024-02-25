@@ -1,0 +1,123 @@
+{
+  "name": "Таблица сигилов",
+  "category": "devices",
+  "icon": "bewitchment:sigil_table",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "На первый взгляд неприметный письменный стол, обработанный смолой из дерева драконьей крови, придававшей ему малиновый оттенок. Этот причудливый письменный стол используется для рисования символов. Он также содержит уникальную сетку 5x5, в которой можно рисовать их, чтобы обеспечить большую свободу и пространство при рисовании."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:sigil_table"
+	},
+	{
+	  "type": "text",
+	  "title": "Сигилы",
+	  "text": "Сигилы-это специальные символы, созданные ведьмой для создания определенных эффектов или для защиты определенных областей. Сигилы должны быть нарисованы с использованием смолы крови Дракона, хотя другие подобные соединения, такие как красители, также могут потребоваться в зависимости от конкретного сигила."
+	},
+	{
+	  "type": "text",
+	  "text": "Сигилы могут быть нанесены на блоки, чтобы воздействовать на объекты вокруг него и исчезать через неделю. Он также может быть нанесен на сундуки и двери, сделанные из дерева драконьей крови, и будет применяться к тем, кто взаимодействует с ним."
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:mending"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_mending",
+	  "text": "Заставляет цель восстанавливать здоровье"
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:ruin"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_ruin",
+	  "text": "Больная цель прикасается к сигилу"
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:binding"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_binding",
+	  "text": "Вызывает временный паралич"
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:cleansing"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_cleansing",
+	  "text": "Снимает дебаффы с цели"
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:failure"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_failure",
+	  "text": "Заставляет ритуалы терпеть неудачу для цели в течение некоторого времени"
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:purity"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_purity",
+	  "text": "Снимает некоторые малые проклятия, но не все"
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:luck"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_luck",
+	  "text": "Увеличивает шанс найти лучшую добычу в сундуках в течение определенного периода времени."
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:battle"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_battle",
+	  "text": "Обеспечивает незначительную прочность и устойчивость баффа"
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:disorientation"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_disorientation",
+	  "text": "Путает мобов и игроков"
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:shrieking"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_shrieking",
+	  "text": "Визжит на мишень, $(o)очень громко"
+	},
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:sentinel"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_sentinel",
+	  "text": "Вызовает жутких призраков, чтобы атаковать цель"
+	}
+  ]
+}

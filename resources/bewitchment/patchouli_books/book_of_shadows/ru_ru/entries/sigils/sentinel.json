@@ -1,0 +1,16 @@
+{
+  "name": "Символ Сентинеля",
+  "category": "sigils",
+  "icon": "bewitchment:sigil_sentinel",
+  "pages": [
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:sentinel"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_sentinel",
+	  "text": "Призывает жутких призраков для атаки на цель"
+	}
+  ]
+}

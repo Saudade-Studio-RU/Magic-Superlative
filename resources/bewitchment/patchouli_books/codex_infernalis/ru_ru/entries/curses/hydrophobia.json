@@ -1,0 +1,12 @@
+{
+  "name": "Гидрофобия",
+  "category": "curses",
+  "icon": "minecraft:water_bucket",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:hydrophobia",
+	  "text": "Цель движется медленнее в воде, оно тонет быстрее в воде, и враждебные водные существа наносят ей больше урона."
+	}
+  ]
+}

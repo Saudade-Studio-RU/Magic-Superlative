@@ -1,0 +1,32 @@
+{
+	x: 20.5d,
+	y: 0.0d,
+	description: "Финальный бой",
+	dependencies: [
+		"dd3923f6"
+	],
+	tasks: [{
+		uid: "84b1918f",
+		type: "kill",
+		title: "Убейте Финальную сущность",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:cosmetic",
+			Damage: 7s
+		},
+		entity: "thaumcraft:cultistportalgreater",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "54427345",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	},
+	{
+		uid: "d3d4e515",
+		type: "item",
+		item: "scalinghealth:heartcontainer"
+	}]
+}

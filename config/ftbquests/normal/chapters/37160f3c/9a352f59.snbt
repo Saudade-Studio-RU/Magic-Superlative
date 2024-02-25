@@ -23,5 +23,10 @@
 		uid: "22c760ce",
 		type: "ftbmoney:money",
 		ftb_money: 30L
+	},
+	{
+		uid: "33de3bf9",
+		type: "item",
+		item: "scalinghealth:heartcontainer"
 	}]
 }

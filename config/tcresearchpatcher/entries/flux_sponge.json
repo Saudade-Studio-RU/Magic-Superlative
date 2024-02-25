@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "key": "FLUX_SPONGE",
+      "name": "research.FLUX_SPONGE.title",
+      "icons": [ "thaumcraft:creative_flux_sponge" ],
+      "category": "SUPERLATIVE",
+      "location": [ -9, 2 ],
+      "parents": [ "ICHOR" ],
+      "stages": [
+        {
+          "text": "research.FLUX_SPONGE.text.stage.1",
+          "required_knowledge": [ "THEORY;ALCHEMY;8", "OBSERVATION;ALCHEMY;24", "OBSERVATION;SUPERLATIVE;16" ]
+        },
+        {
+          "text": "research.FLUX_SPONGE.text.stage.2",
+          "recipes": [ "thaumcraft:creativeSponge" ]
+        }
+      ]
+    }
+  ]
+}

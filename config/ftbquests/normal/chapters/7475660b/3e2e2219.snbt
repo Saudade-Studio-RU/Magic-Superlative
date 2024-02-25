@@ -1,0 +1,45 @@
+{
+	title: "Создайте Мел",
+	x: 9.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "Черчение ритуалов",
+	text: [
+		"Ритуалы - это процесс, позволяющий призывать, накладывать, создавать, торгавать и многие другие действия. Центром ритуала всегда являются начертания, созданные Фокусным мелом, а вокруг него могут быть 3 разных круга, созданных из других мелков."
+	],
+	dependencies: [
+		"902cb9fc",
+		"a596851a",
+		"453a900b"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "4e530dd8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:ritual_chalk"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "af4a9e21",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:focal_chalk"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "048a5f2a",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

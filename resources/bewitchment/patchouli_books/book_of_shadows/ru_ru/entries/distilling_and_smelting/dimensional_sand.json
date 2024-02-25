@@ -1,0 +1,24 @@
+{
+  "name": "Размерный Песок",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:dimensional_sand",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Размерный песок кажется странным в ваших руках ... он твердый, но кажется текучим, как жидкость, и он мерцает неземным образом. Он приобретается при горении глаз Эндера или Фруктов Хоруса в печи."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:dimensional_sand",
+	  "text": "Зелено-голубой материал, который вы можете почувствовать резонирующим с эфирной энергией, наряду с мощной связью с Эндером."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:dimensional_sand_alt0"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:dimensional_sand_alt1"
+	}
+  ]
+}

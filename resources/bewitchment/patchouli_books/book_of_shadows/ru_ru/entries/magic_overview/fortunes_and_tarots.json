@@ -1,0 +1,118 @@
+{
+  "name": "Гадания и карты Таро",
+  "category": "magical_overview",
+  "icon": "bewitchment:crystal_ball",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Все виды гадания"
+	},
+	{
+	  "type": "empty",
+	  "draw_filler": false
+	},
+	{
+	  "type": "text",
+	  "title": "Кристальный шар",
+	  "text": "У кристальных шаров есть что-то магическое в целом. Они чаще всего используются для предсказания будущего и предсказания состояния, но некоторые утверждают, что их можно использовать и для других целей, таких как дистанционное наблюдение. Ведьмы, которые утверждают, что могут это сделать, обычно не могут этого доказать.…"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:crystal_ball"
+	},
+	{
+	  "type": "text",
+	  "title": "Карты Таро",
+	  "text": "Изначально игральные карты были простыми, но многие обнаружили магическую силу, которой обладают эти карты, раскрывая секреты и предсказывая будущее."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:tarot_table"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:tarot_cards"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/00player.png"
+	  ],
+	  "border": true,
+	  "title": "Игрок",
+	  "text": "Игрок-ведьма."
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/04guardian.png"
+	  ],
+	  "border": true,
+	  "title": "Страж",
+	  "text": "Игрок убил босса, и сколько уникальных боссов убито"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/05illusioner.png"
+	  ],
+	  "border": true,
+	  "title": "Иллюзионист",
+	  "text": "У игрока есть зелье активное, причем самого высокого уровня"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/07mounts.png"
+	  ],
+	  "border": true,
+	  "title": "Создание",
+	  "text": "У игрока есть домашние животные, которые не являются фамильярами, и количество домашних животных"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/10diamonds.png"
+	  ],
+	  "border": true,
+	  "title": "Алмазы",
+	  "text": "У игрока есть активная Фортуна, перевернутая, если фортуна отрицательна"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/15wither.png"
+	  ],
+	  "border": true,
+	  "title": "Иссушение",
+	  "text": "У игрока есть контракт с духом, а сколько контрактов"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/16ender_dragon.png"
+	  ],
+	  "border": true,
+	  "title": "Эндер Дракон",
+	  "text": "Игрок убил не менее 100 мобов, а количество убитых мобов / 100"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/19sun.png"
+	  ],
+	  "border": true,
+	  "title": "Солнце",
+	  "text": "Игрок благословляется или проклинается, если он перевернут"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/tarot/20stronghold.png"
+	  ],
+	  "border": true,
+	  "title": "Крепость",
+	  "text": "Игрок провел ритуал, и стоимость проведения"
+	}
+  ]
+}

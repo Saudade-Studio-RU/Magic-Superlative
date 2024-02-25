@@ -4,6 +4,10 @@
 	x: 0.0d,
 	y: 0.0d,
 	shape: "square",
+	dependencies: [
+		"e0da27f2"
+	],
+	hide: true,
 	size: 2.0d,
 	tasks: [{
 		uid: "b696a196",

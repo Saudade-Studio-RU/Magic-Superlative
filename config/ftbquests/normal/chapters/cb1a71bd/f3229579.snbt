@@ -1,0 +1,24 @@
+{
+	x: 0.5d,
+	y: 5.0d,
+	description: "Начните изучение исскуства ведьм, демонов и проклятий.",
+	dependencies: [
+		"504c27b7"
+	],
+	tasks: [{
+		uid: "85c15d44",
+		type: "item",
+		title: "Начните изучать Bewitchment",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "bewitchment:book_of_shadows"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

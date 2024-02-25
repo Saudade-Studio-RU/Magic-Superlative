@@ -1,0 +1,25 @@
+{
+	x: -20.0d,
+	y: -17.0d,
+	description: "Ткань из Крови Богов",
+	dependencies: [
+		"095bb958"
+	],
+	tasks: [{
+		uid: "197c25f7",
+		type: "item",
+		items: [{
+			item: "ichoriumkit:resourcekami 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "a526812d",
+		type: "item",
+		item: "minecraft:skull 1 1"
+	},
+	{
+		uid: "5c1285ac",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

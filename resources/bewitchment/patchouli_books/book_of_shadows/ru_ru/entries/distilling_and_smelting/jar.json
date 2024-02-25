@@ -1,0 +1,20 @@
+{
+  "name": "Глиняные кувшины",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:empty_jar",
+  "sortnum": 0,
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Глиняные кувшины необходимы для коллекции ведьм, они используются для хранения всех видов паров, используемых для крафта."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:unfired_jar"
+	},
+	{
+	  "type": "smelting",
+	  "recipe": "bewitchment:unfired_jar"
+	}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Промывка в котле",
+  "category": "cauldron_and_brewing",
+  "icon": "minecraft:water_bucket",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Одно из самых обычных применений котла-смывать чернила и другие подобные метки с материалов."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:banner_pattern_removal",
+	  "text": "Более обыденное использование котла-это очистка от краски знамен."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:wash_sigil",
+	  "text": "Удаляет нанесенные знаки с метел из дерева драконьей крови"
+	}
+  ]
+}

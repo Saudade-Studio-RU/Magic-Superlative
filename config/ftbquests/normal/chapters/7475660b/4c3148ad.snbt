@@ -1,0 +1,21 @@
+{
+	title: "Создайте Хладное железо",
+	x: 12.0d,
+	y: -3.0d,
+	description: "Металл спектрального мира",
+	dependencies: [
+		"453de18d"
+	],
+	tasks: [{
+		uid: "641d3d01",
+		type: "item",
+		items: [{
+			item: "bewitchment:cold_iron_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "95591286",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	title: "Создайте Магический гримуар",
+	x: 9.5d,
+	y: 1.5d,
+	description: "Кладезь энергии",
+	text: [
+		"Эта книга может быть наполнена Магической энергией на алтаре, после чего другие ведьмовские приборы могут её потреблять"
+	],
+	dependencies: [
+		"3e2e2219"
+	],
+	tasks: [{
+		uid: "e23dc3cf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:grimoire_magia",
+			tag: {
+				amount: 1000,
+				maxAmount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "798c0a40",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

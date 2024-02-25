@@ -1,0 +1,13 @@
+{
+  "name": "Кукла",
+  "category": "poppets",
+  "icon": "bewitchment:poppet",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet",
+	  "text": "Базовая кукла для всего вашего ремесла, ничего не делает и не может быть связана."
+	}
+  ]
+}

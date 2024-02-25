@@ -1,0 +1,20 @@
+{
+  "name": "Эктоплазма",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:ectoplasm",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Сверхъестественная вязкая субстанция, которая должна выделяться из тела медиума во время спиритического транса и образовывать материал для проявления духов."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:ectoplasm",
+	  "text": "Кого ты позовешь?"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:ectoplasm_alt"
+	}
+  ]
+}

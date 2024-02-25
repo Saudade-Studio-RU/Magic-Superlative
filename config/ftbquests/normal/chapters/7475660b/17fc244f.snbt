@@ -1,0 +1,16 @@
+{
+	title: "Создайте Вечный лёд",
+	x: 8.0d,
+	y: -3.0d,
+	description: "Стоп. Реально вечный?",
+	dependencies: [
+		"a442f61f"
+	],
+	tasks: [{
+		uid: "147aa731",
+		type: "item",
+		items: [{
+			item: "bewitchment:perpetual_ice"
+		}]
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Пройдите основную ветку Bewitchment!",
+	x: 21.0d,
+	y: 0.0d,
+	description: "Познавший Дьявола",
+	text: [
+		"Однако в квестах показан далеко не весь контент модификации. Советую изучить его полностью в книгах и на деле!"
+	],
+	dependencies: [
+		"4e754669",
+		"92f40427"
+	],
+	tasks: [{
+		uid: "060adccf",
+		type: "checkmark",
+		title: "Пройдите основную ветку Bewitchment"
+	}],
+	rewards: [{
+		uid: "344c34d4",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	},
+	{
+		uid: "84145f0f",
+		type: "item",
+		item: "scalinghealth:heartcontainer"
+	}]
+}

@@ -11,12 +11,13 @@
 		uid: "c5fc029a",
 		type: "advancement",
 		title: "Выполните достижение \"Этот замок классный\"",
+		icon: "twilightforest:castle_rune_brick 1 3",
 		advancement: "twilightforest:progress_castle",
 		criterion: ""
 	}],
 	rewards: [{
 		uid: "f6ff265b",
 		type: "ftbmoney:money",
-		ftb_money: 100L
+		ftb_money: 30L
 	}]
 }

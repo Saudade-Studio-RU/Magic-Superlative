@@ -14,7 +14,7 @@
         },
         {
           "text": "research.PIERVEGFOCUS.text.stage.2",
-          "recipes": [ "evilcraft:piercing_vengeance_focus" ]
+          "recipes": [ "thaumcraft:piervegfocus" ]
         }
       ]
     }

@@ -1,0 +1,27 @@
+{
+  "name": "Зеленые Одежды Ведьмы",
+  "category": "spinning_wheel",
+  "icon": "bewitchment:green_witch_hat",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Созданный путем тщательного посева голубой шерсти и живых растений в традиционные одеяния с использованием чистого волокна, он наполняет одежду жизнью и повышает владельца в природе, а также позволяет им лучше сочувствовать духам природы и дает знания о растениях, таких как в состоянии получить увеличенный урожай."
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:green_witch_hat"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:green_witch_hood"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:green_witch_robes"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:green_witch_pants"
+	}
+  ]
+}

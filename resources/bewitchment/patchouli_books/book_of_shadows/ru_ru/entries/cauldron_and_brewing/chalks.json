@@ -1,0 +1,31 @@
+{
+  "name": "Мелки",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:focal_chalk",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Мел используется в [ритуальных кругах], чтобы помочь сосредоточиться и направить силу. Нарисованные мелом круги так же важны, как и реагенты, используемые в ритуале."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:ritual_chalk",
+	  "text": "Первый вид мела, как используемый сам по себе, так и в качестве основы для других мелков."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:focal_chalk",
+	  "text": "Сердце любого ритуала круга."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:fiery_chalk",
+	  "text": "Используется для ритуалов более дьявольского характера."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:phasing_chalk",
+	  "text": "Используется для ритуалов, требующих общения с другими измерениями или через большие пространства."
+	}
+  ]
+}

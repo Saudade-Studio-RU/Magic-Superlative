@@ -1,0 +1,51 @@
+{
+  "name": "Заклинания",
+  "category": "nethers_firstborn",
+  "icon": "minecraft:blaze_powder",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Преисподняя полна низших демонических существ, включая тех, которыми могут манипулировать даже простые смертные."
+	},
+	{
+	  "type": "empty",
+	  "draw_filler": false
+	},
+	{
+	  "type": "text",
+	  "title": "Малая Адская Пасть",
+	  "text": "Небольшая трещина в аду, позволяющая свиньям и кубикам магмы сбежать"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:lesser_hellmouth"
+	},
+	{
+	  "type": "text",
+	  "title": "Адская Пасть",
+	  "text": "Более крупный портал в ад, позволяющий Блейзу и Фейервурмам подниматься в мир"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:hellmouth"
+	},
+	{
+	  "type": "text",
+	  "title": "Большая Адская Пасть",
+	  "text": "Открывает самую большую возможную дыру в преисподнюю, порождая адских псов, гастов и скелетов-иссушителей"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:greater_hellmouth"
+	},
+	{
+	  "type": "text",
+	  "title": "Заклинание Иссушителя",
+	  "text": "Откройте уникальную адскую пасть, призывая могущественного Иссушителя, чтобы погубить этот мир"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:conjure_wither"
+	}
+  ]
+}

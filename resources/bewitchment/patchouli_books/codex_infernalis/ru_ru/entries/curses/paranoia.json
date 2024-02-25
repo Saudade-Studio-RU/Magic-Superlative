@@ -1,0 +1,12 @@
+{
+  "name": "Паранойя",
+  "category": "curses",
+  "icon": "minecraft:ender_eye",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:paranoia",
+	  "text": "Страхи целей усиливаются, она постоянно следует за ними по пятам. Даже в своей голове они не в безопасности."
+	}
+  ]
+}

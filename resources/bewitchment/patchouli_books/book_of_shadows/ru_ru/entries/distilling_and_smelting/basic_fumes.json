@@ -1,0 +1,65 @@
+{
+  "name": "Основные Пары",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:oak_spirit",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Дым-это разрушительное извлечение древесины путем сжигания ее в печи. Они являются жизненно важными компонентами для всех форм колдовства. Для того чтобы собрать дым, глиняную банку необходимо вставить в нижний средний слот печи, затем жизнеспособный саженец поместить в левый слот, а сжигаемое топливо поместить в нижний левый слот."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:oak_spirit",
+	  "text": "Один из самых жизненно важных экстрактов, приготовленный из любого вида дубового саженца."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:oak_spirit_alt"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:spruce_heart",
+	  "text": "Сущность еловых деревьев, и жизненно важное значение для прялки"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:birch_soul",
+	  "text": "Легкий и воздушный дым, исходящий от молодой березы"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:cloudy_oil",
+	  "text": "Обычное масло, получаемое при приготовлении мяса и трав, и часто используемое в качестве базового масла для более продвинутых паров."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:cloudy_oil_alt0"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:acacia_resin",
+	  "text": "Довольно трудно найти дым с большой силой в исцелении."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:ebb_of_death",
+	  "text": "Отвратительное масло, пахнущее смертью и разложением, полученное из кипариса."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:droplet_of_wisdom",
+	  "text": "Экстракт из бузины, который, как говорят, наполняет пользователя знаниями"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:liquid_witchcraft",
+	  "text": "Экстракт мандрагоры, который просто гудит магической энергией."
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:essence_of_vitality",
+	  "text": "Живительный остаток, полученный из сожженных саженцев Тиса"
+	}
+  ]
+}

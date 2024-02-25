@@ -1,0 +1,46 @@
+{
+  "name": "Эссенции",
+  "category": "brazier",
+  "icon": "bewitchment:brazier",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Комбинируя определенные травы с [смолой Дерева Драконьей Крови], зажигая их, а затем спя в дыму, вы пробудите ведьму с приподнятым настроением и лучшими чувствами. Дым заполнит 5-метровый радиус вокруг жаровни."
+	},
+	{
+	  "type": "bewitchment:incense_recipe",
+	  "recipe": "bewitchment:vitality",
+	  "text": "Усиливает плоть и кровь пользователя, позволяя им наносить больше урона, а также получать меньше урона."
+	},
+	{
+	  "type": "bewitchment:incense_recipe",
+	  "recipe": "bewitchment:deftness",
+	  "text": "Увеличивает скорость и ловкость пользователя."
+	},
+	{
+	  "type": "bewitchment:incense_recipe",
+	  "recipe": "bewitchment:invigorating",
+	  "text": "Заставляет пользователя быть более долговечным в целом и позволяет им быстрее разбивать блоки."
+	},
+	{
+	  "type": "bewitchment:incense_recipe",
+	  "recipe": "bewitchment:cats_eye",
+	  "text": "Стимулирует глаза пользователя, позволяя ему видеть в темноте так же, как кошка."
+	},
+	{
+	  "type": "bewitchment:incense_recipe",
+	  "recipe": "bewitchment:fullness",
+	  "text": "Делает пользователя менее голодным и позволяет ему принимать больше ударов."
+	},
+	{
+	  "type": "bewitchment:incense_recipe",
+	  "recipe": "bewitchment:intensity",
+	  "text": "При сжигании в отдельной жаровне рядом с жаровней, содержащей другой фимиам, он увеличивает силу своего воздействия. Не совместимо с концентрацией."
+	},
+	{
+	  "type": "bewitchment:incense_recipe",
+	  "recipe": "bewitchment:concentration",
+	  "text": "Сгущает и концентрирует дым от ближайшей жаровни, позволяя его эффектам задерживаться гораздо дольше. Не совместимо с интенсивностью."
+	}
+  ]
+}

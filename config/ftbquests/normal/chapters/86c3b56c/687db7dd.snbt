@@ -56,10 +56,9 @@
 		items: [{
 			item: "abyssalcraft:statue 1 6"
 		}]
-	}],
-	rewards: [{
-		uid: "60836f2f",
-		type: "ftbmoney:money",
-		ftb_money: 25L
+	},
+	{
+		uid: "df784ab8",
+		type: "checkmark"
 	}]
 }

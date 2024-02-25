@@ -1,0 +1,30 @@
+{
+	title: "Создайте или найдите Адский кодекс",
+	x: 11.5d,
+	y: 0.0d,
+	description: "Контракт с дьяволом",
+	dependencies: [
+		"3e2e2219"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "6ef1168d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "bewitchment:codex_infernalis"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c6d3e074",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

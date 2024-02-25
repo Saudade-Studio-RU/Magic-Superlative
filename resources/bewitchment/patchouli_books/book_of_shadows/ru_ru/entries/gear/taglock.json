@@ -1,0 +1,16 @@
+{
+  "name": "Замкнутая бирка",
+  "category": "gear",
+  "icon": "bewitchment:taglock",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Склянка, которая может содержать сущность существа. Некоторые говорят, что можно также получить эту сущность из места отдыха желаемого носителя..."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:bone_needle",
+	  "recipe2": "bewitchment:taglock"
+	}
+  ]
+}

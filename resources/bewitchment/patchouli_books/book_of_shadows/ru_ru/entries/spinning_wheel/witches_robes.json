@@ -1,0 +1,21 @@
+{
+  "name": "Одеяния Ведьм",
+  "category": "spinning_wheel",
+  "icon": "bewitchment:witches_hat",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Одеяния ведьм являются предпочтительной одеждой для практикующих колдовство. Хотя сами по себе эти одежды довольно приземленны, они также могут быть модифицированы в определенные секты ремесла."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/armor/witches_hat",
+	  "recipe2": "bewitchment:equipment/armor/witches_cowl"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/armor/witches_robes",
+	  "recipe2": "bewitchment:equipment/armor/witches_pants"
+	}
+  ]
+}

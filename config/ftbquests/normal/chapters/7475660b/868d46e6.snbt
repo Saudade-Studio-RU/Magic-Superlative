@@ -1,0 +1,56 @@
+{
+	title: "Создайте Полный комплект Порочных одеяний",
+	x: 14.5d,
+	y: 1.5d,
+	description: "Адский атрибут",
+	dependencies: [
+		"6e0dd2fe"
+	],
+	tasks: [{
+		uid: "30b36367",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:besmirched_hood"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:besmirched_hat"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b8d08018",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:besmirched_robes"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e04884eb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:besmirched_pants"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "73d55b3a",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

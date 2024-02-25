@@ -1,0 +1,15 @@
+{
+  "name": "Колдующая ведьма",
+  "category": "rituals",
+  "icon": "minecraft:apple",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Вызовите коллегу-практикующего. Тем не менее, он не всегда может быть счастлив, что вы это сделали…"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:conjure_witch"
+	}
+  ]
+}

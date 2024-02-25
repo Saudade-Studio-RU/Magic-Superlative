@@ -1,0 +1,12 @@
+{
+  "name": "Кукла Неуклюжести",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_clumsy",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_clumsy",
+	  "text": "Дает шанс заставить нападающих бросить оружие"
+	}
+  ]
+}

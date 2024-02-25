@@ -1,0 +1,51 @@
+{
+  "name": "Манипуляция Миром",
+  "category": "rituals",
+  "icon": "minecraft:gold_ingot",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Различные ритуалы, которые позволяют ведьме изменить то, в каком состоянии находится мир"
+	},
+	{
+	  "type": "empty",
+	  "draw_filler": false
+	},
+	{
+	  "type": "text",
+	  "title": "Солнечное Великолепие",
+	  "text": "Превращает его в день. Работает только по ночам"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:solar_glory"
+	},
+	{
+	  "type": "text",
+	  "title": "Высокая Луна",
+	  "text": "Превращает его в ночь. Работает только днем"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:high_moon"
+	},
+	{
+	  "type": "text",
+	  "title": "Песок времени",
+	  "text": "Манипулирует временем, чтобы ускорить цикл дневного света"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:sands_of_time"
+	},
+	{
+	  "type": "text",
+	  "title": "Потоп",
+	  "text": "Вызывает ливень"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:deluge"
+	}
+  ]
+}

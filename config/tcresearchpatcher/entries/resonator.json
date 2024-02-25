@@ -15,7 +15,7 @@
         },
         {
           "text": "research.RESONATOR.text.stage.2",
-          "recipes": [ "arcanearchives:radiant_resonator" ]
+          "recipes": [ "thaumcraft:resonator43Hard" ]
         }
       ]
     }

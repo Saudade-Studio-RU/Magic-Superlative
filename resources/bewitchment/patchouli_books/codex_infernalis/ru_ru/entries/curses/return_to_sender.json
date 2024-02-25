@@ -1,0 +1,12 @@
+{
+  "name": "Возврат отправителю",
+  "category": "curses",
+  "icon": "minecraft:ghast_tear",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:return_to_sender",
+	  "text": "Устанавливает магический щит вокруг цели, отбивая любые проклятия, направленные на них, отражая их назад первоначально тому, кто проклял их."
+	}
+  ]
+}

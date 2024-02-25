@@ -1,0 +1,38 @@
+{
+	title: "Создайте Атейм и Боллин",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Инструменты тёмных исскуств",
+	dependencies: [
+		"453a900b"
+	],
+	tasks: [{
+		uid: "10c88ea6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:athame"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4995adea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:boline"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f1275c50",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

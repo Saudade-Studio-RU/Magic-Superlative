@@ -1,0 +1,38 @@
+{
+	title: "Вызовите любого демона среднего класса",
+	icon: "bewitchment:hellhound_horn",
+	x: 15.5d,
+	y: 0.0d,
+	description: "Торг с адскими жителями",
+	text: [
+		"Однако при призыве демонов, они будут изначально воспринимать вас за врага, и поторговаться с ними не получится, если вам это нужно. Поэтому необходимо сделать любую вещь, вызывающую Уважение у демонов.",
+		"Это Адский брелок или Порочные одеяния (любые, полный комплект)."
+	],
+	dependencies: [
+		"6e0dd2fe"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "10bc6dc7",
+		type: "observation",
+		title: "Вызовите Демона",
+		icon: "bewitchment:hellhound_horn",
+		match_type: "entity_id",
+		match: "bewitchment:demon",
+		timer: 0L
+	},
+	{
+		uid: "6884dddd",
+		type: "observation",
+		title: "Вызовите Демонессу",
+		icon: "bewitchment:hellhound_horn",
+		match_type: "entity_id",
+		match: "bewitchment:demoness",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "f4e165de",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

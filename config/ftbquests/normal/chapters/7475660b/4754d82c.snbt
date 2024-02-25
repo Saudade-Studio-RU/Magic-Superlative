@@ -1,0 +1,23 @@
+{
+	title: "Призовите Леонарда",
+	x: 17.5d,
+	y: 1.5d,
+	description: "Азазель",
+	dependencies: [
+		"32b4fc13"
+	],
+	tasks: [{
+		uid: "12f68a43",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:monster_soul",
+			Damage: 3s
+		},
+		match_type: "entity_id",
+		match: "bewitchment:leonard",
+		timer: 0L
+	}]
+}

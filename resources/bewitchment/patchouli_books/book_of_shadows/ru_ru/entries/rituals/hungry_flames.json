@@ -1,0 +1,15 @@
+{
+  "name": "Голодное Пламя",
+  "category": "rituals",
+  "icon": "minecraft:blaze_powder",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Вызовите пламя снизу, чтобы приготовить и расплавить любые предметы в круге, но некоторые предметы могут быть сожжены для XP"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:hungry_flames"
+	}
+  ]
+}

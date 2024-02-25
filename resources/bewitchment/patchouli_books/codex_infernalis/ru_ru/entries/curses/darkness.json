@@ -1,0 +1,12 @@
+{
+  "name": "Темнота",
+  "category": "curses",
+  "icon": "minecraft:dye",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:darkness",
+	  "text": "Ослепляет всех, кто находится рядом с целью, а также саму цель. Не постоянная, случайно возникающая на протяжении всего проклятия."
+	}
+  ]
+}

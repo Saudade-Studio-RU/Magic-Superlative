@@ -14,7 +14,7 @@
         },
         {
           "text": "research.VEGFOCUS.text.stage.2",
-          "recipes": [ "evilcraft:vengeance_focus", "bloodmagic:blood_rune" ]
+          "recipes": [ "thaumcraft:FocusHard", "bloodmagic:blood_rune" ]
         }
       ]
     }

@@ -1,0 +1,21 @@
+{
+  "name": "Черные и коричневые красители",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:iron_gall_ink",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Просто несколько альтернативных способов получить эти цвета"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:iron_gall_ink",
+	  "text": "Безжалостная замена чернильных мешочков. Некоторые утверждают, что это жизненно важно для создания демонических контрактов…"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:catechu_brown",
+	  "text": "Древесная альтернатива какао-бобам для получения коричневого красителя."
+	}
+  ]
+}

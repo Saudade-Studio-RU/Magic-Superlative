@@ -1,0 +1,41 @@
+{
+  "name": "Бутылочный ледяной огонь",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:bottled_frostfire",
+  "pages": [
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:bottled_frostfire",
+	  "text": "Странный анти-огонь, холодный на ощупь. Помещенный, он может расплавить железную руду в холодное железо брошенное внутрь"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:cold_iron_ingot",
+	  "text": "Проклятие Оберона и проклятие духов вообще, это железо, которое было обработано в холодном пламени, чтобы сохранить его первозданную природу, давая ему власть над духами."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/armor/cold_iron_helmet",
+	  "recipe2": "bewitchment:equipment/armor/cold_iron_chestplate"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/armor/cold_iron_leggings",
+	  "recipe2": "bewitchment:equipment/armor/cold_iron_boots"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/tool/cold_iron_sword",
+	  "recipe2": "bewitchment:equipment/tool/cold_iron_pickaxe"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/tool/cold_iron_hoe",
+	  "recipe2": "bewitchment:equipment/tool/cold_iron_axe"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/tool/cold_iron_shovel"
+	}
+  ]
+}

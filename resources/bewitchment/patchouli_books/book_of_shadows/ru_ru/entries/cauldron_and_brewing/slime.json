@@ -1,0 +1,16 @@
+{
+  "name": "Слизь",
+  "category": "cauldron_and_brewing",
+  "icon": "minecraft:slime_ball",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Иногда трудно найти слизь, теперь вы можете приготовить ее в котле!"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:slimeball",
+	  "text": "Сгусток слизи."
+	}
+  ]
+}

@@ -15,7 +15,7 @@
         },
         {
           "text": "research.BLOODINFUSER.text.stage.2",
-          "recipes": [ "evilcraft:blood_infuser" ],
+          "recipes": [ "thaumcraft:BLOODINFUSERRECIPE" ],
           "warp": 1
         }
       ]

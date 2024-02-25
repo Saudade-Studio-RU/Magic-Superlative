@@ -1,0 +1,19 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "bewitchment:besmirched_hat"
+	},
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"f3229579"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "0d545be7",
+		type: "checkmark",
+		title: "Добро пожаловать в Bewitchment!"
+	}]
+}

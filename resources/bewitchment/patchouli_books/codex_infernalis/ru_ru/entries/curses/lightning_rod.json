@@ -1,0 +1,12 @@
+{
+  "name": "Молниеотвод",
+  "category": "curses",
+  "icon": "minecraft:golden_sword",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:lightning_rod",
+	  "text": "Покрывает кожу мишени мелкими металлическими чешуйками сожженных металлических самородков, в результате чего мишень становится очень проводящей."
+	}
+  ]
+}

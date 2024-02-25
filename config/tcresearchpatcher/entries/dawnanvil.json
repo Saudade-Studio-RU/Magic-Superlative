@@ -16,7 +16,7 @@
         },
         {
           "text": "research.DAWNANVIL.text.stage.2",
-          "recipes": [ "embers:dawnstone_anvil" ],
+          "recipes": [ "thaumcraft:Anvilrecipe" ],
           "warp": 5
         }
       ]

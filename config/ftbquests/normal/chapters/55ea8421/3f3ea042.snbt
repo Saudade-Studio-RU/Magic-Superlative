@@ -1,0 +1,30 @@
+{
+	x: -18.0d,
+	y: -17.0d,
+	description: "Сын огня",
+	dependencies: [
+		"3a360189"
+	],
+	tasks: [{
+		uid: "0623240e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ichoriumkit:kami_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f299f725",
+		type: "item",
+		item: "minecraft:skull 1 1"
+	},
+	{
+		uid: "3ea29ea9",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

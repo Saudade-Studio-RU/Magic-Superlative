@@ -1,0 +1,15 @@
+{
+  "name": "Жетон лекарств",
+  "category": "magic_overview",
+  "icon": "bewitchment:token_of_remedies",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Амулет с аметистом в сердцевине. Это излечит владельца от различных негативных статусных эффектов за счет магической энергии."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/bauble/token_of_remedies"
+	}
+  ]
+}

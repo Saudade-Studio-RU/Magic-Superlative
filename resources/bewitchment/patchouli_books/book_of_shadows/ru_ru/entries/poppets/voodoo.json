@@ -1,0 +1,12 @@
+{
+  "name": "Кукла Вуду",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_voodoo",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_voodoo",
+	  "text": "Привязать его к цели и правой кнопкой мыши с костяными иглами в вашем инвентаре нанесет некоторый урон указанной цели, бросить его в лаву сверху также сожжет цель."
+	}
+  ]
+}

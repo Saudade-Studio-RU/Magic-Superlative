@@ -1,0 +1,44 @@
+{
+  "name": "Устройства ведьм",
+  "category": "magic_overview",
+  "icon": "bewitchment:witches_cauldron",
+  "sortnum": 1,
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Ведьмы имеют в своем распоряжении широкий спектр уникальных устройств, используемых во всех сектах ремесла. Они перечислены на следующих страницах, и нажмите на название, чтобы перейти к соответствующему разделу."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:witches_oven"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:distillery"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:spinning_wheel"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:witches_cauldron"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:brazier"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:sigil_table"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:oak_poppet_shelf"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:crystal_ball"
+	}
+  ]
+}

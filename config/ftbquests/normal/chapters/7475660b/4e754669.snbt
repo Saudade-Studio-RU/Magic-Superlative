@@ -1,0 +1,21 @@
+{
+	title: "Получите Кодуцей",
+	x: 19.5d,
+	y: -1.5d,
+	description: "Призывающий змей",
+	dependencies: [
+		"a66820ca"
+	],
+	tasks: [{
+		uid: "648a8b07",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:caduceus"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

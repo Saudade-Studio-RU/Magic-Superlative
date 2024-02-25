@@ -1,0 +1,23 @@
+{
+	title: "Получите Соль",
+	x: 3.0d,
+	y: -1.5d,
+	description: "Не только для готовки",
+	dependencies: [
+		"453a900b",
+		"be91320a"
+	],
+	tasks: [{
+		uid: "c703984e",
+		type: "item",
+		items: [{
+			item: "bewitchment:salt"
+		}]
+	}],
+	rewards: [{
+		uid: "deba97e2",
+		type: "item",
+		item: "minecraft:clay_ball",
+		count: 16
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Дополнительная награда",
+	x: 21.2d,
+	y: -0.8d,
+	dependencies: [
+		"1b89de90",
+		"da771e0d"
+	],
+	size: 0.8d,
+	tasks: [{
+		uid: "6a623486",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "93707e28",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate3"
+			}
+		}
+	}]
+}

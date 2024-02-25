@@ -1,0 +1,42 @@
+{
+    "name": "Разрушающийся катализатор",
+    "icon": "naturesaura:crushing_catalyst",
+    "category": "using",
+    "advancement": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(l:collecting/altar)Естественный алтарь$() может быть полезен для наделения определенных предметов силой $(aura), но его также можно использовать для $(thing)дробления$() определенных предметов в различные формы. .$(br)Этого можно добиться, создав $(item)Разрушающийся катализатор$() и поместив его поверх любого из четырех нижних блоков $(item)Золотого кирпича$() вокруг алтаря, а затем поместив ингредиент на алтаре, как обычно."
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "text": "Создание $(item)Катализатора разрушения$() с использованием $(l:practices/tree_ritual)Ритуала Леса$().",
+            "recipe": "naturesaura:crushing_catalyst"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)Костной муки$() путем измельчения $(item)Костей$()",
+            "recipe": "naturesaura:bone"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Собираем $(item)Сахар$(), сняв его с тростника.",
+            "recipe": "naturesaura:sugar"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)Пламенного порошка$() из материалов Пустоты.",
+            "recipe": "naturesaura:blaze"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)Светокаменной пыли$() путём уничтожения $(item)Светокамня$()",
+            "recipe": "naturesaura:glowstone"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)Песка$() из измельчения $(item)Булыжника$()",
+            "recipe": "naturesaura:sand"
+        }
+    ]
+}

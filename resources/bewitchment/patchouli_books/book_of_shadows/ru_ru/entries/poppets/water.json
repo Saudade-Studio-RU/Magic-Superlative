@@ -1,0 +1,12 @@
+{
+  "name": "Водозащитная кукла",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_waterprotection",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_waterprotection",
+	  "text": "Защищает владельца от утопления на короткое время"
+	}
+  ]
+}

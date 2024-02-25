@@ -14,7 +14,7 @@
         },
         {
           "text": "research.GEMCUTTERS.text.stage.2",
-          "recipes": [ "arcanearchives:gemcutters_table" ]
+          "recipes": [ "thaumcraft:GEMhard" ]
         }
       ]
     }

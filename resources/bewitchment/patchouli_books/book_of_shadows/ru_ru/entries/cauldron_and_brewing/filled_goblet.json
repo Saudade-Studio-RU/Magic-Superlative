@@ -1,0 +1,12 @@
+{
+  "name": "Наполненный кубок",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:filled_goblet",
+  "pages": [
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:filled_goblet",
+	  "text": "Наполненный этой магической смесью, Кубок даст больше энергии алтарям, а также испустит сигнал красного камня."
+	}
+  ]
+}

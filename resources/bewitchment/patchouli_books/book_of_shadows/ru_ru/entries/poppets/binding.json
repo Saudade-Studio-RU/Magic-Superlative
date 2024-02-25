@@ -1,0 +1,12 @@
+{
+  "name": "Кукла Связывания",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_binding",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_binding",
+	  "text": "Замедляет тех, кто нападает на вас"
+	}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Вампирская Кукла",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_vampiric",
+  "pages": [
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_vampiric",
+	  "text": "Перенаправляет урон, который вы принимаете, на того, к кому он привязан. $(r)Должна храниться в инвентаре."
+	}
+  ]
+}

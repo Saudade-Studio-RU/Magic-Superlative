@@ -1,0 +1,24 @@
+{
+	title: "Создайте Жаровню",
+	x: 10.0d,
+	y: -1.5d,
+	description: "Утро вечера мудреннее",
+	text: [
+		"Жаровня - это прибор, который при разжигании в нём определённых предметов (см. в Книге), позволяет получать определёные бонусы после сна."
+	],
+	dependencies: [
+		"9bbd139b"
+	],
+	tasks: [{
+		uid: "046cae12",
+		type: "item",
+		items: [{
+			item: "bewitchment:brazier"
+		}]
+	}],
+	rewards: [{
+		uid: "8a970643",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

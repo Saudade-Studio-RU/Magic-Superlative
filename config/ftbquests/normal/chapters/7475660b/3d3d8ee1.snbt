@@ -1,0 +1,29 @@
+{
+	title: "Получите Демонический контракт",
+	x: 14.5d,
+	y: -1.5d,
+	description: "Проникновение демоном",
+	text: [
+		"О Демоническом контракте и о силе после его выполнения можно прочитать в Адском кодексе. Для того что бы Контракт впитал в себя небходимые ему предметы, подберите их с Контрактом в руке."
+	],
+	dependencies: [
+		"32b4fc13"
+	],
+	tasks: [{
+		uid: "ffe43639",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:contract"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "95912edb",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

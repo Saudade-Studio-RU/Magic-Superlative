@@ -1,0 +1,35 @@
+{
+  "name": "Холодное Железо",
+  "category": "gear",
+  "icon": "bewitchment:cold_iron_ingot",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Бедствие Оберона и бич духов в целом - это железо, которое было обработано в холодном пламени, чтобы сохранить его первозданную природу, давая ему власть над духами."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/armor/cold_iron_helmet",
+	  "recipe2": "bewitchment:equipment/armor/cold_iron_chestplate"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/armor/cold_iron_leggings",
+	  "recipe2": "bewitchment:equipment/armor/cold_iron_boots"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/tool/cold_iron_sword",
+	  "recipe2": "bewitchment:equipment/tool/cold_iron_pickaxe"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/tool/cold_iron_hoe",
+	  "recipe2": "bewitchment:equipment/tool/cold_iron_axe"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/tool/cold_iron_shovel"
+	}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Символ битвы",
+  "category": "sigils",
+  "icon": "bewitchment:sigil_battle",
+  "pages": [
+	{
+	  "type": "bewitchment:sigil_recipe",
+	  "recipe": "bewitchment:battle"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:sigil_battle",
+	  "text": "Обеспечивает незначительную прочность и устойчивость баффа"
+	}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Получите Жезл Леонарда",
+	x: 19.5d,
+	y: 1.5d,
+	description: "Усиливающий Варево",
+	dependencies: [
+		"4754d82c"
+	],
+	tasks: [{
+		uid: "4d016a84",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:leonards_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,5 +1,5 @@
 {
-	title: "Постройте Адскую печь и сделайте лакомство",
+	title: "Постройте Адскую печь",
 	icon: "thaumcraft:infernal_furnace",
 	x: 7.5d,
 	y: -1.5d,
@@ -9,11 +9,13 @@
 	],
 	hide: true,
 	tasks: [{
-		uid: "75d4d7e6",
-		type: "item",
-		items: [{
-			item: "thaumcraft:triple_meat_treat"
-		}]
+		uid: "3009c8eb",
+		type: "observation",
+		title: "Взгляните на неё",
+		icon: "thaumcraft:infernal_furnace",
+		match_type: "block_id",
+		match: "thaumcraft:infernal_furnace",
+		timer: 0L
 	}],
 	rewards: [{
 		uid: "f80ede94",

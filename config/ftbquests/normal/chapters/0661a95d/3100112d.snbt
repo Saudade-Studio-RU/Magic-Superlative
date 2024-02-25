@@ -1,0 +1,22 @@
+{
+	title: "Выплавьте Эфирный слиток",
+	x: 9.0d,
+	y: -2.0d,
+	description: "Сияние небес",
+	dependencies: [
+		"48373429"
+	],
+	hide: true,
+	tasks: [{
+		uid: "67e00441",
+		type: "item",
+		items: [{
+			item: "aetherworks:item_resource 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "8d4d60b4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

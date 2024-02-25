@@ -26,5 +26,10 @@
 		uid: "07494bea",
 		type: "ftbmoney:money",
 		ftb_money: 50L
+	},
+	{
+		uid: "8ecb1230",
+		type: "item",
+		item: "scalinghealth:heartcontainer"
 	}]
 }

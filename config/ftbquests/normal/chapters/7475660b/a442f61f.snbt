@@ -1,0 +1,43 @@
+{
+	title: "Создайте Ведьмино Варево с эффектом Iceworld",
+	x: 6.0d,
+	y: -3.0d,
+	description: "Замораживая мир",
+	text: [
+		"Для добавление в Варево эффекта Iceworld достаточно кинуть любой ванильный Лёд, или блок снега."
+	],
+	dependencies: [
+		"902cb9fc"
+	],
+	tasks: [{
+		uid: "3681c5dd",
+		type: "item",
+		title: "Iceworld",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				CustomPotionEffects: [{
+					Ambient: 0b,
+					CurativeItems: [{
+						id: "minecraft:milk_bucket",
+						Count: 1b,
+						Damage: 0s
+					}],
+					ShowParticles: 1b,
+					Duration: 1,
+					Id: 51b,
+					Amplifier: 0b
+				}],
+				CustomPotionColor: 1105116,
+				bewitchment_brew: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "c20b11ac",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

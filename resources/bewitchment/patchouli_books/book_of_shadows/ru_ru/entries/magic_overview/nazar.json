@@ -1,0 +1,15 @@
+{
+  "name": "Назар",
+  "category": "magic_overview",
+  "icon": "bewitchment:nazar",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Амулет, похожий на глаз, используемый для защиты от магического урона и предотвращающий неудачу."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/bauble/nazar"
+	}
+  ]
+}

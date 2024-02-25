@@ -1,0 +1,15 @@
+{
+  "name": "Пояс Дриад",
+  "category": "magic_overview",
+  "icon": "bewitchment:girdle_of_the_dryads",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Специальный пояс, который будет выращивать магическое дерево по всему владельцу, полностью защищать его от повреждений, если это не огонь или магия. Тем не менее, пользователь должен быть на траве, чтобы вырастить древесину."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/bauble/girdle_of_the_dryads"
+	}
+  ]
+}

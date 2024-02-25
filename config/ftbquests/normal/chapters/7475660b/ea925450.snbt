@@ -1,0 +1,26 @@
+{
+	title: "Создайте Адский Брелок",
+	x: 12.5d,
+	y: 1.5d,
+	description: "Адский атрибут",
+	dependencies: [
+		"6e0dd2fe"
+	],
+	tasks: [{
+		uid: "cb0e3c1a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:hellish_bauble"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "28f02d0a",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

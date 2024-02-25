@@ -1,0 +1,22 @@
+{
+	title: "Выплавьте ЭФирный самоцвет",
+	x: 9.0d,
+	y: 2.0d,
+	description: "Из другого мира",
+	dependencies: [
+		"48373429"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5b3ca628",
+		type: "item",
+		items: [{
+			item: "aetherworks:item_resource 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "4df36b01",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

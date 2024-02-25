@@ -1,0 +1,52 @@
+{
+    "name": "Трансмутационный катализатор",
+    "icon": "naturesaura:conversion_catalyst",
+    "category": "using",
+    "advancement": "naturesaura:sky_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(l:collecting/altar)Естественный Алтарь$() может быть полезен для наделения определенных предметов силой $(aura), однако он также может помочь в преобразовании предметов из одного типа в другой.$(br)И этого можно достичь, создав $(item)Катализатор трансмутации$() и поместив его поверх любого из четырех нижних блоков $(item)Золотого кирпича$() вокруг алтаря, а затем поместив ингредиент на алтарь как обычный."
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "text": "Создание $(item)Катализатора трансмутации$() с использованием $(l:practices/tree_ritual)Ритуала Леса$().",
+            "recipe": "naturesaura:conversion_catalyst"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)Драконьего дыхания$() из $(aura) конца",
+            "recipe": "naturesaura:breath"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)Кожи$() из останков зомби",
+            "recipe": "naturesaura:leather"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)Песка душ$() из мирских зерен",
+            "recipe": "naturesaura:soul_sand"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)Адского нароста$() из ядовитых грибов",
+            "recipe": "naturesaura:nether_wart"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Создание $(item)Призмариновых осколков$() из руды Пустоты",
+            "recipe": "naturesaura:prismarine"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Заставляет $(thing)воду$() накапливаться внутри пустой $(item)бутылки$()",
+            "recipe": "naturesaura:water"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "Превращение $(item)древесного угля$() в $(item)уголь$()",
+            "recipe": "naturesaura:coal"
+        }
+    ]
+}

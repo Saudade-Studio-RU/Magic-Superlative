@@ -1,0 +1,27 @@
+{
+  "name": "Наряд алхимика",
+  "category": "spinning_wheel",
+  "icon": "bewitchment:alchemist_hat",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Используя ведьмовские стежки и сшивая серебряную шерсть, пропитанную элементарными испарениями, на обычную одежду, он увеличивает мастерство владельца с варевом (дополнительное варево в котле), как повышая их собственное варево, так и уменьшая негативные эффекты от зелий, нанесенных на владельца."
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:alchemist_hat"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:alchemist_hood"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:alchemist_robes"
+	},
+	{
+	  "type": "bewitchment:spinning_wheel_recipe",
+	  "recipe": "bewitchment:alchemist_pants"
+	}
+  ]
+}

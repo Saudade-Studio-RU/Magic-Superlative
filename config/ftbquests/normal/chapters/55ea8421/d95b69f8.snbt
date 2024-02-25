@@ -1,0 +1,30 @@
+{
+	x: 6.0d,
+	y: -7.0d,
+	description: "Древний противник",
+	text: [
+		"Может быть призваном Ритуалом, см. JEI",
+		"Жертвой для ритуала является Зомби"
+	],
+	dependencies: [
+		"e0da27f2"
+	],
+	tasks: [{
+		uid: "b0b1cdcf",
+		type: "kill",
+		title: "Уничтожьте Первобытный огонёк",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:enchanted_placeholder"
+		},
+		entity: "thaumicaugmentation:primal_wisp",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "87cb6dfc",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

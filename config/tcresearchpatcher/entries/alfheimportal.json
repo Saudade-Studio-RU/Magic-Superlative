@@ -16,7 +16,7 @@
         },
         {
           "text": "research.ALFHEIMPORTAL.text.stage.2",
-          "recipes": [ "botania:alfheimportal" ],
+          "recipes": [ "thaumcraft:BotaniaHard1" ],
           "warp": 1
         }
       ]

@@ -1,0 +1,49 @@
+{
+	title: "Ихор - Потерянная субстанция",
+	x: -17.0d,
+	y: -10.0d,
+	description: "Изучите всё в Thaumcraft 6",
+	text: [
+		"Это не касается двух исследований-камней в наполнении а также мобов.",
+		"Дополнения Thaumic Augmentation, Перефирия, а также глава Мироздание учитываются."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"2f0084b8",
+		"83b8917a"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "d3774530",
+		type: "item",
+		items: [{
+			item: "ichoriumkit:resourcekami 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "e184a864",
+		type: "item",
+		item: "minecraft:nether_star"
+	},
+	{
+		uid: "0c6a71b0",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "059345a1",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ichoriumkit:cat_amulet"
+		}
+	},
+	{
+		uid: "92d604b9",
+		type: "item",
+		item: "scalinghealth:heartcontainer"
+	}]
+}

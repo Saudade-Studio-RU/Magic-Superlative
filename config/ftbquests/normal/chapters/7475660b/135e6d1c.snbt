@@ -1,0 +1,16 @@
+{
+	title: "Создайте Сигильскую плиту",
+	x: 7.5d,
+	y: 3.0d,
+	description: "Печать улучшения",
+	dependencies: [
+		"a596851a"
+	],
+	tasks: [{
+		uid: "9bf1d691",
+		type: "item",
+		items: [{
+			item: "bewitchment:sigil_table"
+		}]
+	}]
+}

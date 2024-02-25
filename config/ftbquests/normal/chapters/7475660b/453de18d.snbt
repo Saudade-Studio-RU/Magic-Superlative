@@ -1,0 +1,17 @@
+{
+	title: "Создайте Ледяное пламя в бутылке",
+	x: 10.0d,
+	y: -3.0d,
+	description: "Огонь ледникового периода",
+	dependencies: [
+		"9bbd139b",
+		"17fc244f"
+	],
+	tasks: [{
+		uid: "e9d55eb9",
+		type: "item",
+		items: [{
+			item: "bewitchment:bottled_frostfire"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 6.6499999999999995d,
+	y: -5.6d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ee7c633d",
+		"1b89de90"
+	],
+	size: 0.7d,
+	tasks: [{
+		uid: "ea44da57",
+		type: "checkmark",
+		title: "Дополнительная награда"
+	}],
+	rewards: [{
+		uid: "2bcecf6b",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "crate3"
+			}
+		}
+	}]
+}

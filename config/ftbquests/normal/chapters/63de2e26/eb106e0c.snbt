@@ -4,9 +4,7 @@
 	y: 0.0d,
 	description: "Вещь, необходимая каждому",
 	dependencies: [
-		"1501b2b0",
-		"109742bd",
-		"85d3912c"
+		"109742bd"
 	],
 	hide: true,
 	tasks: [{

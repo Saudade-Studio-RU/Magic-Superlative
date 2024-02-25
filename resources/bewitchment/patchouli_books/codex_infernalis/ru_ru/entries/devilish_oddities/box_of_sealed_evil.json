@@ -1,0 +1,16 @@
+{
+  "name": "Коробка Запечатанного Зла",
+  "category": "devilish_oddities",
+  "icon": "bewitchment:box_of_sealed_evil",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Ящик, помеченный каким-то странным рогатым существом, которое, как тебе кажется, наблюдает за тобой. Ты осмелишься открыть его?"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:box_of_sealed_evil",
+	  "text": "$(o)Surprise, Pandora's box~"
+	}
+  ]
+}

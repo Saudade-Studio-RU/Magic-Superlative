@@ -1,0 +1,26 @@
+{
+	title: "Добудьте Эфировый осколок",
+	x: 2.0d,
+	y: 0.0d,
+	description: "Звёзды под землёй",
+	text: [
+		"Руда появляется только в Горах"
+	],
+	dependencies: [
+		"9a3830e1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8e28c6df",
+		type: "item",
+		items: [{
+			item: "aetherworks:item_resource"
+		}]
+	}],
+	rewards: [{
+		uid: "8c1d3766",
+		type: "item",
+		item: "aetherworks:aether_ore",
+		count: 8
+	}]
+}

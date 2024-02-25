@@ -1,0 +1,26 @@
+{
+	title: "Создайте Губку для выбросов",
+	x: -19.5d,
+	y: -10.0d,
+	description: "МИСТЕР ПРОПЕР УРОВНЯ БОГ",
+	dependencies: [
+		"095bb958"
+	],
+	tasks: [{
+		uid: "603d4105",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:creative_flux_sponge"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3d2e2010",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

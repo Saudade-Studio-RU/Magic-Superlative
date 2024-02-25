@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	description: "Дополнение AetherWorks",
+	dependencies: [
+		"c233b808"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5e6e0a77",
+		type: "checkmark",
+		title: "Начните Изучение финальной стадии Embers"
+	}]
+}

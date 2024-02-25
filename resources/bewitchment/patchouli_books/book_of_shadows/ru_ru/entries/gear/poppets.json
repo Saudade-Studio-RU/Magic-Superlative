@@ -1,0 +1,91 @@
+{
+  "name": "Куклы",
+  "category": "gear",
+  "icon": "bewitchment:poppet",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Куклы - маленькие куклы, привязанные к цели, обычно владельцу, чтобы защитить их от любого вида вреда. Сказанно что куклы могут также использоваться ведьмами, которые хотят наложить вуду на тех, кто противостоит им. Куклы можно носить на лице ведьмы или поместить на специальную полку, чтобы они были в безопасности. $(o)Испанский мох жизненно важен для создания кукол, поэтому прогулка на болото может быть хорошей идеей."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet",
+	  "text": "Базовая кукла для всех ваших крафтов, ничего не делает и не может быть связана. $(br)$(o)Примечание: Куклы должны быть активными. Привяжите куклу, держа в одной руке куклу, а в другой - метку цели."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_armor",
+	  "text": "Предотвращает разрушение доспехов, вместо этого разбивается кукла. (W.I.P)"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_tool",
+	  "text": "Как и его вариант брони, кукла сломается вместо вашего инструмента, сохраняя его для последнего использования."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_binding",
+	  "text": "Замедляет тех, кто на тебя нападает"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_clumsy",
+	  "text": "Дает шанс заставить нападающих бросить оружие"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_deathprotection",
+	  "text": "Помогает обмануть смерть, всего один раз"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_earthprotection",
+	  "text": "Уменьшает урон от падения"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_flameprotection",
+	  "text": "Уменьшает урон от огня"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_waterprotection",
+	  "text": "Защищает владельца от утопления на короткое время"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_hungerprotection",
+	  "text": "Уменьшает урон от голода и немного кормит пользователя"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_judgement",
+	  "text": "Снижает урон от вампиров и оборотней (W.I.P)"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_spiritbane",
+	  "text": "Уменьшает урон от духов"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_vampiric",
+	  "text": "Перенаправляет урон, который вы принимаете, на того, к кому он привязан. $(r)Необходимо иметь при себе в инвентаре"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_voodooprotection",
+	  "text": "Защищает от вампиров и кукол вуду. (W.I.P)"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_voodoo",
+	  "text": "Привязать ее к цели и правой кнопкой мыши с костяными иглами в вашем инвентаре нанесет некоторый урон указанной цели."
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:poppet_wasting",
+	  "text": "Вызывает голод у того, кто нападает на владельца этой куклы"
+	}
+  ]
+}

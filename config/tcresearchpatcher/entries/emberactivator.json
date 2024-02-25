@@ -17,7 +17,7 @@
         },
         {
           "text": "research.EMBACTIVATOR.text.stage.2",
-          "recipes": [ "embers:ember_activator", "embers:ember_pulser", "embers:ember_relay" ]
+          "recipes": [ "thaumcraft:Emberactivatorrecipe", "embers:ember_emitter", "embers:ember_receiver" ]
         }
       ]
     }

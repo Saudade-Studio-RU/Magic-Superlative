@@ -1,0 +1,52 @@
+{
+  "name": "Продвинутые пары",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:cleansing_balm",
+  "sortnum": 2,
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "Основные пары могут быть объединены в дистилляторе с другими реагентами, включая другие пары, чтобы сделать более продвинутые смеси, используемые в более мощных формах магии."
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:cleansing_balm",
+	  "text": "Мазь с очищающей силой"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:demonic_elixir",
+	  "text": "Мерзкая смесь, пропитанная сущностью демона."
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:fiery_unguent",
+	  "text": "Получите ваши острые мемы здесь"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:oil_of_vitriol",
+	  "text": "Жестокая и горькая критика"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:swirl_of_depths",
+	  "text": "$(o)Это может быть своего рода гипнозом."
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:heaven_extract",
+	  "text": "С небес"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:stone_ichor",
+	  "text": "Земляная смесь"
+	},
+	{
+	  "type": "bewitchment:distillery_recipe",
+	  "recipe": "bewitchment:otherworld_tears",
+	  "text": "Если вы внимательно прислушаетесь, то услышите, как она плачет. ~"
+	}
+  ]
+}
