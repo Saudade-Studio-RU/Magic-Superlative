@@ -9,7 +9,6 @@
 	y: 3.5d,
 	description: "Пора зачистить лабиринт!",
 	dependencies: [
-		"e2704c58",
 		"a03fb208"
 	],
 	tasks: [{

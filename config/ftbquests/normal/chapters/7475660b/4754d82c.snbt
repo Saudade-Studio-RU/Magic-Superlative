@@ -6,6 +6,7 @@
 	dependencies: [
 		"32b4fc13"
 	],
+	hide: true,
 	tasks: [{
 		uid: "12f68a43",
 		type: "observation",

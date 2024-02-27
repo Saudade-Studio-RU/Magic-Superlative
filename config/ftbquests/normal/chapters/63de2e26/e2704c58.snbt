@@ -3,6 +3,9 @@
 	x: 8.5d,
 	y: 2.0d,
 	description: "Лабиринт, минотавры, грибы",
+	dependencies: [
+		"23572e10"
+	],
 	hide: true,
 	tasks: [{
 		uid: "88d4bcc5",

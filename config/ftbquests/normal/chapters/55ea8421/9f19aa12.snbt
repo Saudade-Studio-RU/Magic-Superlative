@@ -1,25 +1,26 @@
 {
-	x: -3.0d,
-	y: 0.0d,
-	description: "Держать всегда с собой",
+	title: "Создайте Прото клей",
+	x: -15.0d,
+	y: -11.0d,
+	description: "Без переключений",
 	dependencies: [
-		"e0da27f2"
+		"2f0084b8",
+		"095bb958"
 	],
-	hide: true,
 	tasks: [{
-		uid: "b1bc3105",
+		uid: "f4d80b8c",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
 			},
-			id: "thaumcraft:thaumometer"
+			id: "ichoriumkit:proto_clay"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "a0db2f52",
+		uid: "bb3c74bc",
 		type: "ftbmoney:money",
 		ftb_money: 25L
 	}]

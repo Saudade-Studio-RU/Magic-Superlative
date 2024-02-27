@@ -8,6 +8,7 @@
 	dependencies: [
 		"f2aeae6a"
 	],
+	hide: true,
 	tasks: [{
 		uid: "2390571d",
 		type: "checkmark",

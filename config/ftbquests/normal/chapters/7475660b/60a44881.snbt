@@ -1,11 +1,12 @@
 {
-	title: "Создайте или найдите Адский кодекс",
+	title: "Найдите Адский кодекс",
 	x: 11.5d,
 	y: 0.0d,
 	description: "Контракт с дьяволом",
 	dependencies: [
 		"3e2e2219"
 	],
+	hide: true,
 	size: 1.3d,
 	tasks: [{
 		uid: "6ef1168d",

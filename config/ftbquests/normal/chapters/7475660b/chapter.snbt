@@ -8,5 +8,16 @@
 	},
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: ""
+	default_quest_shape: "",
+	images: [{
+		x: 10.0d,
+		y: -6.0d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "ftbquests:pictures/bewitchment_logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
 }

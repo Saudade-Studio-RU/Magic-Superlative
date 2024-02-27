@@ -53,7 +53,7 @@ mods.astralsorcery.Altar.addTraitAltarRecipe("astralsorcery:shaped/internal/alta
     //Outer Items, indices 25+
     <ore:livingwoodTwig>, <ore:livingwoodTwig>, <ore:livingwoodTwig>, <ore:livingwoodTwig>, <ore:livingwoodTwig>
 ],
-"astralsorcery.constellation.pelotrio");
+"astralsorcery.constellation.horologium");
 mods.astralsorcery.Altar.addTraitAltarRecipe("astralsorcery:shaped/internal/altar/terrasteelchest", <botania:terrasteelchest>, 4500, 400, [
     <botania:manaresource:4>, <naturesaura:infused_iron_chest>, <botania:manaresource:4>,<naturesaura:sky_ingot>, <botania:manasteelchest>, 
     <naturesaura:sky_ingot>, <embers:ashen_cloth>, <ore:runeSummerB>, <embers:ashen_cloth>,<botania:manaresource:3>, 
@@ -93,7 +93,7 @@ mods.astralsorcery.Altar.addTraitAltarRecipe("astralsorcery:shaped/internal/alta
     //Outer Items, indices 25+
     <ore:livingwoodTwig>, <botania:manasteelsword>, <botania:elementiumsword>, <thaumcraft:thaumium_sword>
 ],
-"astralsorcery.constellation.alcara");
+"astralsorcery.constellation.evorsio");
 mods.astralsorcery.Altar.addTraitAltarRecipe("astralsorcery:shaped/internal/altar/terrasteelpick", <botania:terrapick>.withTag({mana: 9999}), 4500, 400, [
     <ore:ingotTerrasteel>, <naturesaura:infused_iron_pickaxe>, <ore:ingotTerrasteel>,<thaumcraft:nugget:10>, <botania:manatablet>, 
     <thaumcraft:nugget:10>, null, <ore:livingwoodTwig>, null,null, 
@@ -103,7 +103,7 @@ mods.astralsorcery.Altar.addTraitAltarRecipe("astralsorcery:shaped/internal/alta
     //Outer Items, indices 25+
     <botania:manasteelpick>, <bloodmagic:sentient_pickaxe>, <thaumadditions:void_elemental_pickaxe>, <twilightforest:fiery_pickaxe>, <embers:pickaxe_clockwork>, <evilcraft:vengeance_pickaxe>
 ],
-"astralsorcery.constellation.ulteria");
+"astralsorcery.constellation.mineralis");
 mods.astralsorcery.Altar.addTraitAltarRecipe("astralsorcery:shaped/internal/altar/gaiaingot", <botania:manaresource:14>, 4500, 400, [
     <ore:ingotEthaxium>, <naturesaura:sky_ingot>, <ore:ingotMithrillium>,<naturesaura:sky_ingot>, <ore:ingotTerrasteel>, 
     <naturesaura:sky_ingot>, <ore:ingotMithrillium>, <naturesaura:sky_ingot>, <ore:ingotEthaxium>,null, 
@@ -113,5 +113,5 @@ mods.astralsorcery.Altar.addTraitAltarRecipe("astralsorcery:shaped/internal/alta
     //Outer Items, indices 25+
     <naturesaura:gold_leaf>, <naturesaura:gold_leaf>, <naturesaura:gold_leaf>, <naturesaura:gold_leaf>
 ],
-"astralsorcery.constellation.alcara");
+"astralsorcery.constellation.octans");
 

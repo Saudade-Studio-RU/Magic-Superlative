@@ -1,7 +1,7 @@
 {
 	title: "Стабилизация наполнения",
 	icon: "thaumcraft:stabilizer",
-	x: 8.5d,
+	x: 9.5d,
 	y: -10.0d,
 	description: "Стабилизаторы - зло!",
 	text: [

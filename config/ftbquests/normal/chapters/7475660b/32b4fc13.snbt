@@ -11,6 +11,7 @@
 	dependencies: [
 		"6e0dd2fe"
 	],
+	hide: true,
 	or_tasks: true,
 	tasks: [{
 		uid: "10bc6dc7",
