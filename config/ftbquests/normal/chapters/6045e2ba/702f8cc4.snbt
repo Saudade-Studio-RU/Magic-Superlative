@@ -1,8 +1,8 @@
 {
-	title: "Палочка мира Ботании",
+	title: "{ftbquests.botania.title.31}",
 	x: 7.0d,
 	y: 0.0d,
-	description: "Функции из листьев!",
+	description: "{ftbquests.botania.sub.31}",
 	dependencies: [
 		"8302e288"
 	],

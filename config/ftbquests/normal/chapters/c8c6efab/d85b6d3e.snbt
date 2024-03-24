@@ -9,7 +9,6 @@
 	tasks: [{
 		uid: "442c29d0",
 		type: "item",
-		title: "Железный слиток x32",
 		items: [{
 			ForgeCaps: {
 				Parent: {

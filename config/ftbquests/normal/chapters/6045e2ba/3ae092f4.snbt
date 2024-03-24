@@ -1,7 +1,7 @@
 {
 	x: 6.0d,
 	y: 5.5d,
-	description: "Мана за книги",
+	description: "{ftbquests.botania.title.7}",
 	dependencies: [
 		"ee38887d"
 	],

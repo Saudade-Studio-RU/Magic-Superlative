@@ -1,8 +1,8 @@
 {
-	title: "Создайте Измерители",
+	title: "{ftbquests.embers.title.21}",
 	x: 3.0d,
 	y: 3.0d,
-	description: "Ну хоть какая то информация",
+	description: "{ftbquests.embers.sub.21}",
 	dependencies: [
 		"5f0d7246"
 	],

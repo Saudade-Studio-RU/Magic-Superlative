@@ -1,8 +1,8 @@
 {
-	title: "Доспехи Убийцы Гоблинов",
+	title: "{ftbquests.botania.title.45}",
 	x: 20.0d,
 	y: -1.0d,
-	description: "Гоблинов тут нет, но где то я их уже видел",
+	description: "{ftbquests.botania.sub.45}",
 	dependencies: [
 		"8a0dfbc9"
 	],

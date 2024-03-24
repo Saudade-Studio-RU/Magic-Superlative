@@ -1,8 +1,8 @@
 {
-	title: "Подружитесь с одной из колоний и выторгуйте Яйцо Королевы",
+	title: "{ftbquests.iaf.title.15}",
 	x: -6.0d,
 	y: -3.0d,
-	description: "Собственная колония!",
+	description: "{ftbquests.iaf.sub.15}",
 	dependencies: [
 		"2a91fa69"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Эмбер-инжектор",
+	title: "{ftbquests.embers.title.28}",
 	x: 24.0d,
 	y: 2.0d,
-	description: "Выращивание металлургических кристаллов",
+	description: "{ftbquests.embers.sub.28}",
 	dependencies: [
 		"c233b808"
 	],

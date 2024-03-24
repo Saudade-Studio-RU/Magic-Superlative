@@ -1,8 +1,8 @@
 {
-	title: "Начните изучение Архивов Арканы",
+	title: "{ftbquests.superlative.title.15}",
 	x: 2.0d,
 	y: 5.0d,
-	description: "Начните изучать магические методы хранения ресурсов",
+	description: "{ftbquests.superlative.sub.15}",
 	dependencies: [
 		"504c27b7"
 	],

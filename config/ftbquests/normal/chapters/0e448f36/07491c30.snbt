@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Улучшенный комплект скорости",
+	title: "{ftbquests.vampirism.title.19}",
 	x: 11.0d,
 	y: -4.0d,
-	description: "-Защита, +Скорость",
+	description: "{ftbquests.vampirism.sub.19}",
 	dependencies: [
 		"d7a84dae"
 	],

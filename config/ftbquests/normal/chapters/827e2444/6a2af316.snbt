@@ -1,8 +1,8 @@
 {
-	title: "Создайте Второй Мистический код",
+	title: "{ftbquests.mahou.title.2}",
 	x: -10.0d,
 	y: 0.0d,
-	description: "Почти бесконечные свитки",
+	description: "{ftbquests.mahou.sub.2}",
 	dependencies: [
 		"e35a150e"
 	],

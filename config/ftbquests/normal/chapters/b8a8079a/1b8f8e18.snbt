@@ -1,10 +1,10 @@
 {
-	title: "Сделайте первые заметки о небесах ",
+	title: "{ftbquests.thaumcraft.title.3}",
 	x: -5.0d,
 	y: 2.5d,
-	description: "Помогут в исследованиях и получении теорий",
+	description: "{ftbquests.thaumcraft.sub.3}",
 	text: [
-		"Нажмите ПКМ Таумометром по небесным объектам, имея в инвентаре бумагу и письменные принадлежности"
+		"{ftbquests.thaumcraft.desc.3}"
 	],
 	dependencies: [
 		"e32115cb"

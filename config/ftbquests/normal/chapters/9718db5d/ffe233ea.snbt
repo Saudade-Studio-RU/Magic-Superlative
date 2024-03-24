@@ -1,8 +1,8 @@
 {
-	title: "Увеличение вместимости Алтаря",
+	title: "{ftbquests.bm.title.53}",
 	x: 3.5d,
 	y: 10.5d,
-	description: "Сколько же там крови?",
+	description: "{ftbquests.bm.sub.53}",
 	dependencies: [
 		"809d3c2c"
 	],

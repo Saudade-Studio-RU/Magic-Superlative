@@ -1,8 +1,8 @@
 {
-	title: "Создайте Сияющий верстак",
+	title: "{ftbquests.archives.title.13}",
 	x: 5.0d,
 	y: 2.0d,
-	description: "Лучший верстак",
+	description: "{ftbquests.archives.sub.13}",
 	dependencies: [
 		"3fbf8f60"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Заряженный кристалльный инструмент",
+	title: "{ftbquests.sorcery.title.25}",
 	x: 10.0d,
 	y: 8.5d,
-	description: "Максимальный инструмент",
+	description: "{ftbquests.sorcery.sub.25}",
 	dependencies: [
 		"91d69d85"
 	],

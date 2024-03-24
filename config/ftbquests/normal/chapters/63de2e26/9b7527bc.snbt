@@ -1,7 +1,7 @@
 {
 	x: 14.5d,
 	y: 0.0d,
-	description: "Холодное сердце",
+	description: "{ftbquests.twilight.title.1}",
 	dependencies: [
 		"fde42018"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Прото клей",
+	title: "{ftbquests.various.title.13}",
 	x: -15.0d,
 	y: -11.0d,
-	description: "Без переключений",
+	description: "{ftbquests.various.sub.13}",
 	dependencies: [
 		"2f0084b8",
 		"095bb958"

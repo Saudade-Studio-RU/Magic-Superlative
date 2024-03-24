@@ -1,8 +1,8 @@
 {
-	title: "Создайте Рассадник монстров",
+	title: "{ftbquests.various.title.29}",
 	x: -6.0d,
 	y: -7.0d,
-	description: "TIME TO FARM",
+	description: "{ftbquests.various.sub.29}",
 	tasks: [{
 		uid: "32f8e7c1",
 		type: "item",

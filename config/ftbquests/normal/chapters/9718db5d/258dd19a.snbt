@@ -1,9 +1,9 @@
 {
-	title: "Сделайте 5 уровень Кровавого алтаря",
+	title: "{ftbquests.bm.title.20}",
 	icon: "bloodmagic:altar",
 	x: 16.0d,
 	y: 4.0d,
-	description: "Бесконечность не предел?",
+	description: "{ftbquests.bm.sub.20}",
 	dependencies: [
 		"01a15b9e"
 	],

@@ -1,10 +1,10 @@
 {
-	title: "Создайте Линзу маны",
+	title: "{ftbquests.botania.title.57}",
 	x: 12.5d,
 	y: 1.5d,
-	description: "Улучшение распространителей",
+	description: "{ftbquests.botania.sub.57}",
 	text: [
-		"Создаваемый предмет - лишь основа для будущих улучшений. Подробнее в лексиконе и JEI"
+		"{ftbquests.botania.desc.57}"
 	],
 	dependencies: [
 		"d5f03da1"

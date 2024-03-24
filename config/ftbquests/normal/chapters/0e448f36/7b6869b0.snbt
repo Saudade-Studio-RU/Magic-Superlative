@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "928935b3",
 		type: "checkmark",
-		title: "Добро пожаловать в Вампиризм!",
+		title: "{ftbquests.vampirism.title.12}",
 		icon: {
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

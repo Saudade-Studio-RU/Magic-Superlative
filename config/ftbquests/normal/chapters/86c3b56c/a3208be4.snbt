@@ -1,8 +1,8 @@
 {
-	title: "Создайте Посох Расщепления из Омотула",
+	title: "{ftbquests.abyssal.title.29}",
 	x: 31.0d,
 	y: 2.0d,
-	description: "Тьма поглощает тьму",
+	description: "{ftbquests.abyssal.sub.29}",
 	dependencies: [
 		"e7647760",
 		"64eda538"

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пустой свиток",
+	title: "{ftbquests.wizardry.title.15}",
 	x: 9.0d,
 	y: 2.0d,
-	description: "Заклинания без трат маны",
+	description: "{ftbquests.wizardry.sub.15}",
 	dependencies: [
 		"954bfe15"
 	],

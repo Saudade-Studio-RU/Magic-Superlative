@@ -1,11 +1,11 @@
 {
-	title: "Эволюция линз 2 ",
+	title: "{ftbquests.thaumcraft.title.14}",
 	x: -2.0d,
 	y: 10.0d,
 	shape: "square",
-	description: "Продолжение!",
+	description: "{ftbquests.thaumcraft.sub.14}",
 	text: [
-		"Палочку Пехта просканируйте таумометром и потратьте в Таумономиконе"
+		"{ftbquests.thaumcraft.title.13}"
 	],
 	dependencies: [
 		"15e82599"

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Покрытый Кораллом комплект",
+	title: "{ftbquests.abyssal.title.30}",
 	x: 10.0d,
 	y: -5.5d,
-	description: "Иммунитет к Кораллу",
+	description: "{ftbquests.abyssal.sub.30}",
 	dependencies: [
 		"842cdfc8"
 	],

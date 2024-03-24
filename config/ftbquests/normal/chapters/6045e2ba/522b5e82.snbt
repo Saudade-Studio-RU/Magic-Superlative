@@ -2,10 +2,10 @@
 	x: 24.0d,
 	y: -3.0d,
 	shape: "hexagon",
-	description: "Битва с самим собой вот вот начнётся...",
+	description: "{ftbquests.botania.sub.30}",
 	text: [
-		"Постройте конструкцию из Лексикона Ботании, для неё необходимо 9 блоков для Маяка, Маяк и Пилоны Гайи",
-		"Ритуал Гайи"
+		"{ftbquests.botania.desc.30.1}",
+		"{ftbquests.botania.desc.30.2}"
 	],
 	dependencies: [
 		"1bff0190"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "dbaaf266",
 		type: "kill",
-		title: "Убейте Стража Гайи",
+		title: "{ftbquests.botania.title.30}",
 		entity: "botania:doppleganger",
 		value: 1L
 	}],

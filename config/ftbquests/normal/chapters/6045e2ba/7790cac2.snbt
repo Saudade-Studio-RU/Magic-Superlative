@@ -1,7 +1,7 @@
 {
 	x: -1.0d,
 	y: -4.0d,
-	description: "Мана за опыт",
+	description: "{ftbquests.botania.title.34}",
 	dependencies: [
 		"840cc22e"
 	],

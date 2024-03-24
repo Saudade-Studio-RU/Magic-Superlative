@@ -1,7 +1,7 @@
 {
 	x: 31.0d,
 	y: -2.0d,
-	description: "Вы встретите его на 0-ых координатах",
+	description: "{ftbquests.abyssal.sub.2}",
 	dependencies: [
 		"e7647760"
 	],
@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "3ad58b03",
 		type: "kill",
-		title: "Убейте Джа-зара, Стража Бездны",
+		title: "{ftbquests.abyssal.title.2}",
 		entity: "abyssalcraft:jzahar",
 		value: 1L
 	}],

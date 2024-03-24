@@ -1,7 +1,7 @@
 {
 	x: -18.0d,
 	y: -15.5d,
-	description: "Увековечено в камне",
+	description: "{ftbquests.various.title.17}",
 	dependencies: [
 		"3a360189"
 	],

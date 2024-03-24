@@ -1,9 +1,9 @@
 {
-	title: "Эволюция линз",
+	title: "{ftbquests.thaumcraft.title.16}",
 	x: -2.0d,
 	y: 7.5d,
 	shape: "circle",
-	description: "Больше и сильнее",
+	description: "{ftbquests.thaumcraft.sub.16}",
 	dependencies: [
 		"f4a1f4bc"
 	],

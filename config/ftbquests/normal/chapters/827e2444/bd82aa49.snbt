@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мистический код",
+	title: "{ftbquests.mahou.title.12}",
 	x: 3.0d,
 	y: 3.0d,
-	description: "Перчатка для свитков",
+	description: "{ftbquests.mahou.sub.12}",
 	dependencies: [
 		"b764085d"
 	],

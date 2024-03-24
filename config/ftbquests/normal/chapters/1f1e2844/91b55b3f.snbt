@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кристалльное хранилище Эмбера",
+	title: "{ftbquests.embers.title.18}",
 	x: 8.0d,
 	y: 4.0d,
-	description: "Энергетическое ядро местного разлива",
+	description: "{ftbquests.embers.sub.18}",
 	dependencies: [
 		"180f8e23"
 	],

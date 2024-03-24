@@ -1,8 +1,8 @@
 {
-	title: "Создайте Прялку",
+	title: "{ftbquests.bewitch.title.7}",
 	x: 4.5d,
 	y: 3.0d,
-	description: "Обработка ткани и не только",
+	description: "{ftbquests.bewitch.sub.7}",
 	dependencies: [
 		"a596851a"
 	],

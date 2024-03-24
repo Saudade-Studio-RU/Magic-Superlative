@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Кольцо шагающего по облакам",
+	title: "{ftbquests.thaumcraft.title.13}",
 	x: 11.5d,
 	y: -8.5d,
-	description: "Теперь и вы в облаках",
+	description: "{ftbquests.thaumcraft.sub.13}",
 	dependencies: [
 		"974ba2ae"
 	],

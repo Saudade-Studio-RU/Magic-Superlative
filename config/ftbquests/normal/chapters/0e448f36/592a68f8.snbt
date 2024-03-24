@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кресло для инъекций",
+	title: "{ftbquests.vampirism.title.18}",
 	x: 3.0d,
 	y: -2.0d,
-	description: "Проводим операции",
+	description: "{ftbquests.vampirism.sub.18}",
 	dependencies: [
 		"7b6869b0"
 	],

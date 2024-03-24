@@ -1,8 +1,8 @@
 {
-	title: "Создайте Разделитель луча",
+	title: "{ftbquests.embers.title.5}",
 	x: 9.0d,
 	y: -4.0d,
-	description: "Один выход - много входов",
+	description: "{ftbquests.embers.sub.5}",
 	dependencies: [
 		"157b5ace"
 	],

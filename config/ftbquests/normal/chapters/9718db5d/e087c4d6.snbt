@@ -1,8 +1,8 @@
 {
-	title: "Создайте Сигил скорости",
+	title: "{ftbquests.bm.title.43}",
 	x: -9.0d,
 	y: 3.0d,
-	description: "Boost за кровь",
+	description: "{ftbquests.bm.sub.43}",
 	dependencies: [
 		"588f6c78"
 	],

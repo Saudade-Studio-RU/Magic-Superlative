@@ -1,10 +1,10 @@
 {
-	title: "Создайте Жемчужину Преобразования",
+	title: "{ftbquests.abyssal.title.38}",
 	x: 6.0d,
 	y: -4.0d,
-	description: "Ядро тьмы",
+	description: "{ftbquests.abyssal.sub.38}",
 	text: [
-		"Обратите внимание, что Алтарь можно создать только в пределах одного чанка!"
+		"{ftbquests.abyssal.desc.38}"
 	],
 	dependencies: [
 		"61cd8f55",

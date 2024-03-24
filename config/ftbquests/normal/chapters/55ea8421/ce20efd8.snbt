@@ -1,9 +1,9 @@
 {
-	title: "Создайте Том опыта",
+	title: "{ftbquests.various.title.35}",
 	x: -3.0d,
 	y: -5.0d,
 	shape: "square",
-	description: "Хранилище опыта",
+	description: "{ftbquests.various.sub.35}",
 	tasks: [{
 		uid: "168d763c",
 		type: "item",

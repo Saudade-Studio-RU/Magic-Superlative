@@ -1,8 +1,8 @@
 {
-	title: "Верстак-недвижимость",
+	title: "[ftbquests.thaumcraft.title.45]",
 	x: 15.0d,
 	y: 4.0d,
-	description: "Тысячи вис в одном блоке!",
+	description: "{ftbquests.thaumcraft.sub.45}",
 	dependencies: [
 		"61862465"
 	],

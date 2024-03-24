@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Улучшенный комплект Охотника",
+	title: "{ftbquests.vampirism.title.29}",
 	x: 11.0d,
 	y: -6.0d,
-	description: "Золотая середина",
+	description: "{ftbquests.vampirism.sub.29}",
 	dependencies: [
 		"d7a84dae"
 	],

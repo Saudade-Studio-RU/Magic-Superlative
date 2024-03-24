@@ -1,8 +1,8 @@
 {
-	title: "Встретьте Мирмексов",
+	title: "{ftbquests.iaf.title.3}",
 	x: -3.0d,
 	y: -3.0d,
-	description: "Муравьи следующего поколения",
+	description: "{ftbquests.iaf.sub.3}",
 	dependencies: [
 		"7986f9bf"
 	],
@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "09c33ba5",
 		type: "observation",
-		title: "Встертьте Мирмекса-рабочего",
+		title: "{ftbquests.iaf.desc.3}",
 		icon: "iceandfire:myrmex_desert_resin",
 		match_type: "entity_id",
 		match: "iceandfire:myrmex_worker",

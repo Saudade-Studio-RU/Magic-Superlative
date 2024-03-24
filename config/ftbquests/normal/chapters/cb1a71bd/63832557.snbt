@@ -1,10 +1,10 @@
 {
-	title: "Начните изучение EvilCraft",
+	title: "{ftbquests.superlative.title.14}",
 	x: 4.0d,
 	y: 5.0d,
-	description: "Начните исследование тёмных исскуств и манипуляциям кровью",
+	description: "{ftbquests.superlative.sub.14}",
 	text: [
-		"Скормите Яблоко другому существу, после смерти которого появится разлом. Бросьте в разлом книгу"
+		"{ftbquests.superlative.desc.14}"
 	],
 	dependencies: [
 		"6ef484c5"

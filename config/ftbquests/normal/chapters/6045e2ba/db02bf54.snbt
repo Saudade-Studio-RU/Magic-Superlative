@@ -1,8 +1,8 @@
 {
-	title: "Базовые руны",
+	title: "{ftbquests.botania.title.55}",
 	x: 14.0d,
 	y: 2.5d,
-	description: "Когда-то давно, четыре народа жили в мире...",
+	description: "{ftbquests.botania.sub.55}",
 	dependencies: [
 		"9a31cf0d"
 	],

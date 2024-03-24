@@ -1,8 +1,8 @@
 {
-	title: "Создайте Движущиеся солнечные часы",
+	title: "{ftbquests.nataura.title.19}",
 	x: 16.0d,
 	y: 2.0d,
-	description: "Изменение времени по прихоти природы",
+	description: "{ftbquests.nataura.sub.19}",
 	dependencies: [
 		"eb74ddef"
 	],

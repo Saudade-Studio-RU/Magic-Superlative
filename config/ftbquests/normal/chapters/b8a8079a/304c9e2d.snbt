@@ -1,8 +1,8 @@
 {
-	title: "Чернильница из вис (см. Thaumic Additions)",
+	title: "{ftbquests.thaumcraft.title.30}",
 	x: -8.5d,
 	y: -3.5d,
-	description: "Долго заряжать, но лучше чем ничего",
+	description: "{ftbquests.thaumcraft.sub.30}",
 	dependencies: [
 		"c09ce581"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Сигилы воды и лавы",
+	title: "{ftbquests.bm.title.47}",
 	x: -6.0d,
 	y: 6.0d,
-	description: "Вода и лава за кровь",
+	description: "{ftbquests.bm.sub.47}",
 	dependencies: [
 		"5fd23f9f"
 	],

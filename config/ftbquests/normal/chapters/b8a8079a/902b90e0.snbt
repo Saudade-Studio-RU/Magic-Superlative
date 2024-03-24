@@ -1,9 +1,9 @@
 {
-	title: "Мистические светильники",
+	title: "{ftbquests.thaumcraft.title.35}",
 	x: 10.0d,
 	y: 0.5d,
 	shape: "circle",
-	description: "Для животоводства - лучшее решение",
+	description: "{ftbquests.thaumcraft.sub.35}",
 	dependencies: [
 		"037bec19"
 	],

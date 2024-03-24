@@ -1,11 +1,8 @@
 {
-	title: "Начните изучать Ботанию",
+	title: "{ftbquests.superlative.title.11}",
 	x: 4.0d,
 	y: -3.0d,
-	description: "Начните изучение расительности и маны",
-	text: [
-		"Найдите или сделайте Лексикон Ботании"
-	],
+	description: "{ftbquests.superlative.sub.11}",
 	dependencies: [
 		"504c27b7"
 	],

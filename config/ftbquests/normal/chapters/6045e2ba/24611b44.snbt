@@ -1,8 +1,8 @@
 {
-	title: "МанаАлхимияИзмерений",
+	title: "{ftbquests.botania.title.36}",
 	x: 10.5d,
 	y: -3.0d,
-	description: "Вещи из другого мира через ману!",
+	description: "{ftbquests.botania.sub.36}",
 	dependencies: [
 		"4163cc02"
 	],

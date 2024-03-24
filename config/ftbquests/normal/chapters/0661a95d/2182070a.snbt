@@ -1,10 +1,10 @@
 {
-	title: "Создайте Зельевой Самоцвет",
+	title: "{ftbquests.aetherworks.title.10}",
 	x: 13.0d,
 	y: 0.0d,
-	description: "Вечность луны",
+	description: "{ftbquests.aetherworks.sub.10}",
 	text: [
-		"Самоцет можно зарядить любым обычным Зельем, после чего, вставив его в Корону (Все это делается крафтом), Корона будет воспроизводить его эффект Бесконечно, пока она на голове."
+		"{ftbquests.aetherworks.desc.10}"
 	],
 	dependencies: [
 		"79276d5c"

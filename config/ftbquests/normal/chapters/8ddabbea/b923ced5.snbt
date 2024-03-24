@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мифминитовую банку",
+	title: "{ftbquests.additions.title.18}",
 	x: 7.0d,
 	y: -2.0d,
-	description: "До 4000",
+	description: "{ftbquests.additions.sub.18}",
 	dependencies: [
 		"efe32993",
 		"fbad08d7"

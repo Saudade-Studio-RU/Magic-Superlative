@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Стол исследований",
+	title: "{ftbquests.thaumcraft.title.67}",
 	x: -5.0d,
 	y: 0.0d,
-	description: "Нажмите Письменными принадлежностями ПКМ по столу",
+	description: "{ftbquests.thaumcraft.sub.67}",
 	dependencies: [
 		"b2a971df"
 	],

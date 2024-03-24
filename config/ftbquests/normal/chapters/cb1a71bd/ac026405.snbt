@@ -1,5 +1,5 @@
 {
-	title: "Начните изучение Волшебства (Electroblob)",
+	title: "{ftbquests.superlative.title.16}",
 	icon: {
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
@@ -8,7 +8,7 @@
 	},
 	x: -4.0d,
 	y: -3.0d,
-	description: "Начните изучение магических кристаллов, волшебных палочек и разнообразных заклинаний",
+	description: "{ftbquests.superlative.sub.16}",
 	dependencies: [
 		"504c27b7"
 	],

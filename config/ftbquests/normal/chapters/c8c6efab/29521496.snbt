@@ -1,12 +1,12 @@
 {
-	title: "Баг с FTB Money",
+	title: "{ftbquests.shop.title.6}",
 	x: 2.0d,
 	y: -2.0d,
 	shape: "pentagon",
-	description: "После смерти из-за бага мода вы можете потерять свои деньги",
+	description: "{ftbquests.shop.sub.6}",
 	text: [
-		"Но не волнуйтесь, это лишь визуальный баг. Что бы исправить отображение монет, вы может перезайти на сервер или мир, или воспользоваться самодельным \"обновлением\"",
-		"Потратьте 1 монету и верните её - монеты обновятся и без выхода."
+		"{ftbquests.shop.desc.6.1}",
+		"{ftbquests.shop.desc.6.2}"
 	],
 	can_repeat: true,
 	optional: true,

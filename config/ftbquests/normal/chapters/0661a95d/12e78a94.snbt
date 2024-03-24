@@ -1,5 +1,5 @@
 {
-	title: "Сделайте любую Эфировую кирку",
+	title: "{ftbquests.aetherworks.title.4}",
 	x: 12.0d,
 	y: -2.0d,
 	dependencies: [

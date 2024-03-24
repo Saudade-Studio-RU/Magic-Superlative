@@ -1,8 +1,8 @@
 {
-	title: "Создайте Калибровщик",
+	title: "{ftbquests.mahou.title.1}",
 	x: 6.0d,
 	y: -3.0d,
-	description: "Очередная батарейка для очередной маны",
+	description: "{ftbquests.mahou.sub.1}",
 	dependencies: [
 		"342bc1c6"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Адский Брелок",
+	title: "{ftbquests.bewitch.title.29}",
 	x: 12.5d,
 	y: 1.5d,
-	description: "Адский атрибут",
+	description: "{ftbquests.bewitch.sub.29}",
 	dependencies: [
 		"6e0dd2fe"
 	],

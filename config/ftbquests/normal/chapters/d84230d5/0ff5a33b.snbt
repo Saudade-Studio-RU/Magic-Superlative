@@ -1,8 +1,8 @@
 {
-	title: "Создайте Блестящие волокна",
+	title: "{ftbquests.nataura.title.2}",
 	x: 2.0d,
 	y: 0.0d,
-	description: "Они светятся",
+	description: "{ftbquests.nataura.sub.2}",
 	dependencies: [
 		"aeb1c6ed"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Фокус мщения для помещения духа внутрь",
+	title: "{ftbquests.ec.title.34}",
 	x: 11.0d,
 	y: -4.0d,
-	description: "Связывание духов",
+	description: "{ftbquests.ec.sub.34}",
 	dependencies: [
 		"e4364a79"
 	],

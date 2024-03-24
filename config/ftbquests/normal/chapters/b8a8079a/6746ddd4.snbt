@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Голодный сундук",
+	title: "{ftbquests.thaumcraft.title.38}",
 	x: 7.5d,
 	y: -2.5d,
-	description: "Бесконечно голодный ",
+	description: "{ftbquests.thaumcraft.title.38}",
 	dependencies: [
 		"037bec19"
 	],

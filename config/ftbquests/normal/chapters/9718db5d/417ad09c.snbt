@@ -1,8 +1,8 @@
 {
-	title: "Создайте Жертвенник для курений",
+	title: "{ftbquests.bm.title.22}",
 	x: 4.0d,
 	y: -2.0d,
-	description: "Увеличение подношений",
+	description: "{ftbquests.bm.sub.22}",
 	dependencies: [
 		"0a1369ed"
 	],

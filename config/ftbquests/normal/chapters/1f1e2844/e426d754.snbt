@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пепельную ткань",
+	title: "{ftbquests.embers.title.39}",
 	x: 22.0d,
 	y: 2.0d,
-	description: "Ткань истинного Дварфа",
+	description: "{ftbquests.embers.sub.39}",
 	dependencies: [
 		"49ed73f8"
 	],

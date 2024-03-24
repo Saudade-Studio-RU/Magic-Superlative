@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мистический бур",
+	title: "{ftbquests.thaumcraft.title.2}",
 	x: 10.0d,
 	y: 3.5d,
-	description: "Камень со скоростью света! ",
+	description: "{ftbquests.thaumcraft.sub.2}",
 	dependencies: [
 		"d1c90d9a"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Локатор изломов",
+	title: "{ftbquests.augment.title.7}",
 	x: 0.0d,
 	y: -4.0d,
-	description: "Обнаружение закрытых разломов",
+	description: "{ftbquests.augment.sub.7}",
 	dependencies: [
 		"df0dbec4",
 		"8d031da0"

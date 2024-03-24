@@ -1,7 +1,7 @@
 {
 	x: 2.0d,
 	y: 8.5d,
-	description: "Голем-ночной сторож",
+	description: "{ftbquests.thaumcraft.title.46}",
 	dependencies: [
 		"f3a8159d"
 	],

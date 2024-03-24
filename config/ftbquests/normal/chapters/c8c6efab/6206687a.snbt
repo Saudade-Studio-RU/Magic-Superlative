@@ -1,5 +1,4 @@
 {
-	title: "Клык вампира x16",
 	x: -0.5d,
 	y: -5.0d,
 	can_repeat: true,

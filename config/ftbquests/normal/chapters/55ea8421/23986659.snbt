@@ -1,10 +1,10 @@
 {
-	title: "Зенит ваших мечей",
+	title: "{ftbquests.various.title.28}",
 	x: -6.0d,
 	y: -3.0d,
-	description: "Ультимативное оружие",
+	description: "{ftbquests.various.sub.28}",
 	text: [
-		"Изучите многие аспекты мира что бы получить разные мечи. Но в конце получите его"
+		"{ftbquests.various.desc.28}"
 	],
 	tasks: [{
 		uid: "270b554e",

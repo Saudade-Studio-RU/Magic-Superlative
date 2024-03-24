@@ -1,8 +1,8 @@
 {
-	title: "Создайте Телескоп",
+	title: "{ftbquests.sorcery.title.16}",
 	x: 9.0d,
 	y: 4.0d,
-	description: "Держать не придётся",
+	description: "{ftbquests.sorcery.sub.16}",
 	dependencies: [
 		"a1011c53"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Природные пилоны",
+	title: "{ftbquests.botania.title.52}",
 	x: 13.0d,
 	y: -5.5d,
-	description: "В них ощущается странная сила... что я могу с помощью них сделать?",
+	description: "{ftbquests.botania.sub.52}",
 	dependencies: [
 		"62ecc54c"
 	],

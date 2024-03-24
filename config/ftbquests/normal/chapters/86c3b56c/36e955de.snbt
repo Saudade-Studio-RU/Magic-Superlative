@@ -1,8 +1,8 @@
 {
-	title: "Посетите Тёмные земли",
+	title: "{ftbquests.abyssal.title.8}",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Зло окружает это место",
+	description: "{ftbquests.abyssal.sub.8}",
 	dependencies: [
 		"85092639"
 	],

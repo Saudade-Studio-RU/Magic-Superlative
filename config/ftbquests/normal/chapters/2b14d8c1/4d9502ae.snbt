@@ -1,8 +1,8 @@
 {
-	title: "Найдите Любую Сумеречную книгу заклинаний",
+	title: "{ftbquests.wizardry.title.3}",
 	x: 6.0d,
 	y: 4.0d,
-	description: "Волшебства тёмных лесов",
+	description: "{ftbquests.wizardry.sub.3}",
 	dependencies: [
 		"954bfe15"
 	],

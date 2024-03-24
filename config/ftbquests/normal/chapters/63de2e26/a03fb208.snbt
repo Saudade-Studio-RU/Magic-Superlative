@@ -2,7 +2,7 @@
 	icon: "twilightforest:trophy 1 1",
 	x: 6.5d,
 	y: 0.0d,
-	description: "Король в главной башне",
+	description: "{ftbquests.twilight.title.16}",
 	dependencies: [
 		"592bca4c"
 	],

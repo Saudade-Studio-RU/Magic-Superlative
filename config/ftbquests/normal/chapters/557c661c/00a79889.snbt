@@ -1,8 +1,8 @@
 {
-	title: "Создайте Наблюдающий кристалл",
+	title: "{ftbquests.archives.title.1}",
 	x: 9.0d,
 	y: 2.0d,
-	description: "Связывание хранилищ",
+	description: "{ftbquests.archives.sub.1}",
 	dependencies: [
 		"43d324b8"
 	],

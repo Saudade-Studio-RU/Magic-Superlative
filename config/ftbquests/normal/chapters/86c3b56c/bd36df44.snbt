@@ -1,8 +1,8 @@
 {
-	title: "Выплавите Абиссальнитовый слиток",
+	title: "{ftbquests.abyssal.title.31}",
 	x: 4.5d,
 	y: -2.0d,
-	description: "Слиток с силой пустоты",
+	description: "{ftbquests.abyssal.sub.31}",
 	dependencies: [
 		"61cd8f55"
 	],

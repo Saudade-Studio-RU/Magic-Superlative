@@ -1,8 +1,8 @@
 {
-	title: "Получите Тёмный фрагмент",
+	title: "{ftbquests.abyssal.title.27}",
 	x: 4.5d,
 	y: 0.0d,
-	description: "Сама тьма",
+	description: "{ftbquests.abyssal.sub.27}",
 	dependencies: [
 		"36e955de"
 	],

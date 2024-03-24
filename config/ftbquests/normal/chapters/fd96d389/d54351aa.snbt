@@ -1,8 +1,8 @@
 {
-	title: "Создайте Колодец света",
+	title: "{ftbquests.sorcery.title.31}",
 	x: 11.5d,
 	y: -0.5d,
-	description: "Жидкость из света",
+	description: "{ftbquests.sorcery.sub.31}",
 	dependencies: [
 		"79772da4"
 	],

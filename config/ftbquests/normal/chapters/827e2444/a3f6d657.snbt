@@ -1,8 +1,8 @@
 {
-	title: "Содайте Посох БАБАХ",
+	title: "{ftbquests.mahou.title.8}",
 	x: -6.0d,
 	y: -1.5d,
-	description: "Бакурецу, Бакурецу",
+	description: "{ftbquests.mahou.sub.8}",
 	dependencies: [
 		"342bc1c6"
 	],

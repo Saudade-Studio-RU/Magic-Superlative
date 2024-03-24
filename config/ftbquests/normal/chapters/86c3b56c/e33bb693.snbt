@@ -1,8 +1,8 @@
 {
-	title: "Создайте Материализатор",
+	title: "{ftbquests.abyssal.title.36}",
 	x: 26.0d,
 	y: -4.0d,
-	description: "Материализация не-материи",
+	description: "{{ftbquests.abyssal.sub.36}}",
 	dependencies: [
 		"fef7055f"
 	],

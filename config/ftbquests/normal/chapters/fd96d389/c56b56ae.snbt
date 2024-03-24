@@ -1,8 +1,8 @@
 {
-	title: "Создайте любую Лучистую звезду",
+	title: "{ftbquests.sorcery.title.30}",
 	x: 21.0d,
 	y: 0.5d,
-	description: "Новое без потерь старого",
+	description: "{ftbquests.sorcery.sub.30}",
 	dependencies: [
 		"5fb68e2c"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Медный сундук",
+	title: "{ftbquests.archives.title.8}",
 	x: -4.0d,
 	y: 0.0d,
-	description: "Больше чем в 1",
+	description: "{ftbquests.archives.sub.8}",
 	dependencies: [
 		"e18e4572"
 	],

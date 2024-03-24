@@ -1,10 +1,10 @@
 {
-	title: "Создайте Алтарь звёздного света",
+	title: "{ftbquests.sorcery.title.28}",
 	x: 9.0d,
 	y: 3.0d,
-	description: "Улучшенный верстак",
+	description: "{ftbquests.sorcery.sub.28}",
 	text: [
-		"Для его работы необходима структура, описанная в Журнале"
+		"{ftbquests.sorcery.desc.28}"
 	],
 	dependencies: [
 		"843b67eb",

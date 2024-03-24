@@ -1,8 +1,8 @@
 {
-	title: "Создайте Смешиватель эссенции",
+	title: "{ftbquests.additions.title.19}",
 	x: 1.0d,
 	y: -8.0d,
-	description: "Получение сложного соединением простых",
+	description: "{ftbquests.additions.sub.19}",
 	dependencies: [
 		"643c4a4a"
 	],

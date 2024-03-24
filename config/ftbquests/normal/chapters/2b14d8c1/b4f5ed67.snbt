@@ -1,8 +1,8 @@
 {
-	title: "Найдите или создайте Большой волшебный кристалл",
+	title: "{ftbquests.wizardry.title.12}",
 	x: 3.0d,
 	y: -8.0d,
-	description: "Кладезь волшебства",
+	description: "{ftbquests.wizardry.sub.12}",
 	dependencies: [
 		"0966d7cd"
 	],

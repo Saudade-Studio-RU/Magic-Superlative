@@ -1,5 +1,5 @@
 {
-	title: "Обычный сундук мага",
+	title: "{ftbquests.lb.title.5}",
 	icon: "ironchest:iron_chest 1 7",
 	loot_size: 2,
 	use_title: true,
@@ -190,7 +190,7 @@
 	}],
 	loot_crate: {
 		string_id: "1crate",
-		item_name: "Сундук мага",
+		item_name: "Magician's Chest",
 		color: 7549365,
 		drops: {
 			boss: 1000,

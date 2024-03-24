@@ -1,8 +1,8 @@
 {
-	title: "Сделайте новый бассейн маны",
+	title: "{ftbquests.botania.title.20}",
 	x: 22.0d,
 	y: -6.5d,
-	description: "Больше и красочней!",
+	description: "{ftbquests.botania.sub.20}",
 	dependencies: [
 		"8a0dfbc9"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте мешок для цветов",
+	title: "{ftbquests.botania.title.9}",
 	x: -2.0d,
 	y: 0.0d,
-	description: "Экономия пространства из Ботании",
+	description: "{ftbquests.botania.sub.9}",
 	dependencies: [
 		"b4d2b920"
 	],

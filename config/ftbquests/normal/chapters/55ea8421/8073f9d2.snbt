@@ -1,7 +1,7 @@
 {
 	x: 0.0d,
 	y: -7.0d,
-	description: "Лудомания",
+	description: "{ftbquests.various.title.25}",
 	hide_dependency_lines: true,
 	dependencies: [
 		"35a25cb0"
@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "56a2ef1e",
 		type: "item",
-		title: "Имейте в инвентаре 10 лутбоксов",
+		title: "{ftbquests.various.sub.25}",
 		items: [{
 			id: "ftbquests:lootcrate",
 			tag: {

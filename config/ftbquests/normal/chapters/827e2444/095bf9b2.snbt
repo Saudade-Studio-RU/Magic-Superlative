@@ -1,8 +1,8 @@
 {
-	title: "Создайте Молот",
+	title: "{ftbquests.mahou.title.5}",
 	x: 0.0d,
 	y: 3.0d,
-	description: "Бюджетная дробилка",
+	description: "{ftbquests.mahou.sub.5}",
 	dependencies: [
 		"342bc1c6"
 	],

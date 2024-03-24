@@ -1,8 +1,8 @@
 {
-	title: "Создайте Экстрактор крови",
+	title: "{ftbquests.ec.title.9}",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Мобы - фрукт, кровь - сок",
+	description: "{ftbquests.ec.sub.9}",
 	dependencies: [
 		"780bfeac"
 	],

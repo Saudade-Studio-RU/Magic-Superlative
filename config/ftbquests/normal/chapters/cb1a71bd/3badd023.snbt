@@ -10,14 +10,14 @@
 	},
 	x: -3.0d,
 	y: 0.0d,
-	description: "Вы ощущаете странные колебания...",
+	description: "{ftbquests.superlative.sub.5}",
 	dependencies: [
 		"504c27b7"
 	],
 	tasks: [{
 		uid: "77cdf73f",
 		type: "item",
-		title: "Найдите любой Вис-Кристалл",
+		title: "{ftbquests.superlative.title.5}",
 		icon: {
 			id: "thaumcraft:crystal_essence",
 			tag: {

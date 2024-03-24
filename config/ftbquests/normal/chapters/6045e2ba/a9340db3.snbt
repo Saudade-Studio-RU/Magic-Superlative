@@ -1,8 +1,8 @@
 {
-	title: "Гурмарилис",
+	title: "{ftbquests.botania.title.46}",
 	x: 2.5d,
 	y: -7.0d,
-	description: "Мана за еду",
+	description: "{ftbquests.botania.sub.46}",
 	dependencies: [
 		"840cc22e"
 	],

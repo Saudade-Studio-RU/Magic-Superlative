@@ -1,7 +1,7 @@
 {
 	x: -1.0d,
 	y: -7.0d,
-	description: "Мана из луны",
+	description: "{ftbquests.botania.title.38}",
 	dependencies: [
 		"840cc22e"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Продвинутые руны 1 ",
+	title: "{ftbquests.botania.title.42}",
 	x: 12.5d,
 	y: 4.5d,
-	description: "Времена года",
+	description: "{ftbquests.botania.sub.42}",
 	dependencies: [
 		"db02bf54"
 	],

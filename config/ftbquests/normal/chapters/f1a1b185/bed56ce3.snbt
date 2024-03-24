@@ -1,8 +1,8 @@
 {
-	title: "Убейте Циклопа",
+	title: "{ftbquests.iaf.title.14}",
 	x: 2.5d,
 	y: -3.0d,
-	description: "И получите его глаз",
+	description: "{ftbquests.iaf.sub.14}",
 	dependencies: [
 		"7986f9bf"
 	],

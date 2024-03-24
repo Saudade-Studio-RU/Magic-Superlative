@@ -1,8 +1,8 @@
 {
-	title: "Создайте Жезл импульсов",
+	title: "{ftbquests.sorcery.title.26}",
 	x: 16.0d,
 	y: 4.0d,
-	description: "Крюк-кошка из звёздного света",
+	description: "{ftbquests.sorcery.sub.26}",
 	dependencies: [
 		"0e10dbe2"
 	],

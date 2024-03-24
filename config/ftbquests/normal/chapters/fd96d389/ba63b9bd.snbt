@@ -1,8 +1,8 @@
 {
-	title: "Создайте Разливщик",
+	title: "{ftbquests.sorcery.title.29}",
 	x: 6.5d,
 	y: 8.5d,
-	description: "Наполнение Звёздным светом",
+	description: "{ftbquests.sorcery.sub.29}",
 	dependencies: [
 		"3cff543b",
 		"f300f759"

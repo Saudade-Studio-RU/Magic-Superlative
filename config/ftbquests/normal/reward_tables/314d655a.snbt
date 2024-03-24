@@ -1,5 +1,5 @@
 {
-	title: "Эпический сундук архимага",
+	title: "{ftbquests.lb.title.4}",
 	icon: "arcanearchives:radiant_chest",
 	loot_size: 3,
 	use_title: true,
@@ -138,7 +138,7 @@
 	}],
 	loot_crate: {
 		string_id: "crate3",
-		item_name: "Сундук архимага",
+		item_name: "Archmage's Chest",
 		color: 13894205,
 		glow: true,
 		drops: {

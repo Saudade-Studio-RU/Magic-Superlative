@@ -7,14 +7,14 @@
 	},
 	x: 8.5d,
 	y: 3.5d,
-	description: "Пора зачистить лабиринт!",
+	description: "{ftbquests.twilight.sub.11}",
 	dependencies: [
 		"a03fb208"
 	],
 	tasks: [{
 		uid: "b2e0cf7a",
 		type: "kill",
-		title: "Убейте много Минотавров",
+		title: "{ftbquests.twilight.title.11}",
 		entity: "twilightforest:minotaur",
 		value: 20L
 	}],

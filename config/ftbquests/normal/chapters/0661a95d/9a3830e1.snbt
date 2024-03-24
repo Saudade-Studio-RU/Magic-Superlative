@@ -1,7 +1,7 @@
 {
 	x: 0.0d,
 	y: 0.0d,
-	description: "Дополнение AetherWorks",
+	description: "{ftbquests.aetherworks.sub.2}",
 	dependencies: [
 		"c233b808"
 	],
@@ -9,6 +9,6 @@
 	tasks: [{
 		uid: "5e6e0a77",
 		type: "checkmark",
-		title: "Начните Изучение финальной стадии Embers"
+		title: "{ftbquests.aetherworks.title.2}"
 	}]
 }

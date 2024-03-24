@@ -1,8 +1,8 @@
 {
-	title: "Создайте Губку для выбросов",
+	title: "{ftbquests.various.title.31}",
 	x: -19.5d,
 	y: -10.0d,
-	description: "МИСТЕР ПРОПЕР УРОВНЯ БОГ",
+	description: "{ftbquests.various.sub.31}",
 	dependencies: [
 		"095bb958"
 	],

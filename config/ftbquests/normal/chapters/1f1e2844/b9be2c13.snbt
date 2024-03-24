@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пепельный амулет",
+	title: "{ftbquests.embers.title.30}",
 	x: 17.0d,
 	y: -2.0d,
-	description: "Пепел из существ",
+	description: "{ftbquests.embers.sub.30}",
 	dependencies: [
 		"fdf438a8"
 	],

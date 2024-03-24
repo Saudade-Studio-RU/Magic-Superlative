@@ -2,11 +2,11 @@
 	x: 3.0d,
 	y: 0.0d,
 	dependencies: [
-		"3b3b668f"
+		"8216a061"
 	],
 	tasks: [{
 		uid: "2b113e2c",
 		type: "checkmark",
-		title: "Линия продажи вещей из Thaumcraft"
+		title: "{ftbquests.shop.title.5}"
 	}]
 }

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Броню волшебника",
+	title: "{ftbquests.wizardry.title.4}",
 	x: 9.0d,
 	y: -2.0d,
-	description: "Поддерживаем атмосферу",
+	description: "{ftbquests.wizardry.sub.4}",
 	dependencies: [
 		"954bfe15"
 	],

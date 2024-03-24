@@ -1,14 +1,14 @@
 {
 	x: 16.0d,
 	y: -2.0d,
-	description: "Гроза Вампиров",
+	description: "{ftbquests.vampirism.sub.17}",
 	dependencies: [
 		"a88698b2"
 	],
 	tasks: [{
 		uid: "3b5a9e10",
 		type: "advancement",
-		title: "Повысьте уровень Охотника до 14",
+		title: "{ftbquests.vampirism.title.17}",
 		icon: "vampirism:hunter_intel",
 		advancement: "vampirism:hunter/max_level",
 		criterion: ""

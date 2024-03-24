@@ -1,8 +1,8 @@
 {
-	title: "Пустой кувшин",
+	title: "{ftbquests.bewitch.title.15}",
 	x: 3.0d,
 	y: 1.5d,
-	description: "Месим глину",
+	description: "{ftbquests.bewitch.sub.15}",
 	dependencies: [
 		"be91320a"
 	],

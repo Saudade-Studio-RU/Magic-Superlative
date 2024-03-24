@@ -1,9 +1,9 @@
 {
-	title: "Сделайте 2 уровень Кровавого алтаря",
+	title: "{ftbquests.bm.title.25}",
 	icon: "bloodmagic:altar",
 	x: 4.0d,
 	y: 4.0d,
-	description: "Разложите любые руны ниже кровавого алтаря вокруг него",
+	description: "{ftbquests.bm.sub.25}",
 	dependencies: [
 		"8fa9d29c",
 		"7ebcc42b"

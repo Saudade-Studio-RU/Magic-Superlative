@@ -1,8 +1,8 @@
 {
-	title: "Создайте Святящуюся Жаровню",
+	title: "{ftbquests.archives.title.11}",
 	x: 7.0d,
 	y: 2.0d,
-	description: "Быстрый склад",
+	description: "{ftbquests.archives.sub.11}",
 	dependencies: [
 		"43d324b8"
 	],

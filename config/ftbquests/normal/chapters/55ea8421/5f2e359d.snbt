@@ -1,10 +1,10 @@
 {
-	title: "Создайте Мистическую основу",
+	title: "{ftbquests.various.title.8}",
 	x: 0.0d,
 	y: -3.0d,
-	description: "Создание продвинутых ламп",
+	description: "{ftbquests.various.sub.8}",
 	text: [
-		"Основа для красивых ламп, подробнее в JEI"
+		"{ftbquests.various.desc.8}"
 	],
 	tasks: [{
 		uid: "2d21ef7e",

@@ -1,9 +1,9 @@
 {
-	title: "Постройте Адскую печь",
+	title: "{ftbquests.thaumcraft.title.24}",
 	icon: "thaumcraft:infernal_furnace",
 	x: 7.5d,
 	y: -1.5d,
-	description: "Даже без топлива",
+	description: "{ftbquests.thaumcraft.sub.24}",
 	dependencies: [
 		"037bec19"
 	],
@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "3009c8eb",
 		type: "observation",
-		title: "Взгляните на неё",
+		title: "{ftbquests.thaumcraft.desc.24}",
 		icon: "thaumcraft:infernal_furnace",
 		match_type: "block_id",
 		match: "thaumcraft:infernal_furnace",

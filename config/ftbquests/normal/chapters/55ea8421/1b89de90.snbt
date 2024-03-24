@@ -1,5 +1,5 @@
 {
-	title: "Открытие лутбоксов III",
+	title: "{ftbquests.various.title.2}",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -9,7 +9,7 @@
 	x: -19.0d,
 	y: -5.0d,
 	shape: "octagon",
-	description: "Сундук архимага!",
+	description: "{ftbquests.various.sub.2}",
 	dependencies: [
 		"809d3c2c",
 		"83b8917a",

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мировой глаз",
+	title: "{ftbquests.nataura.title.29}",
 	x: 4.0d,
 	y: -2.0d,
-	description: "Прогрузка территорий",
+	description: "{ftbquests.nataura.sub.29}",
 	dependencies: [
 		"af470425"
 	],

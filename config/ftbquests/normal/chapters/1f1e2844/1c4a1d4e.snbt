@@ -1,8 +1,8 @@
 {
-	title: "Создайте Золотитовую наковальню",
+	title: "{ftbquests.embers.title.2}",
 	x: 24.0d,
 	y: -2.0d,
-	description: "Многофункциональная наковальня",
+	description: "{ftbquests.embers.sub.2}",
 	dependencies: [
 		"c233b808"
 	],

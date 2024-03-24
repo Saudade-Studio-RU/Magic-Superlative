@@ -1,9 +1,9 @@
 {
-	title: "Найдите Погодный аккумулятор",
+	title: "{ftbquests.ec.title.21}",
 	icon: "evilcraft:environmental_accumulator",
 	x: 0.0d,
 	y: 3.0d,
-	description: "Наполнитель погодой",
+	description: "{ftbquests.ec.sub.21}",
 	dependencies: [
 		"780bfeac"
 	],
@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "bff7a9be",
 		type: "observation",
-		title: "Найдите погодный аккумулятор",
+		title: "{ftbquests.ec.title.21}",
 		icon: "evilcraft:environmental_accumulator",
 		match_type: "block_id",
 		match: "evilcraft:environmental_accumulator",

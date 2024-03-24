@@ -1,10 +1,10 @@
 {
-	title: "Создайте Небесный кристалл",
+	title: "{ftbquests.sorcery.title.35}",
 	x: 16.0d,
 	y: 6.0d,
-	description: "Своё лучше",
+	description: "{ftbquests.sorcery.sub.35}",
 	text: [
-		"Вы также можете настраивать его, как и обычный Горный кристалл"
+		"{ftbquests.sorcery.desc.35}"
 	],
 	dependencies: [
 		"0e10dbe2"

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кристаллизатор",
+	title: "{ftbquests.abyssal.title.14}",
 	x: 21.5d,
 	y: -3.5d,
-	description: "Кристаллизация материи",
+	description: "{ftbquests.abyssal.sub.14}",
 	dependencies: [
 		"9908f530"
 	],

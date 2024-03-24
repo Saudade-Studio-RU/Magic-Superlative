@@ -1,7 +1,7 @@
 {
 	x: -2.0d,
 	y: 0.0d,
-	description: "Красота - сила",
+	description: "{ftbquests.vampirism.sub.22}",
 	dependencies: [
 		"7b6869b0"
 	],
@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "d5f56f00",
 		type: "item",
-		title: "Создайте Основу любого зонта",
+		title: "{ftbquests.vampirism.title.22}",
 		items: [{
 			item: "vampiresneedumbrellas:iron_umbrella_rod"
 		},

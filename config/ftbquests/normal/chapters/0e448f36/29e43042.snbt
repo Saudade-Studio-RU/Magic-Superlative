@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Улучшенный обсидиановый комплект ада",
+	title: "{ftbquests.vampirism.title.14}",
 	x: 9.0d,
 	y: -6.0d,
-	description: "-Скорость, +Защита",
+	description: "{ftbquests.vampirism.sub.14}",
 	dependencies: [
 		"d7a84dae"
 	],

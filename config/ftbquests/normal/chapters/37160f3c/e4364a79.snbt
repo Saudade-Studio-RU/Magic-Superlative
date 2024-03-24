@@ -1,8 +1,8 @@
 {
-	title: "Создайте или найдите Коробку вечного закрытия",
+	title: "{ftbquests.ec.title.35}",
 	x: 6.0d,
 	y: -4.0d,
-	description: "Пленение душ",
+	description: "{ftbquests.ec.sub.35}",
 	dependencies: [
 		"780bfeac"
 	],

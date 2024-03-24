@@ -1,7 +1,7 @@
 {
 	x: 1.0d,
 	y: 4.0d,
-	description: "Голем-вор",
+	description: "{ftbquests.thaumcraft.title.21}",
 	dependencies: [
 		"629b4e3d"
 	],

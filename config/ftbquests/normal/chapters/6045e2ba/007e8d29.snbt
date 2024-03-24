@@ -1,7 +1,7 @@
 {
 	x: 17.5d,
 	y: -1.0d,
-	description: "Что за луч?",
+	description: "{ftbquests.botania.title.13}",
 	dependencies: [
 		"6e4f3bda",
 		"5fb68e2c"

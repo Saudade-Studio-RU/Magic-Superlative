@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мешочек для кристаллов",
+	title: "{ftbquests.additions.title.26}",
 	x: 4.0d,
 	y: 0.0d,
-	description: "Чёрная дыра только для них",
+	description: "{ftbquests.additions.sub.26}",
 	dependencies: [
 		"abb43939"
 	],

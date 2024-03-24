@@ -1,8 +1,8 @@
 {
-	title: "Эволюция плиток 2 ",
+	title: "{ftbquests.bm.title.24}",
 	x: 0.0d,
 	y: 9.0d,
-	description: "Теперь уже пропитанная",
+	description: "{ftbquests.bm.sub.24}",
 	dependencies: [
 		"c6924bbd"
 	],

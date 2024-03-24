@@ -1,8 +1,8 @@
 {
-	title: "Создайте Вампирскую инъекцию",
+	title: "{ftbquests.vampirism.title.13}",
 	x: 7.0d,
 	y: -0.5d,
-	description: "Вновь никто",
+	description: "{ftbquests.vampirism.sub.13}",
 	dependencies: [
 		"65435ea3"
 	],

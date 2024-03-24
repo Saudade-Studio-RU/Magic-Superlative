@@ -2,7 +2,7 @@
 	icon: "twilightforest:trophy",
 	x: 5.0d,
 	y: 0.0d,
-	description: "Первый босс",
+	description: "{ftbquests.twilight.title.7}",
 	dependencies: [
 		"eb106e0c"
 	],

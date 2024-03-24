@@ -1,9 +1,9 @@
 {
-	title: "Найдите Хижину друидов",
+	title: "{ftbquests.twilight.title.4}",
 	icon: "minecraft:mossy_cobblestone",
 	x: -2.0d,
 	y: 0.0d,
-	description: "Игнорируя броню, вы понимаете что вам очень больно",
+	description: "{ftbquests.twilight.sub.4}",
 	dependencies: [
 		"109742bd"
 	],
@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "71504521",
 		type: "kill",
-		title: "Убейте друидов",
+		title: "{ftbquests.twilight.desc.4}",
 		entity: "twilightforest:skeleton_druid",
 		value: 15L
 	}],

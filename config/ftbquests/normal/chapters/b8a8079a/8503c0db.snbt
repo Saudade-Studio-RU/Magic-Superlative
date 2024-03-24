@@ -1,9 +1,9 @@
 {
-	title: "Багровые культисты",
+	title: "{ftbquests.thaumcraft.title.39}",
 	x: 10.0d,
 	y: -13.0d,
 	shape: "hexagon",
-	description: "Клуб сумашедших тауматургов",
+	description: "{ftbquests.thaumcraft.sub.39}",
 	hide_dependency_lines: true,
 	dependencies: [
 		"e0da27f2"
@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "2ebf0e4f",
 		type: "kill",
-		title: "Уничтожить портал багровых культистов",
+		title: "{ftbquests.thaumcraft.desc.39.1}",
 		icon: {
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
@@ -24,14 +24,14 @@
 	{
 		uid: "ae65a8f2",
 		type: "kill",
-		title: "Багровый рыцарь",
+		title: "{ftbquests.thaumcraft.desc.39.2}",
 		entity: "thaumcraft:cultistknight",
 		value: 3L
 	},
 	{
 		uid: "feb40a99",
 		type: "kill",
-		title: "Багровый клирик",
+		title: "{ftbquests.thaumcraft.desc.39.3}",
 		entity: "thaumcraft:cultistcleric",
 		value: 2L
 	}],

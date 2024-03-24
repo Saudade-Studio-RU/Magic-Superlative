@@ -1,8 +1,8 @@
 {
-	title: "Создайте Ручной телескоп",
+	title: "{ftbquests.sorcery.title.33}",
 	x: 2.0d,
 	y: 1.5d,
-	description: "Изучение неба",
+	description: "{ftbquests.sorcery.sub.33}",
 	dependencies: [
 		"89691c84"
 	],

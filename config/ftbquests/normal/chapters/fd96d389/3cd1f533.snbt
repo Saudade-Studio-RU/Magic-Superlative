@@ -1,10 +1,10 @@
 {
-	title: "Создайте один из камней для тела",
+	title: "{ftbquests.sorcery.title.4}",
 	x: 12.5d,
 	y: 5.0d,
-	description: "Баффы за драгоценности",
+	description: "{ftbquests.sorcery.sub.4}",
 	text: [
-		"Добавление камней возможно через отдельную прокачку Талантов"
+		"{ftbquests.sorcery.desc.4}"
 	],
 	dependencies: [
 		"f8ed1d74"

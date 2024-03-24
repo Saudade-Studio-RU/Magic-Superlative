@@ -1,14 +1,14 @@
 {
 	x: 20.5d,
 	y: 0.0d,
-	description: "Финальный бой",
+	description: "{ftbquests.twilight.sub.19}",
 	dependencies: [
 		"dd3923f6"
 	],
 	tasks: [{
 		uid: "84b1918f",
 		type: "kill",
-		title: "Убейте Финальную сущность",
+		title: "{ftbquests.twilight.title.19}",
 		icon: {
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

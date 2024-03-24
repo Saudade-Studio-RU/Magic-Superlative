@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Кольцо жизненной силы",
+	title: "{ftbquests.thaumcraft.title.6}",
 	x: 15.5d,
 	y: -8.5d,
-	description: "Больше никаких отравлений и иссушений!",
+	description: "{ftbquests.thaumcraft.sub.6}",
 	dependencies: [
 		"09aaed0b",
 		"61862465"

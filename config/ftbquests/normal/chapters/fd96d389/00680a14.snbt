@@ -1,8 +1,8 @@
 {
-	title: "Создайте Небесный сборный кристалл",
+	title: "{ftbquests.sorcery.title.17}",
 	x: 16.0d,
 	y: 7.0d,
-	description: "Собственный свет лучше прежнего",
+	description: "{ftbquests.sorcery.sub.17}",
 	dependencies: [
 		"f89e6829"
 	],

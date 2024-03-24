@@ -1,10 +1,10 @@
 {
-	title: "Создайте Амулет еретика",
+	title: "{ftbquests.embers.title.32}",
 	x: 18.5d,
 	y: -2.0d,
-	description: "Не верю - значит такого нет",
+	description: "{ftbquests.embers.sub.32}",
 	text: [
-		"Поглощает 90% нанесённого Магического урона"
+		"{ftbquests.embers.desc.32}"
 	],
 	dependencies: [
 		"49ed73f8",

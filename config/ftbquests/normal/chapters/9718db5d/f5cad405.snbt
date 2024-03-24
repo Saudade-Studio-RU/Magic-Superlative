@@ -1,8 +1,8 @@
 {
-	title: "Создайте Сигил удержания",
+	title: "{ftbquests.bm.title.48}",
 	x: -1.5d,
 	y: 4.5d,
-	description: "Пять Сигилов в одном. Экономия!",
+	description: "{ftbquests.bm.sub.48}",
 	dependencies: [
 		"5fd23f9f"
 	],

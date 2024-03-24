@@ -1,10 +1,10 @@
 {
-	title: "Создайте Предсказатель ритуала",
+	title: "{ftbquests.bm.title.3}",
 	x: 12.0d,
 	y: -3.0d,
-	description: "Так вот как их делать!",
+	description: "{ftbquests.bm.sub.3}",
 	text: [
-		"Что бы увидеть какие ритуальные камни необходимы, наведите с необходимым ритуалом на ГРК (MRS в Науке Крови)"
+		"{ftbquests.bm.desc.3}"
 	],
 	dependencies: [
 		"d8f0bbf7"

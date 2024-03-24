@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кэш ауры",
+	title: "{ftbquests.nataura.title.12}",
 	x: 11.0d,
 	y: -3.0d,
-	description: "Хранилище ауры",
+	description: "{ftbquests.nataura.sub.12}",
 	dependencies: [
 		"956d9ae8"
 	],

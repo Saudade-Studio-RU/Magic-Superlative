@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Плавильну Эссенции",
+	title: "{ftbquests.thaumcraft.title.29}",
 	x: -1.5d,
 	y: -10.0d,
-	description: "Что за фиолетовый выброс...?",
+	description: "{ftbquests.thaumcraft.sub.29}",
 	dependencies: [
 		"85d0cb66"
 	],

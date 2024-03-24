@@ -1,7 +1,7 @@
 {
 	x: 10.5d,
 	y: 0.0d,
-	description: "Всё Эфирное чинится при свете Луны",
+	description: "{ftbquests.aetherworks.sub.8}",
 	dependencies: [
 		"93c6a616",
 		"551139b0",
@@ -11,6 +11,6 @@
 	tasks: [{
 		uid: "4186f7e1",
 		type: "checkmark",
-		title: "Вы готовы к созданию финальных инструментов"
+		title: "{ftbquests.aetherworks.title.8}"
 	}]
 }

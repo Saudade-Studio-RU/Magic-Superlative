@@ -2,7 +2,7 @@
 	x: 14.5d,
 	y: -2.0d,
 	shape: "square",
-	description: "Коралловый дракон",
+	description: "{ftbquests.abyssal.sub.12}",
 	dependencies: [
 		"0e485f27"
 	],
@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "20af682e",
 		type: "kill",
-		title: "Убейте Падшего Асуру",
+		title: "{ftbquests.abyssal.title.12}",
 		icon: "minecraft:skull 1 5",
 		entity: "abyssalcraft:dragonboss",
 		value: 1L

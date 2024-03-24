@@ -1,5 +1,5 @@
 {
-	title: "Открытие лутбоксов X",
+	title: "{ftbquests.various.title.41}",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -9,7 +9,7 @@
 	x: -22.0d,
 	y: -5.0d,
 	shape: "circle",
-	description: "Сундук мага Высшей степени!",
+	description: "{ftbquests.various.sub.41}",
 	dependencies: [
 		"755df67f",
 		"095bb958",

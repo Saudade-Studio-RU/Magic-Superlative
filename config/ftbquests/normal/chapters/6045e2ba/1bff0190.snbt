@@ -1,8 +1,8 @@
 {
-	title: "Создайте Гайя пилоны",
+	title: "{ftbquests.botania.title.3}",
 	x: 22.5d,
 	y: -3.0d,
-	description: "Что бы призвать его",
+	description: "{ftbquests.botania.sub.3}",
 	dependencies: [
 		"8a0dfbc9"
 	],

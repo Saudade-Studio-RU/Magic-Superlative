@@ -1,8 +1,8 @@
 {
-	title: "Создайте Гроб",
+	title: "{ftbquests.vampirism.title.6}",
 	x: 9.0d,
 	y: 0.5d,
-	description: "Сон днём",
+	description: "{ftbquests.vampirism.sub.6}",
 	dependencies: [
 		"e882a43b"
 	],

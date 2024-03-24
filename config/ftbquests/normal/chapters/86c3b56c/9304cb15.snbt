@@ -1,9 +1,9 @@
 {
-	title: "Создайте Первый портальный ключ",
+	title: "{ftbquests.abyssal.title.21}",
 	x: 9.0d,
 	y: -2.0d,
 	shape: "square",
-	description: "Доступ к глубинам",
+	description: "{ftbquests.abyssal.sub.21}",
 	dependencies: [
 		"546864e6"
 	],

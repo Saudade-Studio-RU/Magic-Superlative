@@ -1,8 +1,8 @@
 {
-	title: "Создайте Карту Сумеречного леса",
+	title: "{ftbquests.twilight.title.23}",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Вещь, необходимая каждому",
+	description: "{ftbquests.twilight.sub.23}",
 	dependencies: [
 		"109742bd"
 	],

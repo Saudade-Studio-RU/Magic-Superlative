@@ -1,8 +1,8 @@
 {
-	title: "Злое сердце ",
+	title: "{ftbquests.thaumcraft.title.72}",
 	x: 19.0d,
 	y: -8.5d,
-	description: "Лучшая защита: нападение!",
+	description: "{ftbquests.thaumcraft.sub.72}",
 	dependencies: [
 		"4ff8b375"
 	],

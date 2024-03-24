@@ -1,5 +1,5 @@
 {
-	title: "Добро пожаловать в Thaumic Augmentation!",
+	title: "{ftbquests.augment.title.6}",
 	x: 0.0d,
 	y: 0.0d,
 	shape: "square",

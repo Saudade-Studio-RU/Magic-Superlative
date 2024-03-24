@@ -1,8 +1,8 @@
 {
-	title: "Создайте Тестовую куклу",
+	title: "{ftbquests.various.title.16}",
 	x: -3.0d,
 	y: -7.0d,
-	description: "Сколько же там?",
+	description: "{ftbquests.various.sub.16}",
 	tasks: [{
 		uid: "0ac8c5f8",
 		type: "item",

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Улучшенный пронзатель сердец",
+	title: "{ftbquests.vampirism.title.10}",
 	x: 9.0d,
 	y: 6.0d,
-	description: "Улучшенное оружие вампиров",
+	description: "{ftbquests.vampirism.sub.10}",
 	dependencies: [
 		"31290918"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Разумная броня",
+	title: "{ftbquests.bm.title.46}",
 	x: -11.0d,
 	y: -3.0d,
-	description: "Защита за вашу энергию",
+	description: "{ftbquests.bm.sub.46}",
 	dependencies: [
 		"7ce479d6"
 	],

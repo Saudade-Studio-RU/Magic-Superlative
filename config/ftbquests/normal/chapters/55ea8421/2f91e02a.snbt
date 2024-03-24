@@ -1,7 +1,7 @@
 {
 	x: -18.0d,
 	y: -18.5d,
-	description: "Вознесение в небеса",
+	description: "{ftbquests.various.title.5}",
 	dependencies: [
 		"3a360189"
 	],

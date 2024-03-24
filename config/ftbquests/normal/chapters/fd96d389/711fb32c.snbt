@@ -1,11 +1,11 @@
 {
-	title: "Выплавите слиток Звёздного металла",
+	title: "{ftbquests.sorcery.title.18}",
 	x: 14.0d,
 	y: 5.0d,
 	shape: "square",
-	description: "Как сверкает!",
+	description: "{ftbquests.sorcery.sub.18}",
 	text: [
-		"Сконцентрируйте свет из Кристалла в железную руду с помощью Линз, или направьте свет на руду напрямую"
+		"{ftbquests.sorcery.desc.18}"
 	],
 	dependencies: [
 		"16a31f5e",

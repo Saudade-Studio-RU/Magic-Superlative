@@ -1,8 +1,8 @@
 {
-	title: "Создайте собственный Сборный кристалл",
+	title: "{ftbquests.sorcery.title.37}",
 	x: 6.5d,
 	y: 10.0d,
-	description: "Собственный свет",
+	description: "{ftbquests.sorcery.sub.37}",
 	dependencies: [
 		"ba63b9bd"
 	],

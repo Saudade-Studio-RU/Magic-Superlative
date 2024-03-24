@@ -1,8 +1,8 @@
 {
-	title: "Создайте Чесночную инъекцию",
+	title: "{ftbquests.vampirism.title.2}",
 	x: 5.0d,
 	y: -2.0d,
-	description: "Наполните кровь иммунитетом",
+	description: "{ftbquests.vampirism.sub.2}",
 	dependencies: [
 		"592a68f8"
 	],

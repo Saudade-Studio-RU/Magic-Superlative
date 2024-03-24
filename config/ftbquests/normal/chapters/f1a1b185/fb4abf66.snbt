@@ -1,8 +1,8 @@
 {
-	title: "Убейте Сирену ",
+	title: "{ftbquests.iaf.title.19}",
 	x: 0.0d,
 	y: 3.0d,
-	description: "Пение лжи",
+	description: "{ftbquests.iaf.sub.19}",
 	dependencies: [
 		"7986f9bf"
 	],

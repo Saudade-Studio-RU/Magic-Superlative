@@ -1,8 +1,8 @@
 {
-	title: "Создайте Тёмную жемчужину",
+	title: "{ftbquests.abyssal.title.33}",
 	x: 6.0d,
 	y: 0.0d,
-	description: "Кристалл тьмы",
+	description: "{ftbquests.abyssal.sub.33}",
 	dependencies: [
 		"93710087"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Болотный генератор",
+	title: "{ftbquests.nataura.title.14}",
 	x: 11.0d,
 	y: 3.5d,
-	description: "Аура за мох",
+	description: "{ftbquests.nataura.sub.14}",
 	dependencies: [
 		"956d9ae8"
 	],

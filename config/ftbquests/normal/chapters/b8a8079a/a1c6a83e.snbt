@@ -1,8 +1,8 @@
 {
-	title: "Эволюция плавильни 2",
+	title: "{ftbquests.thaumcraft.title.49}",
 	x: -7.0d,
 	y: -10.0d,
-	description: "Больше экономии, меньше скорость",
+	description: "{ftbquests.thaumcraft.sub.49}",
 	dependencies: [
 		"14675d32"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Ледяное пламя в бутылке",
+	title: "{ftbquests.bewitch.title.17}",
 	x: 10.0d,
 	y: -3.0d,
-	description: "Огонь ледникового периода",
+	description: "{ftbquests.bewitch.sub.17}",
 	dependencies: [
 		"9bbd139b",
 		"17fc244f"

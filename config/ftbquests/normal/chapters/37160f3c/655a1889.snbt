@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кровавый сундук",
+	title: "{ftbquests.ec.title.16}",
 	x: 9.0d,
 	y: 3.0d,
-	description: "Чинящий за кровь",
+	description: "{ftbquests.ec.sub.16}",
 	dependencies: [
 		"bb3d0cb3"
 	],

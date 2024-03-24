@@ -1,8 +1,8 @@
 {
-	title: "Эволюция плиток",
+	title: "{ftbquests.bm.title.32}",
 	x: 0.0d,
 	y: 6.0d,
-	description: "Что, опять?",
+	description: "{ftbquests.bm.sub.32}",
 	dependencies: [
 		"fa86642f"
 	],

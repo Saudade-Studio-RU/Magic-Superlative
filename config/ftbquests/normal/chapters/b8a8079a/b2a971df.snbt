@@ -1,7 +1,7 @@
 {
 	x: -3.0d,
 	y: 0.0d,
-	description: "Держать всегда с собой",
+	description: "{ftbquests.thaumcraft.title.53}",
 	dependencies: [
 		"e0da27f2"
 	],

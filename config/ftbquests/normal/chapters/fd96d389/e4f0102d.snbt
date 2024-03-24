@@ -1,8 +1,8 @@
 {
-	title: "Сооздайте Небесные врата",
+	title: "{ftbquests.sorcery.title.32}",
 	x: 14.0d,
 	y: 6.5d,
-	description: "Лучший Фаст тревел в вашей жизни",
+	description: "{ftbquests.sorcery.sub.32}",
 	dependencies: [
 		"711fb32c"
 	],

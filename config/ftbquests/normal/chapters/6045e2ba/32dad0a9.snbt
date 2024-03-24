@@ -1,8 +1,8 @@
 {
-	title: "Сделайте новый распространитель маны ",
+	title: "{ftbquests.botania.title.22}",
 	x: 20.0d,
 	y: -6.5d,
-	description: "Вместимей и быстрее",
+	description: "{ftbquests.botania.sub.22}",
 	dependencies: [
 		"8a0dfbc9"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мифриллиумовый слиток",
+	title: "{ftbquests.additions.title.9}",
 	x: 0.0d,
 	y: -6.0d,
-	description: "Новая ступень",
+	description: "{ftbquests.additions.sub.9}",
 	dependencies: [
 		"abb43939"
 	],

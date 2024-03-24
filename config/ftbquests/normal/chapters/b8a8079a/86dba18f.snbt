@@ -1,11 +1,11 @@
 {
-	title: "Выбросов слишком много...",
+	title: "{ftbquests.thaumcraft.title.27}",
 	icon: "thaumcraft:condenser",
 	x: 2.0d,
 	y: -10.0d,
-	description: "Время их очистить",
+	description: "{ftbquests.thaumcraft.sub.27}",
 	text: [
-		"Загрязнённые решётки можно менять фильтром, нажав на них пкм"
+		"{ftbquests.thaumcraft.desc.27}"
 	],
 	dependencies: [
 		"293c3955"

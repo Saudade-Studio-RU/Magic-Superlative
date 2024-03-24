@@ -1,8 +1,8 @@
 {
-	title: "Создайте Плавитель",
+	title: "{ftbquests.embers.title.27}",
 	x: 11.0d,
 	y: 0.0d,
-	description: "Плавка металлов",
+	description: "{ftbquests.embers.sub.27}",
 	dependencies: [
 		"63068820"
 	],

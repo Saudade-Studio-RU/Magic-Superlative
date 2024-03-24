@@ -1,8 +1,8 @@
 {
-	title: "Второй плавильный мозг",
+	title: "{ftbquests.thaumcraft.title.44}",
 	x: 0.0d,
 	y: -13.0d,
-	description: "Скорость x2!",
+	description: "{ftbquests.thaumcraft.sub.44}",
 	dependencies: [
 		"293c3955"
 	],

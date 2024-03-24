@@ -1,8 +1,8 @@
 {
-	title: "Продвинутые руны 2",
+	title: "{ftbquests.botania.title.27}",
 	x: 15.5d,
 	y: 4.5d,
-	description: "Семь смертных грехов",
+	description: "{ftbquests.botania.sub.27}",
 	dependencies: [
 		"db02bf54"
 	],

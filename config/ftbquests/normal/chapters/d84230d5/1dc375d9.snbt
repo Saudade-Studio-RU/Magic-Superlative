@@ -1,8 +1,8 @@
 {
-	title: "Создайте Клад ауры",
+	title: "{ftbquests.nataura.title.4}",
 	x: 11.0d,
 	y: -5.0d,
-	description: "Приросты x3",
+	description: "{ftbquests.nataura.sub.4}",
 	dependencies: [
 		"44c9f19e"
 	],

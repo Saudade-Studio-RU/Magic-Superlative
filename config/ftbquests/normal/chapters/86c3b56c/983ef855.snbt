@@ -1,8 +1,8 @@
 {
-	title: "Создайте Алтарь Чагарота",
+	title: "{ftbquests.abyssal.title.20}",
 	x: 21.5d,
 	y: -2.0d,
-	description: "Алтарь демона",
+	description: "{ftbquests.abyssal.sub.20}",
 	dependencies: [
 		"9908f530"
 	],

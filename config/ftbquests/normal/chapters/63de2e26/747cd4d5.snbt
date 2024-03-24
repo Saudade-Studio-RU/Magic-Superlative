@@ -1,8 +1,8 @@
 {
-	title: "Убейте Кобольдов",
+	title: "{ftbquests.twilight.title.9}",
 	x: 3.0d,
 	y: -3.0d,
-	description: "Синие, мерзкие, короткие",
+	description: "{ftbquests.twilight.sub.9}",
 	dependencies: [
 		"109742bd"
 	],
@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "8683c1a3",
 		type: "kill",
-		title: "Убить: Кобольд",
+		title: "{ftbquests.twilight.desc.9}",
 		entity: "twilightforest:kobold",
 		value: 20L
 	}],

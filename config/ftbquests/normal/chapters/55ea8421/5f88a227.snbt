@@ -1,7 +1,7 @@
 {
 	x: -16.0d,
 	y: -20.0d,
-	description: "Уборка... всего живого",
+	description: "{ftbquests.various.title.9}",
 	dependencies: [
 		"8651732a"
 	],

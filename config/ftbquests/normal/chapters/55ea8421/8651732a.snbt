@@ -1,7 +1,7 @@
 {
 	x: -14.0d,
 	y: -17.0d,
-	description: "Металл из Крови Богов",
+	description: "{ftbquests.various.title.27}",
 	dependencies: [
 		"095bb958"
 	],

@@ -2,7 +2,7 @@
 	x: 0.0d,
 	y: 0.0d,
 	shape: "square",
-	description: "Всю информацию о блоках, предметах и моде в общем вы можете найти в книгах",
+	description: "{ftbquests.superlative.sub.12}",
 	dependencies: [
 		"2e75bd25"
 	],
@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "02b966cc",
 		type: "checkmark",
-		title: "Добро пожаловать в Магия: Высшая степень!",
+		title: "{ftbquests.superlative.title.12}",
 		icon: {
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {

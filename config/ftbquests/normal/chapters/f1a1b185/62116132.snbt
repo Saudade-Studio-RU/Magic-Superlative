@@ -1,8 +1,8 @@
 {
-	title: "Убейте любого Тролля",
+	title: "{ftbquests.iaf.title.10}",
 	x: -1.5d,
 	y: -3.0d,
-	description: "И соберите его чешую",
+	description: "{ftbquests.iaf.sub.10}",
 	dependencies: [
 		"7986f9bf"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Разум в банках",
+	title: "{ftbquests.thaumcraft.title.51}",
 	x: 6.0d,
 	y: 5.5d,
-	description: "Оно живое",
+	description: "{ftbquests.thaumcraft.sub.51}",
 	dependencies: [
 		"629b4e3d"
 	],

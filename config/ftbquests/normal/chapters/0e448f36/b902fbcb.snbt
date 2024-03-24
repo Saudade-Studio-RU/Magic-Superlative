@@ -1,8 +1,8 @@
 {
-	title: "Найдите или создайте Очищающий Алтарь",
+	title: "{ftbquests.vampirism.title.25}",
 	x: 7.0d,
 	y: 0.5d,
-	description: "Вновь никто",
+	description: "{ftbquests.vampirism.sub.25}",
 	dependencies: [
 		"e882a43b"
 	],

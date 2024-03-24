@@ -1,7 +1,7 @@
 {
 	x: 6.0d,
 	y: -1.5d,
-	description: "Позволяет активировать более мощные ритуалы",
+	description: "{ftbquests.bm.title.45}",
 	dependencies: [
 		"ce3c1d40"
 	],

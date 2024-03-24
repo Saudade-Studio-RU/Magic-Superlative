@@ -1,8 +1,8 @@
 {
-	title: "Создайте Переливчатый алтарь",
+	title: "{ftbquests.sorcery.title.7}",
 	x: 18.0d,
 	y: 3.0d,
-	description: "Максимальный верстак Астарльного Волшебства",
+	description: "{ftbquests.sorcery.sub.7}",
 	dependencies: [
 		"3cff543b",
 		"f89e6829"

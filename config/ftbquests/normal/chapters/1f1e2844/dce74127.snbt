@@ -1,8 +1,8 @@
 {
-	title: "Создайте Материю",
+	title: "{ftbquests.embers.sub.36}",
 	x: 18.5d,
 	y: 2.0d,
-	description: "Починка чего угодно",
+	description: "{ftbquests.embers.sub.36}",
 	dependencies: [
 		"49ed73f8"
 	],

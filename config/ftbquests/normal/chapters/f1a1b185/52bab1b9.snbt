@@ -1,8 +1,8 @@
 {
-	title: "Соберите все виды Драконьей чешуи",
+	title: "{ftbquests.iaf.title.5}",
 	x: 8.5d,
 	y: 0.0d,
-	description: "Парад цвета",
+	description: "{ftbquests.iaf.sub.5}",
 	dependencies: [
 		"7bee1470"
 	],

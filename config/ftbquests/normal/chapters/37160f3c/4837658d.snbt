@@ -1,9 +1,9 @@
 {
-	title: "Создайте Наполнитель кровью",
+	title: "{ftbquests.ec.title.24}",
 	x: 7.0d,
 	y: 0.0d,
 	shape: "hexagon",
-	description: "Не опять, а снова",
+	description: "{ftbquests.ec.sub.24}",
 	dependencies: [
 		"f76bfd66",
 		"77b944ff"

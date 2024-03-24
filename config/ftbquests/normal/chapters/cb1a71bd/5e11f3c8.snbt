@@ -1,5 +1,5 @@
 {
-	title: "Начните изучение Кровавой магии",
+	title: "{ftbquests.superlative.title.7}",
 	icon: {
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
@@ -14,7 +14,7 @@
 	},
 	x: 4.0d,
 	y: 0.0d,
-	description: "Начните изучение алхимическое изучение крови, алтарей и наполнения",
+	description: "{ftbquests.superlative.sub.7}",
 	dependencies: [
 		"0e57d102"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Батарейка мира магии",
+	title: "{ftbquests.thaumcraft.title.68}",
 	x: -5.0d,
 	y: 5.0d,
-	description: "Зарядка ауры",
+	description: "{ftbquests.thaumcraft.sub.68}",
 	dependencies: [
 		"f4a1f4bc"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Портальный Ключ Чагарота Райляна",
+	title: "{ftbquests.abyssal.title.6}",
 	x: 26.0d,
 	y: -2.0d,
-	description: "Проход во тьму",
+	description: "{ftbquests.abyssal.sub.6}",
 	dependencies: [
 		"a7c6a122",
 		"409a9569"

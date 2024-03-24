@@ -1,8 +1,8 @@
 {
-	title: "Эволюция Адских камней 4",
+	title: "{ftbquests.bm.title.49}",
 	x: -20.0d,
 	y: 0.0d,
-	description: "Вплоть до 16к",
+	description: "{ftbquests.bm.sub.49}",
 	dependencies: [
 		"c49622f5"
 	],

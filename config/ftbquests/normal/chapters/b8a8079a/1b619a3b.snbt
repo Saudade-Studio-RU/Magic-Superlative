@@ -1,8 +1,8 @@
 {
-	title: "Создайте Повязку реликвий",
+	title: "{ftbquests.thaumcraft.title.4}",
 	x: 14.0d,
 	y: -11.0d,
-	description: "Наконец-то теории не только на столе...",
+	description: "{ftbquests.thaumcraft.sub.4}",
 	dependencies: [
 		"09aaed0b"
 	],

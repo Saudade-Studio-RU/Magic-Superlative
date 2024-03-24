@@ -1,8 +1,8 @@
 {
-	title: "Создайте Витрину",
+	title: "{ftbquests.ec.title.33}",
 	x: -3.0d,
 	y: 0.0d,
-	description: "Стенд для вещей",
+	description: "{ftbquests.ec.sub.33}",
 	dependencies: [
 		"780bfeac"
 	],

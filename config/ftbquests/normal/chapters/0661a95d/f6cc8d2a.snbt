@@ -1,10 +1,10 @@
 {
-	title: "Добудьте Эфировый осколок",
+	title: "{ftbquests.aetherworks.title.14}",
 	x: 2.0d,
 	y: 0.0d,
-	description: "Звёзды под землёй",
+	description: "{ftbquests.aetherworks.sub.14}",
 	text: [
-		"Руда появляется только в Горах"
+		"{ftbquests.aetherworks.desc.14}"
 	],
 	dependencies: [
 		"9a3830e1"

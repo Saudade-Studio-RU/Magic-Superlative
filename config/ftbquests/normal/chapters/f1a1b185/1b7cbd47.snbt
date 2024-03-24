@@ -1,8 +1,8 @@
 {
-	title: "Создайте Ядро Драконьей кузни",
+	title: "{ftbquests.iaf.title.1}",
 	x: 6.0d,
 	y: 2.0d,
-	description: "Разработка металла драконов",
+	description: "{ftbquests.iaf.sub.1}",
 	dependencies: [
 		"7bee1470"
 	],

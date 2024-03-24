@@ -1,8 +1,8 @@
 {
-	title: "Зарядка предметов",
+	title: "{ftbquests.thaumcraft.title.47}",
 	x: 11.5d,
 	y: 6.5d,
-	description: "Хорошая вещь, но можно ли компактней?",
+	description: "{ftbquests.thaumcraft.sub.47}",
 	dependencies: [
 		"da415f62"
 	],

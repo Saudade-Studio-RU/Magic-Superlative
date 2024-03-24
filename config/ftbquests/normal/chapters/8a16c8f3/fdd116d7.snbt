@@ -1,8 +1,8 @@
 {
-	title: "Создайте Таумостическую упряжь",
+	title: "{ftbquests.augment.title.30}",
 	x: 7.0d,
 	y: 1.0d,
-	description: "Креативный полёт",
+	description: "{ftbquests.augment.sub.30}",
 	dependencies: [
 		"c28087d3"
 	],

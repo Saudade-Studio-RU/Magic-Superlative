@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кровавое зелье",
+	title: "{ftbquests.vampirism.title.28}",
 	x: 3.0d,
 	y: -6.0d,
-	description: "Сила вампира в крови человека",
+	description: "{ftbquests.vampirism.sub.28}",
 	dependencies: [
 		"3a340acf"
 	],

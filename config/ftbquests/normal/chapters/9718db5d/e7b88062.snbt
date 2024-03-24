@@ -1,8 +1,8 @@
 {
-	title: "Создайте Демонический Тигель",
+	title: "{ftbquests.bm.title.42}",
 	x: -12.5d,
 	y: 2.5d,
-	description: "Адская воля в воздухе ",
+	description: "{ftbquests.bm.sub.42}",
 	dependencies: [
 		"3f1f8a74"
 	],

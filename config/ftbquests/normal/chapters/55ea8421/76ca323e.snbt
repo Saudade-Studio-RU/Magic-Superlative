@@ -1,8 +1,8 @@
 {
-	title: "Создайте Маяк",
+	title: "{"ftbquests.various.title.19"}",
 	x: -9.0d,
 	y: -7.0d,
-	description: "Тяжелее, чем кажется",
+	description: "{ftbquests.various.sub.19}",
 	tasks: [{
 		uid: "d6a8f29d",
 		type: "item",

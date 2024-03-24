@@ -1,9 +1,9 @@
 {
-	title: "Получить обновлённый Лексикон Ботании",
+	title: "{ftbquests.botania.title.26}",
 	x: 17.5d,
 	y: -5.5d,
 	shape: "square",
-	description: "Бросьте Лексикон в портал",
+	description: "{ftbquests.botania.sub.26}",
 	dependencies: [
 		"d6b850f8"
 	],

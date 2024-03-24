@@ -1,8 +1,8 @@
 {
-	title: "Создайте Таум-усиленную банку",
+	title: "{ftbquests.additions.title.14}",
 	x: 3.0d,
 	y: -2.0d,
-	description: "До 350",
+	description: "{ftbquests.additions.sub.14}",
 	dependencies: [
 		"b9ca21db"
 	],

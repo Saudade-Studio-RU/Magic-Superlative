@@ -1,8 +1,8 @@
 {
-	title: "Создайте любое улучшение для оружия",
+	title: "{ftbquests.embers.title.7}",
 	x: 24.0d,
 	y: -4.0d,
-	description: "Разнообразие безгранично",
+	description: "{ftbquests.embers.sub.7}",
 	dependencies: [
 		"1c4a1d4e"
 	],

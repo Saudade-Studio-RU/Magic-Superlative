@@ -1,5 +1,5 @@
 {
-	title: "Начните изучение Таумкрафта",
+	title: "{ftbquests.superlative.title.1}",
 	icon: {
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
@@ -9,9 +9,9 @@
 	},
 	x: -4.0d,
 	y: 0.0d,
-	description: "Начните изучение ауры вокруг вас и аспектов этого мира",
+	description: "{ftbquests.superlative.sub.1}",
 	text: [
-		"Нажмите ПКМ Salis Mundus по книжной полке что бы получить..."
+		"{ftbquests.superlative.desc.1}"
 	],
 	dependencies: [
 		"3badd023"

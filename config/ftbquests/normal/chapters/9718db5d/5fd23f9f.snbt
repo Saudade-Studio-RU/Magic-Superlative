@@ -1,7 +1,7 @@
 {
 	x: -3.0d,
 	y: 3.0d,
-	description: "Наконец то понятно сколько там есть",
+	description: "{ftbquests.bm.title.10}",
 	dependencies: [
 		"fa86642f",
 		"d87996e3"

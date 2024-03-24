@@ -1,5 +1,4 @@
 {
-	title: "Золотой слиток x24",
 	x: -2.0d,
 	y: 5.0d,
 	can_repeat: true,

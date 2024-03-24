@@ -1,8 +1,8 @@
 {
-	title: "Улучшите Перчатку Заклинателя 2",
+	title: "{ftbquests.augment.title.22}",
 	x: -2.0d,
 	y: -3.0d,
-	description: "Из Пустотного металла",
+	description: "{ftbquests.augment.sub.22}",
 	dependencies: [
 		"25ad81fe"
 	],

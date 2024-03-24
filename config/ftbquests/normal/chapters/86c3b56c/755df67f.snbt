@@ -1,8 +1,8 @@
 {
-	title: "Создайте Посох Сторожа",
+	title: "{ftbquests.abyssal.title.17}",
 	x: 37.0d,
 	y: -2.0d,
-	description: "Абсолютная мощь",
+	description: "{ftbquests.abyssal.sub.17}",
 	dependencies: [
 		"a3208be4",
 		"673e0865"

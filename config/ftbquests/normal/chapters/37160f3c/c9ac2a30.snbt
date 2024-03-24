@@ -1,8 +1,8 @@
 {
-	title: "Поместите в бутыль биом",
+	title: "{ftbquests.ec.title.31}",
 	x: 13.0d,
 	y: 8.0d,
-	description: "Переезд не отходя от дивана",
+	description: "{ftbquests.ec.sub.31}",
 	dependencies: [
 		"c87f4647"
 	],

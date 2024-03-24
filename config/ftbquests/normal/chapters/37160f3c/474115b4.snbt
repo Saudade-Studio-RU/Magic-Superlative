@@ -1,8 +1,8 @@
 {
-	title: "Создайте Обещание скорости",
+	title: "{ftbquests.ec.title.23}",
 	x: 8.0d,
 	y: -1.5d,
-	description: "Улучшение времени",
+	description: "{ftbquests.ec.sub.23}",
 	dependencies: [
 		"4837658d"
 	],

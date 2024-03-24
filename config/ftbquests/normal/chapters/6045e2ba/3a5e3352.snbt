@@ -1,7 +1,7 @@
 {
 	x: -1.0d,
 	y: 2.5d,
-	description: "Мана за взрывы",
+	description: "{ftbquests.botania.title.5}",
 	dependencies: [
 		"ee38887d"
 	],

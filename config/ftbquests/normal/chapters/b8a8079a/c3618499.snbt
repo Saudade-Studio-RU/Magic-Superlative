@@ -1,8 +1,8 @@
 {
-	title: "Разломы повсюду!",
+	title: "{ftbquests.thaumcraft.title.59}",
 	x: 5.5d,
 	y: -10.0d,
-	description: "Время их разрушить",
+	description: "{ftbquests.thaumcraft.sub.59}",
 	dependencies: [
 		"86dba18f"
 	],

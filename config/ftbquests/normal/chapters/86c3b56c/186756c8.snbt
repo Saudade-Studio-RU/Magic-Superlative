@@ -1,8 +1,8 @@
 {
-	title: "Создайте Страхолитовый комплект",
+	title: "{ftbquests.abyssal.title.24}",
 	x: 18.0d,
 	y: -4.0d,
-	description: "Броня ужаса",
+	description: "{ftbquests.abyssal.sub.24}",
 	dependencies: [
 		"9908f530"
 	],

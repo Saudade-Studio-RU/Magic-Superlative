@@ -1,8 +1,8 @@
 {
-	title: "Создайте Любую стамеску",
+	title: "{ftbquests.various.title.24}",
 	x: -9.0d,
 	y: -3.0d,
-	description: "Преобразование блоков",
+	description: "{ftbquests.various.sub.24}",
 	or_tasks: true,
 	tasks: [{
 		uid: "c30eb672",

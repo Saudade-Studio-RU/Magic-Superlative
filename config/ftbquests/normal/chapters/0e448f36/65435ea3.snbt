@@ -1,8 +1,8 @@
 {
-	title: "Станьте ОХОТНИКОМ НА ВАМПИРОВ",
+	title: "{ftbquests.vampirism.title.21}",
 	x: 7.0d,
 	y: -2.0d,
-	description: "Смерть кровососам",
+	description: "{ftbquests.vampirism.sub.21}",
 	dependencies: [
 		"0fd23487"
 	],

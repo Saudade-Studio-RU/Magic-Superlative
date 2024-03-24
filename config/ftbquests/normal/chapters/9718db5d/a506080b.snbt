@@ -1,8 +1,8 @@
 {
-	title: "Увеличение предачи Алтаря",
+	title: "{ftbquests.bm.title.26}",
 	x: -2.0d,
 	y: 10.5d,
-	description: "Ждать не придётся",
+	description: "{ftbquests.bm.sub.26}",
 	dependencies: [
 		"809d3c2c"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Маготехническую цепь",
+	title: "{ftbquests.mahou.title.9}",
 	x: 6.0d,
 	y: -6.0d,
-	description: "Я храню ваши Mahou",
+	description: "{ftbquests.mahou.sub.9}",
 	dependencies: [
 		"2eb63b1f"
 	],

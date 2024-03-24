@@ -1,8 +1,8 @@
 {
-	title: "Эволюция плавильни",
+	title: "{ftbquests.thaumcraft.title.41}",
 	x: -4.0d,
 	y: -10.0d,
-	description: "Быстрее и экономнее",
+	description: "{ftbquests.thaumcraft.sub.41}",
 	dependencies: [
 		"293c3955"
 	],

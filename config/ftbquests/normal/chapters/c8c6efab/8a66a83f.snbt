@@ -1,9 +1,9 @@
 {
-	title: "Линия продажи вещей из Minecraft",
+	title: "{ftbquests.shop.title.3}",
 	x: 0.0d,
 	y: 3.0d,
 	dependencies: [
-		"3b3b668f"
+		"8216a061"
 	],
 	tasks: [{
 		uid: "e3bfc967",

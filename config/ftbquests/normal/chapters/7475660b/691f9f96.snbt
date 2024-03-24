@@ -1,8 +1,8 @@
 {
-	title: "Получите Соль",
+	title: "{ftbquests.bewitch.title.18}",
 	x: 3.0d,
 	y: -1.5d,
-	description: "Не только для готовки",
+	description: "{ftbquests.bewitch.sub.18}",
 	dependencies: [
 		"453a900b",
 		"be91320a"

@@ -1,8 +1,8 @@
 {
-	title: "Выплавьте Эфирный слиток",
+	title: "{ftbquests.aetherworks.title.11}",
 	x: 9.0d,
 	y: -2.0d,
-	description: "Сияние небес",
+	description: "{ftbquests.aetherworks.sub.11}",
 	dependencies: [
 		"48373429"
 	],

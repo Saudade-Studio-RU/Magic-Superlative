@@ -1,8 +1,8 @@
 {
-	title: "Создайте Чистоцвет",
+	title: "{ftbquests.additions.title.21}",
 	x: 2.0d,
 	y: 3.0d,
-	description: "Очищаем бесплатно 24/7",
+	description: "{ftbquests.additions.sub.21}",
 	dependencies: [
 		"abb43939"
 	],

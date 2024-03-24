@@ -1,10 +1,10 @@
 {
-	title: "Создайте Резонирующий жезл",
+	title: "{ftbquests.sorcery.title.3}",
 	x: 6.0d,
 	y: -0.5d,
-	description: "Инструмент Астральной магии",
+	description: "{ftbquests.sorcery.sub.3}",
 	text: [
-		"Что бы сделать его, вам необходимо поставить верстак под найденным кристаллом, благодаря чему в верстаке будет звёдный свет для их крафта"
+		"{ftbquests.sorcery.desc.3}"
 	],
 	dependencies: [
 		"2ab0e76d"

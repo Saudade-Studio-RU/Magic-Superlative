@@ -1,8 +1,8 @@
 {
-	title: "Получите Эксперимент 115",
+	title: "{ftbquests.twilight.title.21}",
 	x: 11.0d,
 	y: -3.5d,
-	description: "Бесконечный пирог",
+	description: "{ftbquests.twilight.sub.21}",
 	dependencies: [
 		"36e7eda9"
 	],

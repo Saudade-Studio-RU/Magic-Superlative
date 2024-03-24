@@ -1,8 +1,8 @@
 {
-	title: "Создайте Механическое ядро",
+	title: "{ftbquests.embers.title.24}",
 	x: 3.0d,
 	y: -1.5d,
-	description: "Больше разъёмов!",
+	description: "{ftbquests.embers.sub.24}",
 	dependencies: [
 		"c4714177"
 	],

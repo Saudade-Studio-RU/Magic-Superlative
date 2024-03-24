@@ -1,8 +1,8 @@
 {
-	title: "Создайте Посох Расщепления из Бездной Пустоши",
+	title: "{ftbquests.abyssal.title.32}",
 	x: 15.0d,
 	y: 2.0d,
-	description: "Усиление абсорбции",
+	description: "{ftbquests.abyssal.sub.32}",
 	dependencies: [
 		"ffc81581",
 		"0e485f27"

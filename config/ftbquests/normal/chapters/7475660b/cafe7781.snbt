@@ -1,8 +1,8 @@
 {
-	title: "Создайте Атейм и Боллин",
+	title: "{ftbquests.bewitch.title.28}",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Инструменты тёмных исскуств",
+	description: "{ftbquests.bewitch.sub.28}",
 	dependencies: [
 		"453a900b"
 	],

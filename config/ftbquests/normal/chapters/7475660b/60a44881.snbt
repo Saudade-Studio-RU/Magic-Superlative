@@ -1,8 +1,8 @@
 {
-	title: "Найдите Адский кодекс",
+	title: "{ftbquests.bewitch.title.12}",
 	x: 11.5d,
 	y: 0.0d,
-	description: "Контракт с дьяволом",
+	description: "{ftbquests.bewitch.sub.12}",
 	dependencies: [
 		"3e2e2219"
 	],

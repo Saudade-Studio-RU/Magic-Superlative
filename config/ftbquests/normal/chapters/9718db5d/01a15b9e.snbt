@@ -1,9 +1,9 @@
 {
-	title: "Сделайте 4 уровень Кровавого алтаря",
+	title: "{ftbquests.bm.title.4}",
 	icon: "bloodmagic:altar",
 	x: 12.0d,
 	y: 4.0d,
-	description: "Практически предел",
+	description: "{ftbquests.bm.sub.4}",
 	dependencies: [
 		"3e5a8de1"
 	],

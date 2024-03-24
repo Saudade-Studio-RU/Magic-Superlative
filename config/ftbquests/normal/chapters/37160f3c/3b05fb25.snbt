@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пронзающий мстительный фокус",
+	title: "{ftbquests.ec.title.3}",
 	x: 13.0d,
 	y: -4.0d,
-	description: "Убийство неживого",
+	description: "{ftbquests.ec.sub.3}",
 	dependencies: [
 		"df6e75d6"
 	],

@@ -1,7 +1,7 @@
 {
 	x: 2.5d,
 	y: 5.5d,
-	description: "Мана за топливо",
+	description: "{ftbquests.botania.title.25}",
 	dependencies: [
 		"ee38887d"
 	],

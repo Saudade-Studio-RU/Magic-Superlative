@@ -1,8 +1,8 @@
 {
-	title: "Найдите Экскалибур на дне озера",
+	title: "{ftbquests.mahou.title.6}",
 	x: -6.0d,
 	y: 6.0d,
-	description: "А где же владычица? Меч же был серебрянным...",
+	description: "{ftbquests.mahou.sub.6}",
 	dependencies: [
 		"ecd385ee"
 	],

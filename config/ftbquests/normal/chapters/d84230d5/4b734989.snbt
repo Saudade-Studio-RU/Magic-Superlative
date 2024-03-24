@@ -1,8 +1,8 @@
 {
-	title: "Создайте Броню ботаника",
+	title: "{ftbquests.nataura.title.5}",
 	x: 12.0d,
 	y: -3.0d,
-	description: "Природа злиться на ваших врагов...",
+	description: "{ftbquests.nataura.sub.5}",
 	dependencies: [
 		"956d9ae8"
 	],

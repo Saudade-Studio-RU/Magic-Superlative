@@ -1,8 +1,8 @@
 {
-	title: "Призовите Леонарда",
+	title: "{ftbquests.bewitch.title.22}",
 	x: 17.5d,
 	y: 1.5d,
-	description: "Азазель",
+	description: "{ftbquests.bewitch.sub.22}",
 	dependencies: [
 		"32b4fc13"
 	],

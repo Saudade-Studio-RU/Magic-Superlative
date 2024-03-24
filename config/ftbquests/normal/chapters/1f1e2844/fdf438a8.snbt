@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пепельный постамент",
+	title: "{ftbquests.embers.title.42}",
 	x: 17.0d,
 	y: 0.0d,
-	description: "Ихор в пыль - истинная выгода!",
+	description: "{ftbquests.embers.sub.42}",
 	dependencies: [
 		"2aa8a7b4"
 	],

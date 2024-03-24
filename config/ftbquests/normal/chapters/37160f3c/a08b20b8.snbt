@@ -1,9 +1,9 @@
 {
-	title: "Наполните пузырёк Солнечной погодой",
+	title: "{ftbquests.ec.title.26}",
 	icon: "evilcraft:weather_container 1 1",
 	x: -3.0d,
 	y: 1.0d,
-	description: "Просто бросьте в аккумулятор во время Солнечной погоды",
+	description: "{ftbquests.ec.sub.26}",
 	dependencies: [
 		"4486da03"
 	],

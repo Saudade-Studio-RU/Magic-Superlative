@@ -1,8 +1,8 @@
 {
-	title: "Создайте первый демонический камень",
+	title: "{ftbquests.bm.title.50}",
 	x: -8.0d,
 	y: 0.0d,
-	description: "Батарейка для демонической энергии (Вплоть до 64)",
+	description: "{ftbquests.bm.sub.50}",
 	dependencies: [
 		"18c33323"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Найдите все редкие саженцы",
+	title: "{ftbquests.twilight.title.6}",
 	x: 3.0d,
 	y: 3.0d,
-	description: "Забрался на дерево, а в нём... ещё одно",
+	description: "{ftbquests.twilight.sub.6}",
 	dependencies: [
 		"109742bd"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Выдайте Бутыльки аспектов всего мира",
+	title: "{ftbquests.various.title.40}",
 	x: 6.0d,
 	y: -5.0d,
-	description: "ПРОЕКТ ШИЗОФРЕНИЯ",
+	description: "{ftbquests.various.sub.40}",
 	tasks: [{
 		uid: "68a8498c",
 		type: "item",

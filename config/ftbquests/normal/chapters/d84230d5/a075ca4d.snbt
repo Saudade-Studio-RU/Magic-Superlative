@@ -1,8 +1,8 @@
 {
-	title: "Создайте Древний саженец",
+	title: "{ftbquests.nataura.title.22}",
 	x: 6.0d,
 	y: 2.0d,
-	description: "Аура из дерева",
+	description: "{ftbquests.nataura.sub.22}",
 	dependencies: [
 		"4e555d60"
 	],

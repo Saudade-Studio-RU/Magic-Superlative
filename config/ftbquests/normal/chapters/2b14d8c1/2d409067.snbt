@@ -1,8 +1,8 @@
 {
-	title: "Создайте Любую книжную полку",
+	title: "{ftbquests.wizardry.title.2}",
 	x: 0.0d,
 	y: -8.5d,
-	description: "Хранилище знаний",
+	description: "{ftbquests.wizardry.sub.2}",
 	dependencies: [
 		"b4f5ed67"
 	],

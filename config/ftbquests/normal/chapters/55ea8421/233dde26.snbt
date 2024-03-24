@@ -1,8 +1,8 @@
 {
-	title: "Землекрушитель SS ",
+	title: "{ftbquests.various.title.23}",
 	x: -6.0d,
 	y: -5.0d,
-	description: "Мир трясётся...",
+	description: "{ftbquests.various.sub.23}",
 	dependencies: [
 		"dd9580ff"
 	],
@@ -24,7 +24,7 @@
 	rewards: [{
 		uid: "71533e2d",
 		type: "item",
-		title: "Дёрн богов",
+		title: "{ftbquests.various.rofl}",
 		item: "minecraft:grass"
 	}]
 }

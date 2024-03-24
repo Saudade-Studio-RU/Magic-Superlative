@@ -1,7 +1,7 @@
 {
 	x: -3.0d,
 	y: 0.0d,
-	description: "Охрана территорий",
+	description: "{ftbquests.augment.sub.8}",
 	dependencies: [
 		"8d031da0"
 	],

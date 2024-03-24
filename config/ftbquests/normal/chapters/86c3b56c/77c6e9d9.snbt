@@ -1,8 +1,8 @@
 {
-	title: "Создайте Страхолитовый Самурайский комплект",
+	title: "{ftbquests.abyssal.title.13}",
 	x: 17.0d,
 	y: -6.0d,
-	description: "Самурай из ада",
+	description: "{ftbquests.abyssal.sub.13}",
 	dependencies: [
 		"186756c8"
 	],

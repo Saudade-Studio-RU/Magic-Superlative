@@ -1,8 +1,8 @@
 {
-	title: "Создайте Контроллер ящика",
+	title: "{ftbquests.archives.title.5}",
 	x: -4.0d,
 	y: -4.0d,
-	description: "Быстрый склад",
+	description: "{ftbquests.archives.sub.5}",
 	dependencies: [
 		"8decb1ed"
 	],

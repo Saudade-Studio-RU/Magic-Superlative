@@ -1,8 +1,8 @@
 {
-	title: "Создайте Обсерваторию",
+	title: "{ftbquests.sorcery.title.22}",
 	x: 18.0d,
 	y: 0.5d,
-	description: "Новые горизонты!",
+	description: "{ftbquests.sorcery.sub.22}",
 	dependencies: [
 		"5fb68e2c"
 	],

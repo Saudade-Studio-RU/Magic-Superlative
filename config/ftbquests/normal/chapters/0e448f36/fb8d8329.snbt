@@ -1,8 +1,8 @@
 {
-	title: "Повысьте уровень Охотника до 5",
+	title: "{ftbquests.vampirism.title.35}",
 	x: 11.5d,
 	y: -2.0d,
-	description: "Больше, чем новичок",
+	description: "{ftbquests.vampirism.sub.35}",
 	dependencies: [
 		"6a9ddb01"
 	],

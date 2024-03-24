@@ -1,7 +1,7 @@
 {
 	x: 6.0d,
 	y: 8.5d,
-	description: "Голем-лесник",
+	description: "{ftbquests.thaumcraft.title.9}",
 	dependencies: [
 		"f3a8159d"
 	],

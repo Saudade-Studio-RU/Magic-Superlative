@@ -1,8 +1,8 @@
 {
-	title: "Слитки из Стража",
+	title: "{ftbquests.botania.title.49}",
 	x: 28.0d,
 	y: -3.0d,
-	description: "Готов ко 2 раунду?",
+	description: "{ftbquests.botania.sub.49}",
 	dependencies: [
 		"73a7ba4d"
 	],

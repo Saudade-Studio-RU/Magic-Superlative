@@ -1,8 +1,8 @@
 {
-	title: "Создайте любой Эмбер аксессуар",
+	title: "{ftbquests.embers.title.23}",
 	x: 20.0d,
 	y: -2.0d,
-	description: "Уменьшение затрат",
+	description: "{ftbquests.embers.sub.23}",
 	dependencies: [
 		"49ed73f8"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Порошок устойчового роста",
+	title: "{ftbquests.nataura.title.33}",
 	x: 18.0d,
 	y: -1.5d,
-	description: "Не трать её попусту",
+	description: "{ftbquests.nataura.sub.33}",
 	dependencies: [
 		"fb79a9bd"
 	],

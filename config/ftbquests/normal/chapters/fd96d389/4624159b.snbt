@@ -1,8 +1,8 @@
 {
-	title: "Создайте Звёздную мантию",
+	title: "{ftbquests.sorcery.title.27}",
 	x: 21.0d,
 	y: 3.0d,
-	description: "Накидка с силой Звёзд",
+	description: "{ftbquests.sorcery.sub.27}",
 	dependencies: [
 		"5fb68e2c"
 	],

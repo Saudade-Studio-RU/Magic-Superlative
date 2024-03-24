@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пламенное ядро",
+	title: "{ftbquests.embers.title.33}",
 	x: 24.0d,
 	y: 0.0d,
-	description: "Сердце машин Дварфов",
+	description: "{ftbquests.embers.sub.33}",
 	dependencies: [
 		"7ee936e9"
 	],

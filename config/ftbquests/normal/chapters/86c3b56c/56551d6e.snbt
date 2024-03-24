@@ -1,8 +1,8 @@
 {
-	title: "Создайте Комплект Глубин",
+	title: "{ftbquests.abyssal.title.23}",
 	x: 14.0d,
 	y: -5.5d,
-	description: "Сила измерения",
+	description: "{ftbquests.abyssal.sub.23}",
 	dependencies: [
 		"842cdfc8"
 	],

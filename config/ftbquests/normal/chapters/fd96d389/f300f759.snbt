@@ -1,8 +1,8 @@
 {
-	title: "Настройте Горный кристалл",
+	title: "{ftbquests.sorcery.title.36}",
 	x: 6.5d,
 	y: 7.5d,
-	description: "На Алтаре настройки",
+	description: "{ftbquests.sorcery.sub.36}",
 	dependencies: [
 		"f8ed1d74"
 	],

@@ -1,10 +1,10 @@
 {
-	title: "Постройте Наполняющую Матрицу",
+	title: "{ftbquests.thaumcraft.title.36}",
 	x: 9.5d,
 	y: -8.5d,
-	description: "Активируйте её через Salis Mundus",
+	description: "{ftbquests.thaumcraft.sub.36}",
 	text: [
-		"Совет от автора сборки. При наполнении все предметы должны находится на пьедесталах симметрично, также как и объекты вокруг матрицы с пометкой Infision Stablizer (Пьедесталы, например). "
+		"{ftbquests.thaumcraft.desc.36}"
 	],
 	dependencies: [
 		"f08c17e8"

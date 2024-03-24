@@ -1,8 +1,8 @@
 {
-	title: "Начните изучать Вампиризм",
+	title: "{ftbquests.superlative.title.17}",
 	x: -2.0d,
 	y: 5.0d,
-	description: "Станьте Вампиров или охотником на них",
+	description: "{ftbquests.superlative.sub.17}",
 	dependencies: [
 		"504c27b7"
 	],

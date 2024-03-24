@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "4d941d8d",
 		type: "checkmark",
-		title: "Дополнительная награда"
+		title: "{ftbquests.various.title.18}"
 	}],
 	rewards: [{
 		uid: "0499a7bb",

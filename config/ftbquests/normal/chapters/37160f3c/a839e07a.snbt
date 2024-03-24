@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кольцо лёгкости",
+	title: "{ftbquests.ec.title.27}",
 	x: 7.0d,
 	y: -3.0d,
-	description: "Да, снова, опять, ещё раз",
+	description: "{ftbquests.ec.sub.27}",
 	dependencies: [
 		"474115b4",
 		"45c10ab2"

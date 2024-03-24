@@ -1,8 +1,8 @@
 {
-	title: "Победите босса и найдите Потеряные свитки",
+	title: "{ftbquests.augment.title.19}",
 	x: 6.0d,
 	y: -7.0d,
-	description: "Записи старых тауматургов. Что за вис-узлы?",
+	description: "{ftbquests.augment.sub.19}",
 	dependencies: [
 		"59fe4df3"
 	],

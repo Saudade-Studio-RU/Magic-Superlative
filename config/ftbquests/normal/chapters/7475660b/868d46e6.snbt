@@ -1,8 +1,8 @@
 {
-	title: "Создайте Полный комплект Порочных одеяний",
+	title: "{ftbquests.bewitch.title.19}",
 	x: 14.5d,
 	y: 1.5d,
-	description: "Адский атрибут",
+	description: "{ftbquests.bewitch.sub.19}",
 	dependencies: [
 		"6e0dd2fe"
 	],

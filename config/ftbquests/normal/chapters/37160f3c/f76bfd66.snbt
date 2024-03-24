@@ -1,8 +1,8 @@
 {
-	title: "Создайте Самоцвет тёмной силы",
+	title: "{ftbquests.ec.title.36}",
 	x: 5.0d,
 	y: 1.0d,
-	description: "Бросьте тёмный самоцвет в пять блоков разлитой крови",
+	description: "{ftbquests.ec.sub.36}",
 	dependencies: [
 		"23cf118f"
 	],

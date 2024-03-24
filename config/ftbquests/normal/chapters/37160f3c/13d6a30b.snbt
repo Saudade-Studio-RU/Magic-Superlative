@@ -1,9 +1,9 @@
 {
-	title: "Наполните Пузырёк дождём",
+	title: "{ftbquests.ec.title.8}",
 	icon: "evilcraft:weather_container 1 2",
 	x: -3.0d,
 	y: 3.0d,
-	description: "Просто бросьте в аккумулятор во время дождя",
+	description: "{ftbquests.ec.sub.8}",
 	dependencies: [
 		"4486da03"
 	],

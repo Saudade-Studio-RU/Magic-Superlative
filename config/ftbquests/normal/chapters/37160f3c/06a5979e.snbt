@@ -1,8 +1,8 @@
 {
-	title: "Создайте  Любое яйцо призыва",
+	title: "{ftbquests.ec.title.6}",
 	x: 3.0d,
 	y: 3.0d,
-	description: "/gamemode 1",
+	description: "{ftbquests.ec.sub.6}",
 	dependencies: [
 		"0dcfafa5"
 	],

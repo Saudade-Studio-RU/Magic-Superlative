@@ -1,8 +1,8 @@
 {
-	title: "Обойдёмся и без лестниц",
+	title: "{ftbquests.thaumcraft.title.56}",
 	x: 10.0d,
 	y: -2.5d,
-	description: "Ведь есть магия!",
+	description: "{ftbquests.thaumcraft.sub.56}",
 	dependencies: [
 		"6746ddd4"
 	],

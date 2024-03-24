@@ -1,8 +1,8 @@
 {
-	title: "Создайте Ступку и пестик из алмазов",
+	title: "{ftbquests.mahou.title.4}",
 	x: -3.0d,
 	y: 3.0d,
-	description: "Дорогая дробилка",
+	description: "{ftbquests.mahou.sub.4}",
 	dependencies: [
 		"342bc1c6"
 	],

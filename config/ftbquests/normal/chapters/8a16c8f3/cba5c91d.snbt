@@ -1,8 +1,8 @@
 {
-	title: "Создайте Сапоги Странника",
+	title: "{ftbquests.augment.title.24}",
 	x: -2.0d,
 	y: 3.0d,
-	description: "Всегда целы",
+	description: "{ftbquests.augment.sub.24}",
 	dependencies: [
 		"83b8917a",
 		"8d031da0"

@@ -1,8 +1,8 @@
 {
-	title: "Безвредные пары!",
+	title: "{ftbquests.thaumcraft.title.17}",
 	x: 2.0d,
 	y: -13.0d,
-	description: "Уменьшение загрязнения",
+	description: "{ftbquests.thaumcraft.sub.17}",
 	dependencies: [
 		"70260fdb"
 	],

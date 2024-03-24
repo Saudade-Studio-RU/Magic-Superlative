@@ -1,8 +1,8 @@
 {
-	title: "Добудьте Коралловую жемчужину",
+	title: "{ftbquests.abyssal.title.10}",
 	x: 3.0d,
 	y: -2.0d,
-	description: "Тьма глубины ощущается в ней...",
+	description: "{ftbquests.abyssal.sub.10}",
 	dependencies: [
 		"85092639"
 	],

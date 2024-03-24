@@ -1,8 +1,8 @@
 {
-	title: "Создайте Камень импульса",
+	title: "{ftbquests.augment.title.12}",
 	x: 8.0d,
 	y: -7.0d,
-	description: "Продвинутые манипуляции импульсом",
+	description: "{ftbquests.augment.sub.12}",
 	dependencies: [
 		"bc158a26"
 	],

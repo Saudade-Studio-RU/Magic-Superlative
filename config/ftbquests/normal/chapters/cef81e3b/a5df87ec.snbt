@@ -1,8 +1,8 @@
 {
-	title: "Приветствую вас в модпаке Magic: Superlative!",
+	title: "{ftbquests.start.title.2}",
 	x: 0.0d,
 	y: 0.0d,
-	description: "Данный модпак хранит в себе необъятный мир почти всех глобальных магических модификаций на версии 1.12.2. В нём многое изменено, но автор надеется что вам он понравится!",
+	description: "{ftbquests.start.sub.2}",
 	size: 3.0d,
 	tasks: [{
 		uid: "ac6dd7e4",

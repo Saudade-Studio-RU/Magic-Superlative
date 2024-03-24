@@ -1,10 +1,10 @@
 {
-	title: "Создание кристаллов демонической энергии",
+	title: "{ftbquests.bm.title.41}",
 	x: -14.0d,
 	y: 4.5d,
-	description: "Кристаллизация воли",
+	description: "{ftbquests.bm.sub.41}",
 	text: [
-		"Что бы сделать кристаллы с одним аспектом, вам необходим ритуал Resonance of Faceted Crystal"
+		"{ftbquests.bm.sub.41}"
 	],
 	dependencies: [
 		"e944150c",

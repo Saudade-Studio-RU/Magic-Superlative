@@ -1,8 +1,8 @@
 {
-	title: "Создайте Слиток небес",
+	title: "{ftbquests.nataura.title.34}",
 	x: 16.0d,
 	y: 0.0d,
-	description: "Подарок от бога",
+	description: "{ftbquests.nataura.sub.34}",
 	dependencies: [
 		"eb74ddef"
 	],

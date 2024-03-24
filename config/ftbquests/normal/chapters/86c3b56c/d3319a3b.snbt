@@ -2,7 +2,7 @@
 	icon: "abyssalcraft:shoggothflesh",
 	x: 0.0d,
 	y: -4.0d,
-	description: "Отпрыски Старейшин",
+	description: "{ftbquests.abyssal.sub.35}",
 	dependencies: [
 		"85092639"
 	],
@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "0632b372",
 		type: "kill",
-		title: "Найдите и Уничтожьте Маленьких Шоггтов",
+		title: "{ftbquests.abyssal.title.35}",
 		entity: "abyssalcraft:lessershoggoth",
 		value: 3L
 	}],

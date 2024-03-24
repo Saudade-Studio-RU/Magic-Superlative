@@ -1,8 +1,8 @@
 {
-	title: "Наполнение маной в действии",
+	title: "{ftbquests.botania.title.53}",
 	x: 11.0d,
 	y: 0.0d,
-	description: "Преобразование маны!",
+	description: "{ftbquests.botania.sub.53}",
 	dependencies: [
 		"a712fc39"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Посох Расщепления из Ужасных Земель",
+	title: "{ftbquests.abyssal.title.11}",
 	x: 22.0d,
 	y: 2.0d,
-	description: "Абсорбция с силой Ужаса",
+	description: "{ftbquests.abyssal.sub.11}",
 	dependencies: [
 		"9908f530",
 		"c6b7f2e6"

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Осколок крови",
+	title: "{ftbquests.ec.title.12}",
 	x: 5.0d,
 	y: -1.0d,
-	description: "Сожгите блок застывшей крови",
+	description: "{ftbquests.ec.sub.12}",
 	dependencies: [
 		"23cf118f"
 	],

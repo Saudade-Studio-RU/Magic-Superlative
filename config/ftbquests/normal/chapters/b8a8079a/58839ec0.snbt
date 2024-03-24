@@ -1,8 +1,8 @@
 {
-	title: "Настоящий инструмент",
+	title: "{ftbquests.thaumcraft.title.43}",
 	x: 8.5d,
 	y: -16.5d,
-	description: "Из другого мира",
+	description: "{ftbquests.thaumcraft.title.43}",
 	dependencies: [
 		"83b8917a"
 	],

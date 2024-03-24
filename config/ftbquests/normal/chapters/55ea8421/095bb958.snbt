@@ -1,11 +1,11 @@
 {
-	title: "Ихор - Потерянная субстанция",
+	title: "{ftbquests.various.title.21}",
 	x: -17.0d,
 	y: -10.0d,
-	description: "Изучите всё в Thaumcraft 6",
+	description: "{ftbquests.various.sub.21}",
 	text: [
-		"Это не касается двух исследований-камней в наполнении а также мобов.",
-		"Дополнения Thaumic Augmentation, Перефирия, а также глава Мироздание учитываются."
+		"{ftbquests.various.desc.21.1}",
+		"{ftbquests.various.desc.21.2}"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

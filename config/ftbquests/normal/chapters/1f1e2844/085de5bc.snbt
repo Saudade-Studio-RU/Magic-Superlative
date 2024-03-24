@@ -1,8 +1,8 @@
 {
-	title: "Создайте Измеритель атмосферы",
+	title: "{ftbquests.embers.title.17}",
 	x: 3.0d,
 	y: -3.0d,
-	description: "Изучение воздуха",
+	description: "{ftbquests.embers.sub.17}",
 	dependencies: [
 		"5f0d7246"
 	],

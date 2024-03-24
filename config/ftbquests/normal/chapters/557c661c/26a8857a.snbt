@@ -1,8 +1,8 @@
 {
-	title: "Создайте Сияющий клад",
+	title: "{ftbquests.archives.title.7}",
 	x: 7.0d,
 	y: -2.0d,
-	description: "Тысячи и миллионы",
+	description: "{ftbquests.archives.sub.7}",
 	dependencies: [
 		"43d324b8"
 	],

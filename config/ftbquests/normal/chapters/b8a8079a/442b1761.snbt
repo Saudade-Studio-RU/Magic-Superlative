@@ -1,7 +1,7 @@
 {
 	x: 4.0d,
 	y: 9.5d,
-	description: "Голем-фермер",
+	description: "{ftbquests.thaumcraft.title.32}",
 	dependencies: [
 		"f3a8159d"
 	],

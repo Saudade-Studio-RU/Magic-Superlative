@@ -1,8 +1,8 @@
 {
-	title: "Создайте Первичный резак",
+	title: "{ftbquests.augment.title.13}",
 	x: 0.0d,
 	y: 3.0d,
-	description: "Пустота vs Живое",
+	description: "{ftbquests.augment.sub.13}",
 	dependencies: [
 		"8d031da0"
 	],

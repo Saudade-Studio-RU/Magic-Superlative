@@ -1,0 +1,27 @@
+{
+	title: "{ftbquests.botania.title.61}",
+	x: 11.5d,
+	y: -2.0d,
+	description: "{ftbquests.botania.sub.61}",
+	text: [
+		"{ftbquests.botania.desc.61}"
+	],
+	dependencies: [
+		"d5f03da1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "39529f07",
+		type: "item",
+		items: [{
+			item: "extrabotany:nightmarefuel"
+		}]
+	},
+	{
+		uid: "ee107e46",
+		type: "item",
+		items: [{
+			item: "extrabotany:spiritfuel"
+		}]
+	}]
+}

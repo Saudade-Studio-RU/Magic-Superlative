@@ -1,8 +1,8 @@
 {
-	title: "Создайте Автоматический молот",
+	title: "{ftbquests.embers.title.15}",
 	x: 22.0d,
 	y: -2.0d,
-	description: "Быстрее и без вашей грубой силы",
+	description: "{ftbquests.embers.sub.15}",
 	dependencies: [
 		"1c4a1d4e"
 	],

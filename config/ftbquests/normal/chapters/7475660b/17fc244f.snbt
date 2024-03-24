@@ -1,8 +1,8 @@
 {
-	title: "Создайте Вечный лёд",
+	title: "{ftbquests.bewitch.title.10}",
 	x: 8.0d,
 	y: -3.0d,
-	description: "Стоп. Реально вечный?",
+	description: "{ftbquests.bewitch.sub.10}",
 	dependencies: [
 		"a442f61f"
 	],

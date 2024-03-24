@@ -1,8 +1,8 @@
 {
-	title: "Эволюция плиток 3",
+	title: "{ftbquests.bm.title.2}",
 	x: 0.0d,
 	y: 12.0d,
-	description: "Демоническая... И где там демон?",
+	description: "{ftbquests.bm.sub.2}",
 	dependencies: [
 		"809d3c2c"
 	],

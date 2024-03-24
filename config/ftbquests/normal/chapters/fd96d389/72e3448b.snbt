@@ -1,8 +1,8 @@
 {
-	title: "Создайте Свиток записи исследований",
+	title: "{ftbquests.sorcery.title.14}",
 	x: 9.0d,
 	y: 1.5d,
-	description: "Передача ваших знаний! Надеюсь их есть кому передать",
+	description: "{ftbquests.sorcery.sub.14}",
 	dependencies: [
 		"a1011c53"
 	],

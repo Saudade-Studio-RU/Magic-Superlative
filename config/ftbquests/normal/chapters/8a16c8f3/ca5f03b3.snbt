@@ -1,8 +1,8 @@
 {
-	title: "Создайте Зеркала импульса",
+	title: "{ftbquests.augment.title.23}",
 	x: 10.0d,
 	y: -9.0d,
-	description: "Телепортирование импульса",
+	description: "{ftbquests.augment.sub.23}",
 	dependencies: [
 		"69d2b155"
 	],

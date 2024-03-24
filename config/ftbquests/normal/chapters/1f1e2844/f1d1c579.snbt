@@ -1,8 +1,8 @@
 {
-	title: "Создайте любой инструмент",
+	title: "{ftbquests.embers.title.41}",
 	x: 11.0d,
 	y: 6.0d,
-	description: "Потребляющий Эмбер энергию",
+	description: "{ftbquests.embers.sub.41}",
 	dependencies: [
 		"f0a2ee68"
 	],

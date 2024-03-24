@@ -2,7 +2,7 @@
 	icon: "twilightforest:trophy 1 2",
 	x: 11.0d,
 	y: 2.0d,
-	description: "Головы падают, они крепчают",
+	description: "{ftbquests.twilight.title.15}",
 	dependencies: [
 		"e2704c58"
 	],

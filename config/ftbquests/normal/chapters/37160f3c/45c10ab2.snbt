@@ -1,8 +1,8 @@
 {
-	title: "Создайте Обещание эффективности",
+	title: "{ftbquests.ec.title.10}",
 	x: 6.0d,
 	y: -1.5d,
-	description: "Улучшение выхода",
+	description: "{ftbquests.ec.sub.10}",
 	dependencies: [
 		"4837658d"
 	],

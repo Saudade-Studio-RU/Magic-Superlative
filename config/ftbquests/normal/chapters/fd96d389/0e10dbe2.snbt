@@ -1,8 +1,8 @@
 {
-	title: "Получите Звёздную пыль",
+	title: "{ftbquests.sorcery.title.1}",
 	x: 16.0d,
 	y: 5.0d,
-	description: "Звёзды в руках",
+	description: "{ftbquests.sorcery.sub.1}",
 	dependencies: [
 		"711fb32c"
 	],

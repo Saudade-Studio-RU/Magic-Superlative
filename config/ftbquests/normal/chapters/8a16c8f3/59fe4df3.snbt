@@ -1,8 +1,8 @@
 {
-	title: "Найдите все старые Артефакты в замке и используйте их",
+	title: "{ftbquests.augment.title.11}",
 	x: 4.0d,
 	y: -7.0d,
-	description: "Найдя один, используйте что бы найти другой",
+	description: "{ftbquests.augment.sub.11}",
 	dependencies: [
 		"b1d4a2e9"
 	],

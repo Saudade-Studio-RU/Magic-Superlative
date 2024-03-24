@@ -1,8 +1,8 @@
 {
-	title: "Выплавьте ЭФирную пластину",
+	title: "{ftbquests.aetherworks.title.13}",
 	x: 7.0d,
 	y: 0.0d,
-	description: "Пластина небес",
+	description: "{ftbquests.aetherworks.sub.13}",
 	dependencies: [
 		"48373429"
 	],

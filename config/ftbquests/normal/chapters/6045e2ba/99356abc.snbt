@@ -1,8 +1,8 @@
 {
-	title: "Получите Экскалибур, сильнейшее оружие из Botania",
+	title: "{ftbquests.botania.title.37}",
 	x: 33.0d,
 	y: -1.5d,
-	description: "Совместите Терралезвие и Медаль за героизм",
+	description: "{ftbquests.botania.sub.37}",
 	dependencies: [
 		"a482e424"
 	],

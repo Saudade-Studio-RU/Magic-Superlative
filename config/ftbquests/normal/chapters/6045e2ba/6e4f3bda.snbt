@@ -1,9 +1,9 @@
 {
-	title: "Создайте Террасталь",
+	title: "{ftbquests.botania.title.12}",
 	x: 17.5d,
 	y: -3.0d,
 	shape: "square",
-	description: "Сильнейший металл?",
+	description: "{ftbquests.botania.sub.12}",
 	dependencies: [
 		"c8269522"
 	],

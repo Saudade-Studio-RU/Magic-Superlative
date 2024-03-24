@@ -1,5 +1,5 @@
 {
-	title: "Разное",
+	title: "{ftbquests.various.title.1}",
 	icon: {
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}

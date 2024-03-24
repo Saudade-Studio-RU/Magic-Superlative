@@ -1,8 +1,8 @@
 {
-	title: "Повысьте уровень Охотника до 10",
+	title: "{ftbquests.vampirism.title.24}",
 	x: 14.0d,
 	y: -2.0d,
-	description: "Ветеран вампирских баталий",
+	description: "{ftbquests.vampirism.sub.24}",
 	dependencies: [
 		"fb8d8329"
 	],

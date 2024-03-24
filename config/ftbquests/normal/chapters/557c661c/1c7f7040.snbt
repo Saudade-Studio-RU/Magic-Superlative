@@ -1,8 +1,8 @@
 {
-	title: "Создайте Улучшения ",
+	title: "{ftbquests.archives.title.3}",
 	x: 8.0d,
 	y: 3.5d,
-	description: "Больше в 1",
+	description: "{ftbquests.archives.sub.3}",
 	dependencies: [
 		"cf2db7e2"
 	],

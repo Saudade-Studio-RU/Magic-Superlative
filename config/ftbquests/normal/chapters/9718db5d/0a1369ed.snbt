@@ -1,8 +1,8 @@
 {
-	title: "Создайте первый кровавый шар",
+	title: "{ftbquests.bm.title.1}",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Важная составляющая ",
+	description: "{ftbquests.bm.sub.1}",
 	dependencies: [
 		"8fa9d29c"
 	],

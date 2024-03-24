@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Разумный меч, вытягивыющий Адскую энергию из мобов",
+	title: "{ftbquests.bm.title.19}",
 	x: -9.0d,
 	y: 1.5d,
-	description: "Теперь без ловушек",
+	description: "{ftbquests.bm.sub.19}",
 	dependencies: [
 		"f9f5dce4"
 	],

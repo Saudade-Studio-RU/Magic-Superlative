@@ -1,8 +1,8 @@
 {
-	title: "Кристаллы других энергий",
+	title: "{ftbquests.bm.title.21}",
 	x: -14.0d,
 	y: 6.0d,
-	description: "Ритуал Эдишн",
+	description: "{ftbquests.bm.sub.21}",
 	dependencies: [
 		"dfd224b6"
 	],

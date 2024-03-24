@@ -1,8 +1,8 @@
 {
-	title: "Создайте Секстант",
+	title: "{ftbquests.sorcery.title.13}",
 	x: 1.0d,
 	y: 3.0d,
-	description: "Помощь в постройке",
+	description: "{ftbquests.sorcery.sub.13}",
 	dependencies: [
 		"89691c84"
 	],

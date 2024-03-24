@@ -1,8 +1,8 @@
 {
-	title: "Создайте Обещание упорства II ",
+	title: "{ftbquests.ec.title.28}",
 	x: 11.0d,
 	y: 0.0d,
-	description: "Следующий уровень",
+	description: "{ftbquests.ec.sub.28}",
 	dependencies: [
 		"2b1f3f40"
 	],

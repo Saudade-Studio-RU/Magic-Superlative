@@ -1,5 +1,5 @@
 {
-	title: "Создайте Все перчатки Заклинателя",
+	title: "{ftbquests.various.title.12}",
 	icon: {
 		ForgeCaps: {
 			Parent: {
@@ -18,9 +18,9 @@
 	},
 	x: 3.0d,
 	y: -3.0d,
-	description: "Танос x5!?",
+	description: "{ftbquests.various.sub.12}",
 	text: [
-		"Квест является обобщением всех квестов про перчатки"
+		"{ftbquests.various.desc.12}"
 	],
 	dependencies: [
 		"306d1ef4",

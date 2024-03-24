@@ -1,8 +1,8 @@
 {
-	title: "Создайте Волшебный жезл",
+	title: "{ftbquests.wizardry.title.5}",
 	x: 3.0d,
 	y: 2.0d,
-	description: "Классика!",
+	description: "{ftbquests.wizardry.sub.5}",
 	dependencies: [
 		"741a6aab"
 	],

@@ -1,10 +1,10 @@
 {
-	title: "Чернильница из крови (см. Evilcraft)",
+	title: "{ftbquests.thaumcraft.title.75}",
 	x: -8.5d,
 	y: -1.0d,
-	description: "Чернила не везде, кровь всегда с собой",
+	description: "{ftbquests.thaumcraft.sub.75}",
 	text: [
-		"Сгусток крови поможет вам сделать их"
+		"{ftbquests.thaumcraft.sub.75}"
 	],
 	dependencies: [
 		"c09ce581",

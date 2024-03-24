@@ -1,8 +1,8 @@
 {
-	title: "Создайте Столик обработки кристаллов",
+	title: "{ftbquests.archives.title.10}",
 	x: 8.0d,
 	y: 0.0d,
-	description: "Изменение кристаллов",
+	description: "{ftbquests.archives.sub.10}",
 	dependencies: [
 		"3fbf8f60"
 	],

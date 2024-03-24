@@ -1,8 +1,8 @@
 {
-	title: "Создайте Костяной меч дракона",
+	title: "{ftbquests.iaf.title.11}",
 	x: 8.5d,
 	y: -2.0d,
-	description: "Меч из дракона",
+	description: "{ftbquests.iaf.sub.11}",
 	dependencies: [
 		"7bee1470"
 	],

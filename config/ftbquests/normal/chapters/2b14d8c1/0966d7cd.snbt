@@ -1,8 +1,8 @@
 {
-	title: "Повстречайте Алтарь наполнения",
+	title: "{ftbquests.wizardry.title.10}",
 	x: 3.0d,
 	y: -6.0d,
-	description: "Создание пропитанного магией",
+	description: "{ftbquests.wizardry.sub.10}",
 	dependencies: [
 		"d6a4585c"
 	],

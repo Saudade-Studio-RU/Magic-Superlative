@@ -1,8 +1,8 @@
 {
-	title: "Автоматизация эссенции",
+	title: "{ftbquests.thaumcraft.title.57}",
 	x: -7.0d,
 	y: -13.0d,
-	description: "Принципы наполнения",
+	description: "{ftbquests.thaumcraft.sub.57}",
 	dependencies: [
 		"7fa45b47"
 	],

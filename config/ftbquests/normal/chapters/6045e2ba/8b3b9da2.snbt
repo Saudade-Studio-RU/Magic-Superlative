@@ -1,8 +1,8 @@
 {
-	title: "Создайте Лепестковый аптекарь",
+	title: "{ftbquests.botania.title.16}",
 	x: 2.5d,
 	y: 0.0d,
-	description: "Верстаки - не для цветов",
+	description: "{ftbquests.botania.sub.16}",
 	dependencies: [
 		"b4d2b920"
 	],

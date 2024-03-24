@@ -1,8 +1,8 @@
 {
-	title: "Мини-сумка",
+	title: "{ftbquests.thaumcraft.title.52}",
 	x: -5.0d,
 	y: 7.5d,
-	description: "Все линзы в одном месте",
+	description: "{ftbquests.thaumcraft.sub.52}",
 	dependencies: [
 		"f4a1f4bc"
 	],

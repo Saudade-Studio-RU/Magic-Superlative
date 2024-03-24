@@ -1,14 +1,14 @@
 {
 	x: 10.0d,
 	y: -3.0d,
-	description: "Инструменты с природой",
+	description: "{ftbquests.nataura.sub.28}",
 	dependencies: [
 		"956d9ae8"
 	],
 	tasks: [{
 		uid: "a92842a1",
 		type: "item",
-		title: "Создайте любой Инструмент Ботаника",
+		title: "{ftbquests.nataura.title.28}",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

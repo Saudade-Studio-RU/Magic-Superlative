@@ -1,7 +1,7 @@
 {
 	x: -18.0d,
 	y: -17.0d,
-	description: "Сын огня",
+	description: "{ftbquests.various.title.7}",
 	dependencies: [
 		"3a360189"
 	],

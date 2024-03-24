@@ -1,7 +1,7 @@
 {
 	x: 3.0d,
 	y: 5.0d,
-	description: "Простейшее повторение",
+	description: "{ftbquests.thaumcraft.title.74}",
 	dependencies: [
 		"629b4e3d"
 	],

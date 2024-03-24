@@ -1,8 +1,8 @@
 {
-	title: "Создайте Любую кафедру",
+	title: "{ftbquests.wizardry.title.1}",
 	x: 6.0d,
 	y: -8.5d,
-	description: "Распознование знаний",
+	description: "{ftbquests.wizardry.sub.1}",
 	dependencies: [
 		"b4f5ed67"
 	],

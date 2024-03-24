@@ -1,8 +1,8 @@
 {
-	title: "Создайте Точильный камень",
+	title: "{ftbquests.sorcery.title.8}",
 	x: 4.0d,
 	y: 1.5d,
-	description: "Повышение остроты",
+	description: "{ftbquests.sorcery.sub.8}",
 	dependencies: [
 		"89691c84",
 		"79772da4"

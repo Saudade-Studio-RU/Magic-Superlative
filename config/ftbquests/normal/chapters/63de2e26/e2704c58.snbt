@@ -2,7 +2,7 @@
 	icon: "twilightforest:trophy 1 6",
 	x: 8.5d,
 	y: 2.0d,
-	description: "Лабиринт, минотавры, грибы",
+	description: "{ftbquests.twilight.title.22}",
 	dependencies: [
 		"23572e10"
 	],

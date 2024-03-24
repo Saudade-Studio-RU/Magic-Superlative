@@ -1,8 +1,8 @@
 {
-	title: "Создайте Основу ремня",
+	title: "{ftbquests.augment.title.21}",
 	x: 5.0d,
 	y: 0.0d,
-	description: "Полёт на ваше усмотрение",
+	description: "{ftbquests.augment.sub.21}",
 	dependencies: [
 		"8d031da0"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Броня из террастали",
+	title: "{ftbquests.botania.title.4}",
 	x: 16.5d,
 	y: -1.0d,
-	description: "Мощь природы...",
+	description: "{ftbquests.botania.sub.4}",
 	dependencies: [
 		"6e4f3bda",
 		"5fb68e2c"
@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "76cdc207",
 		type: "item",
-		title: "Любой Шлем из Террастали",
+		title: "{ftbquests.botania.desc.4}",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

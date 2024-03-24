@@ -9,6 +9,6 @@
 	tasks: [{
 		uid: "c3cd4e06",
 		type: "checkmark",
-		title: "Изучение хранилищ"
+		title: "{ftbquests.archives.title.19}"
 	}]
 }

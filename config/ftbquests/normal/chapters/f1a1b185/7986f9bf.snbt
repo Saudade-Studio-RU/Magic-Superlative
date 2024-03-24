@@ -8,6 +8,6 @@
 	tasks: [{
 		uid: "a78c7d6a",
 		type: "checkmark",
-		title: "Добро пожаловать в Ice and Fire!"
+		title: "{ftbquests.iaf.title.9}"
 	}]
 }

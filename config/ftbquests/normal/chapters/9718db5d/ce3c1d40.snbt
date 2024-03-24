@@ -1,7 +1,7 @@
 {
 	x: 7.5d,
 	y: -1.5d,
-	description: "Начало ритуала",
+	description: "{ftbquests.bm.title.34}",
 	dependencies: [
 		"d8f0bbf7"
 	],

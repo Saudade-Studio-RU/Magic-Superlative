@@ -1,7 +1,7 @@
 {
 	x: 3.0d,
 	y: 6.0d,
-	description: "Настоящий маг!",
+	description: "{ftbquests.wizardry.sub.11}",
 	dependencies: [
 		"cc4c1364"
 	],
@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "40f1c716",
 		type: "item",
-		title: "Повысьте ранг посоха до Продвинутого уровня",
+		title: "{ftbquests.wizardry.title.11}",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

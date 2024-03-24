@@ -1,7 +1,7 @@
 {
 	x: -5.0d,
 	y: 0.0d,
-	description: "Верстак для кровавых нужд",
+	description: "{ftbquests.bm.title.15}",
 	dependencies: [
 		"8fa9d29c"
 	],

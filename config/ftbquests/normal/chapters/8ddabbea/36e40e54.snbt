@@ -1,8 +1,8 @@
 {
-	title: "Создайте Плавильню из Мифминита",
+	title: "{ftbquests.additions.title.5}",
 	x: 10.0d,
 	y: -9.0d,
-	description: "Максимальная выгода",
+	description: "{ftbquests.additions.sub.5}",
 	dependencies: [
 		"efe32993",
 		"819dff4b"

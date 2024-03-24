@@ -1,8 +1,8 @@
 {
-	title: "Создайте Инструмент связывания",
+	title: "{ftbquests.sorcery.title.10}",
 	x: 15.0d,
 	y: 3.0d,
-	description: "Управление светом",
+	description: "{ftbquests.sorcery.sub.10}",
 	dependencies: [
 		"a1011c53"
 	],

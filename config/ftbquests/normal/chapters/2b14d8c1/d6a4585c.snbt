@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мистический верстак",
+	title: "{ftbquests.wizardry.title.14}",
 	x: 3.0d,
 	y: -2.0d,
-	description: "Уже второй",
+	description: "{ftbquests.wizardry.sub.14}",
 	dependencies: [
 		"741a6aab"
 	],

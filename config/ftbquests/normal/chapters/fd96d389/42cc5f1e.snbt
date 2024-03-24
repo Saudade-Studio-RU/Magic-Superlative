@@ -1,8 +1,8 @@
 {
-	title: "Создайте Резонатор света",
+	title: "{ftbquests.sorcery.title.11}",
 	x: 16.5d,
 	y: -0.5d,
-	description: "Помощь в поисках света",
+	description: "{ftbquests.sorcery.sub.11}",
 	dependencies: [
 		"843b67eb"
 	],

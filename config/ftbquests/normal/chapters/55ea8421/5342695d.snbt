@@ -1,8 +1,8 @@
 {
-	title: "Создайте Небесные врата с Небесным жемчугом",
+	title: "{ftbquests.various.title.26}",
 	x: -12.0d,
 	y: -17.0d,
-	description: "Перемещение MOMENT",
+	description: "{ftbquests.various.sub.26}",
 	dependencies: [
 		"8651732a"
 	],

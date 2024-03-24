@@ -1,10 +1,10 @@
 {
-	title: "Создайте Некрономикон из Ужасных Земель",
+	title: "{ftbquests.abyssal.title.22}",
 	x: 19.0d,
 	y: -2.0d,
-	description: "Ужасные знания",
+	description: "{ftbquests.abyssal.sub.22}",
 	dependencies: [
-		"3e95023f"
+		"68eb062a"
 	],
 	hide: true,
 	tasks: [{

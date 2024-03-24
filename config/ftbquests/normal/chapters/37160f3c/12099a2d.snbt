@@ -1,8 +1,8 @@
 {
-	title: "Создайте Спектральные очки",
+	title: "{ftbquests.ec.title.22}",
 	x: 13.0d,
 	y: -1.5d,
-	description: "Видимость духов",
+	description: "{ftbquests.ec.sub.22}",
 	dependencies: [
 		"9a352f59",
 		"3b05fb25"

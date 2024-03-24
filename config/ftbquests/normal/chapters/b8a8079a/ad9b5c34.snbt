@@ -1,10 +1,10 @@
 {
-	title: "Создайте Мистические меха",
+	title: "{ftbquests.thaumcraft.title.50}",
 	x: 10.0d,
 	y: -1.5d,
-	description: "Блиц - скорость без границ!",
+	description: "{ftbquests.thaumcraft.sub.50}",
 	text: [
-		"Не забывайте, что у Адской печи есть слот для Мехов не только по бокам, но и под ней"
+		"{ftbquests.thaumcraft.desc.50}"
 	],
 	dependencies: [
 		"71fd3790"

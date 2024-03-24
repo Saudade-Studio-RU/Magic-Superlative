@@ -1,8 +1,8 @@
 {
-	title: "Убейте Самку Дракона  4 или 5 стадии",
+	title: "{ftbquests.iaf.title.8}",
 	x: 6.0d,
 	y: -2.0d,
-	description: "И получите собственного дракона!",
+	description: "{ftbquests.iaf.sub.8}",
 	dependencies: [
 		"7bee1470"
 	],

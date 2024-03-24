@@ -1,8 +1,8 @@
 {
-	title: "Создайте Излучающий резонатор",
+	title: "{ftbquests.archives.title.2}",
 	x: 4.0d,
 	y: 0.0d,
-	description: "Создания особого материала",
+	description: "{ftbquests.archives.sub.2}",
 	dependencies: [
 		"e18e4572",
 		"a9d8491c",

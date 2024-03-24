@@ -1,8 +1,8 @@
 {
-	title: "Разрушьте Погодный аккумулятор",
+	title: "{ftbquests.ec.title.13}",
 	x: 0.0d,
 	y: 6.0d,
-	description: "И получите его ядро",
+	description: "{ftbquests.ec.sub.13}",
 	dependencies: [
 		"4486da03"
 	],

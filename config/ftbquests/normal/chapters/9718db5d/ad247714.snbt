@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кровавый Алтарь!",
+	title: "{ftbquests.bm.title.27}",
 	x: 0.0d,
 	y: 2.0d,
-	description: "Наполнение кровью... ",
+	description: "{ftbquests.bm.sub.27}",
 	dependencies: [
 		"8fa9d29c"
 	],

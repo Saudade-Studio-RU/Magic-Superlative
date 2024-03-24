@@ -1,8 +1,8 @@
 {
-	title: "Создайте Алтарь Инфузии",
+	title: "{ftbquests.vampirism.title.9}",
 	x: 13.0d,
 	y: 2.0d,
-	description: "Повышая уровень до 14",
+	description: "{ftbquests.vampirism.sub.9}",
 	dependencies: [
 		"6ca82ad4"
 	],

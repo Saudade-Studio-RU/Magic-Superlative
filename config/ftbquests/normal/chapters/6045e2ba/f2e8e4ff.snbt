@@ -1,7 +1,7 @@
 {
 	x: 8.5d,
 	y: 4.0d,
-	description: "Что с этой бутылкой?",
+	description: "{ftbquests.botania.title.59}",
 	dependencies: [
 		"a712fc39"
 	],

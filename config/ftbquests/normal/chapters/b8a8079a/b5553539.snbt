@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Элементальные инструменты",
+	title: "{ftbquests.thaumcraft.title.55}",
 	x: 13.0d,
 	y: -4.5d,
-	description: "Действительно хороши",
+	description: "{ftbquests.thaumcraft.sub.55}",
 	dependencies: [
 		"0aa001a1"
 	],

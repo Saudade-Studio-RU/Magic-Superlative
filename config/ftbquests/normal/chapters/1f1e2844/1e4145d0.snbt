@@ -1,8 +1,8 @@
 {
-	title: "Создайте любое улучшение для брони",
+	title: "{ftbquests.embers.title.4}",
 	x: 22.0d,
 	y: -4.0d,
-	description: "Что же будет происходить, когда меня будут бить ногами?",
+	description: "{ftbquests.embers.sub.4}",
 	dependencies: [
 		"1c4a1d4e"
 	],

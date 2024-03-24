@@ -1,8 +1,8 @@
 {
-	title: "Создайте Чистую плитку",
+	title: "{ftbquests.bm.title.51}",
 	x: 0.0d,
 	y: 3.0d,
-	description: "Сколько раз мне придётся её сделать?",
+	description: "{ftbquests.bm.sub.51}",
 	dependencies: [
 		"ad247714"
 	],

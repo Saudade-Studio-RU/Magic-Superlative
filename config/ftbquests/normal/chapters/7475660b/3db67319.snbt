@@ -1,10 +1,10 @@
 {
-	title: "Создайте Магический гримуар",
+	title: "{ftbquests.bewitch.title.2}",
 	x: 9.5d,
 	y: 1.5d,
-	description: "Кладезь энергии",
+	description: "{ftbquests.bewitch.sub.2}",
 	text: [
-		"Эта книга может быть наполнена Магической энергией на алтаре, после чего другие ведьмовские приборы могут её потреблять"
+		"{ftbquests.bewitch.desc.2}"
 	],
 	dependencies: [
 		"3e2e2219"

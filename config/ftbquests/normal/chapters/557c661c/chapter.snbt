@@ -1,5 +1,5 @@
 {
-	title: "Arcane Archives & Хранилища",
+	title: "{ftbquests.archives.title.17}",
 	icon: "arcanearchives:devouring_charm",
 	always_invisible: false,
 	group: 0,

@@ -1,8 +1,8 @@
 {
-	title: "Создайте любое оружие дальнего боя",
+	title: "{ftbquests.embers.title.9}",
 	x: 9.0d,
 	y: 6.0d,
-	description: "Подребляющие Эмбер энергию",
+	description: "{ftbquests.embers.sub.9}",
 	text: [
 		"P.S. У них нет внутреннего заряда, они берут их у батареек напрямую"
 	],

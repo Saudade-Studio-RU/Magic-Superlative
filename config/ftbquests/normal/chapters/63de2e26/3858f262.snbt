@@ -1,8 +1,8 @@
 {
-	title: "Найдите Волшебные бобы в пещерах Троллей и взрастите их для взбирания на Летающий остров",
+	title: "{ftbquests.twilight.title.10}",
 	x: 16.0d,
 	y: 0.0d,
-	description: "Вниз и вверх!",
+	description: "{ftbquests.twilight.sub.10}",
 	dependencies: [
 		"9b7527bc",
 		"222130a0",

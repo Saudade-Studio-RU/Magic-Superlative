@@ -1,8 +1,8 @@
 {
-	title: "Создайте Молот лудильщика",
+	title: "{ftbquests.embers.title.34}",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Ваш гаечный ключ сэр",
+	description: "{ftbquests.embers.sub.34}",
 	dependencies: [
 		"5f0d7246"
 	],

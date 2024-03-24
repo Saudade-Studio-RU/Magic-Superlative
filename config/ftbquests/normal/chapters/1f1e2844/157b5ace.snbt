@@ -1,8 +1,8 @@
 {
-	title: "Создайте Эмбер-передатчики",
+	title: "{ftbquests.embers.title.19}",
 	x: 9.0d,
 	y: -2.0d,
-	description: "Беспроводная энергия",
+	description: "{ftbquests.embers.sub.19}",
 	dependencies: [
 		"63068820"
 	],

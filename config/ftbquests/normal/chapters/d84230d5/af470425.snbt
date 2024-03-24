@@ -1,8 +1,8 @@
 {
-	title: "Создайте Глаз окружения",
+	title: "{ftbquests.nataura.title.24}",
 	x: 6.0d,
 	y: -2.0d,
-	description: "Видение ауры",
+	description: "{ftbquests.nataura.sub.24}",
 	dependencies: [
 		"4e555d60"
 	],

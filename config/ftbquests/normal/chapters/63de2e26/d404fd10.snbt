@@ -1,8 +1,8 @@
 {
-	title: "Соберите Рыцарский металл",
+	title: "{ftbquests.twilight.title.18}",
 	x: 8.5d,
 	y: -3.5d,
-	description: "Что это за осколки из гоблинов?",
+	description: "{ftbquests.twilight.sub.18}",
 	dependencies: [
 		"23eb50e7"
 	],

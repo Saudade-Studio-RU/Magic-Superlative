@@ -1,8 +1,8 @@
 {
-	title: "Создайте Эмбер-скважину",
+	title: "{ftbquests.embers.title.43}",
 	x: 5.0d,
 	y: 0.0d,
-	description: "Основной механизм",
+	description: "{ftbquests.embers.sub.43}",
 	dependencies: [
 		"c4714177"
 	],

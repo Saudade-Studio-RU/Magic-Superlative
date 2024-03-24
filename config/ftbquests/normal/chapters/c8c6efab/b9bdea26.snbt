@@ -1,5 +1,5 @@
 {
-	title: "Любые Мистические цветы x10",
+	title: "Any myst flower",
 	x: -5.0d,
 	y: 0.0d,
 	can_repeat: true,
@@ -10,7 +10,6 @@
 	tasks: [{
 		uid: "9e423e50",
 		type: "item",
-		title: "Любой Мистический цветок",
 		items: [{
 			item: "botania:flower"
 		},

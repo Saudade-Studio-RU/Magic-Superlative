@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пилоны маны",
+	title: "{ftbquests.botania.title.23}",
 	x: 13.0d,
 	y: -1.0d,
-	description: "Упрощённое зачарование и стабилизация наполнения (см. Thaumcraft)",
+	description: "{ftbquests.botania.sub.23}",
 	dependencies: [
 		"d5f03da1"
 	],

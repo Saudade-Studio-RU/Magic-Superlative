@@ -1,8 +1,8 @@
 {
-	title: "Создайте Окуляр окружения",
+	title: "{ftbquests.nataura.title.7}",
 	x: 6.0d,
 	y: -4.0d,
-	description: "Продвинутое видение Ауры",
+	description: "{ftbquests.nataura.sub.7}",
 	dependencies: [
 		"af470425"
 	],

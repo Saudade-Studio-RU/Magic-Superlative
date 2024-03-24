@@ -1,8 +1,8 @@
 {
-	title: "Создайте продвинутую версию",
+	title: "{ftbquests.thaumcraft.title.15}",
 	x: 10.0d,
 	y: 4.5d,
-	description: "Умная оборона вашей территории... насколько это возможно",
+	description: "{ftbquests.thaumcraft.sub.15}",
 	dependencies: [
 		"d1c90d9a"
 	],

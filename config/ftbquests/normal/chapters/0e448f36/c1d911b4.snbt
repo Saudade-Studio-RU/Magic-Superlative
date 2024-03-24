@@ -1,8 +1,8 @@
 {
-	title: "Создайте любой Вампирский плащ",
+	title: "{ftbquests.vampirism.title.27}",
 	x: 7.0d,
 	y: 5.0d,
-	description: "Вредно для людей",
+	description: "{ftbquests.vampirism.sub.27}",
 	dependencies: [
 		"e882a43b"
 	],

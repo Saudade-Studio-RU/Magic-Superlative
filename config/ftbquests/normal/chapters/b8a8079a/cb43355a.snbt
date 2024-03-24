@@ -1,8 +1,8 @@
 {
-	title: "Если долго смотреть в бездну...",
+	title: "{ftbquests.thaumcraft.title.60}",
 	x: 5.5d,
 	y: -16.5d,
-	description: "...Она посмотрит в ответ",
+	description: "{ftbquests.thaumcraft.sub.60}",
 	dependencies: [
 		"83b8917a"
 	],

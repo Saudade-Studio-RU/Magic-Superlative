@@ -1,8 +1,8 @@
 {
-	title: "Создайте Обещание упорства III ",
+	title: "{ftbquests.ec.title.7}",
 	x: 13.0d,
 	y: 0.0d,
-	description: "Максимум",
+	description: "{ftbquests.ec.sub.7}",
 	dependencies: [
 		"a754899a"
 	],

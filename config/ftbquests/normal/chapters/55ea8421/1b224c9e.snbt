@@ -1,7 +1,7 @@
 {
 	x: -16.0d,
 	y: -17.0d,
-	description: "Уборка лесов",
+	description: "{ftbquests.various.title.3}",
 	dependencies: [
 		"8651732a"
 	],

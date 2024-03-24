@@ -1,10 +1,10 @@
 {
-	title: "Блок из крови и камня",
+	title: "{ftbquests.bm.title.12}",
 	x: 3.0d,
 	y: 2.0d,
-	description: "Я чувствую что она может изменятся...",
+	description: "{ftbquests.bm.sub.12}",
 	text: [
-		"С помощью Стамесок из Chisel вы можете видоизменять руны, при этом их функционал останется"
+		"{ftbquests.bm.desc.12}"
 	],
 	dependencies: [
 		"fa86642f",

@@ -1,9 +1,9 @@
 {
-	title: "Что-бы это ни было, выглядит интересно...",
+	title: "{ftbquests.thaumcraft.title.42}",
 	x: 5.5d,
 	y: -13.0d,
 	shape: "square",
-	description: "Что я могу с этим сделать?",
+	description: "{ftbquests.thaumcraft.sub.42}",
 	dependencies: [
 		"c3618499"
 	],

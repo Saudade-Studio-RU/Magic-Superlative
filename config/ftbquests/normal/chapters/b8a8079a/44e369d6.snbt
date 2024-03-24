@@ -1,8 +1,8 @@
 {
-	title: "Восстанавливающаяся броня",
+	title: "{ftbquests.thaumcraft.title.19}",
 	x: 4.0d,
 	y: -14.5d,
-	description: "Невероятная мощь",
+	description: "{ftbquests.thaumcraft.sub.19}",
 	dependencies: [
 		"83b8917a"
 	],

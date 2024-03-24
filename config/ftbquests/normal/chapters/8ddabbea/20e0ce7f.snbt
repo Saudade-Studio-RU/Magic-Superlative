@@ -1,8 +1,8 @@
 {
-	title: "Создайте Плавильню из Мифриллиума",
+	title: "{ftbquests.additions.title.4}",
 	x: 0.0d,
 	y: -9.0d,
-	description: "Без потерь",
+	description: "{ftbquests.additions.sub.4}",
 	dependencies: [
 		"643c4a4a"
 	],

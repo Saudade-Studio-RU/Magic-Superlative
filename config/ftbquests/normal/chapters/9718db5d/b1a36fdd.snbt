@@ -1,8 +1,8 @@
 {
-	title: "Эволюция кровавых шаров 2",
+	title: "{ftbquests.bm.title.28}",
 	x: 9.0d,
 	y: 0.0d,
-	description: "Теперь ты маг",
+	description: "{ftbquests.bm.sub.28}",
 	dependencies: [
 		"df02d057",
 		"3e5a8de1"

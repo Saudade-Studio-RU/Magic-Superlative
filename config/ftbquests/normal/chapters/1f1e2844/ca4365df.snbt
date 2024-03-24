@@ -1,8 +1,8 @@
 {
-	title: "Создайте Линзу Лудильщика",
+	title: "{ftbquests.embers.title.35}",
 	x: 3.0d,
 	y: 1.5d,
-	description: "Ваш третий глаз",
+	description: "{ftbquests.embers.sub.35}",
 	dependencies: [
 		"c4714177"
 	],

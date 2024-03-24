@@ -1,8 +1,8 @@
 {
-	title: "Броня из манастали",
+	title: "{ftbquests.botania.title.18}",
 	x: 9.5d,
 	y: 1.5d,
-	description: "Восстановление прочности за ману",
+	description: "{ftbquests.botania.sub.18}",
 	dependencies: [
 		"d5f03da1"
 	],

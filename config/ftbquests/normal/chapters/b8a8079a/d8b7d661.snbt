@@ -1,8 +1,8 @@
 {
-	title: "Вис-амулет",
+	title: "{ftbquests.thaumcraft.title.62}",
 	x: 15.0d,
 	y: 6.5d,
-	description: "Удобная подзарядка!",
+	description: "{ftbquests.thaumcraft.sub.62}",
 	dependencies: [
 		"61862465"
 	],

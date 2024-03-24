@@ -1,7 +1,7 @@
 {
 	x: 18.5d,
 	y: -1.0d,
-	description: "Кирка, ломающая мир...",
+	description: "{ftbquests.botania.title.56}",
 	dependencies: [
 		"6e4f3bda",
 		"5fb68e2c"

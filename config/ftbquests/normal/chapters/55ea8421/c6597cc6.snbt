@@ -1,8 +1,8 @@
 {
-	title: "Соберите все Самородные кластеры",
+	title: "{ftbquests.various.title.34}",
 	x: 3.0d,
 	y: -7.0d,
-	description: "Всё и вся по 2x!",
+	description: "{ftbquests.various.sub.34}",
 	tasks: [{
 		uid: "c991a4d3",
 		type: "item",

@@ -1,8 +1,8 @@
 {
-	title: "Создание следующего уровня",
+	title: "{ftbquests.botania.title.50}",
 	x: 14.0d,
 	y: -3.0d,
-	description: "Создайте многоблочную структуру для создания Террастали",
+	description: "{ftbquests.botania.sub.50}",
 	dependencies: [
 		"9a31cf0d"
 	],

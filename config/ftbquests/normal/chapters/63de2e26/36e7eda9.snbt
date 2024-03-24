@@ -2,7 +2,7 @@
 	icon: "twilightforest:trophy 1 3",
 	x: 11.0d,
 	y: -2.0d,
-	description: "Адский-не ад",
+	description: "{ftbquests.twilight.title.3}",
 	dependencies: [
 		"23eb50e7"
 	],

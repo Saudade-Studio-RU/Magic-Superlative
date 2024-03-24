@@ -1,8 +1,8 @@
 {
-	title: "Рунический алтарь",
+	title: "{ftbquests.botania.title.17}",
 	x: 14.0d,
 	y: 0.0d,
-	description: "Создание рун для вас",
+	description: "{ftbquests.botania.sub.17}",
 	dependencies: [
 		"d5f03da1"
 	],

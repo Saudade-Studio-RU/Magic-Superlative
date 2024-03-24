@@ -1,8 +1,8 @@
 {
-	title: "Создайте Необработанный сияющий кварц",
+	title: "{ftbquests.archives.title.4}",
 	x: 6.0d,
 	y: 0.0d,
-	description: "Основа удобств",
+	description: "{ftbquests.archives.sub.4}",
 	dependencies: [
 		"0b1f3be0"
 	],

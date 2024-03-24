@@ -1,8 +1,8 @@
 {
-	title: "Создайте Арбалет",
+	title: "{ftbquests.vampirism.title.5}",
 	x: 7.0d,
 	y: -4.0d,
-	description: "Улучшенный Лук",
+	description: "{ftbquests.vampirism.sub.5}",
 	dependencies: [
 		"65435ea3"
 	],

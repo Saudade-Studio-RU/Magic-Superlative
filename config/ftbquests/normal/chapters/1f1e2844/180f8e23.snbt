@@ -1,8 +1,8 @@
 {
-	title: "Создайте Медную ячейку",
+	title: "{ftbquests.embers.title.20}",
 	x: 8.0d,
 	y: 2.0d,
-	description: "Хранитель Эмбера",
+	description: "{ftbquests.embers.sub.20}",
 	dependencies: [
 		"63068820"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Штампер",
+	title: "{ftbquests.embers.title.3}",
 	x: 13.0d,
 	y: 0.0d,
-	description: "Из жидкости в физическую форму",
+	description: "{ftbquests.embers.sub.3}",
 	dependencies: [
 		"a30b25e8"
 	],

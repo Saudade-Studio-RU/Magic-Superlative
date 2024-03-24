@@ -1,8 +1,8 @@
 {
-	title: "Создайте Автоматический арбалет",
+	title: "{ftbquests.thaumcraft.title.61}",
 	x: 8.0d,
 	y: 4.0d,
-	description: "Оборона вашей территории",
+	description: "{ftbquests.thaumcraft.sub.61}",
 	dependencies: [
 		"f50f5caf"
 	],

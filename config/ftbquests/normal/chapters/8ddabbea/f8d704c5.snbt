@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мифриллиумную усиленную банку",
+	title: "{ftbquests.additions.title.24}",
 	x: 5.0d,
 	y: -2.0d,
-	description: "До 1000",
+	description: "{ftbquests.additions.sub.24}",
 	dependencies: [
 		"aaa36f22",
 		"643c4a4a"

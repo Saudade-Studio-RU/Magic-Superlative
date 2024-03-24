@@ -1,8 +1,8 @@
 {
-	title: "Найдите Руины из мрамора",
+	title: "{ftbquests.sorcery.title.2}",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Под некоторыми из них есть то, что может вас заинтересовать",
+	description: "{ftbquests.sorcery.sub.2}",
 	dependencies: [
 		"4cb1bf7b"
 	],
@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "cf8e5daa",
 		type: "observation",
-		title: "Повстречайте Сборный кристалл ",
+		title: "{ftbquests.sorcery.desc.2}",
 		icon: {
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

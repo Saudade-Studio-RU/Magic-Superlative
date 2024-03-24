@@ -1,8 +1,8 @@
 {
-	title: "Создайте Стол предложения",
+	title: "{ftbquests.nataura.title.31}",
 	x: 14.0d,
 	y: 0.0d,
-	description: "Обмен с богом",
+	description: "{ftbquests.nataura.sub.31}",
 	dependencies: [
 		"956d9ae8"
 	],

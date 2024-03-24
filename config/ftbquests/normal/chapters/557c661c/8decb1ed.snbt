@@ -1,8 +1,8 @@
 {
-	title: "Основы удобства хранения",
+	title: "{ftbquests.archives.title.6}",
 	x: -4.0d,
 	y: -2.0d,
-	description: "Создайте все виды ящиков",
+	description: "{ftbquests.archives.sub.6}",
 	dependencies: [
 		"e18e4572"
 	],

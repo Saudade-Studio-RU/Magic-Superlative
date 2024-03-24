@@ -1,8 +1,8 @@
 {
-	title: "Создайте Генератор поля стабильности",
+	title: "{ftbquests.augment.title.28}",
 	x: 2.0d,
 	y: -5.0d,
-	description: "Даёшь Ember - получаешь стабильность",
+	description: "{ftbquests.augment.sub.28}",
 	dependencies: [
 		"25ad81fe"
 	],

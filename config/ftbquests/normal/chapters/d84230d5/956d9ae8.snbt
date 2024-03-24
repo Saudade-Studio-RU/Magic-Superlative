@@ -1,8 +1,8 @@
 {
-	title: "Создайте Наполненное железо",
+	title: "{ftbquests.nataura.title.16}",
 	x: 12.0d,
 	y: 0.0d,
-	description: "Слитки природы",
+	description: "{ftbquests.nataura.sub.16}",
 	dependencies: [
 		"fff2d88e"
 	],

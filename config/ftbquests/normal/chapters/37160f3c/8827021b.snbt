@@ -1,8 +1,8 @@
 {
-	title: "Создайте блоки вечной воды",
+	title: "{ftbquests.ec.title.25}",
 	x: 5.0d,
 	y: 2.0d,
-	description: "Всегда с собой",
+	description: "{ftbquests.ec.sub.25}",
 	dependencies: [
 		"bb3d0cb3"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Выплавьте ЭФирный самоцвет",
+	title: "{ftbquests.aetherworks.title.9}",
 	x: 9.0d,
 	y: 2.0d,
-	description: "Из другого мира",
+	description: "{ftbquests.aetherworks.sub.9}",
 	dependencies: [
 		"48373429"
 	],

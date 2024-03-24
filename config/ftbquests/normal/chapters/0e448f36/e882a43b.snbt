@@ -1,8 +1,8 @@
 {
-	title: "Станьте Вампиром",
+	title: "{ftbquests.vampirism.title.31}",
 	x: 7.0d,
 	y: 2.0d,
-	description: "Совершенная форма жизни... Я, ДИО",
+	description: "{ftbquests.vampirism.sub.31}",
 	dependencies: [
 		"e1374ee6"
 	],

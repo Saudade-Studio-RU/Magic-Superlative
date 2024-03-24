@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пустотный пьедестал подзарядки",
+	title: "{ftbquests.augment.title.9}",
 	x: 6.0d,
 	y: -9.0d,
-	description: "Импульс вместо Вис",
+	description: "{ftbquests.augment.sub.9}",
 	dependencies: [
 		"69d2b155"
 	],

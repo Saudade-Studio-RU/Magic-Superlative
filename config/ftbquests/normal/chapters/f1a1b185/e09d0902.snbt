@@ -1,8 +1,8 @@
 {
-	title: "Соберите все виды Морской чешуи",
+	title: "{ftbquests.iaf.title.18}",
 	x: 0.0d,
 	y: -5.0d,
-	description: "Парад покраше",
+	description: "{ftbquests.iaf.sub.18}",
 	dependencies: [
 		"b23a9f3a"
 	],

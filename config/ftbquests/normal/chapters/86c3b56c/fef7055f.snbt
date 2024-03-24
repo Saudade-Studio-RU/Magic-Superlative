@@ -1,8 +1,8 @@
 {
-	title: "Создайте предметы из Этаксия",
+	title: "{ftbquests.abyssal.title.39}",
 	x: 28.0d,
 	y: -4.0d,
-	description: "Конечный металл",
+	description: "{ftbquests.abyssal.sub.39}",
 	dependencies: [
 		"e7647760"
 	],

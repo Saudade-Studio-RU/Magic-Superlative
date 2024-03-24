@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мифминитовый слиток",
+	title: "{ftbquests.additions.title.23}",
 	x: 10.0d,
 	y: -6.0d,
-	description: "Максимум",
+	description: "{ftbquests.additions.sub.23}",
 	dependencies: [
 		"809b56d9"
 	],

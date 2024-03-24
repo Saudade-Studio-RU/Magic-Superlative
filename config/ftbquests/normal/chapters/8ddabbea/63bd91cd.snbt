@@ -1,8 +1,8 @@
 {
-	title: "Создайте Честера",
+	title: "{ftbquests.additions.title.8}",
 	x: -2.0d,
 	y: -2.0d,
-	description: "Ест ресурсы для вас",
+	description: "{ftbquests.additions.sub.8}",
 	dependencies: [
 		"abb43939"
 	],

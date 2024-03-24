@@ -1,8 +1,8 @@
 {
-	title: "Начните изучение Ауры Природы",
+	title: "{ftbquests.superlative.title.6}",
 	x: -2.0d,
 	y: -3.0d,
-	description: "Начните изучать ауру природы вокруг вас, и её влияние на этот мир",
+	description: "[ftbquests.superlative.sub.6]",
 	dependencies: [
 		"504c27b7"
 	],

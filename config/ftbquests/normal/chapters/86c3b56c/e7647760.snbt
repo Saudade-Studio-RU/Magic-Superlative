@@ -1,8 +1,8 @@
 {
-	title: "Создайте Некрономикон из Омотула",
+	title: "{ftbquests.abyssal.title.37}",
 	x: 28.0d,
 	y: -2.0d,
-	description: "Почти полные знания",
+	description: "{ftbquests.abyssal.sub.37}",
 	dependencies: [
 		"9fad941b"
 	],

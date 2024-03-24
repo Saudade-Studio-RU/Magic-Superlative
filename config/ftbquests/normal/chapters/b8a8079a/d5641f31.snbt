@@ -1,8 +1,8 @@
 {
-	title: "Создайте магический жир",
+	title: "{ftbquests.thaumcraft.title.63}",
 	x: 0.0d,
 	y: -5.5d,
-	description: "БОЛЬШЕ СВЕЧЕК БОГУ СВЕЧЕК",
+	description: "{ftbquests.thaumcraft.sub.63}",
 	dependencies: [
 		"69f29029"
 	],

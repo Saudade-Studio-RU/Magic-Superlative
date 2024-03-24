@@ -1,9 +1,9 @@
 {
-	title: "Развитие големов",
+	title: "{ftbquests.thaumcraft.title.69}",
 	x: 4.0d,
 	y: 7.0d,
 	shape: "square",
-	description: "Полуискуственный интеллект",
+	description: "{ftbquests.thaumcraft.sub.69}",
 	dependencies: [
 		"629b4e3d"
 	],

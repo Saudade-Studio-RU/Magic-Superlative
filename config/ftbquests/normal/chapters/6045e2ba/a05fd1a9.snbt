@@ -1,8 +1,8 @@
 {
-	title: "Инструменты и оружие из манастали",
+	title: "{ftbquests.botania.title.41}",
 	x: 11.0d,
 	y: 2.5d,
-	description: "Восстановление прочности за ману",
+	description: "{ftbquests.botania.sub.41}",
 	dependencies: [
 		"d5f03da1"
 	],

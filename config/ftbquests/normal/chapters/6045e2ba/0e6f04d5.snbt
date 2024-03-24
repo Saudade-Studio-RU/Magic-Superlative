@@ -1,9 +1,9 @@
 {
-	title: "Награда за Стража II",
+	title: "{ftbquests.botania.title.2}",
 	x: 28.0d,
 	y: -2.0d,
 	shape: "hexagon",
-	description: "Бросьте кубик и узнайте свою награду",
+	description: "{ftbquests.botania.sub.2}",
 	dependencies: [
 		"c574a76c"
 	],

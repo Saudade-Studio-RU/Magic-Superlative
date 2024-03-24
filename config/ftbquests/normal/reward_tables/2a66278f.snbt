@@ -1,5 +1,5 @@
 {
-	title: "Лутбоксики",
+	title: "{ftbquests.lb.title.1}",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {

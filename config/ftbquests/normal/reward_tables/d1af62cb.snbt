@@ -1,5 +1,5 @@
 {
-	title: "Сундук мага Высшей степени",
+	title: "{ftbquests.lb.title.8}",
 	icon: "ironchest:iron_chest 1 6",
 	empty_weight: 3,
 	loot_size: 3,
@@ -50,7 +50,7 @@
 	}],
 	loot_crate: {
 		string_id: "crate4",
-		item_name: "Сундук мага Высшей степени",
+		item_name: "Chest of Superlative Magician",
 		color: 15787010,
 		glow: true,
 		drops: {

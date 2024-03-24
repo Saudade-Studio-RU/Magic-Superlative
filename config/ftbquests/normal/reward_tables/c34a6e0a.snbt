@@ -1,5 +1,5 @@
 {
-	title: "Редкий сундук мага-адепта",
+	title: "{ftbquests.lb.title.7}",
 	icon: "thaumicaugmentation:warded_chest",
 	loot_size: 2,
 	use_title: true,
@@ -130,7 +130,7 @@
 	}],
 	loot_crate: {
 		string_id: "2crate",
-		item_name: "Cундук мага-адепта",
+		item_name: "Adept Mage's Chest",
 		color: 11535078,
 		drops: {
 			boss: 300,

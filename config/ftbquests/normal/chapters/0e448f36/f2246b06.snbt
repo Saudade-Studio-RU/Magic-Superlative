@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пронзатель сердец",
+	title: "{ftbquests.vampirism.title.34}",
 	x: 5.0d,
 	y: 6.0d,
-	description: "Оружие Вампиров",
+	description: "{ftbquests.vampirism.sub.34}",
 	dependencies: [
 		"ea4de17d"
 	],

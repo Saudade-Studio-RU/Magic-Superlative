@@ -1,10 +1,10 @@
 {
-	title: "Добудьте 10тыс. RF/FE",
+	title: "{ftbquests.various.title.32}",
 	x: 0.0d,
 	y: -5.0d,
-	description: "Энергия без генераторов",
+	description: "{ftbquests.various.sub.32}",
 	text: [
-		"Добыча энергии существует и в магических модификациях, необходимо лишь поискать!"
+		"{ftbquests.various.desc.32}"
 	],
 	dependencies: [
 		"a712fc39"

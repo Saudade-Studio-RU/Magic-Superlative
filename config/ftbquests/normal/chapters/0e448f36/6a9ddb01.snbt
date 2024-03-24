@@ -1,8 +1,8 @@
 {
-	title: "Создайте или найдите Оружейный Стол охотника",
+	title: "{ftbquests.vampirism.title.7}",
 	x: 9.0d,
 	y: -2.0d,
-	description: "Повышая уровень до 4",
+	description: "{ftbquests.vampirism.sub.7}",
 	dependencies: [
 		"65435ea3"
 	],

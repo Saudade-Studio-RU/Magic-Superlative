@@ -1,15 +1,15 @@
 {
-	title: "Найдите первый алмаз",
+	title: "{ftbquests.superlative.title.9}",
 	x: -2.5d,
 	y: 3.0d,
-	description: "Он понадобится вам для...",
+	description: "{ftbquests.superlative.sub.9}",
 	dependencies: [
 		"504c27b7"
 	],
 	tasks: [{
 		uid: "113db29e",
 		type: "item",
-		title: "Найти первый алмаз",
+		title: "{ftbquests.superlative.title.9}",
 		items: [{
 			item: "minecraft:diamond"
 		}]

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Индуктор выбросов",
+	title: "{ftbquests.augment.title.16}",
 	x: 2.0d,
 	y: -3.0d,
-	description: "Постоянное подкармливание",
+	description: "{ftbquests.augment.sub.16}",
 	dependencies: [
 		"25ad81fe"
 	],

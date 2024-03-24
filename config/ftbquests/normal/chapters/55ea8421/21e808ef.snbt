@@ -1,7 +1,7 @@
 {
 	x: -18.0d,
 	y: -20.0d,
-	description: "Отрицание негатива",
+	description: "[ftbquests.various.title.14]",
 	dependencies: [
 		"3a360189"
 	],

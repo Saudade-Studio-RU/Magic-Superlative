@@ -1,8 +1,8 @@
 {
-	title: "Создайте Реагент связи",
+	title: "{ftbquests.bm.title.14}",
 	x: -14.0d,
 	y: -2.0d,
-	description: "Кровавая связь",
+	description: "{ftbquests.bm.sub.14}",
 	dependencies: [
 		"3f1f8a74"
 	],

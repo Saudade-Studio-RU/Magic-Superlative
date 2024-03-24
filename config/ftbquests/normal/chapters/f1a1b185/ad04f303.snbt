@@ -1,8 +1,8 @@
 {
-	title: "Убейте Смертельного пустынного червя",
+	title: "{ftbquests.iaf.title.12}",
 	x: -3.0d,
 	y: -1.5d,
-	description: "Мерзость",
+	description: "{ftbquests.iaf.sub.12}",
 	dependencies: [
 		"7986f9bf"
 	],

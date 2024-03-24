@@ -1,8 +1,8 @@
 {
-	title: "Генерирующие цветки 2 ",
+	title: "{ftbquests.botania.title.58}",
 	x: 2.5d,
 	y: 2.5d,
-	description: "Мана из воды",
+	description: "{ftbquests.botania.sub.58}",
 	dependencies: [
 		"8b3b9da2"
 	],

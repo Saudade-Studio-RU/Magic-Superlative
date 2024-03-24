@@ -1,7 +1,7 @@
 {
 	x: 25.5d,
 	y: -3.0d,
-	description: "Новый уровень",
+	description: "{ftbquests.botania.title.24}",
 	dependencies: [
 		"522b5e82"
 	],

@@ -1,9 +1,9 @@
 {
-	title: "Убейте Дракона",
+	title: "{ftbquests.iaf.title.4}",
 	x: 6.0d,
 	y: 0.0d,
 	shape: "hexagon",
-	description: "Победа над великими",
+	description: "{ftbquests.iaf.sub.4}",
 	dependencies: [
 		"7986f9bf"
 	],

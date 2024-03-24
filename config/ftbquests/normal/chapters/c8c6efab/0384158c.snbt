@@ -1,5 +1,4 @@
 {
-	title: "Звезда из Незера",
 	x: 3.0d,
 	y: 4.0d,
 	can_repeat: true,

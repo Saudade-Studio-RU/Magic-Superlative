@@ -1,10 +1,10 @@
 {
-	title: "Получите Сердце",
+	title: "{ftbquests.bewitch.title.8}",
 	x: 13.5d,
 	y: 0.0d,
-	description: "Убейте Импа",
+	description: "{ftbquests.bewitch.sub.8}",
 	text: [
-		"Имп вызывается ритуалом."
+		"{ftbquests.bewitch.desc.8}"
 	],
 	dependencies: [
 		"60a44881"

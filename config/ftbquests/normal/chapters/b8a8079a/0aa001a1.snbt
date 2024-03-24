@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Сапоги Путешественника",
+	title: "{ftbquests.thaumcraft.title.1}",
 	x: 11.5d,
 	y: -7.0d,
-	description: "Мчись как ветер!",
+	description: "{ftbquests.thaumcraft.sub.1}",
 	dependencies: [
 		"974ba2ae",
 		"61862465"

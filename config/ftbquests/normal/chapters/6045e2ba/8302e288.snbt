@@ -1,8 +1,8 @@
 {
-	title: "Чистая маргаритка",
+	title: "{ftbquests.botania.title.35}",
 	x: 5.0d,
 	y: 0.0d,
-	description: "Цветок жизни",
+	description: "{ftbquests.botania.title.35}",
 	dependencies: [
 		"8b3b9da2"
 	],

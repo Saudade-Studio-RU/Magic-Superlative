@@ -1,8 +1,8 @@
 {
-	title: "Создайте Перегонный куб",
+	title: "{ftbquests.bewitch.title.9}",
 	x: 8.0d,
 	y: -1.5d,
-	description: "Создание жидких ведьминских предметов",
+	description: "{ftbquests.bewitch.sub.9}",
 	dependencies: [
 		"902cb9fc"
 	],

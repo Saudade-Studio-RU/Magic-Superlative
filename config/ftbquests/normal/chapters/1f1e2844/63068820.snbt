@@ -1,8 +1,8 @@
 {
-	title: "Создайте Эмбер-активатор",
+	title: "{ftbquests.embers.title.25}",
 	x: 9.0d,
 	y: 0.0d,
-	description: "Из физической формы в энергетическую",
+	description: "{ftbquests.embers.sub.25}",
 	dependencies: [
 		"e2f4fb34"
 	],

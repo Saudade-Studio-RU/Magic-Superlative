@@ -1,5 +1,5 @@
 {
-	title: "Создайте Улучшение пояса",
+	title: "{ftbquests.augment.title.1}",
 	x: 8.0d,
 	y: 2.0d,
 	dependencies: [

@@ -1,6 +1,6 @@
 {
 	version: 9,
-	title: "Книга магии: Superlative издание",
+	title: "Book of Magic: Superlative Edition",
 	default_reward_team: true,
 	default_consume_items: false,
 	default_autoclaim_rewards: "disabled",

@@ -1,8 +1,8 @@
 {
-	title: "Процентное увеличение вместимости Алтаря",
+	title: "{ftbquests.bm.title.52}",
 	x: 7.5d,
 	y: 10.5d,
-	description: "Чем больше, тем лучше",
+	description: "{ftbquests.bm.sub.52}",
 	dependencies: [
 		"ffe233ea",
 		"ddf1ab23"

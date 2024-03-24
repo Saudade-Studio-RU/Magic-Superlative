@@ -1,8 +1,8 @@
 {
-	title: "Создайте Мифминитовую косу",
+	title: "{ftbquests.additions.title.3}",
 	x: 9.0d,
 	y: -8.0d,
-	description: "Уже почти максимум",
+	description: "{ftbquests.additions.sub.3}",
 	dependencies: [
 		"efe32993",
 		"fefc5eb1"

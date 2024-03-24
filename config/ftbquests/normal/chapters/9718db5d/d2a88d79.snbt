@@ -1,8 +1,8 @@
 {
-	title: "Создайте Стол алхимии",
+	title: "{ftbquests.bm.title.35}",
 	x: 2.0d,
 	y: -2.0d,
-	description: "Алхимия кровавых шаров",
+	description: "{ftbquests.bm.sub.35}",
 	dependencies: [
 		"0a1369ed"
 	],

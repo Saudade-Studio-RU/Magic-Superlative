@@ -1,7 +1,7 @@
 {
 	x: -6.0d,
 	y: 0.0d,
-	description: "Это точно просто пояс?",
+	description: "{ftbquests.additions.title.13}",
 	dependencies: [
 		"7dde747b"
 	],

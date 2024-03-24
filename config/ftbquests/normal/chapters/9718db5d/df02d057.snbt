@@ -1,8 +1,8 @@
 {
-	title: "Эволюция кровавых шаров ",
+	title: "{ftbquests.bm.title.40}",
 	x: 6.0d,
 	y: 0.0d,
-	description: "Теперь ты ученик",
+	description: "{ftbquests.bm.sub.40}",
 	dependencies: [
 		"42011209",
 		"0a1369ed"

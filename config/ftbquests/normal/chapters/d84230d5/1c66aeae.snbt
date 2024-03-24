@@ -1,8 +1,8 @@
 {
-	title: "Создайте Травоядный поглотитель",
+	title: "{ftbquests.nataura.title.3}",
 	x: 12.0d,
 	y: 3.5d,
-	description: "Аура за цветы",
+	description: "{ftbquests.nataura.sub.3}",
 	dependencies: [
 		"956d9ae8"
 	],

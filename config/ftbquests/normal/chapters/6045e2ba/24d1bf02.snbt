@@ -1,8 +1,8 @@
 {
-	title: "Доспехи Воина тени",
+	title: "{ftbquests.botania.title.21}",
 	x: 22.0d,
 	y: -1.0d,
-	description: "Действуя ночью",
+	description: "{ftbquests.botania.sub.21}",
 	dependencies: [
 		"8a0dfbc9"
 	],

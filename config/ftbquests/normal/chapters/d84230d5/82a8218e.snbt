@@ -1,8 +1,8 @@
 {
-	title: "Создайте Эндер ящики",
+	title: "{ftbquests.nataura.title.15}",
 	x: 0.0d,
 	y: 3.0d,
-	description: "Пространственное перемещние в промышленных масштабах",
+	description: "{ftbquests.nataura.sub.15}",
 	dependencies: [
 		"aeb1c6ed"
 	],

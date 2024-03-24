@@ -1,8 +1,8 @@
 {
-	title: "Создайте Абиссальмикон",
+	title: "{ftbquests.abyssal.title.15}",
 	x: 34.0d,
 	y: -2.0d,
-	description: "Все знания мира",
+	description: "{ftbquests.abyssal.sub.15}",
 	dependencies: [
 		"2e7b514d"
 	],

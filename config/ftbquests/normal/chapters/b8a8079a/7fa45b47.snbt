@@ -1,8 +1,8 @@
 {
-	title: "Раскладыватель эссенции",
+	title: "{ftbquests.thaumcraft.title.10}",
 	x: -4.0d,
 	y: -13.0d,
-	description: "Когда составляющие полезнее",
+	description: "{ftbquests.thaumcraft.sub.10}",
 	dependencies: [
 		"293c3955"
 	],

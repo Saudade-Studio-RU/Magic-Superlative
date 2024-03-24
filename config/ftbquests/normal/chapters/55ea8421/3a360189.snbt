@@ -1,7 +1,7 @@
 {
 	x: -20.0d,
 	y: -17.0d,
-	description: "Ткань из Крови Богов",
+	description: "{ftbquests.various.title.6}",
 	dependencies: [
 		"095bb958"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Перчатка заклинаний из элементия",
+	title: "{ftbquests.thaumcraft.title.31}",
 	x: -3.0d,
 	y: 2.0d,
-	description: "Мана вместо Вис",
+	description: "{ftbquests.thaumcraft.sub.31}",
 	dependencies: [
 		"8a0dfbc9",
 		"da415f62"

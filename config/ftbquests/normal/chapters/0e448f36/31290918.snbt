@@ -1,8 +1,8 @@
 {
-	title: "Создайте Улучшенную кровь перелитую на слиток железа",
+	title: "{ftbquests.vampirism.title.23}",
 	x: 9.0d,
 	y: 4.0d,
-	description: "Улучшенный слиток Вампиров",
+	description: "{ftbquests.vampirism.sub.23}",
 	dependencies: [
 		"e882a43b"
 	],

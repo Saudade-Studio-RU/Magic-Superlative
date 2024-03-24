@@ -1,5 +1,5 @@
 {
-	title: "Создайте Улучшение Гироскопа",
+	title: "{ftbquests.augment.title.20}",
 	x: 6.0d,
 	y: 2.0d,
 	dependencies: [

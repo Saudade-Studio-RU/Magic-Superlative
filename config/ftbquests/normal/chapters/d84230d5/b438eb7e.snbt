@@ -1,8 +1,8 @@
 {
-	title: "Создайте Метку для стрельбы",
+	title: "{ftbquests.nataura.title.25}",
 	x: 16.0d,
 	y: -2.0d,
-	description: "Аура за точность",
+	description: "{ftbquests.nataura.sub.25}",
 	dependencies: [
 		"eb74ddef"
 	],

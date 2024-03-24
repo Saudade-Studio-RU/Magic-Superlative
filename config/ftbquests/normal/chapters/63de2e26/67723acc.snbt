@@ -1,8 +1,8 @@
 {
-	title: "Выплавьте слитки железного дерева",
+	title: "{ftbquests.twilight.title.13}",
 	x: 0.0d,
 	y: -2.0d,
-	description: "Лучше, чем железо",
+	description: "{ftbquests.twilight.sub.13}",
 	dependencies: [
 		"109742bd"
 	],

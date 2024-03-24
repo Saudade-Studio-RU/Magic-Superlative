@@ -1,5 +1,5 @@
 {
-	title: "Магазин",
+	title: "{ftbquests.shop.title.8}",
 	icon: "minecraft:gold_ingot",
 	disable_toast: true,
 	always_invisible: false,

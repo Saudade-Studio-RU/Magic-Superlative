@@ -1,8 +1,8 @@
 {
-	title: "Наплечник отталкивания ",
+	title: "{ftbquests.thaumcraft.title.34}",
 	x: 17.0d,
 	y: -5.5d,
-	description: "Защита и отталкивание!",
+	description: "{ftbquests.thaumcraft.sub.34}",
 	dependencies: [
 		"0aa001a1"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Алхимический котёл",
+	title: "{ftbquests.vampirism.title.16}",
 	x: 5.0d,
 	y: -6.0d,
-	description: "Алхимия Охотников",
+	description: "{ftbquests.vampirism.sub.16}",
 	dependencies: [
 		"3a340acf"
 	],

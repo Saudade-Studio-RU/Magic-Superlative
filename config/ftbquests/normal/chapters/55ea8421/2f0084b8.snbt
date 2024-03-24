@@ -1,8 +1,8 @@
 {
-	title: "Осколки измерений",
+	title: "{ftbquests.various.title.4}",
 	x: -15.0d,
 	y: -10.0d,
-	description: "Что же можно из них сделать?",
+	description: "{ftbquests.various.sub.4}",
 	hide_dependency_lines: true,
 	dependencies: [
 		"e0da27f2"

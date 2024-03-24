@@ -1,8 +1,8 @@
 {
-	title: "Начните изучение фокусов в Mahou Tsukai",
+	title: "{ftbquests.superlative.title.20}",
 	x: -4.0d,
 	y: 2.5d,
-	description: "Начните изучать магию, заклинания и их катализаторы",
+	description: "{ftbquests.superlative.sub.20}",
 	dependencies: [
 		"504c27b7"
 	],

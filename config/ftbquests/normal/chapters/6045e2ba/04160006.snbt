@@ -1,7 +1,7 @@
 {
 	x: 6.0d,
 	y: -7.0d,
-	description: "Мана из ветра",
+	description: "{ftbquests.botania.title.39}",
 	dependencies: [
 		"840cc22e"
 	],

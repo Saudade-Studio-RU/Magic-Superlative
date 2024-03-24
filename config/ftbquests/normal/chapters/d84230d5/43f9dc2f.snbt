@@ -1,8 +1,8 @@
 {
-	title: "Длительный поглотитель",
+	title: "{ftbquests.nataura.title.11}",
 	x: 10.0d,
 	y: 3.5d,
-	description: "Аура за зелья",
+	description: "{ftbquests.nataura.sub.11}",
 	dependencies: [
 		"956d9ae8"
 	],

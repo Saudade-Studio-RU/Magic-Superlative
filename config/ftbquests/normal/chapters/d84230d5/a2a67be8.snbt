@@ -1,8 +1,8 @@
 {
-	title: "Создайте Порошок плодовитости",
+	title: "{ftbquests.nataura.title.21}",
 	x: 18.0d,
 	y: -0.5d,
-	description: "Размножение без катализаторов",
+	description: "{ftbquests.nataura.sub.21}",
 	dependencies: [
 		"fb79a9bd"
 	],

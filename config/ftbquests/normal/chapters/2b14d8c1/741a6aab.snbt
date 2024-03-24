@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "76195265",
 		type: "checkmark",
-		title: "Добро пожаловать в Волшебство!",
+		title: "{ftbquests.wizardry.title.8}",
 		icon: {
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

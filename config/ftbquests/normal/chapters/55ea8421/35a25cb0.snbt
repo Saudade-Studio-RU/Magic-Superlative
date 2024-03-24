@@ -1,5 +1,5 @@
 {
-	title: "Открытие лутбоксов",
+	title: "{ftbquests.various.title.15}",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -9,9 +9,9 @@
 	x: -13.0d,
 	y: -5.0d,
 	shape: "pentagon",
-	description: "Сундук мага!",
+	description: "{ftbquests.various.sub.15}",
 	text: [
-		"Пройдите небходимые квесты из Dependicies, что бы получить лут боксы и возможность их покупки в магазине!"
+		"{ftbquests.various.desc.15}"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

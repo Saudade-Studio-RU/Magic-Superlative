@@ -1,8 +1,8 @@
 {
-	title: "Создайте Сигил воздуха",
+	title: "{ftbquests.bm.title.23}",
 	x: -6.0d,
 	y: 3.0d,
-	description: "Рывки за кровь",
+	description: "{ftbquests.bm.sub.23}",
 	dependencies: [
 		"5fd23f9f"
 	],

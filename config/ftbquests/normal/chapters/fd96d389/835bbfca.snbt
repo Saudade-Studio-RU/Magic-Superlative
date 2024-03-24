@@ -1,10 +1,10 @@
 {
-	title: "Создайте Кристальный инструмент",
+	title: "{ftbquests.sorcery.title.19}",
 	x: 8.5d,
 	y: -2.0d,
-	description: "Очень хорошо! И очень плохо",
+	description: "{ftbquests.sorcery.sub.19}",
 	text: [
-		"Для выполнения необходимо создать лишь 1 "
+		"{ftbquests.sorcery.desc.19}"
 	],
 	dependencies: [
 		"79772da4"

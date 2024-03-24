@@ -1,8 +1,8 @@
 {
-	title: "Заклинания в перчатке!",
+	title: "{ftbquests.thaumcraft.title.70}",
 	x: -2.0d,
 	y: 5.0d,
-	description: "Начало невероятного",
+	description: "{ftbquests.thaumcraft.sub.70}",
 	dependencies: [
 		"da415f62"
 	],

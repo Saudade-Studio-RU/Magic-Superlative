@@ -1,8 +1,8 @@
 {
-	title: "Вис-талисман",
+	title: "{ftbquests.thaumcraft.title.54}",
 	x: 18.5d,
 	y: 6.5d,
-	description: "Подзардка с батарейкой внутри",
+	description: "{ftbquests.thaumcraft.sub.54}",
 	dependencies: [
 		"d8b7d661"
 	],

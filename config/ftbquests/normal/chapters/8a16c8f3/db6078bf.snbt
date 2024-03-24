@@ -1,8 +1,8 @@
 {
-	title: "Создайте одеяние Адепта",
+	title: "{ftbquests.augment.title.26}",
 	x: 2.0d,
 	y: 3.0d,
-	description: "Боевой тауматург",
+	description: "{ftbquests.augment.sub.26}",
 	dependencies: [
 		"8d031da0"
 	],

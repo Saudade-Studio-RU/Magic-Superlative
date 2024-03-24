@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "63a6bd7d",
 		type: "checkmark",
-		title: "Дополнительная награда"
+		title: "{ftbquests.twilight.title.17}"
 	}],
 	rewards: [{
 		uid: "bf16404a",

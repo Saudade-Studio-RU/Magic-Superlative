@@ -1,8 +1,8 @@
 {
-	title: "Увеличение вместимости Кровавых шаров в Алтаре",
+	title: "{ftbquests.bm.title.5}",
 	x: 10.5d,
 	y: 2.0d,
-	description: "Батарейки больше",
+	description: "{ftbquests.bm.sub.5}",
 	dependencies: [
 		"ddf1ab23",
 		"7ebcc42b"

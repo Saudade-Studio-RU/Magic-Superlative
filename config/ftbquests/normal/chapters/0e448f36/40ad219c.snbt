@@ -1,8 +1,8 @@
 {
-	title: "Создайте Полу-автоматический Арбалет",
+	title: "{ftbquests.vampirism.title.15}",
 	x: 7.0d,
 	y: -8.0d,
-	description: "Это точно... арбалет?",
+	description: "{ftbquests.vampirism.sub.15}",
 	dependencies: [
 		"0a6645c1"
 	],

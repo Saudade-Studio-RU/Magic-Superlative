@@ -1,10 +1,10 @@
 {
-	title: "Пройдите основную ветку Bewitchment!",
+	title: "{ftbquests.bewitch.title.26}",
 	x: 21.0d,
 	y: 0.0d,
-	description: "Познавший Дьявола",
+	description: "{ftbquests.bewitch.sub.26}",
 	text: [
-		"Однако в квестах показан далеко не весь контент модификации. Советую изучить его полностью в книгах и на деле!"
+		"{ftbquests.bewitch.desc.26}"
 	],
 	dependencies: [
 		"4e754669",

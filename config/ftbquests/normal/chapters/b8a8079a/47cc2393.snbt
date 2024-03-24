@@ -1,8 +1,8 @@
 {
-	title: "Создайте Механическую Перчатку Заклинателя",
+	title: "{ftbquests.thaumcraft.title.20}",
 	x: -3.0d,
 	y: 3.0d,
-	description: "Эмбер вместо Вис",
+	description: "{ftbquests.thaumcraft.sub.20}",
 	dependencies: [
 		"da415f62"
 	],

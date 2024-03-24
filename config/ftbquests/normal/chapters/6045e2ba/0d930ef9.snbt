@@ -1,13 +1,13 @@
 {
-	title: "Получение знаний",
+	title: "{ftbquests.botania.title.1}",
 	x: 12.0d,
 	y: -4.0d,
-	description: "ВОТ ОНО! @ExtraBotany",
+	description: "{ftbquests.botania.sub.1}",
 	text: [
-		"Кликните ПКМ по Пьедесталу из жизнекамня, в котором содержится топливо духов, удерживая Лексикон Ботании"
+		"{ftbquests.botania.desc.1.1}"
 	],
 	dependencies: [
-		"fd4f74b6"
+		"5e0123e1"
 	],
 	tasks: [{
 		uid: "6394fe52",
@@ -27,6 +27,6 @@
 	rewards: [{
 		uid: "f0e4e859",
 		type: "toast",
-		title: "Знания - ваша награда"
+		title: "{ftbquests.botania.desc.1.2}"
 	}]
 }

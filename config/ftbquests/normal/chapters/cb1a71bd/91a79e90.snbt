@@ -1,8 +1,8 @@
 {
-	title: "Начните изучать Ice and Fire",
+	title: "{ftbquests.superlative.title.10}",
 	x: -0.5d,
 	y: 5.0d,
-	description: "Победите мифических существ и драконов, забрав себе их богатства и силу",
+	description: "{ftbquests.superlative.sub.10}",
 	dependencies: [
 		"504c27b7"
 	],

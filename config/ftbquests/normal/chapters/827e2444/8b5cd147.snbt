@@ -1,8 +1,8 @@
 {
-	title: "Создайте Проектор Мистического круга",
+	title: "{ftbquests.mahou.title.3}",
 	x: 3.0d,
 	y: -3.0d,
-	description: "Блаженство для глаз",
+	description: "{ftbquests.mahou.sub.3}",
 	dependencies: [
 		"342bc1c6"
 	],

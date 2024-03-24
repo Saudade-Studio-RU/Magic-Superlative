@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "a32f6fa3",
 		type: "checkmark",
-		title: "Добро пожаловать в Evilcraft!",
+		title: "{ftbquests.ec.title.17}",
 		icon: "evilcraft:dark_gem"
 	}]
 }

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пепельный костюм",
+	title: "{ftbquests.embers.title.1}",
 	x: 22.0d,
 	y: 5.0d,
-	description: "Сверх технологично-магический костюм",
+	description: "{ftbquests.embers.sub.1}",
 	dependencies: [
 		"e426d754"
 	],

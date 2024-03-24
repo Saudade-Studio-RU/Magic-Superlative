@@ -1,9 +1,9 @@
 {
-	title: "Последний Гайа был убит",
+	title: "{ftbquests.botania.title.43}",
 	x: 33.0d,
 	y: -3.0d,
 	shape: "square",
-	description: "Что же за награда вас ждёт?",
+	description: "{ftbquests.botania.sub.43}",
 	dependencies: [
 		"5f7bdd5d"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Получите все посохи Лича",
+	title: "{ftbquests.twilight.title.8}",
 	x: 8.5d,
 	y: 0.0d,
-	description: "И кто теперь колдун?",
+	description: "{ftbquests.twilight.sub.8}",
 	dependencies: [
 		"a03fb208"
 	],

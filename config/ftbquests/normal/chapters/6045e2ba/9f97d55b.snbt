@@ -1,15 +1,14 @@
 {
-	title: "Горничная >>>",
+	title: "{ftbquests.botania.title.19}",
 	x: 29.0d,
 	y: -2.0d,
-	description: ">>> Бог... только если бог из Ботании",
+	description: "{ftbquests.botania.sub.19}",
 	dependencies: [
 		"c574a76c"
 	],
 	tasks: [{
 		uid: "a7009949",
 		type: "item",
-		title: "Головной убор горничной плеяды",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Энергетический пьедестал",
+	title: "{ftbquests.abyssal.title.3}",
 	x: 6.0d,
 	y: 2.0d,
-	description: "Хранилище PE",
+	description: "{ftbquests.abyssal.sub.3}",
 	dependencies: [
 		"ca8fe5bd"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Посох Расщепления",
+	title: "{ftbquests.abyssal.title.40}",
 	x: 9.0d,
 	y: 2.0d,
-	description: "Высасывание тьмы",
+	description: "{ftbquests.abyssal.sub.40}",
 	dependencies: [
 		"546864e6"
 	],

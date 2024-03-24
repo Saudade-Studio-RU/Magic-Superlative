@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пустотную укреплённую банку",
+	title: "{ftbquests.additions.title.15}",
 	x: 4.0d,
 	y: -2.0d,
-	description: "До 500",
+	description: "{ftbquests.additions.sub.15}",
 	dependencies: [
 		"aa05edbf"
 	],

@@ -1,7 +1,7 @@
 {
 	x: 6.5d,
 	y: 2.5d,
-	description: "Полностью настраиваемый",
+	description: "{ftbquests.thaumcraft.title.73}",
 	dependencies: [
 		"037bec19"
 	],

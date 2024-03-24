@@ -1,8 +1,8 @@
 {
-	title: "МанаАлхимия",
+	title: "{ftbquests.botania.title.33}",
 	x: 9.5d,
 	y: -1.0d,
-	description: "Одно в другое через ману!",
+	description: "{ftbquests.botania.sub.33}",
 	dependencies: [
 		"d5f03da1"
 	],

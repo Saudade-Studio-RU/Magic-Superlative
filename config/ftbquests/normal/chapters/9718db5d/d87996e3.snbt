@@ -1,8 +1,8 @@
 {
-	title: "Алхимия крови",
+	title: "{ftbquests.bm.title.37}",
 	x: -3.0d,
 	y: -1.0d,
-	description: "Круги из пепла",
+	description: "{ftbquests.bm.sub.37}",
 	dependencies: [
 		"18c33323"
 	],

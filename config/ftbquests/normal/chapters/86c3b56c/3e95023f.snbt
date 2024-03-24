@@ -1,8 +1,8 @@
 {
-	title: "Создайте Ключ Асоры от Ужасного портала",
+	title: "{ftbquests.abyssal.title.4}",
 	x: 17.0d,
 	y: -2.0d,
-	description: "Проход к ужасу",
+	description: "{"ftbquests.abyssal.sub.4"}",
 	dependencies: [
 		"68eb062a",
 		"d717b4a4"

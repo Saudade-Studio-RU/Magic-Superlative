@@ -1,8 +1,8 @@
 {
-	title: "Создайте Святильник святилища",
+	title: "{ftbquests.nataura.title.32}",
 	x: 14.0d,
 	y: 2.0d,
-	description: "Аура - есть, мобов - нет",
+	description: "{ftbquests.nataura.sub.32}",
 	dependencies: [
 		"eb74ddef"
 	],

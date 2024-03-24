@@ -1,8 +1,8 @@
 {
-	title: "Создайте Сияющий сундук",
+	title: "{ftbquests.archives.title.12}",
 	x: 5.0d,
 	y: -2.0d,
-	description: "Лучшее хранилище",
+	description: "{ftbquests.archives.sub.12}",
 	dependencies: [
 		"3fbf8f60"
 	],

@@ -1,9 +1,9 @@
 {
-	title: "Записки сумашедших",
+	title: "{ftbquests.thaumcraft.title.11}",
 	x: 8.5d,
 	y: -13.0d,
 	shape: "hexagon",
-	description: "Могут быть полезны...",
+	description: "{ftbquests.thaumcraft.sub.11}",
 	dependencies: [
 		"8503c0db"
 	],

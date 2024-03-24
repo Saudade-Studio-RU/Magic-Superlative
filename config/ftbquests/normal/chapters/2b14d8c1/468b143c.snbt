@@ -1,8 +1,8 @@
 {
-	title: "Найдите Любые улучшения брони мага",
+	title: "{ftbquests.wizardry.title.7}",
 	x: 6.0d,
 	y: -4.0d,
-	description: "Мудрец, боец и чернокнижник. Кого выберешь ты?",
+	description: "{ftbquests.wizardry.sub.7}",
 	dependencies: [
 		"4eaa4a16",
 		"0966d7cd"

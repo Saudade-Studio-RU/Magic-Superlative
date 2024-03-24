@@ -1,8 +1,8 @@
 {
-	title: "Генерирующие цветки 1",
+	title: "{ftbquests.botania.title.32}",
 	x: 2.5d,
 	y: -4.0d,
-	description: "Мана из солнца",
+	description: "{ftbquests.botania.sub.32}",
 	dependencies: [
 		"8b3b9da2"
 	],

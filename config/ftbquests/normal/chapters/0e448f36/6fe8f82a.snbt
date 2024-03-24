@@ -1,8 +1,8 @@
 {
-	title: "Получите Любую книгу Вампира",
+	title: "{ftbquests.vampirism.title.11}",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Древние знания",
+	description: "{ftbquests.vampirism.sub.11}",
 	dependencies: [
 		"7b6869b0"
 	],

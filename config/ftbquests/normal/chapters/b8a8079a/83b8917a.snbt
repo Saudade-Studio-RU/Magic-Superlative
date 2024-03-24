@@ -1,8 +1,8 @@
 {
-	title: "Вход в Потустороннее...",
+	title: "{ftbquests.thaumcraft.title.25}",
 	x: 7.0d,
 	y: -14.5d,
-	description: "Был открыт!",
+	description: "{ftbquests.thaumcraft.sub.25}",
 	dependencies: [
 		"23115a4f",
 		"8ff75ed5"

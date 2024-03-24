@@ -47,29 +47,14 @@ mods.thaumcraft.Infusion.removeRecipe(<thaumadditions:adaminite_ingot>);
 mods.thaumcraft.Infusion.removeRecipe(<thaumadditions:mithminite_ingot>);
 mods.thaumcraft.Infusion.removeRecipe(<ichoriumkit:ichor_block>);
 mods.thaumcraft.Infusion.removeRecipe(<thaumcraft:traveller_boots>);
-var itemsTC as IItemStack[] = [
-<thaumcraft:smelter_basic>,
-<thaumcraft:mechanism_simple>,
-<thaumcraft:mechanism_complex>,
-<thaumcraft:infusion_matrix>,
-<thaumcraft:mechanism_complex>,
-<thaumcraft:arcane_workbench_charger>,
-<thaumcraft:vis_resonator>,
-<minecraft:stone>,
-<minecraft:gold_block>,
-<minecraft:redstone_block>
-];
-for item in itemsTC {
-mods.thaumcraft.ArcaneWorkbench.removeRecipe(item.definition.id);
-}
-// mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:smelter_basic>);
-// mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:mechanism_simple>);
-// mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:mechanism_complex>);
-// mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:infusion_matrix>);
-// mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:mechanism_complex>);
-// mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:arcane_workbench_charger>);
-// mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:vis_resonator>);
-// mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:morphic_resonator>);
+mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:smelter_basic>);
+mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:mechanism_simple>);
+mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:mechanism_complex>);
+mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:infusion_matrix>);
+mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:mechanism_complex>);
+mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:arcane_workbench_charger>);
+mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:vis_resonator>);
+mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumcraft:morphic_resonator>);
 mods.bloodmagic.BloodAltar.removeRecipe(<minecraft:stone>);
 mods.bloodmagic.BloodAltar.removeRecipe(<minecraft:gold_block>);
 mods.bloodmagic.BloodAltar.removeRecipe(<minecraft:redstone_block>);
@@ -80,7 +65,7 @@ recipes.addShapeless("shadowbarhard2",<thaumadditions:mithminite_plate>, [<ore:p
 recipes.addShaped("evilcrafthard", <evilcraft:promise:1>, 
 [[<bewitchment:spectral_dust>, <bewitchment:fiery_unguent>, <bewitchment:spectral_dust>], 
 [<bewitchment:cold_iron_ingot>, <evilcraft:promise_acceptor:1>, <bewitchment:cold_iron_ingot>], 
-[<bewitchment:spectral_dust>,  <evilcraft:bowl_of_promises:5>, <bewitchment:spectral_dust>]]);
+[<bewitchment:spectral_dust>,  <evilcraft:bowl_of_promises:3>, <bewitchment:spectral_dust>]]);
 mods.thaumcraft.Crucible.registerRecipe("cobwebFix", "BASEALCHEMY", <minecraft:web>, <minecraft:string>, [<aspect:vinculum>*10]);
 mods.thaumcraft.Crucible.registerRecipe("creativeSponge", "FLUX_SPONGE", <thaumcraft:creative_flux_sponge>, <ichoriumkit:resourcekami:2>, [<aspect:praecantatio>*1000, <aspect:vacuos>*1000, <aspect:caeles>*1000, <aspect:comprehensio>*1000]);
 mods.thaumcraft.Warp.setWarp(<evilcraft:vengeance_pickaxe>, 3);

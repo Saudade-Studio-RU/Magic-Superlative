@@ -1,8 +1,8 @@
 {
-	title: "Создайте Улучшенный полу-автоматический Арбалет",
+	title: "{ftbquests.vampirism.title.3}",
 	x: 9.0d,
 	y: -8.0d,
-	description: "Да здравствует ПУЛЕМЕТ",
+	description: "{ftbquests.vampirism.sub.3}",
 	dependencies: [
 		"40ad219c"
 	],

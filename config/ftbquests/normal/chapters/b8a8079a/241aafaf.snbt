@@ -1,8 +1,8 @@
 {
-	title: "Колчан мага",
+	title: "{ftbquests.thaumcraft.title.28}",
 	x: 11.5d,
 	y: -11.0d,
-	description: "Бесконечные стрелы пробивающие броню",
+	description: "{ftbquests.thaumcraft.sub.28}",
 	dependencies: [
 		"09aaed0b"
 	],

@@ -1,9 +1,9 @@
 {
-	title: "Создайте Манифест",
+	title: "{ftbquests.archives.title.9}",
 	x: 10.0d,
 	y: 0.0d,
 	shape: "pentagon",
-	description: "Отсчёт о ресурсах",
+	description: "{ftbquests.archives.sub.9}",
 	dependencies: [
 		"43d324b8"
 	],

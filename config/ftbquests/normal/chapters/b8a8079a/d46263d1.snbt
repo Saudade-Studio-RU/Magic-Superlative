@@ -1,8 +1,8 @@
 {
-	title: "Переносной бесконечный источник воды",
+	title: "{ftbquests.thaumcraft.title.64}",
 	x: 2.0d,
 	y: -4.0d,
-	description: "Кувшин полезности",
+	description: "{ftbquests.thaumcraft.sub.64}",
 	dependencies: [
 		"d5641f31"
 	],

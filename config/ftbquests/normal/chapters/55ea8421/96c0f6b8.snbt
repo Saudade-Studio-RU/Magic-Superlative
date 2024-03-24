@@ -1,7 +1,7 @@
 {
 	x: -16.0d,
 	y: -18.5d,
-	description: "Уборка подземелий",
+	description: "{ftbquests.various.title.22}",
 	dependencies: [
 		"8651732a"
 	],

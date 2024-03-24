@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кровь перелитую на слиток железа",
+	title: "{ftbquests.vampirism.title.33}",
 	x: 5.0d,
 	y: 4.0d,
-	description: "Слиток вампиров",
+	description: "{ftbquests.vampirism.sub.33}",
 	dependencies: [
 		"e882a43b"
 	],

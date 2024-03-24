@@ -1,7 +1,7 @@
 {
 	x: 1.0d,
 	y: 4.0d,
-	description: "Новые возможности и больше маны",
+	description: "{ftbquests.wizardry.sub.13}",
 	dependencies: [
 		"5f6329ea"
 	],
@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "c9fe78fe",
 		type: "item",
-		title: "Повысьте ранг посоха до Уровня ученика",
+		title: "{ftbquests.wizardry.title.13}",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

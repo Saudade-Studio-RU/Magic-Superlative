@@ -1,8 +1,8 @@
 {
-	title: "Создайте Медный зарядник",
+	title: "{ftbquests.embers.title.8}",
 	x: 10.0d,
 	y: 2.0d,
-	description: "Зарядка Эмбером",
+	description: "{ftbquests.embers.sub.8}",
 	dependencies: [
 		"a9d8491c",
 		"63068820"

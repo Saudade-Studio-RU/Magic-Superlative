@@ -1,8 +1,8 @@
 {
-	title: "Создайте Алтарь Вдохновения",
+	title: "{ftbquests.vampirism.title.8}",
 	x: 10.0d,
 	y: 2.0d,
-	description: "Повышая уровень до 5",
+	description: "{ftbquests.vampirism.sub.8}",
 	dependencies: [
 		"e882a43b"
 	],

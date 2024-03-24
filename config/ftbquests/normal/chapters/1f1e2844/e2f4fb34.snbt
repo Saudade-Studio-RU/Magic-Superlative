@@ -1,8 +1,8 @@
 {
-	title: "Получите первый Эмбер-кристалл",
+	title: "{ftbquests.embers.title.37}",
 	x: 7.0d,
 	y: 0.0d,
-	description: "Основа модификации",
+	description: "{ftbquests.embers.sub.37}",
 	dependencies: [
 		"fe7a1065"
 	],

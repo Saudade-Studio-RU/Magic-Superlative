@@ -1,9 +1,9 @@
 {
-	title: "Посетите Сумеречный Лес",
+	title: "{ftbquests.superlative.title.13}",
 	icon: "twilightforest:miniature_structure",
 	x: -4.0d,
 	y: 5.0d,
-	description: "Сделайте портал ",
+	description: "{ftbquests.superlative.sub.13}",
 	text: [
 		"Разлейте воду 2x2, поставте по сторонам цветы и киньте алмаз"
 	],

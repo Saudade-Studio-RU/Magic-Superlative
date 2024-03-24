@@ -1,8 +1,9 @@
 {
-	title: "Найдите квестового барана и выполните его квест",
+	title: "{ftbquests.twilight.title.12}",
+	icon: "twilightforest:trophy 1 8",
 	x: 0.0d,
 	y: 2.0d,
-	description: "ДА ГДЕ ЭТА ШЕРСТЬ?",
+	description: "{ftbquests.twilight.sub.12}",
 	dependencies: [
 		"109742bd"
 	],

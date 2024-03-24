@@ -1,8 +1,8 @@
 {
-	title: "Создайте Небесный наблюдатель",
+	title: "{ftbquests.augment.title.17}",
 	x: -3.0d,
 	y: 2.0d,
-	description: "Наблюдение за небом без вашего досмотра",
+	description: "{ftbquests.augment.sub.17}",
 	dependencies: [
 		"8d031da0"
 	],

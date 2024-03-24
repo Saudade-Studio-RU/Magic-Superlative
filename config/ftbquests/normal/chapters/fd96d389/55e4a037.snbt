@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кристальную линзу",
+	title: "{ftbquests.sorcery.title.12}",
 	x: 16.0d,
 	y: 3.0d,
-	description: "Перемещение света",
+	description: "{ftbquests.sorcery.sub.12}",
 	dependencies: [
 		"a1011c53"
 	],

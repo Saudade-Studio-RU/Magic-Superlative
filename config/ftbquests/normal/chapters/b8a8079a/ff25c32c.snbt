@@ -1,8 +1,8 @@
 {
-	title: "Сделайте Штурмовую броню из таумима",
+	title: "{ftbquests.thaumcraft.title.76}",
 	x: 17.0d,
 	y: -7.0d,
-	description: "Стать самураем! Где же катана?",
+	description: "{ftbquests.thaumcraft.sub.76}",
 	dependencies: [
 		"0aa001a1"
 	],

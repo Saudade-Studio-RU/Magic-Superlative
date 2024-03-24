@@ -4,12 +4,12 @@
 	shape: "square",
 	description: "Magic: Superlative",
 	text: [
-		"В этой вкладке вы сможете на постоянное основе продовать свои предметы и блоки. Помимо того, что вы будете зарабатывать деньги за выполнение основных квестов, вы также сможете получить их здесь"
+		"{ftbquests.shop.sub.1}
 	],
 	tasks: [{
 		uid: "1d08e7f2",
 		type: "checkmark",
-		title: "Приветсвую вас на рынке сборки"
+		title: "{ftbquests.shop.title.1}"
 	}],
 	rewards: [{
 		uid: "15f9543b",

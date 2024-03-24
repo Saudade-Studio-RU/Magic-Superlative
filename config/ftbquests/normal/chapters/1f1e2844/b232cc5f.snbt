@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пламенный реактор",
+	title: "{ftbquests.embers.title.31}",
 	x: 26.0d,
 	y: 0.0d,
-	description: "Атомный реактор местного разлива",
+	description: "{ftbquests.embers.sub.31}",
 	dependencies: [
 		"c233b808"
 	],

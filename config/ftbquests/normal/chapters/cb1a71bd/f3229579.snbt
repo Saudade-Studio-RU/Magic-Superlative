@@ -1,14 +1,14 @@
 {
+	title: "{ftbquests.superlative.sub.21}",
 	x: 0.5d,
 	y: 5.0d,
-	description: "Начните изучение исскуства ведьм, демонов и проклятий.",
+	description: "{ftbquests.superlative.title.21}",
 	dependencies: [
 		"504c27b7"
 	],
 	tasks: [{
 		uid: "85c15d44",
 		type: "item",
-		title: "Начните изучать Bewitchment",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

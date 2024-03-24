@@ -1,8 +1,8 @@
 {
-	title: "Создайте Свиток для созерцания Фей",
+	title: "{ftbquests.mahou.title.15}",
 	x: -3.0d,
 	y: 0.0d,
-	description: "Наконец то узнаю что за звук",
+	description: "{ftbquests.mahou.sub.15}",
 	dependencies: [
 		"342bc1c6"
 	],

@@ -1,5 +1,5 @@
 {
-	title: "Начните изучать Эмберс Рекиндлед",
+	title: "{ftbquests.superlative.title.4}",
 	icon: {
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
@@ -8,7 +8,7 @@
 	},
 	x: 2.0d,
 	y: -3.0d,
-	description: "Начните изучать Дварфовские технологии прошлого на магический манер",
+	description: "{ftbquests.superlative.sub.4}",
 	dependencies: [
 		"504c27b7"
 	],
@@ -27,7 +27,7 @@
 	{
 		uid: "7638482f",
 		type: "kill",
-		title: "Убейте пару Древних големов в мире",
+		title: "{ftbquests.superlatvie.desc.4}",
 		icon: "embers:ancient_motive_core",
 		entity: "embers:ancient_golem",
 		value: 2L

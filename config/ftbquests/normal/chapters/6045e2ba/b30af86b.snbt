@@ -1,8 +1,8 @@
 {
-	title: "Создайте бассейн маны ",
+	title: "{ftbquests.botania.title.48}",
 	x: 7.0d,
 	y: 1.5d,
-	description: "Наполнение маной",
+	description: "{ftbquests.botania.sub.48}",
 	dependencies: [
 		"8302e288"
 	],

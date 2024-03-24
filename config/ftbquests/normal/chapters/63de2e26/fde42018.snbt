@@ -2,7 +2,7 @@
 	icon: "twilightforest:alpha_fur",
 	x: 13.0d,
 	y: 0.0d,
-	description: "Пушистый и опасный",
+	description: "{ftbquests.twilight.sub.25}",
 	dependencies: [
 		"222130a0",
 		"36e7eda9"
@@ -12,7 +12,7 @@
 	tasks: [{
 		uid: "e4386f15",
 		type: "kill",
-		title: "Найдите Логово Альфа-Йети и убейте его",
+		title: "{ftbquests.twilight.title.25}",
 		entity: "twilightforest:yeti_alpha",
 		value: 1L
 	}],

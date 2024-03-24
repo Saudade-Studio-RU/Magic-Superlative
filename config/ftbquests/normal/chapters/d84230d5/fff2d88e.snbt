@@ -1,8 +1,8 @@
 {
-	title: "Создайте Алтарь природы",
+	title: "{ftbquests.nataura.title.35}",
 	x: 10.0d,
 	y: 0.0d,
-	description: "Наполнение Аурой природы",
+	description: "{ftbquests.nataura.sub.35}",
 	dependencies: [
 		"8351a06d"
 	],

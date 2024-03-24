@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кровавый эндер жемчуг",
+	title: "{ftbquests.ec.title.11}",
 	x: 7.0d,
 	y: 4.5d,
-	description: "Телепорт за кровь",
+	description: "{ftbquests.ec.sub.11}",
 	dependencies: [
 		"bb3d0cb3"
 	],

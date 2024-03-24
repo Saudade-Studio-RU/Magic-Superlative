@@ -1,8 +1,8 @@
 {
-	title: "Создайте Порошок нет хранилищу",
+	title: "{ftbquests.nataura.title.10}",
 	x: 18.0d,
 	y: 0.5d,
-	description: "Оставьте излишки себе",
+	description: "{ftbquests.nataura.sub.10}",
 	dependencies: [
 		"fb79a9bd"
 	],

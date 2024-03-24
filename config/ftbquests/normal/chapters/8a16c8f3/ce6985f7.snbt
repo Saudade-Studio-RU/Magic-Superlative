@@ -1,5 +1,5 @@
 {
-	title: "Создайте улучшение двигателя",
+	title: "{ftbquests.augment.title.25}",
 	x: 8.0d,
 	y: -1.0d,
 	dependencies: [

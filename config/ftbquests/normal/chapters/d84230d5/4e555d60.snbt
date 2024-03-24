@@ -1,8 +1,8 @@
 {
-	title: "Постройте алтарь для Ритуала леса",
+	title: "{ftbquests.nataura.title.6}",
 	x: 6.0d,
 	y: 0.0d,
-	description: "Лес живой",
+	description: "{ftbquests.nataura.sub.6}",
 	dependencies: [
 		"48a698d0"
 	],

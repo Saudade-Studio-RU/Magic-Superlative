@@ -1,8 +1,8 @@
 {
-	title: "Создайте Рениаматор духов",
+	title: "{ftbquests.ec.title.1}",
 	x: 5.0d,
 	y: 3.0d,
-	description: "Креатив подобие",
+	description: "{ftbquests.ec.sub.1}",
 	dependencies: [
 		"bb3d0cb3"
 	],

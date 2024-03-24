@@ -1,7 +1,7 @@
 {
 	x: -16.0d,
 	y: -15.5d,
-	description: "Уборка пустыни",
+	description: "{ftbquests.various.title.11}",
 	dependencies: [
 		"8651732a"
 	],

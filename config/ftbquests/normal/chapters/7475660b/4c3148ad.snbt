@@ -1,8 +1,8 @@
 {
-	title: "Создайте Хладное железо",
+	title: "{ftbquests.bewitch.title.4}",
 	x: 12.0d,
 	y: -3.0d,
-	description: "Металл спектрального мира",
+	description: "{ftbquests.bewitch.sub.4}",
 	dependencies: [
 		"453de18d"
 	],

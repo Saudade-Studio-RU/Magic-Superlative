@@ -1,8 +1,8 @@
 {
-	title: "Создайте Оружейный Стол Охотника",
+	title: "{ftbquests.vampirism.title.30}",
 	x: 9.0d,
 	y: -4.0d,
-	description: "Кузница охотников",
+	description: "{ftbquests.vampirism.sub.30}",
 	dependencies: [
 		"65435ea3"
 	],

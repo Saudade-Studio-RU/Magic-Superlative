@@ -1,8 +1,8 @@
 {
-	title: "Спуститесь в Пещеры Троллей вновь и откопайте Гигантский обсидиан для получения Лампы огня",
+	title: "{ftbquests.twilight.title.5}",
 	x: 17.5d,
 	y: 0.0d,
-	description: "Как сверкает!",
+	description: "{ftbquests.twilight.sub.5}",
 	dependencies: [
 		"3858f262"
 	],

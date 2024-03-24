@@ -1,8 +1,8 @@
 {
-	title: "Создайте любой хранитель Эмбер-энергии",
+	title: "{ftbquests.embers.title.40}",
 	x: 10.0d,
 	y: 4.0d,
-	description: "Всегда были RF/MJ/EU и другие, а теперь в батарейках какие-то Эмбер",
+	description: "{ftbquests.embers.sub.40}",
 	dependencies: [
 		"3a88ba1c"
 	],

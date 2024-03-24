@@ -1,8 +1,8 @@
 {
-	title: "Ресурсы Эльфхейма",
+	title: "{ftbquests.botania.title.15}",
 	x: 21.0d,
 	y: -3.0d,
-	description: "Новые материалы!",
+	description: "{ftbquests.botania.sub.15}",
 	dependencies: [
 		"6e4f3bda",
 		"131aec17"

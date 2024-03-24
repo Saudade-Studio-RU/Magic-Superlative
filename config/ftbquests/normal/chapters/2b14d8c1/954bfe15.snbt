@@ -1,8 +1,8 @@
 {
-	title: "Скрафтите или найдите свою первую книгу с заклинанием",
+	title: "{ftbquests.wizardry.title.9}",
 	x: 6.0d,
 	y: 0.0d,
-	description: "Заклинания с Эры драконов",
+	description: "{ftbquests.wizardry.sub.9}",
 	dependencies: [
 		"d6a4585c",
 		"5f6329ea"

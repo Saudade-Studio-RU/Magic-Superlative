@@ -1,8 +1,8 @@
 {
-	title: "Ускорение Алтаря",
+	title: "{ftbquests.bm.title.6}",
 	x: 2.0d,
 	y: 5.5d,
-	description: "Новый тип",
+	description: "{ftbquests.bm.sub.6}",
 	dependencies: [
 		"fa86642f"
 	],

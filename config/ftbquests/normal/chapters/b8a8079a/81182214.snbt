@@ -1,8 +1,8 @@
 {
-	title: "Помочь Шизофренику",
+	title: "{ftbquests.thaumcraft.title.48}",
 	x: 2.0d,
 	y: -7.5d,
-	description: "Если вам, конечно, надо",
+	description: "{ftbquests.thaumcraft.sub.48}",
 	dependencies: [
 		"d5641f31"
 	],

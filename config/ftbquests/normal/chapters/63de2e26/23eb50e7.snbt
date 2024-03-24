@@ -2,7 +2,7 @@
 	icon: "twilightforest:trophy 1 4",
 	x: 8.5d,
 	y: -2.0d,
-	description: "Рыцарская... не дуэль!?",
+	description: "{ftbquests.twilight.title.2}",
 	dependencies: [
 		"a03fb208"
 	],

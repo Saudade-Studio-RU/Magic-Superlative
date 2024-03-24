@@ -1,8 +1,8 @@
 {
-	title: "Создайте любое улучшение для оружия дальнего боя",
+	title: "{ftbquests.embers.title.29}",
 	x: 26.0d,
 	y: -4.0d,
-	description: "Дробовик или снайперка?",
+	description: "{ftbquests.embers.sub.29}",
 	dependencies: [
 		"1c4a1d4e"
 	],

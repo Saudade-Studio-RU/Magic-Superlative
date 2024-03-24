@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "bb60e0a6",
 		type: "checkmark",
-		title: "Добро пожаловать в Embers Rekindled!",
+		title: "{ftbquests.embers.title.12}",
 		icon: {
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

@@ -1,8 +1,8 @@
 {
-	title: "Получите любую возведённую Шогготами статую",
+	title: "{ftbquests.abyssal.title.16}",
 	x: 3.0d,
 	y: -4.0d,
-	description: "Энергия от самих богов",
+	description: "{ftbquests.abyssal.sub.16}",
 	dependencies: [
 		"d3319a3b"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Эволюция кровавых шаров 3",
+	title: "{ftbquests.bm.title.39}",
 	x: 12.0d,
 	y: 0.0d,
-	description: "Теперь ты мастер",
+	description: "{ftbquests.bm.sub.39}",
 	dependencies: [
 		"b1a36fdd",
 		"01a15b9e"

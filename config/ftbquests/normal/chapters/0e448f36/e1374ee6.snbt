@@ -1,8 +1,8 @@
 {
-	title: "Получите Клык Вампира",
+	title: "{ftbquests.vampirism.title.32}",
 	x: 3.0d,
 	y: 2.0d,
-	description: "Уничтожая нечисть",
+	description: "{ftbquests.vampirism.sub.32}",
 	dependencies: [
 		"7b6869b0"
 	],

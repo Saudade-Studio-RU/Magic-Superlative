@@ -3,7 +3,7 @@
 	y: 0.0d,
 	shape: "square",
 	text: [
-		"Должен сказать, Mahou Tsukai - мод без прогрессии, так что... можете выполнять что угодно в любом порядке"
+		"{ftbquests.mahou.sub.7}"
 	],
 	dependencies: [
 		"f2aeae6a"
@@ -12,7 +12,7 @@
 	tasks: [{
 		uid: "2390571d",
 		type: "checkmark",
-		title: "Добро пожаловать в Mahou Tsukai!",
+		title: "{ftbquests.mahou.title.7}",
 		icon: "mahoutsukai:guidebook"
 	}]
 }

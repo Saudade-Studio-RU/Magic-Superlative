@@ -1,8 +1,8 @@
 {
-	title: "Получите Золотой лист",
+	title: "{ftbquests.nataura.title.13}",
 	x: 4.0d,
 	y: 0.0d,
-	description: "Природа - золото",
+	description: "{ftbquests.nataura.sub.13}",
 	dependencies: [
 		"0ff5a33b"
 	],

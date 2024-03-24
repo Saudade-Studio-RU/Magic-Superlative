@@ -15,6 +15,6 @@
 	tasks: [{
 		uid: "0d545be7",
 		type: "checkmark",
-		title: "Добро пожаловать в Bewitchment!"
+		title: "{ftbquests.bewitch.title.27}"
 	}]
 }

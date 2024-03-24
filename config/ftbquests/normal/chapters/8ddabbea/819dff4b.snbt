@@ -1,8 +1,8 @@
 {
-	title: "Создайте Плавильню из Адаминита",
+	title: "{ftbquests.additions.title.11}",
 	x: 5.0d,
 	y: -9.0d,
-	description: "Больше, чем планировалось",
+	description: "{ftbquests.additions.sub.11}",
 	dependencies: [
 		"809b56d9",
 		"20e0ce7f"

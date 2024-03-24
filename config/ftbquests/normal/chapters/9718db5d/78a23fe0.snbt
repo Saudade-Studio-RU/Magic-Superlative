@@ -1,8 +1,8 @@
 {
-	title: "Создайте Любой живой инструмент",
+	title: "{ftbquests.bm.title.17}",
 	x: -13.0d,
 	y: -3.5d,
-	description: "Эффективность за кровь",
+	description: "{ftbquests.bm.sub.17}",
 	dependencies: [
 		"09acd220"
 	],

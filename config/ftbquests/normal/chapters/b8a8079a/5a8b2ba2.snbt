@@ -1,8 +1,8 @@
 {
-	title: "Мобильность - это всё!",
+	title: "{ftbquests.thaumcraft.title.7}",
 	x: 10.0d,
 	y: 2.5d,
-	description: "Человек-паук мира магии",
+	description: "{ftbquests.thaumcraft.sub.7}",
 	dependencies: [
 		"037bec19"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Ведро бесконечных цветов",
+	title: "{ftbquests.nataura.title.9}",
 	x: 14.0d,
 	y: -3.0d,
-	description: "Копировать - вставить",
+	description: "{ftbquests.nataura.sub.9}",
 	dependencies: [
 		"956d9ae8"
 	],

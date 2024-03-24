@@ -1,8 +1,8 @@
 {
-	title: "Создайте Метлу",
+	title: "{ftbquests.ec.title.20}",
 	x: 9.0d,
 	y: 4.5d,
-	description: "Полёт за кровь. В продаже несколько стилей!",
+	description: "{ftbquests.ec.sub.20}",
 	dependencies: [
 		"bb3d0cb3"
 	],

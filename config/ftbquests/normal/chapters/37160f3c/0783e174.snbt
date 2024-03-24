@@ -1,8 +1,8 @@
 {
-	title: "Создайте Тёмный резервуар",
+	title: "{ftbquests.ec.title.18}",
 	x: 0.0d,
 	y: -3.0d,
-	description: "Хранилище крови",
+	description: "{ftbquests.ec.sub.18}",
 	dependencies: [
 		"780bfeac"
 	],

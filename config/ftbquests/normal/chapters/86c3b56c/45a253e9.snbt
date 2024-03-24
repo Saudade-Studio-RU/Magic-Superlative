@@ -1,8 +1,8 @@
 {
-	title: "Создайте Преобразователь",
+	title: "{ftbquests.abyssal.title.9}",
 	x: 11.0d,
 	y: -0.5d,
-	description: "Преобразование материи",
+	description: "{ftbquests.abyssal.sub.9}",
 	dependencies: [
 		"0e485f27"
 	],

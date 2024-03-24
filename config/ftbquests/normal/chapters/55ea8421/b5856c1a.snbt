@@ -1,9 +1,9 @@
 {
-	title: "Создайте Стекло Создателя Мира",
+	title: "{ftbquests.various.title.33}",
 	x: -17.0d,
 	y: -13.5d,
 	shape: "circle",
-	description: "Редактор карты",
+	description: "{ftbquests.various.sub.33}",
 	dependencies: [
 		"ec63602a"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Упряжь с элитрой",
+	title: "{ftbquests.augment.title.29}",
 	x: 7.0d,
 	y: -1.0d,
-	description: "Полёт из Элитр",
+	description: "{ftbquests.augment.title.29}",
 	dependencies: [
 		"c28087d3"
 	],

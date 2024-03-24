@@ -1,5 +1,5 @@
 {
-	title: "Открытие лутбоксов II",
+	title: "{ftbquests.various.title.20}",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -9,7 +9,7 @@
 	x: -16.0d,
 	y: -5.0d,
 	shape: "hexagon",
-	description: "Сундук мага-адепта!",
+	description: "{ftbquests.various.sub.20}",
 	dependencies: [
 		"23cf118f",
 		"222130a0",

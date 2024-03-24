@@ -1,8 +1,8 @@
 {
-	title: "Создайте Некрономикон из Бездной Пустоши",
+	title: "{ftbquests.abyssal.title.1}",
 	x: 12.0d,
 	y: -2.0d,
-	description: "Понимание глубже",
+	description: "{ftbquests.abyssal.sub.1}",
 	dependencies: [
 		"9304cb15"
 	],

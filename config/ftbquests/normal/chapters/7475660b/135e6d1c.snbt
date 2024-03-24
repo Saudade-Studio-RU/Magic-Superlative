@@ -1,8 +1,8 @@
 {
-	title: "Создайте Сигильскую плиту",
+	title: "{ftbquests.bewitch.title.14}",
 	x: 7.5d,
 	y: 3.0d,
-	description: "Печать улучшения",
+	description: "{ftbquests.bewitch.sub.14}",
 	dependencies: [
 		"a596851a"
 	],

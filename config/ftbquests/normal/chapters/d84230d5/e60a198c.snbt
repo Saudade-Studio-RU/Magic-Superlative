@@ -1,8 +1,8 @@
 {
-	title: "Создайте Порошок награждённого ядра",
+	title: "{ftbquests.nataura.title.30}",
 	x: 18.0d,
 	y: 1.5d,
-	description: "Ресурсы из ауры",
+	description: "{ftbquests.nataura.sub.30}",
 	dependencies: [
 		"fb79a9bd"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Импульсную пушку",
+	title: "{ftbquests.augment.title.15}",
 	x: 10.0d,
 	y: -5.0d,
-	description: "Сколько урона?",
+	description: "{ftbquests.augment.sub.15}",
 	dependencies: [
 		"69d2b155"
 	],

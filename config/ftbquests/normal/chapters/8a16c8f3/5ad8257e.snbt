@@ -1,8 +1,8 @@
 {
-	title: "Посетите измерение: Пустота",
+	title: "{ftbquests.augment.title.3}",
 	x: 0.0d,
 	y: -7.0d,
-	description: "Откройте с помощью заряда Импульса в перчатке разлом, и войдите в него",
+	description: "{ftbquests.augment.sub.3}",
 	dependencies: [
 		"25ad81fe"
 	],

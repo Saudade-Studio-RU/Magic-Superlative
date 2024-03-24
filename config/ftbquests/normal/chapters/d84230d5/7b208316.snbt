@@ -1,8 +1,8 @@
 {
-	title: "Создайте Катализатор создания",
+	title: "{ftbquests.nataura.title.8}",
 	x: 14.0d,
 	y: -2.0d,
-	description: "Один источник - больше ауры",
+	description: "{ftbquests.nataura.sub.8}",
 	dependencies: [
 		"eb74ddef"
 	],

@@ -1,0 +1,10 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	description: "{ftbquests.shop.sub.1}",
+	tasks: [{
+		uid: "46e35d50",
+		type: "checkmark",
+		title: "{ftbquests.shop.title.1}"
+	}]
+}

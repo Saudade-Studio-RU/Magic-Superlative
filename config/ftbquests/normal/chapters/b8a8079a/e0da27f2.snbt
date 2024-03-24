@@ -10,7 +10,7 @@
 	tasks: [{
 		uid: "07e66ef5",
 		type: "checkmark",
-		title: "Добро пожаловать в Таумкрафт 6!",
+		title: "{ftbquests.thaumcraft.title.66}",
 		icon: {
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}

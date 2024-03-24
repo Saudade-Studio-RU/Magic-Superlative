@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кол",
+	title: "{ftbquests.vampirism.title.20}",
 	x: 3.0d,
 	y: -4.0d,
-	description: "Сама эффективность",
+	description: "{ftbquests.vampirism.sub.20}",
 	dependencies: [
 		"65435ea3"
 	],

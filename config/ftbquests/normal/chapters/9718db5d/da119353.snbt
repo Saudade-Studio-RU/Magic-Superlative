@@ -1,8 +1,8 @@
 {
-	title: "Эволюция плиток 4",
+	title: "{ftbquests.bm.title.38}",
 	x: 0.0d,
 	y: 15.0d,
-	description: "Максимальный уровень",
+	description: "{ftbquests.bm.sub.38}",
 	dependencies: [
 		"0cb6218c"
 	],

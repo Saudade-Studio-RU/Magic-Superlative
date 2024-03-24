@@ -1,5 +1,5 @@
 {
-	title: "Добро пожаловать в Кровавую магию!",
+	title: "{ftbquests.bm.title.13}",
 	icon: "bloodmagic:altar",
 	x: 0.0d,
 	y: 0.0d,
@@ -12,6 +12,6 @@
 	tasks: [{
 		uid: "315d4eda",
 		type: "checkmark",
-		title: "Добро пожаловать в Кровавую магию!"
+		title: "{ftbquests.bm.title.13}"
 	}]
 }

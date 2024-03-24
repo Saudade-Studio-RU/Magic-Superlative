@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кровавую книгу и очиститель",
+	title: "{ftbquests.ec.title.19}",
 	x: 9.0d,
 	y: 2.0d,
-	description: "Когда не понравилось",
+	description: "{ftbquests.ec.sub.19}",
 	dependencies: [
 		"bb3d0cb3"
 	],

@@ -1,8 +1,8 @@
 {
-	title: "Создайте Ткань для заклинаний",
+	title: "{ftbquests.mahou.title.11}",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Заклинания в быстром доступе",
+	description: "{ftbquests.mahou.sub.11}",
 	dependencies: [
 		"342bc1c6"
 	],

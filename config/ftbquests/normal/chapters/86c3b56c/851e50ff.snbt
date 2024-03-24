@@ -1,8 +1,8 @@
 {
-	title: "Создайте Части Страхолитовой Катаны",
+	title: "{ftbquests.abyssal.title.19}",
 	x: 20.0d,
 	y: -4.0d,
-	description: "Как же их соединить?",
+	description: "{ftbquests.abyssal.sub.19}",
 	dependencies: [
 		"9908f530"
 	],

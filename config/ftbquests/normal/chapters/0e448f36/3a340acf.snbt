@@ -1,8 +1,8 @@
 {
-	title: "Создайте Стол кровавых зелий",
+	title: "{ftbquests.vampirism.title.4}",
 	x: 5.0d,
 	y: -4.0d,
-	description: "Зелья из крови",
+	description: "{ftbquests.vampirism.sub.4}",
 	dependencies: [
 		"65435ea3"
 	],

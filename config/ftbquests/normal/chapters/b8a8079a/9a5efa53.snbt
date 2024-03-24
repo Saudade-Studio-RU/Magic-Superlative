@@ -1,10 +1,10 @@
 {
-	title: "Чернильница из маны (см. Ботания)",
+	title: "{ftbquests.thaumcraft.title.12}",
 	x: -6.0d,
 	y: -3.5d,
-	description: "Лучше мана, чем чернила",
+	description: "{ftbquests.thaumcraft.sub.12}",
 	text: [
-		"Наполните маной письменные принадлежности в бассейне"
+		"{ftbquests.thaumcraft.desc.12}"
 	],
 	dependencies: [
 		"c09ce581",

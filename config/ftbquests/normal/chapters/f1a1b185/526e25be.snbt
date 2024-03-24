@@ -1,10 +1,10 @@
 {
-	title: "Создайте Кафедру",
+	title: "{ftbquests.iaf.title.7}",
 	x: -3.0d,
 	y: 0.0d,
-	description: "Пополнение знаний",
+	description: "{ftbquests.iaf.sub.7}",
 	text: [
-		"Вкладывая Манускрипты в кафедру и свой Бестиарий, вам дадут выбор того, какое знание вы хотите получить из 3 на выбор"
+		"{ftbquests.iaf.desc.7}"
 	],
 	dependencies: [
 		"7986f9bf"

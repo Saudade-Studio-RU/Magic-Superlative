@@ -11,6 +11,6 @@
 	tasks: [{
 		uid: "2381796b",
 		type: "checkmark",
-		title: "Добро пожаловать в Сумеречный лес!"
+		title: "{ftbquests.twilight.title.14}"
 	}]
 }

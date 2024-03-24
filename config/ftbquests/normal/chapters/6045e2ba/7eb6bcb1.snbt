@@ -1,7 +1,7 @@
 {
 	x: 6.0d,
 	y: -4.0d,
-	description: "Мана из камня и руд",
+	description: "{ftbquests.botania.title.14}",
 	dependencies: [
 		"840cc22e"
 	],

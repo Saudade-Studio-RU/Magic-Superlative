@@ -1,8 +1,8 @@
 {
-	title: "Создайте Адаминитовый слиток",
+	title: "{ftbquests.additions.title.10}",
 	x: 5.0d,
 	y: -6.0d,
-	description: "Невероятная мощь",
+	description: "{ftbquests.additions.sub.10}",
 	dependencies: [
 		"643c4a4a"
 	],

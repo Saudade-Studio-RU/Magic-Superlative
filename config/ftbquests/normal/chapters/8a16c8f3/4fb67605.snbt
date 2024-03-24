@@ -1,8 +1,8 @@
 {
-	title: "Улучшите Перчатку Заклинателя",
+	title: "{ftbquests.augment.title.2}",
 	x: -2.0d,
 	y: -5.0d,
-	description: "Из Таумима",
+	description: "{ftbquests.augment.sub.2}",
 	dependencies: [
 		"25ad81fe"
 	],

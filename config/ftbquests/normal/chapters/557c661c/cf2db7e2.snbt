@@ -1,8 +1,8 @@
 {
-	title: "Смастерите Скипетр Манипуляции",
+	title: "{ftbquests.archives.title.15}",
 	x: 8.0d,
 	y: 2.0d,
-	description: "Изменение блоков",
+	description: "{ftbquests.archives.sub.15}",
 	dependencies: [
 		"43d324b8"
 	],

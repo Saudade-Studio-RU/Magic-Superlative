@@ -1,8 +1,8 @@
 {
-	title: "Создайте Броню из чешуи Наги",
+	title: "{ftbquests.twilight.title.24}",
 	x: 5.0d,
 	y: 3.0d,
-	description: "Чешуя, вторая кожа",
+	description: "{ftbquests.twilight.sub.24}",
 	dependencies: [
 		"592bca4c"
 	],

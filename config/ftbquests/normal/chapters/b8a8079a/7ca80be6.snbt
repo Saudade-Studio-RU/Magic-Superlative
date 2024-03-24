@@ -1,7 +1,7 @@
 {
 	x: 10.0d,
 	y: 1.5d,
-	description: "Перемещение предметов на расстоянии",
+	description: "{ftbquests.thaumcraft.title.9}",
 	dependencies: [
 		"037bec19"
 	],

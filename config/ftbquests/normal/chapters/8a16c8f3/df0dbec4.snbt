@@ -1,10 +1,10 @@
 {
-	title: "Создайте Импульсную ячейку",
+	title: "{ftbquests.augment.title.27}",
 	x: 2.0d,
 	y: -1.0d,
-	description: "Вместилище Импульса",
+	description: "{ftbquests.augment.sub.27}",
 	text: [
-		"Импульс берётся из Разлома. Поместите ячейку в Таум/Пустотную Перчатку и подойдите с ней в руке к разлому. Импульс начнёт заполнятся"
+		"{ftbquests.augment.desc.27}"
 	],
 	dependencies: [
 		"8d031da0"

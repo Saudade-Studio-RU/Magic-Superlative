@@ -1,8 +1,8 @@
 {
-	title: "Изменение принципа хранения в Кровавом алтаре",
+	title: "{ftbquests.bm.title.16}",
 	x: 13.0d,
 	y: 2.0d,
-	description: "Нужно больше крови",
+	description: "{ftbquests.bm.sub.16}",
 	dependencies: [
 		"ddf1ab23"
 	],

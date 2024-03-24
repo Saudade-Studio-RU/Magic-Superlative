@@ -1,11 +1,11 @@
 {
-	title: "Создайте аксессуар природы",
+	title: "{ftbquests.botania.title.10}",
 	x: 31.0d,
 	y: -3.0d,
-	description: "Он поможет вам призвать последнее испытание",
+	description: "{ftbquests.botania.sub.10}",
 	text: [
-		"Что бы заряжать Сферу вам необходимо построить многоблочную структуру, находящуюся в разделах ",
-		"ExtraBotany -> Сфера Природы в Лексиконе Ботании"
+		"{ftbquests.botania.desc.10.1}",
+		"{ftbquests.botania.desc.10.2}"
 	],
 	dependencies: [
 		"c574a76c"

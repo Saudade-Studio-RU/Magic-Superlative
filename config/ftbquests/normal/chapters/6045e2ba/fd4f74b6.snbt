@@ -1,10 +1,10 @@
 {
-	title: "Топливо из маны",
+	title: "{ftbquests.botania.title.61}",
 	x: 12.0d,
 	y: -2.5d,
-	description: "Оно поможет вам обрести новые знания...",
+	description: "{ftbquests.botania.sub.61}",
 	text: [
-		"Создайте топливо кошмаров, съешьте его и получите топливо духов"
+		"{"ftbquests.botania.desc.61"}"
 	],
 	dependencies: [
 		"d5f03da1"

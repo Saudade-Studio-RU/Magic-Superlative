@@ -2,7 +2,7 @@
 	icon: "botania:manaresource 1 8",
 	x: -6.0d,
 	y: 0.0d,
-	description: "Живодёрство?",
+	description: "{ftbquests.mahou.sub.13}",
 	dependencies: [
 		"342bc1c6",
 		"fadf9750"
@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "efb0bca5",
 		type: "kill",
-		title: "Увидьте и убейте Фею",
+		title: "{ftbquests.mahou.title.13}",
 		entity: "mahoutsukai:fae",
 		value: 1L
 	}],

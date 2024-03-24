@@ -8,7 +8,7 @@
 	},
 	x: 11.0d,
 	y: -1.5d,
-	description: "Повторяющий смерти",
+	description: "{ftbquests.ec.sub.30}",
 	dependencies: [
 		"df6e75d6",
 		"a754899a"
@@ -17,7 +17,7 @@
 	tasks: [{
 		uid: "78dba001",
 		type: "interaction",
-		title: "Постройте Печь духов и взаимодействуйте с ней",
+		title: "{ftbquests.ec.title.30}",
 		icon: "evilcraft:dark_blood_brick",
 		match_type: "block_id",
 		match: "evilcraft:spirit_furnace"

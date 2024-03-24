@@ -1,8 +1,8 @@
 {
-	title: "Создайте Пробуждённый продвинутый верстак",
+	title: "{ftbquests.ec.title.15}",
 	x: -6.0d,
 	y: -3.0d,
-	description: "Больше места - лучше жизнь!",
+	description: "{ftbquests.ec.sub.15}",
 	dependencies: [
 		"462e67a2"
 	],

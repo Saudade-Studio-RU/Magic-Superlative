@@ -1,8 +1,8 @@
 {
-	title: "Лучшие Металлы",
+	title: "{ftbquests.thaumcraft.title.26}",
 	x: -1.5d,
 	y: -4.0d,
-	description: "Они вам понадобятся ",
+	description: "{ftbquests.thaumcraft.sub.26}",
 	dependencies: [
 		"69f29029"
 	],

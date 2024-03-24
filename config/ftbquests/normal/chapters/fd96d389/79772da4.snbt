@@ -1,8 +1,8 @@
 {
-	title: "Добудьте Горный кристалл",
+	title: "{ftbquests.sorcery.title.23}",
 	x: 8.5d,
 	y: -0.5d,
-	description: "Резонирующий жезл покажет их путь ночью",
+	description: "{ftbquests.sorcery.sub.23}",
 	dependencies: [
 		"2d1216ec"
 	],

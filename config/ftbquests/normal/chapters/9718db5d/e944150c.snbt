@@ -1,8 +1,8 @@
 {
-	title: "Создайте Демонический кристаллизатор",
+	title: "{ftbquests.bm.title.44}",
 	x: -15.5d,
 	y: 2.5d,
-	description: "Вывод кристаллов из воздуха",
+	description: "{ftbquests.bm.sub.44}",
 	dependencies: [
 		"3f1f8a74"
 	],

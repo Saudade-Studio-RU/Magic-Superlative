@@ -1,9 +1,9 @@
 {
-	title: "Линия продажи вещей из Botania",
+	title: "{ftbquests.shop.title.7}",
 	x: -3.0d,
 	y: 0.0d,
 	dependencies: [
-		"3b3b668f"
+		"8216a061"
 	],
 	tasks: [{
 		uid: "46288de7",

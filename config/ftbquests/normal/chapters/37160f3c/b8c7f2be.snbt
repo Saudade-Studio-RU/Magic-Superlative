@@ -1,8 +1,8 @@
 {
-	title: "Создайте Кирку мщения",
+	title: "{ftbquests.ec.title.29}",
 	x: 5.0d,
 	y: 4.5d,
-	description: "Удача за боль",
+	description: "{ftbquests.ec.sub.29}",
 	dependencies: [
 		"bb3d0cb3"
 	],

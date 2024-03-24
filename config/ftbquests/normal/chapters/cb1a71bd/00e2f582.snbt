@@ -1,8 +1,8 @@
 {
-	title: "Начните изучение Абиссалкрафта",
+	title: "{ftbquests.superlative.title.2}",
 	x: 0.0d,
 	y: -3.0d,
-	description: "Начните изучать мифических существ Лавкрафта и их богов",
+	description: "{ftbquests.superlative.sub.2}",
 	dependencies: [
 		"504c27b7"
 	],
