@@ -2,7 +2,7 @@
 	title: "{ftbquests.superlative.title.6}",
 	x: -2.0d,
 	y: -3.0d,
-	description: "[ftbquests.superlative.sub.6]",
+	description: "{ftbquests.superlative.sub.6}",
 	dependencies: [
 		"504c27b7"
 	],

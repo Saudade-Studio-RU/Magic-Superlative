@@ -6,6 +6,7 @@
 		"1b89de90",
 		"da771e0d"
 	],
+	hide: true,
 	size: 0.8d,
 	tasks: [{
 		uid: "6a623486",

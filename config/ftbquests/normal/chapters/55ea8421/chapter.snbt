@@ -10,7 +10,7 @@
 		}
 	},
 	description: [
-		"Отдохните от исследований и займитесь увлекательными испытаниями"
+		"{ftbquests.various.sub.1}"
 	],
 	always_invisible: false,
 	group: 0,

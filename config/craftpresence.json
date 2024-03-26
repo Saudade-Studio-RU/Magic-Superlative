@@ -4,12 +4,12 @@
   "_schemaVersion": 6,
   "_lastMCVersionId": 340,
   "generalSettings": {
-    "detectATLauncherInstance": false,
-    "detectCurseManifest": false,
-    "detectMultiMCManifest": false,
-    "detectMCUpdaterInstance": false,
-    "detectTechnicPack": false,
-    "detectModrinthPack": false,
+    "detectATLauncherInstance": true,
+    "detectCurseManifest": true,
+    "detectMultiMCManifest": true,
+    "detectMCUpdaterInstance": true,
+    "detectTechnicPack": true,
+    "detectModrinthPack": true,
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
@@ -25,7 +25,7 @@
     "fallbackBiomeIcon": "msl",
     "biomeData": {
       "default": {
-        "textOverride": "Играет в {biome.name}"
+        "textOverride": "Play in {biome.name}"
       }
     }
   },
@@ -33,32 +33,50 @@
     "fallbackDimensionIcon": "msl",
     "dimensionData": {
       "default": {
-        "textOverride": "Находится в {dimension.name}"
+        "textOverride": "Located in {dimension.name}"
       }
     }
   },
   "serverSettings": {
     "fallbackServerIcon": "msl",
-    "fallbackServerName": "Magic Superlative Сервер",
+    "fallbackServerName": "Magic Superlative Server",
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
       "default": {
-        "textOverride": "Играет на {server.motd.raw}"
+        "textOverride": "Play on {server.motd.raw}"
       }
     }
   },
   "statusMessages": {
     "mainMenuData": {
-      "textOverride": "{player.name} В Главном меню"
+      "textOverride": "{player.name} In Main Menu"
     },
     "loadingData": {
-      "textOverride": "Загрузка..."
+      "textOverride": "Magic Loading..."
     },
     "lanData": {
-      "textOverride": "{player.name} Играет на локальном сервере"
+      "textOverride": "{player.name} Play on local server"
     },
     "singleplayerData": {
-      "textOverride": "Изучает в одиночку"
+      "textOverride": "{player.name} Exlporing alone",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
     }
   },
   "advancedSettings": {
@@ -146,7 +164,7 @@
         "alpha": 208
       }
     },
-    "languageId": "ru_ru",
+    "languageId": "en_us",
     "stripTranslationColors": false,
     "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
